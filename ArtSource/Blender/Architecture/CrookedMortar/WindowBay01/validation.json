@@ -1,0 +1,779 @@
+{
+  "asset": "CM_WindowBay01",
+  "units": "metres",
+  "wall_dimensions": [
+    3,
+    0.28,
+    3.6
+  ],
+  "opening": {
+    "width": 1.6,
+    "sill": 1.1,
+    "spring": 1.75,
+    "apex": 2.4
+  },
+  "fit": {
+    "existing_module_origin_unity": [
+      -4.5,
+      3.6,
+      -6
+    ],
+    "placement_yaw_degrees": 180,
+    "status": "measured reference only; not installed"
+  },
+  "parts": [
+    {
+      "name": "01_Plaster_Wall_3m_ThroughOpening",
+      "vertices": 234,
+      "triangles": 468,
+      "nonmanifold_edges": 0,
+      "signed_volume": 2.3121787570597525,
+      "degenerate_faces": 0,
+      "uv_loops": 882
+    },
+    {
+      "name": "02_Window_CurvedArch_Frame",
+      "vertices": 332,
+      "triangles": 660,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.045452754009251514,
+      "degenerate_faces": 0,
+      "uv_loops": 1320
+    },
+    {
+      "name": "02_Window_Jamb_-1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.010948807205862153,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "02_Window_Jamb_1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.01094880718656912,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "02_Window_Deep_Projecting_Sill",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.1292657718304246,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "02_Window_Centre_Mullion",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.004975143919464634,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "02_Window_Spring_Transom",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005906562915976166,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "02_Window_Fan_Tracery_-1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.001620671326605685,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "02_Window_Fan_Tracery_1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0016206718003237573,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "03_Shutter_L_Plank_00",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.016771726353035355,
+      "degenerate_faces": 0,
+      "uv_loops": 326
+    },
+    {
+      "name": "03_Shutter_L_Plank_01",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.015705839872521138,
+      "degenerate_faces": 0,
+      "uv_loops": 326
+    },
+    {
+      "name": "03_Shutter_L_Plank_02",
+      "vertices": 78,
+      "triangles": 152,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.012953921788371436,
+      "degenerate_faces": 0,
+      "uv_loops": 294
+    },
+    {
+      "name": "03_Shutter_CrossRail",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0027999265982338833,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_HingeStrap",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0003707652135308599,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_CrossRail.001",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0027999265982339354,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_HingeStrap.001",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0003707652135308434,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_R_Plank_00",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.016771725583323738,
+      "degenerate_faces": 0,
+      "uv_loops": 326
+    },
+    {
+      "name": "03_Shutter_R_Plank_01",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.01570583988071289,
+      "degenerate_faces": 0,
+      "uv_loops": 326
+    },
+    {
+      "name": "03_Shutter_R_Plank_02",
+      "vertices": 78,
+      "triangles": 152,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.012953921765651086,
+      "degenerate_faces": 0,
+      "uv_loops": 294
+    },
+    {
+      "name": "03_Shutter_CrossRail.002",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0027999266002678843,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_HingeStrap.002",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.000370765213530858,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_CrossRail.003",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.002799926600267848,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "03_Shutter_HingeStrap.003",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.00037076521353085235,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "04_Left_Structural_Post",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.1404166933884938,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "04_Upper_Tie_Beam",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.14753609754670127,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "04_Right_Edge_Post",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.10189817567133516,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "04_Lower_Storey_Rail",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.11743189353923549,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "04_Diagonal_Knee_Brace",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.019955675120859908,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "04_Joinery_Wooden_Peg",
+      "vertices": 112,
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "signed_volume": 3.8042625860080815e-05,
+      "degenerate_faces": 0,
+      "uv_loops": 432
+    },
+    {
+      "name": "04_Joinery_Wooden_Peg.001",
+      "vertices": 112,
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "signed_volume": 3.8042625860080815e-05,
+      "degenerate_faces": 0,
+      "uv_loops": 432
+    },
+    {
+      "name": "04_Joinery_Wooden_Peg.002",
+      "vertices": 112,
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "signed_volume": 3.8042625860080815e-05,
+      "degenerate_faces": 0,
+      "uv_loops": 432
+    },
+    {
+      "name": "04_Joinery_Wooden_Peg.003",
+      "vertices": 112,
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "signed_volume": 3.8042625860080815e-05,
+      "degenerate_faces": 0,
+      "uv_loops": 432
+    },
+    {
+      "name": "05_Planter_Front",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.029061368602360547,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_Back",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.02916624819771272,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_Base",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.03253640529254201,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_End_-1",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.007831315771045969,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_End_1",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.007831315771045969,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_Recessed_Soil",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.013528241903091025,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "05_Planter_Support_-1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0034151619835083814,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "05_Planter_Support_1",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0034151619832283086,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Eave_Solid_Roof_Boarding",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.18843288376077538,
+      "degenerate_faces": 0,
+      "uv_loops": 216
+    },
+    {
+      "name": "06_Eave_Rafter",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.015889764153733367,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Eave_Rafter.001",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.015889765406665826,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Eave_Rafter.002",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.015889767683950364,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Eave_Rafter.003",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.015889764822196246,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Eave_Fascia",
+      "vertices": 80,
+      "triangles": 156,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.05853554990851571,
+      "degenerate_faces": 0,
+      "uv_loops": 312
+    },
+    {
+      "name": "06_Slate_Course00_Tile00",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0036594193704670847,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile01",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006286490099182,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile02",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006296078806205,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile03",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062807910079,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile04",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006282815101265,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile05",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006285368819724,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile06",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006278165566452,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile07",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006281302894405,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course00_Tile08",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006286513552727,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile00",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062809327126034,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile01",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006283972428277,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile02",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006281069780072,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile03",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006294960931079,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile04",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006295408217454,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile05",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006281929224643,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile06",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006285239823938,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile07",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062840581932555,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course01_Tile08",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.002950544603566585,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile00",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0036594213598023922,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile01",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.00500628664180458,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile02",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006280021714771,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile03",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006285418902412,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile04",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006284756744583,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile05",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006279653672813,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile06",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006268791949764,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile07",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006286590925446,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course02_Tile08",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006282429503295,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile00",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006283694486441,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile01",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062746672933645,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile02",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006283307205539,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile03",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062810547431,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile04",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.00500628473818987,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile05",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0050062807840541845,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile06",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006284187716231,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile07",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.005006273831218183,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    },
+    {
+      "name": "06_Slate_Course03_Tile08",
+      "vertices": 84,
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "signed_volume": 0.0029505436453377415,
+      "degenerate_faces": 0,
+      "uv_loops": 324
+    }
+  ],
+  "bounds": {
+    "min": [
+      -1.6796917915344238,
+      -0.3278203308582306,
+      0.0
+    ],
+    "max": [
+      1.6797966957092285,
+      0.8578514456748962,
+      3.6636266708374023
+    ]
+  },
+  "triangles": 13424,
+  "mesh_count": 82,
+  "opening_ray_tests": "PASS"
+}

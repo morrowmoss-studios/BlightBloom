@@ -1,0 +1,1 @@
+PASS: imported geometry/UVs/normals/triangles/transforms identical; meshes=82 triangles=13424; neutral lighting and cameras unchanged; compilationFailed=False

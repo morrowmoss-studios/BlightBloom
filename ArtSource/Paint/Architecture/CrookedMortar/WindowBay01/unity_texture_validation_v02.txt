@@ -1,0 +1,1 @@
+PASS: only left/right structural posts reshaped; imported UV coordinate sets preserved; post normal splitting adds two imported vertices per post; valid unit normals; 82 meshes, 13424 triangles; unchanged overall bounds, scale, orientation, review lighting and cameras; colliders=0; compilationFailed=False
