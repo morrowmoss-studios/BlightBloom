@@ -1,0 +1,32 @@
+{
+  "geometry_and_uv0_unchanged": true,
+  "meshes": 17,
+  "source_painting": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "atlas": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Textures/CM_Redesign01_Painted_BaseColor_v01.png",
+  "atlas_size": [
+    4096,
+    4096
+  ],
+  "color_space": "sRGB",
+  "bake": "emission/albedo only; no lighting, AO, blur, or noise",
+  "padding_pixels": 16,
+  "geometry_hashes": {
+    "Floor_Shop": "a403de0f826502e25b9b2a3167ead9d2d35ef4ee8a18abf3a0ee373ff3551b4f",
+    "Floor_Residential": "23f6b654d9c557e8b19047220a1b918037083a65e78bbbad3395cfa0370d508e",
+    "Floor_WorkAnnex": "0405b9a5d6d37f11cadc8c39178beef148fc6b2267ee2f47a58802e634640c85",
+    "Floor_Upper_Shop": "da9f03cbf31a30eca8ebe2c00f320e544f63e97949aa834d7eb2a602a97f117a",
+    "Floor_Upper_ResidentialWest": "61f0b7752d100644496ad491a38ff33ba9bb7c387647cb3af3b12addd80102a1",
+    "Floor_Upper_StairFoot": "f3c3b98d6c895ba73f7fe7016daf804382e5cdf40943a0e38a841a3e1a78c3cf",
+    "Floor_Upper_Landing": "ec5be5b94740bf0f35ee66fe088a2833259fae2e0e31a7c1676eda2730fb42b3",
+    "Shell": "5fa27bab2776b3b5df8a8f4cb37a7abfd06a14c747771b1efb0a49330acbdc82",
+    "Interior": "1badf307afdaa6364d2ce92dc573a72c0d0bf19f9836d683b6e77c2b82a25d05",
+    "Stairs_17_Risers": "36baae4a038fdfdc3c96691e38f121179a6f4f220b800f2321e2765fac860145",
+    "Stair_Guard": "d406c60254231e23fd8e0983130999b33b9d915fd23e3fd99b2eeb9ca17233e4",
+    "Stairwell": "6568dadf7ba9c96ba35dd93f770364c63bcc52162e8d26970d660312330b963a",
+    "Roof_Main_CrossGable": "b8b1524ccf61e7c98ff17a864faa72293ab6818885a02306c1e50bfc5384a623",
+    "Roof_Lower_WorkAnnex": "1cbb15709fbfd1e8ea7327c9ad5eb02ecebabd1dc966956c399b4fe22bef16ec",
+    "Chimney": "33683cfc969a35903c92524a4cd25df019a5661cc62d3969ef650c033cc4b337",
+    "Window": "1a9dfb3e91f30a82140ce5d467f917f3ceb7e0812c07a2506753503d239e6617",
+    "Frame": "292d17e91f670423de7ffd648c2a9470a0779f54bb5d5d1051b3b8980b29190c"
+  }
+}

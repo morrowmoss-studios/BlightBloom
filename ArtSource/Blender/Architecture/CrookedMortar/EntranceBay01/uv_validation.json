@@ -1,0 +1,9 @@
+{
+  "uv_bounds": "within 0..1",
+  "positive_area_triangle_overlaps": 0,
+  "triangles": 20040,
+  "uv_linear_scale_p05": 0.0591145232015699,
+  "uv_linear_scale_p50": 0.06469672212810705,
+  "uv_linear_scale_p95": 0.06799570614418225,
+  "note": "Unique shared atlas. Small bevel islands and projection distortion cause local texel-density variation; main surfaces averaged together."
+}

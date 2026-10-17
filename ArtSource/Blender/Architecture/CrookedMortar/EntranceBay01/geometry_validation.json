@@ -1,0 +1,799 @@
+{
+  "asset": "CM_EntranceBay01",
+  "authoring_axes": "+X right, +Y exterior, +Z up",
+  "wall": [
+    3.4,
+    0.32,
+    3.6
+  ],
+  "opening": {
+    "width": 1.8,
+    "spring": 1.7,
+    "apex": 2.65,
+    "threshold": 0.2
+  },
+  "door_leaf_pivot": [
+    -0.8899999856948853,
+    -0.029999999329447746,
+    0.20000000298023224
+  ],
+  "existing_gameplay_opening_width": 2.4,
+  "integration": "isolated art prototype only; narrower door requires deliberate future gameplay integration",
+  "parts": [
+    {
+      "name": "01_Shell_Plaster_With_Arched_Opening",
+      "triangles": 564,
+      "vertices": 282,
+      "signed_volume": 2.4210774190410924,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_-1_00",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.02213282481217621,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_-1_01",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132824132073584,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_-1_02",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132826404189017,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_-1_03",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132824234150972,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_1_00",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132825504845327,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_1_01",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132824626127028,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_1_02",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132826898243377,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Jamb_1_03",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.022132825118669187,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_00",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01804765959777691,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_01",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01781485030985291,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_02",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01742315185595902,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_03",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.016996950322274076,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_04",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.016671544580432053,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_05",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.016550221494823745,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_06",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.016671544193958034,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_07",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.016996950359260334,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_08",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.017423151928990504,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_09",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01781485055148165,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02_Stone_Arch_Voussoir_10",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01804766015417133,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02B_Door_Curved_Timber_Stop",
+      "triangles": 852,
+      "vertices": 428,
+      "signed_volume": 0.024641510106298465,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02B_Door_Timber_Jamb_-1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01234052665920098,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "02B_Door_Timber_Jamb_1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.012340526396914601,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "03_Door_Leaf_Hinged",
+      "triangles": 2444,
+      "vertices": 1250,
+      "signed_volume": 0.5260396702517985,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "04_Frame_Post_-1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.11793796544831783,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "04_Canopy_Knee_-1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.015603263407984482,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "04_Frame_Post_1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.11793796921284722,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "04_Canopy_Knee_1",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.015603263577100446,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "04_Frame_Header",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.13545536626061883,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "05_Threshold_Stone",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.3913223105749813,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "05_Lower_Step_Stone",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.12111154656084157,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Solid_Boarding",
+      "triangles": 108,
+      "vertices": 56,
+      "signed_volume": 0.23872714815064633,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Rafter",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.0175088668323224,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Rafter.001",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.017508863397451366,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Rafter.002",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.017508861826498287,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Rafter.003",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.01750886683371627,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Canopy_Fascia",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.07041502500307362,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile00",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.004379278499713424,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile01",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014598889165611,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile02",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014586559808881,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile03",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014600830433924,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile04",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014586743542937,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile05",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014573266612227,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile06",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014601118679185,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile07",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014600840966887,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile08",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014581837871179,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course00_Tile09",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.004661629654671318,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile00",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014598896131622,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile01",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014593389117722,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile02",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014579016985654,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile03",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.00501459492317885,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile04",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014595067928063,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile05",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.00501459568717072,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile06",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014594635650321,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile07",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014585997489024,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile08",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014584487719437,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course01_Tile09",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0019791803482949663,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile00",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.004379273227921671,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile01",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014578003882081,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile02",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014580976111932,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile03",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145842717676525,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile04",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014580487038706,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile05",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014583033659148,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile06",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014595856521142,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile07",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014583156223634,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile08",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014582379226862,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course02_Tile09",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.004661638081069036,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile00",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145809508135575,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile01",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014593858983979,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile02",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.00501457981781625,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile03",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014595257215981,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile04",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014581197278489,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile05",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145958374382404,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile06",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145955362263794,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile07",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014595501089375,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile08",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014600580817707,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course03_Tile09",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0019791856031723537,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile00",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0043792791328475245,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile01",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014579956555576,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile02",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014599923828661,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile03",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014580535606633,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile04",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014602625914133,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile05",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014594472317779,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile06",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.005014595224790391,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile07",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145900881883865,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile08",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.0050145790647204425,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "06_Slate_Course04_Tile09",
+      "triangles": 164,
+      "vertices": 84,
+      "signed_volume": 0.004661627579658156,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Timber_Outrigger",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.0042201811563322925,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Iron_Hanger",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 4.205730935746179e-05,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Iron_Hanger.001",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 4.205735098664916e-05,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Sage_Board",
+      "triangles": 220,
+      "vertices": 112,
+      "signed_volume": 0.021361387248302874,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Mortar_Emblem",
+      "triangles": 128,
+      "vertices": 66,
+      "signed_volume": 0.0005560086194875673,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "07_Sign_Pestle_Emblem",
+      "triangles": 156,
+      "vertices": 80,
+      "signed_volume": 0.00020006067257050402,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "08_Drying_Herb_Bundle_00",
+      "triangles": 1116,
+      "vertices": 576,
+      "signed_volume": 0.000502261106806631,
+      "nonmanifold": 0,
+      "degenerate": 0
+    },
+    {
+      "name": "08_Drying_Herb_Bundle_01",
+      "triangles": 1116,
+      "vertices": 576,
+      "signed_volume": 0.0005022611898559277,
+      "nonmanifold": 0,
+      "degenerate": 0
+    }
+  ],
+  "triangles": 20040,
+  "mesh_count": 95,
+  "bounds": {
+    "min": [
+      -1.8597276210784912,
+      -0.3199999928474426,
+      0.0
+    ],
+    "max": [
+      1.8598287105560303,
+      1.0749086141586304,
+      3.7573792934417725
+    ]
+  },
+  "shell_opening_rays": "PASS"
+}

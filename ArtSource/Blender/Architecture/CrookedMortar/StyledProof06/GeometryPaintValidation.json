@@ -1,0 +1,10 @@
+{
+  "base": "CM_Refinement05_B",
+  "original_vertices_faces_transforms_unchanged": true,
+  "original_meshes": 35,
+  "presentation_meshes": 6,
+  "slate_tiles": 842,
+  "paint_source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "bake": "Albedo only; approved brushwork, no baked lighting/AO",
+  "atlas_size": 4096
+}

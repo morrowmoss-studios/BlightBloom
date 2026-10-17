@@ -1,0 +1,40 @@
+var path="Assets/Scenes/CM_CrookedMortar_MassingStudies04.unity";
+if(System.IO.File.Exists(path))throw new System.Exception("Redesign scene already exists; refusing overwrite");
+if(UnityEditor.EditorApplication.isPlayingOrWillChangePlaymode)throw new System.Exception("Require Edit mode");
+var previous=UnityEngine.SceneManagement.SceneManager.GetActiveScene();if(previous.isDirty)throw new System.Exception("Current scene is dirty; preserving it");
+var dir="Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04";
+foreach(var id in new[]{"A","B","C"})UnityEditor.AssetDatabase.ImportAsset(dir+"/Models/CM_Massing04_"+id+".fbx",UnityEditor.ImportAssetOptions.ForceSynchronousImport);
+System.IO.Directory.CreateDirectory(dir+"/Materials");UnityEditor.AssetDatabase.Refresh();
+var materials=new System.Collections.Generic.Dictionary<string,UnityEngine.Material>();
+foreach(var key in new[]{"Plaster","Timber","Roof","Stone","Glass"}){var m=new UnityEngine.Material(UnityEngine.Shader.Find("Universal Render Pipeline/Lit"));m.name="CM_Massing04_"+key;float v=key=="Plaster"?.62f:key=="Timber"?.29f:key=="Roof"?.35f:key=="Stone"?.48f:.12f;m.SetColor("_BaseColor",new UnityEngine.Color(v,v,v));m.SetFloat("_Smoothness",0);m.SetFloat("_Metallic",0);m.SetFloat("_SpecularHighlights",0);m.SetFloat("_EnvironmentReflections",0);UnityEditor.AssetDatabase.CreateAsset(m,dir+"/Materials/"+m.name+".mat");materials[key]=m;}
+UnityEngine.Material Flat(string name,UnityEngine.Color col){var m=new UnityEngine.Material(UnityEngine.Shader.Find("Universal Render Pipeline/Lit"));m.name=name;m.SetColor("_BaseColor",col);m.SetFloat("_Smoothness",0);UnityEditor.AssetDatabase.CreateAsset(m,dir+"/Materials/"+name+".mat");return m;}
+var groundMat=Flat("CM_Massing04_Site",new UnityEngine.Color(.38f,.38f,.38f));var proxyMat=Flat("CM_Massing04_ProxyWood",new UnityEngine.Color(.29f,.29f,.29f));var pathMat=Flat("CM_Massing04_Path",new UnityEngine.Color(.48f,.48f,.48f));
+var scene=UnityEditor.SceneManagement.EditorSceneManager.NewScene(UnityEditor.SceneManagement.NewSceneSetup.EmptyScene,UnityEditor.SceneManagement.NewSceneMode.Additive);UnityEngine.SceneManagement.SceneManager.SetActiveScene(scene);
+UnityEngine.Transform Group(string name,UnityEngine.Transform parent=null){var g=new UnityEngine.GameObject(name);if(parent!=null)g.transform.SetParent(parent,false);return g.transform;}
+UnityEngine.GameObject Box(string name,UnityEngine.Transform parent,UnityEngine.Vector3 pos,UnityEngine.Vector3 size,UnityEngine.Material mat){var g=UnityEngine.GameObject.CreatePrimitive(UnityEngine.PrimitiveType.Cube);g.name=name;g.transform.SetParent(parent,false);g.transform.position=pos;g.transform.localScale=size;g.GetComponent<UnityEngine.Renderer>().sharedMaterial=mat;return g;}
+var offsets=new[]{-22f,0f,22f};var ids=new[]{"A","B","C"};var titles=new[]{"Layered Merchant House","Tucked Corner Apothecary","Crooked Shop Cluster"};
+for(int i=0;i<3;i++){
+var architecture=Group("Study "+ids[i]+" - "+titles[i]);architecture.position=new UnityEngine.Vector3(offsets[i],0,0);
+var source=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.GameObject>(dir+"/Models/CM_Massing04_"+ids[i]+".fbx");if(source==null)throw new System.Exception("Missing exported study "+ids[i]);var body=(UnityEngine.GameObject)UnityEditor.PrefabUtility.InstantiatePrefab(source,scene);body.name="CM_Massing04_"+ids[i];body.transform.SetParent(architecture,false);
+foreach(var r in body.GetComponentsInChildren<UnityEngine.Renderer>())r.sharedMaterials=r.sharedMaterials.Select(m=>materials[materials.Keys.First(k=>m.name.Contains(k))]).ToArray();
+foreach(var mf in body.GetComponentsInChildren<UnityEngine.MeshFilter>()){var collider=mf.gameObject.AddComponent<UnityEngine.MeshCollider>();collider.sharedMesh=mf.sharedMesh;}
+var spawnMarker=Group("Spawn "+ids[i]+" - front approach",architecture);spawnMarker.localPosition=new UnityEngine.Vector3(.85f,.05f,-7.5f);
+var rooms=Group("Circulation and room intentions",architecture);
+foreach(var name in new[]{"Ground - front shop and recessed entrance","Ground - rear treatment and preparation","Ground - side workroom and garden access","Upper - bedroom and living","Upper - medical study","Straight stair - 18 rises, actual upper-floor void"})Group(name,rooms);
+}
+var site=Group("Shared plain review site");Box("Review ground",site,new UnityEngine.Vector3(1,-.15f,0),new UnityEngine.Vector3(85,.3f,40),groundMat);
+// Existing traversal code, configured only on new scene instances.
+var traversal=Group("05 Existing traversal setup");var spawn=Group("Front approach spawn",traversal);spawn.position=new UnityEngine.Vector3(-21.15f,.05f,-7.5f);
+var player=new UnityEngine.GameObject("Study04 Player");player.transform.SetParent(traversal,false);player.transform.position=spawn.position;
+var cc=player.AddComponent<UnityEngine.CharacterController>();cc.height=2;cc.radius=.4f;cc.center=UnityEngine.Vector3.up;cc.skinWidth=.04f;cc.stepOffset=.3f;cc.slopeLimit=45;cc.minMoveDistance=0;
+var actions=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.InputSystem.InputActionAsset>("Assets/InputSystem_Actions.inputactions");var input=player.AddComponent<BlightBloom.Traversal.TraversalInput>();input.Configure(actions);var motor=player.AddComponent<BlightBloom.Traversal.ThirdPersonMotor>();
+var visual=UnityEngine.GameObject.CreatePrimitive(UnityEngine.PrimitiveType.Capsule);visual.name="Player capsule visual";visual.transform.SetParent(player.transform,false);visual.transform.localPosition=UnityEngine.Vector3.up;UnityEngine.Object.DestroyImmediate(visual.GetComponent<UnityEngine.Collider>());visual.GetComponent<UnityEngine.Renderer>().sharedMaterial=proxyMat;
+var cameraGo=new UnityEngine.GameObject("Study04 Traversal Camera");cameraGo.transform.SetParent(traversal,false);cameraGo.tag="MainCamera";var cam=cameraGo.AddComponent<UnityEngine.Camera>();cam.fieldOfView=65;cam.nearClipPlane=.05f;cam.farClipPlane=150;cameraGo.AddComponent<UnityEngine.Rendering.Universal.UniversalAdditionalCameraData>();cameraGo.AddComponent<UnityEngine.AudioListener>();var orbit=cameraGo.AddComponent<BlightBloom.Traversal.ThirdPersonOrbitCamera>();orbit.Configure(player.transform,input);orbit.ConfigureObstruction(true,3);motor.Configure(input,cameraGo.transform);cameraGo.transform.SetPositionAndRotation(spawn.position+new UnityEngine.Vector3(0,2.5f,-3),UnityEngine.Quaternion.Euler(20,0,0));
+var lightGo=new UnityEngine.GameObject("Soft daylight");var light=lightGo.AddComponent<UnityEngine.Light>();light.type=UnityEngine.LightType.Directional;light.intensity=1.5f;light.shadows=UnityEngine.LightShadows.Soft;lightGo.transform.rotation=UnityEngine.Quaternion.Euler(38,-35,0);UnityEngine.RenderSettings.ambientMode=UnityEngine.Rendering.AmbientMode.Trilight;UnityEngine.RenderSettings.ambientSkyColor=new UnityEngine.Color(.61f,.64f,.68f);UnityEngine.RenderSettings.ambientEquatorColor=new UnityEngine.Color(.48f,.49f,.51f);UnityEngine.RenderSettings.ambientGroundColor=new UnityEngine.Color(.28f,.27f,.25f);
+var views=Group("Review cameras - disabled for Play");
+for(int i=0;i<3;i++)foreach(var view in new[]{"Front","ThreeQuarter"}){
+var g=new UnityEngine.GameObject("Study04_"+ids[i]+"_"+view);g.transform.SetParent(views,false);var c=g.AddComponent<UnityEngine.Camera>();c.enabled=false;c.clearFlags=UnityEngine.CameraClearFlags.SolidColor;c.backgroundColor=new UnityEngine.Color(.32f,.34f,.36f);c.fieldOfView=32;c.nearClipPlane=.1f;c.farClipPlane=120;
+g.transform.position=new UnityEngine.Vector3(offsets[i],0,0)+(view=="Front"?new UnityEngine.Vector3(.5f,5.6f,-27):new UnityEngine.Vector3(19,7.1f,-24));g.transform.LookAt(new UnityEngine.Vector3(offsets[i]+.5f,5.5f,.3f));
+}
+UnityEditor.SceneManagement.EditorSceneManager.SaveScene(scene,path);UnityEditor.AssetDatabase.SaveAssets();UnityEditor.SceneManagement.EditorSceneManager.CloseScene(previous,true);UnityEditor.Selection.activeGameObject=UnityEngine.GameObject.Find("Study A - Layered Merchant House");
+return "Created three independent Blender-authored studies in one new review scene; existing scene preserved and traversal scripts reused unchanged.";

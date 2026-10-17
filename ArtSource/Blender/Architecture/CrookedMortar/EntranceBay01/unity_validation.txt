@@ -1,0 +1,1 @@
+PASS: meshes=95 triangles=20040 imported vertices=19840 UV/normal/material issues=0 min=(-1.85973, 0.00000, -0.32000) max=(1.85983, 3.75738, 1.07491) rootScale=(1.00, 1.00, 1.00) rootRotation=(0.00, 0.00, 0.00) hingePivot=(-0.89, 0.20, -0.03) colliders=0 compilationFailed=False

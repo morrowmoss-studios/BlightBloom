@@ -1,0 +1,1 @@
+PASS: 17 authored mesh groups, 3732 triangles, UVs and unit normals valid, material references valid, static collision meshes assigned, stair bounds/scale/orientation correct, compilationFailed=False; sequential Play-mode route 52/52 passed.

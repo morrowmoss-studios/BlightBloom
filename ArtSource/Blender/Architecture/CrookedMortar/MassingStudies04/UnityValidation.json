@@ -1,0 +1,35 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_MassingStudies04.unity",
+  "compiling": false,
+  "options": [
+    {
+      "id": "A",
+      "rootScale": "(1.00, 1.00, 1.00)",
+      "meshParts": 34,
+      "triangles": 4320,
+      "uvs": true,
+      "normals": true,
+      "colliders": true
+    },
+    {
+      "id": "B",
+      "rootScale": "(1.00, 1.00, 1.00)",
+      "meshParts": 35,
+      "triangles": 4252,
+      "uvs": true,
+      "normals": true,
+      "colliders": true
+    },
+    {
+      "id": "C",
+      "rootScale": "(1.00, 1.00, 1.00)",
+      "meshParts": 39,
+      "triangles": 4064,
+      "uvs": true,
+      "normals": true,
+      "colliders": true
+    }
+  ],
+  "missingScripts": 0,
+  "materialErrors": 0
+}

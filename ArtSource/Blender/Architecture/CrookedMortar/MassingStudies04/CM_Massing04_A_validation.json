@@ -1,0 +1,240 @@
+{
+  "configuration": {
+    "id": "A",
+    "title": "Layered Merchant House",
+    "half": 2.4,
+    "heroL": -2.6,
+    "heroR": 2.45,
+    "peakX": -0.65,
+    "peak": 10.6,
+    "front": -3.0,
+    "entry": -3.0,
+    "upper": -3.65,
+    "neckRidge": 9.15,
+    "wingStart": 1.8,
+    "wingEnd": 5.6,
+    "wingR": 4.5,
+    "wingTop": 5.95,
+    "wingPeak": 8.1,
+    "wingUpper": true,
+    "wingAxis": "Z",
+    "porch": "lean",
+    "leftAnnex": false
+  },
+  "floor_levels": [
+    0.2,
+    3.44
+  ],
+  "stairs": {
+    "risers": 18,
+    "rise": 0.18,
+    "tread": 0.28,
+    "width": 1.25
+  },
+  "parts": [
+    {
+      "name": "Floor_FrontShop",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 3.6480002107620266
+    },
+    {
+      "name": "Floor_RearStem",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 4.03199978685379
+    },
+    {
+      "name": "Floor_WorkWing",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 1.8240000767707822
+    },
+    {
+      "name": "Floor_UpperHero",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 2.7775007563829637
+    },
+    {
+      "name": "Floor_UpperRightFront",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 1.0030002483129519
+    },
+    {
+      "name": "Floor_UpperRightRear",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 2.0280003037452325
+    },
+    {
+      "name": "Floor_UpperLanding",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.9744000598907064
+    },
+    {
+      "name": "Floor_UpperStudy",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 1.8240004844665658
+    },
+    {
+      "name": "Shell",
+      "triangles": 1068,
+      "nonmanifold": 0,
+      "volume": 42.68540578174303
+    },
+    {
+      "name": "Window",
+      "triangles": 1844,
+      "nonmanifold": 0,
+      "volume": 1.2483970752602251
+    },
+    {
+      "name": "Entry_Jamb",
+      "triangles": 24,
+      "nonmanifold": 0,
+      "volume": 0.05241594935882124
+    },
+    {
+      "name": "Entry_Arch",
+      "triangles": 192,
+      "nonmanifold": 0,
+      "volume": 0.03939984571450298
+    },
+    {
+      "name": "Floor_DisplayBay",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.9019999142587185
+    },
+    {
+      "name": "Interior",
+      "triangles": 96,
+      "nonmanifold": 0,
+      "volume": 4.687869603768582
+    },
+    {
+      "name": "Stairs_StraightFlight",
+      "triangles": 216,
+      "nonmanifold": 0,
+      "volume": 10.772999786464851
+    },
+    {
+      "name": "Stairs_UpperGuard",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 1.3431001833856135
+    },
+    {
+      "name": "Roof_Hero",
+      "triangles": 112,
+      "nonmanifold": 0,
+      "volume": 9.406205260877693
+    },
+    {
+      "name": "Roof_Hero_GableFront",
+      "triangles": 116,
+      "nonmanifold": 0,
+      "volume": 2.265634990328257
+    },
+    {
+      "name": "Roof_Hero_GableRear",
+      "triangles": 24,
+      "nonmanifold": 0,
+      "volume": 2.7020907581083717
+    },
+    {
+      "name": "Roof_Hero_Bargeboard",
+      "triangles": 72,
+      "nonmanifold": 0,
+      "volume": 0.18571900619772894
+    },
+    {
+      "name": "Roof_SteppedRear",
+      "triangles": 36,
+      "nonmanifold": 0,
+      "volume": 4.34400026464454
+    },
+    {
+      "name": "Roof_SteppedRear_GableFront",
+      "triangles": 16,
+      "nonmanifold": 0,
+      "volume": 1.366627259278005
+    },
+    {
+      "name": "Roof_SteppedRear_GableRear",
+      "triangles": 16,
+      "nonmanifold": 0,
+      "volume": 1.3666276471701004
+    },
+    {
+      "name": "Roof_SteppedRear_Bargeboard",
+      "triangles": 48,
+      "nonmanifold": 0,
+      "volume": 0.13387205866310384
+    },
+    {
+      "name": "Roof_SubordinateWing",
+      "triangles": 36,
+      "nonmanifold": 0,
+      "volume": 2.2171203137017375
+    },
+    {
+      "name": "Roof_SubordinateWing_GableFront",
+      "triangles": 16,
+      "nonmanifold": 0,
+      "volume": 0.5584531510415163
+    },
+    {
+      "name": "Roof_SubordinateWing_GableRear",
+      "triangles": 16,
+      "nonmanifold": 0,
+      "volume": 0.5584531510415156
+    },
+    {
+      "name": "Roof_SubordinateWing_Bargeboard",
+      "triangles": 48,
+      "nonmanifold": 0,
+      "volume": 0.08904894413556132
+    },
+    {
+      "name": "Floor_Porch",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 2.7285001961067303
+    },
+    {
+      "name": "Porch",
+      "triangles": 72,
+      "nonmanifold": 0,
+      "volume": 0.48754290958181973
+    },
+    {
+      "name": "Roof_FrontCatslide",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 2.4569974215032957
+    },
+    {
+      "name": "Roof_DisplayCatslide",
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.9916907239627661
+    },
+    {
+      "name": "Structure",
+      "triangles": 36,
+      "nonmanifold": 0,
+      "volume": 0.31442012821194826
+    },
+    {
+      "name": "Chimney",
+      "triangles": 60,
+      "nonmanifold": 0,
+      "volume": 7.062705264213925
+    }
+  ]
+}

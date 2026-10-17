@@ -1,0 +1,35 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_MassingRefinements05.unity",
+  "compiling": false,
+  "variants": [
+    {
+      "id": "A",
+      "parts": 35,
+      "triangles": 4316,
+      "uvs": true,
+      "normals": true,
+      "colliders": true,
+      "unitScale": true
+    },
+    {
+      "id": "B",
+      "parts": 35,
+      "triangles": 4084,
+      "uvs": true,
+      "normals": true,
+      "colliders": true,
+      "unitScale": true
+    },
+    {
+      "id": "C",
+      "parts": 38,
+      "triangles": 4214,
+      "uvs": true,
+      "normals": true,
+      "colliders": true,
+      "unitScale": true
+    }
+  ],
+  "missingScripts": 0,
+  "materialErrors": 0
+}

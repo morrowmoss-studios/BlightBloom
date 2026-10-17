@@ -1,0 +1,15 @@
+{
+  "repaired_object": "01_Shell_Plaster_With_Arched_Opening",
+  "detached_polygon": 207,
+  "face": {
+    "normal": [
+      -0.0,
+      -1.0,
+      0.0
+    ],
+    "area": 0.251768559217453,
+    "loop_count": 4
+  },
+  "mesh_geometry_modified": false,
+  "action": "independent planar UV island plus global average-scale/repack"
+}

@@ -1,0 +1,173 @@
+{
+  "asset": "CM_Redesign01",
+  "storeys": {
+    "ground": 0.2,
+    "upper": 3.5
+  },
+  "volumes": {
+    "shop_bedroom": [
+      -5.5,
+      -0.5,
+      -6,
+      3
+    ],
+    "residential_study": [
+      -0.5,
+      6.3,
+      -2.5,
+      5.8
+    ],
+    "preparation_storage_annex": [
+      2.6,
+      8,
+      5.8,
+      10.2
+    ]
+  },
+  "roof_ridges": [
+    9.7,
+    8.55,
+    4.85
+  ],
+  "stairs": {
+    "risers": 17,
+    "rise": 0.1941176470588235,
+    "tread": 0.31,
+    "width": 1.7,
+    "start_z": -0.9,
+    "top_z": 4.37
+  },
+  "parts": [
+    {
+      "name": "Floor_Shop",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 9.00000013411045
+    },
+    {
+      "name": "Floor_Residential",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 11.288000744223611
+    },
+    {
+      "name": "Floor_WorkAnnex",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 4.7519997427463405
+    },
+    {
+      "name": "Floor_Upper_Shop",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 9.000002145767212
+    },
+    {
+      "name": "Floor_Upper_ResidentialWest",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 7.96800239944469
+    },
+    {
+      "name": "Floor_Upper_StairFoot",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.5200001049041705
+    },
+    {
+      "name": "Floor_Upper_Landing",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.5720002584457687
+    },
+    {
+      "name": "Shell",
+      "vertices": 926,
+      "triangles": 1512,
+      "nonmanifold": 0,
+      "volume": 75.02467900140779
+    },
+    {
+      "name": "Interior",
+      "vertices": 256,
+      "triangles": 384,
+      "nonmanifold": 0,
+      "volume": 15.35100907915922
+    },
+    {
+      "name": "Stairs_17_Risers",
+      "vertices": 72,
+      "triangles": 140,
+      "nonmanifold": 0,
+      "volume": 15.651897554145055
+    },
+    {
+      "name": "Stair_Guard",
+      "vertices": 112,
+      "triangles": 216,
+      "nonmanifold": 0,
+      "volume": 1.1568148685304571
+    },
+    {
+      "name": "Stairwell",
+      "vertices": 8,
+      "triangles": 12,
+      "nonmanifold": 0,
+      "volume": 0.5279999752044662
+    },
+    {
+      "name": "Roof_Main_CrossGable",
+      "vertices": 32,
+      "triangles": 60,
+      "nonmanifold": 0,
+      "volume": 139.13494597806766
+    },
+    {
+      "name": "Roof_Lower_WorkAnnex",
+      "vertices": 10,
+      "triangles": 16,
+      "nonmanifold": 0,
+      "volume": 21.598717224750526
+    },
+    {
+      "name": "Chimney",
+      "vertices": 224,
+      "triangles": 432,
+      "nonmanifold": 0,
+      "volume": 7.210820098281159
+    },
+    {
+      "name": "Window",
+      "vertices": 432,
+      "triangles": 648,
+      "nonmanifold": 0,
+      "volume": 1.3376885719130198
+    },
+    {
+      "name": "Frame",
+      "vertices": 152,
+      "triangles": 228,
+      "nonmanifold": 0,
+      "volume": 2.539093653689641
+    }
+  ],
+  "triangles": 3732,
+  "mesh_count": 17,
+  "junction_refinements": [
+    "landing extended to z4.37",
+    "roof rear return clipped to supported footprint"
+  ],
+  "treatment_window": {
+    "centre_x": 0.9,
+    "sill_y": 1.4,
+    "height": 1.1,
+    "width": 1.0
+  }
+}

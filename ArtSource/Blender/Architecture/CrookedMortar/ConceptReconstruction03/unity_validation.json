@@ -1,0 +1,12 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_ConceptReconstruction03.unity",
+  "compiling": false,
+  "bodyScale": "(1.00, 1.00, 1.00)",
+  "parts": 25,
+  "triangles": 3128,
+  "allHaveUVs": true,
+  "allHaveNormals": true,
+  "allHaveColliders": true,
+  "missingScripts": 0,
+  "materialErrors": 0
+}

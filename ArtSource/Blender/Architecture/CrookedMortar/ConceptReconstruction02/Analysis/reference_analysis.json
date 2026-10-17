@@ -1,0 +1,17 @@
+{
+  "reference": "/Users/zak/Downloads/Storybook Apothecary by the River.png",
+  "visible_hierarchy": [
+    "A dominant steep longitudinal roof with front gable",
+    "B cross-dormer on visible right slope",
+    "C lower parallel receding gabled wing",
+    "P substantial full-width front lean-to porch",
+    "D low shop-side projection"
+  ],
+  "inferred": [
+    "rear footprint",
+    "dimensions",
+    "internal circulation",
+    "exact side projection depth"
+  ],
+  "key_departure_from_redesign01": "No full-width transverse residential cross roof; one dominant roof with a dormer and a smaller parallel wing."
+}
