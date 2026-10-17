@@ -1,0 +1,51 @@
+[
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_ArchedDoorRebate.asset",
+    "vertexCount": 228,
+    "triangles": 456,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_ArchedGlazing.asset",
+    "vertexCount": 46,
+    "triangles": 88,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_Casement_L_ConsistentGlazing.asset",
+    "vertexCount": 752,
+    "triangles": 876,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_Casement_R_ConsistentGlazing.asset",
+    "vertexCount": 752,
+    "triangles": 876,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedApprovedDoorLeaf.asset",
+    "vertexCount": 2524,
+    "triangles": 2444,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedApprovedDoorStops.asset",
+    "vertexCount": 1072,
+    "triangles": 1164,
+    "uv": true,
+    "normals": true
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedEntranceStoneSurround.asset",
+    "vertexCount": 2896,
+    "triangles": 2580,
+    "uv": true,
+    "normals": true
+  }
+]

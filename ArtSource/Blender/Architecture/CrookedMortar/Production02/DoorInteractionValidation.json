@@ -1,0 +1,136 @@
+{
+  "passed": true,
+  "error": null,
+  "method": "Queued E press/release through a temporary Input System keyboard, existing Player/Interact bindings with a scene-local Press interaction and normal live MonoBehaviour updates. No SetOpen/OnInteract/Update invocation. CharacterController.Move used only for passage checks.",
+  "checks": [
+    {
+      "name": "Outward leaf clears frame throughout 105-degree sweep",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Existing E binding enabled",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Out of range E ignored",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Normal front approach E requests opening",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Actual sweep pauses with player in the way",
+      "passed": true,
+      "detail": 23.53186
+    },
+    {
+      "name": "Paused leaf does not penetrate player",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Opening resumes to 105 degrees after stepping clear",
+      "passed": true,
+      "detail": 105.0
+    },
+    {
+      "name": "Inside E requests closing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Door fully closes from E",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Repeated E opens normally",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Closing also pauses for player",
+      "passed": true,
+      "detail": 64.30095
+    },
+    {
+      "name": "Closing resumes after player clears",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Upper floor cannot trigger downstairs door",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Received bound keyboard events",
+      "passed": true,
+      "detail": {
+        "count": 6
+      }
+    }
+  ],
+  "routes": [
+    {
+      "name": "Open front entrance",
+      "passed": true,
+      "actual": "(3.802, 0.240, 0.574)"
+    },
+    {
+      "name": "Shop circulation",
+      "passed": true,
+      "actual": "(3.604, 0.240, 3.247)"
+    },
+    {
+      "name": "Kitchen access door open",
+      "passed": true,
+      "actual": "(6.163, 0.240, 3.299)"
+    },
+    {
+      "name": "Return shop",
+      "passed": true,
+      "actual": "(3.643, 0.240, 3.300)"
+    },
+    {
+      "name": "Inside interaction point",
+      "passed": true,
+      "actual": "(3.699, 0.240, 1.021)"
+    },
+    {
+      "name": "Shop route door closed",
+      "passed": true,
+      "actual": "(3.602, 0.240, 3.259)"
+    },
+    {
+      "name": "Kitchen access door closed",
+      "passed": true,
+      "actual": "(6.161, 0.240, 3.299)"
+    },
+    {
+      "name": "Return shop closed",
+      "passed": true,
+      "actual": "(3.641, 0.240, 3.300)"
+    },
+    {
+      "name": "Inside E point",
+      "passed": true,
+      "actual": "(3.699, 0.240, 1.021)"
+    }
+  ],
+  "inputEvents": [
+    "/CM_DoorInputRegression/e",
+    "/CM_DoorInputRegression/e",
+    "/CM_DoorInputRegression/e",
+    "/CM_DoorInputRegression/e",
+    "/CM_DoorInputRegression/e",
+    "/CM_DoorInputRegression/e"
+  ],
+  "actionEnabled": true,
+  "systemsEnabled": true
+}

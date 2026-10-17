@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Bedroom bed 1.6 x 2.1",
+    "nonmanifold": 0,
+    "volume": 2.351815781895089,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Bedroom east",
+    "nonmanifold": 0,
+    "volume": 2.7279163589902247,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Bedroom full floor",
+    "nonmanifold": 0,
+    "volume": 5.795620594904233,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Bedroom wardrobe .5 x 1.2",
+    "nonmanifold": 0,
+    "volume": 1.1998442368726678,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Bedroom west partition",
+    "nonmanifold": 0,
+    "volume": 2.7279196078749894,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Centre stair guard",
+    "nonmanifold": 0,
+    "volume": 0.7558190661135796,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "ChimneyCrown",
+    "nonmanifold": 0,
+    "volume": 0.18421218748059992,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "ChimneyStack",
+    "nonmanifold": 0,
+    "volume": 2.514306959736013,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Fitted_EaveVergeNetwork_Slate",
+    "nonmanifold": 0,
+    "volume": 0.03522850267352812,
+    "degenerate": 0,
+    "triangles": 216,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Fitted_EaveVergeNetwork_Timber",
+    "nonmanifold": 0,
+    "volume": 1.151988668045433,
+    "degenerate": 0,
+    "triangles": 3980,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Fitted_RidgeNetwork_Slate",
+    "nonmanifold": 0,
+    "volume": 0.06978155252887727,
+    "degenerate": 0,
+    "triangles": 1440,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Fitted_ValleyNetwork_Slate",
+    "nonmanifold": 0,
+    "volume": 0.018421073257569854,
+    "degenerate": 0,
+    "triangles": 756,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_DeepEntryFold_Slate",
+    "nonmanifold": 0,
+    "volume": 0.22421935438464283,
+    "degenerate": 0,
+    "triangles": 4056,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_DeepEntryFold_Underlay",
+    "nonmanifold": 0,
+    "volume": 0.8711991842746623,
+    "degenerate": 0,
+    "triangles": 284,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_GardenStore_Slate",
+    "nonmanifold": 0,
+    "volume": 0.2636853673665785,
+    "degenerate": 0,
+    "triangles": 4828,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_GardenStore_Underlay",
+    "nonmanifold": 0,
+    "volume": 1.0312488377095959,
+    "degenerate": 0,
+    "triangles": 284,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_Hero_Slate",
+    "nonmanifold": 0,
+    "volume": 0.8148049285759325,
+    "degenerate": 0,
+    "triangles": 29392,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_Hero_Underlay",
+    "nonmanifold": 0,
+    "volume": 3.186694779394295,
+    "degenerate": 0,
+    "triangles": 1268,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_LeftShopFold_Slate",
+    "nonmanifold": 0,
+    "volume": 0.10105131985152066,
+    "degenerate": 0,
+    "triangles": 2708,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_LeftShopFold_Underlay",
+    "nonmanifold": 0,
+    "volume": 0.38219964981673876,
+    "degenerate": 0,
+    "triangles": 344,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_RearCross_Slate",
+    "nonmanifold": 0,
+    "volume": 0.971463684050501,
+    "degenerate": 0,
+    "triangles": 37068,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_RearCross_Underlay",
+    "nonmanifold": 0,
+    "volume": 3.784239439864376,
+    "degenerate": 0,
+    "triangles": 2112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_StairNook_Slate",
+    "nonmanifold": 0,
+    "volume": 0.19517207807010245,
+    "degenerate": 0,
+    "triangles": 12236,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_StairNook_Underlay",
+    "nonmanifold": 0,
+    "volume": 0.7719071498856604,
+    "degenerate": 0,
+    "triangles": 748,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_SubordinateWing_Slate",
+    "nonmanifold": 0,
+    "volume": 0.5421124751372768,
+    "degenerate": 0,
+    "triangles": 20760,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "CM02_Roof_SubordinateWing_Underlay",
+    "nonmanifold": 0,
+    "volume": 2.123886112166334,
+    "degenerate": 0,
+    "triangles": 856,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Examination bed .9 x 2.0",
+    "nonmanifold": 0,
+    "volume": 1.619840089772143,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "FlueA",
+    "nonmanifold": 0,
+    "volume": 0.020929692381267864,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "FlueB",
+    "nonmanifold": 0,
+    "volume": 0.020929729238091888,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Front entrance 2.0 jamb A",
+    "nonmanifold": 0,
+    "volume": 1.2300946773268033,
+    "degenerate": 0,
+    "triangles": 148,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Front entrance 2.0 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.557955527126453,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Front entrance 2.0 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.13997313689466753,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_GardenStore_A",
+    "nonmanifold": 0,
+    "volume": 0.5744811339282304,
+    "degenerate": 0,
+    "triangles": 8,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_GardenStore_B",
+    "nonmanifold": 0,
+    "volume": 0.5744794218445078,
+    "degenerate": 0,
+    "triangles": 8,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_Hero_A",
+    "nonmanifold": 0,
+    "volume": 2.230607621862976,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_Hero_B",
+    "nonmanifold": 0,
+    "volume": 2.230612192176605,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_RearCross_A",
+    "nonmanifold": 0,
+    "volume": 1.2677798978127583,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_RearCross_B",
+    "nonmanifold": 0,
+    "volume": 1.2677836760948795,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_StairNook_A",
+    "nonmanifold": 0,
+    "volume": 0.47064126687179053,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_StairNook_B",
+    "nonmanifold": 0,
+    "volume": 0.4706419681815468,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_SubordinateWing_A",
+    "nonmanifold": 0,
+    "volume": 0.9290845223741739,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Gable_Roof_SubordinateWing_B",
+    "nonmanifold": 0,
+    "volume": 0.9290817534921385,
+    "degenerate": 0,
+    "triangles": 112,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Garden step",
+    "nonmanifold": 0,
+    "volume": 0.47984854262246857,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Intermediate landing 3.2 x 1.5",
+    "nonmanifold": 0,
+    "volume": 0.9597940413798923,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Kitchen east workbench .65 x 3.4",
+    "nonmanifold": 0,
+    "volume": 2.209786669035241,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Kitchen front preparation 1.5 x .65",
+    "nonmanifold": 0,
+    "volume": 0.9748678192623312,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Kitchen to storage 1.8 jamb A",
+    "nonmanifold": 0,
+    "volume": 0.7439517715794377,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Kitchen to storage 1.8 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.24796175931450337,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Kitchen to storage 1.8 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.12597507900115357,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Landing nook ceiling",
+    "nonmanifold": 0,
+    "volume": 0.7199501492508943,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Landing to bedroom 2.0 jamb A",
+    "nonmanifold": 0,
+    "volume": 0.4959565328283442,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Landing to bedroom 2.0 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.49595653067688517,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Landing to bedroom 2.0 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.1399731886656017,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living bench 2 x .8",
+    "nonmanifold": 0,
+    "volume": 1.4398435867922572,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living ceiling",
+    "nonmanifold": 0,
+    "volume": 4.175875657652076,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living low table 1.2 x .65",
+    "nonmanifold": 0,
+    "volume": 0.46789742828489805,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living to study 1.8 jamb A",
+    "nonmanifold": 0,
+    "volume": 1.3019419774204781,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living to study 1.8 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.30995973213579875,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Living to study 1.8 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.12597530937475243,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lobby south return",
+    "nonmanifold": 0,
+    "volume": 1.3639407529409406,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 1",
+    "nonmanifold": 0,
+    "volume": 0.08491665360734145,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 2",
+    "nonmanifold": 0,
+    "volume": 0.16990874553370797,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 3",
+    "nonmanifold": 0,
+    "volume": 0.2549008395939738,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 4",
+    "nonmanifold": 0,
+    "volume": 0.33989288146133084,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 5",
+    "nonmanifold": 0,
+    "volume": 0.42488498374273104,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 6",
+    "nonmanifold": 0,
+    "volume": 0.509877078509863,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 7",
+    "nonmanifold": 0,
+    "volume": 0.5948691745568228,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 8",
+    "nonmanifold": 0,
+    "volume": 0.6798612645791332,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Lower tread 9",
+    "nonmanifold": 0,
+    "volume": 0.764853358805853,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Porch flush approach",
+    "nonmanifold": 0,
+    "volume": 2.5196841287140255,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Rear bedroom and stair ceiling",
+    "nonmanifold": 0,
+    "volume": 5.381854633608175,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Rear body floor",
+    "nonmanifold": 0,
+    "volume": 7.175469932281816,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Rear body north",
+    "nonmanifold": 0,
+    "volume": 9.004201702719538,
+    "degenerate": 0,
+    "triangles": 188,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Rear landing guard",
+    "nonmanifold": 0,
+    "volume": 0.3518162032305507,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop counter 2.2 x .75",
+    "nonmanifold": 0,
+    "volume": 1.6498340078714289,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop floor 5.4 x 4.4",
+    "nonmanifold": 0,
+    "volume": 5.567544455864054,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop shelf .35 deep",
+    "nonmanifold": 0,
+    "volume": 0.8818508445354492,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to kitchen 1.8 jamb A",
+    "nonmanifold": 0,
+    "volume": 1.3019417791644603,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to kitchen 1.8 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.3099596850648836,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to kitchen 1.8 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.12597513973265428,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to treatment 2.0 jamb A",
+    "nonmanifold": 0,
+    "volume": 0.49595645741013716,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to treatment 2.0 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.49595645525866616,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Shop to treatment 2.0 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.13997300015230413,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Stair lobby floor 2.0 x 2.4",
+    "nonmanifold": 0,
+    "volume": 1.0557979004738933,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage ceiling",
+    "nonmanifold": 0,
+    "volume": 1.403934348472637,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage east shelf .45",
+    "nonmanifold": 0,
+    "volume": 1.4578322167667768,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage garden exit 1.8 jamb A",
+    "nonmanifold": 0,
+    "volume": 0.7439553185137022,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage garden exit 1.8 jamb B",
+    "nonmanifold": 0,
+    "volume": 0.24796294116123008,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage garden exit 1.8 lintel 2.75m clear",
+    "nonmanifold": 0,
+    "volume": 0.12597567967652062,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Storage west shelf .45",
+    "nonmanifold": 0,
+    "volume": 1.4578291670687218,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study ceiling",
+    "nonmanifold": 0,
+    "volume": 2.483906175798917,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study east",
+    "nonmanifold": 0,
+    "volume": 2.3576127032687437,
+    "degenerate": 0,
+    "triangles": 188,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study east desk .7 x 1.8",
+    "nonmanifold": 0,
+    "volume": 1.2598543449439523,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study front",
+    "nonmanifold": 0,
+    "volume": 1.8616129493088571,
+    "degenerate": 0,
+    "triangles": 188,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study full floor",
+    "nonmanifold": 0,
+    "volume": 4.96764609311537,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study rear",
+    "nonmanifold": 0,
+    "volume": 2.2319256886996044,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Study rear bookcase 1.9 x .35",
+    "nonmanifold": 0,
+    "volume": 1.3298224130670013,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Treatment cabinet .40 deep",
+    "nonmanifold": 0,
+    "volume": 1.0798446430215478,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Treatment to wing",
+    "nonmanifold": 0,
+    "volume": 2.7279159434045788,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Treatment west partition",
+    "nonmanifold": 0,
+    "volume": 2.7279191922892334,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper east stairwell guard",
+    "nonmanifold": 0,
+    "volume": 0.9017731060950438,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper front",
+    "nonmanifold": 0,
+    "volume": 3.0280645313692025,
+    "degenerate": 0,
+    "triangles": 148,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper landing west return",
+    "nonmanifold": 0,
+    "volume": 1.4398029448272203,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper living and open landing",
+    "nonmanifold": 0,
+    "volume": 8.351545187515509,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper nook south",
+    "nonmanifold": 0,
+    "volume": 1.3639409606464343,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper shop west front",
+    "nonmanifold": 0,
+    "volume": 0.9936270411432704,
+    "degenerate": 0,
+    "triangles": 196,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 1",
+    "nonmanifold": 0,
+    "volume": 0.08991619658445504,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 2",
+    "nonmanifold": 0,
+    "volume": 0.08991610801305239,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 3",
+    "nonmanifold": 0,
+    "volume": 0.08991609670035583,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 4",
+    "nonmanifold": 0,
+    "volume": 0.08991609670035361,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 5",
+    "nonmanifold": 0,
+    "volume": 0.08991609721388467,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 6",
+    "nonmanifold": 0,
+    "volume": 0.08991608674785441,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 7",
+    "nonmanifold": 0,
+    "volume": 0.08991609186715695,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 8",
+    "nonmanifold": 0,
+    "volume": 0.08991609670035478,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Upper tread 9",
+    "nonmanifold": 0,
+    "volume": 0.08991610181966081,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "West lobby and stair",
+    "nonmanifold": 0,
+    "volume": 9.099846909365809,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "West shop front",
+    "nonmanifold": 0,
+    "volume": 1.3639420756860856,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Wing east ground",
+    "nonmanifold": 0,
+    "volume": 3.9695913269240735,
+    "degenerate": 0,
+    "triangles": 188,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Wing floor",
+    "nonmanifold": 0,
+    "volume": 5.183537008165703,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  },
+  {
+    "name": "Wing front ground",
+    "nonmanifold": 0,
+    "volume": 2.231927994727635,
+    "degenerate": 0,
+    "triangles": 108,
+    "uv0": "PaintUV0",
+    "uvValid": true
+  }
+]

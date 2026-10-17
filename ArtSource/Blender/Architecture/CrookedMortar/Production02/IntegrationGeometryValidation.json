@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "collisionsSame": true,
+  "colliderCount": 90,
+  "floorSamples": 2028,
+  "floorHoles": 0,
+  "ceilingHoles": 0,
+  "roofSamples": 4732,
+  "roofMisses": 0,
+  "missedRoof": [],
+  "roomReports": [
+    {
+      "room": "Shop",
+      "samples": 396,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Treatment",
+      "samples": 270,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Kitchen",
+      "samples": 238,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Storage",
+      "samples": 140,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Living",
+      "samples": 396,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Bedroom",
+      "samples": 270,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Study",
+      "samples": 238,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    },
+    {
+      "room": "Landing west",
+      "samples": 80,
+      "floorHoles": 0,
+      "ceilingHoles": 0
+    }
+  ],
+  "renderers": 422,
+  "triangles": 328940,
+  "badMeshAttributes": [],
+  "missingScripts": 0,
+  "method": "Temporary isolated physics scene tests only the new visible architecture/roof mesh surfaces, independently of inherited gameplay colliders; exact source carrier upper-envelope heights. All temporary probe objects removed."
+}

@@ -1,0 +1,15 @@
+{
+  "preserved": [
+    "Assets/Scenes/CM_CrookedMortar_Production01.unity: OK",
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity: OK",
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity: OK",
+    "Assets/BlightBloom/Traversal/ThirdPersonMotor.cs: OK",
+    "Assets/BlightBloom/Traversal/ThirdPersonOrbitCamera.cs: OK",
+    "Assets/BlightBloom/Traversal/TraversalInput.cs: OK",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/BlockoutDoor.cs: OK",
+    "Assets/InputSystem_Actions.inputactions: OK"
+  ],
+  "trackedExistingFilesChanged": false,
+  "committed": false,
+  "note": "Incidental URP legacy _MainTex synchronization on the existing roof material was restored to its pre-task bytes. New glazing material and all fitted assets are Production02-only."
+}
