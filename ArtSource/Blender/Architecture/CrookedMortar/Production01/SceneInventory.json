@@ -1,0 +1,9 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Production01.unity",
+  "activeRenderers": 362,
+  "materialSlotsBeforeCulling": 390,
+  "trianglesBeforeCullingAndLOD": 194206,
+  "activeTransforms": 809,
+  "buildingPrefabConnected": true,
+  "notes": "Counts are scene-wide upper bounds before culling and botanical LOD; not measured GPU draw calls."
+}

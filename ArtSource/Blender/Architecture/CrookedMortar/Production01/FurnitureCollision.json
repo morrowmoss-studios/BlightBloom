@@ -1,0 +1,106 @@
+[
+  {
+    "name": "ShopCounter",
+    "collision": [
+      [
+        -1.2,
+        0.74,
+        -2.65,
+        1.8,
+        1.08,
+        0.78
+      ]
+    ]
+  },
+  {
+    "name": "TreatmentCouch",
+    "collision": [
+      [
+        -0.04,
+        0.57,
+        3.23,
+        0.65,
+        0.87,
+        1.48
+      ]
+    ]
+  },
+  {
+    "name": "PreparationBench",
+    "collision": [
+      [
+        3.54,
+        0.7,
+        2.62,
+        0.56,
+        1.02,
+        1.7
+      ]
+    ]
+  },
+  {
+    "name": "StorageCabinet",
+    "collision": [
+      [
+        -0.12,
+        0.94,
+        4.98,
+        0.36,
+        1.48,
+        0.72
+      ]
+    ]
+  },
+  {
+    "name": "BedroomBed",
+    "collision": [
+      [
+        -1.72,
+        3.95,
+        -3.02,
+        1.12,
+        1.02,
+        1.72
+      ]
+    ]
+  },
+  {
+    "name": "LivingSettle",
+    "collision": [
+      [
+        1.45,
+        3.98,
+        -3.08,
+        0.66,
+        1.08,
+        1.4
+      ]
+    ]
+  },
+  {
+    "name": "StudyWritingDesk",
+    "collision": [
+      [
+        3.55,
+        3.85,
+        2.02,
+        0.5,
+        0.82,
+        1.02
+      ]
+    ]
+  },
+  {
+    "name": "MedicalLibraryShelves",
+    "collision": [
+      [
+        3.58,
+        4.45,
+        4.0,
+        0.4,
+        2.02,
+        1.12
+      ]
+    ]
+  }
+]

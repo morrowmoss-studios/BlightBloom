@@ -1,0 +1,17 @@
+{
+  "unity": "6000.4.5f1",
+  "scene": "Assets/Scenes/CM_CrookedMortar_Production01.unity",
+  "playMode": true,
+  "frameCount": 961,
+  "motorEnabled": true,
+  "inputEnabled": true,
+  "cameraEnabled": true,
+  "compiling": false,
+  "observedConsoleErrors": 0,
+  "observedConsoleWarnings": 0,
+  "captureOnlyWarnings": [
+    "Ignoring depth surface load action as it is memoryless",
+    "Ignoring depth surface store action as it is memoryless"
+  ],
+  "notes": "Fresh final Play session without screenshot capture; console ground truth sampled separately. No gameplay component disabled for this smoke session."
+}

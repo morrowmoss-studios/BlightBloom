@@ -1,0 +1,959 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Production01.unity",
+  "missingScripts": 0,
+  "missingMaterial": [],
+  "invalidImportedMeshes": 0,
+  "maxImportedBoundsErrorMetres": 1.36961046E-06,
+  "uniqueFittedTriangles": 6040,
+  "renderersEnabled": 362,
+  "colliders": 220,
+  "cosmeticBotanicalColliders": 0,
+  "emptySiteContainersRemoved": 163,
+  "references": {
+    "cameraTarget": true,
+    "cameraInput": true,
+    "motorInput": true,
+    "movementCamera": true,
+    "inputActionAsset": true,
+    "obstruction": true
+  },
+  "geometry": [
+    {
+      "name": "BedroomBed",
+      "vertexCount": 792,
+      "triangles": 324,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.74349565E-07
+    },
+    {
+      "name": "Chimney",
+      "vertexCount": 120,
+      "triangles": 60,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.15255737E-07
+    },
+    {
+      "name": "Entry_Arch",
+      "vertexCount": 384,
+      "triangles": 192,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.03497E-07
+    },
+    {
+      "name": "Entry_Jamb",
+      "vertexCount": 48,
+      "triangles": 24,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.32919762E-07
+    },
+    {
+      "name": "Floor_DisplayBay",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.76837158E-07
+    },
+    {
+      "name": "Floor_FrontShop",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.336061E-07
+    },
+    {
+      "name": "Floor_Porch",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Floor_RearStem",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Floor_UpperHero",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.92080664E-07
+    },
+    {
+      "name": "Floor_UpperLanding",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.09257121E-06
+    },
+    {
+      "name": "Floor_UpperRightFront",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.81655951E-07
+    },
+    {
+      "name": "Floor_UpperRightRear",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.15255737E-07
+    },
+    {
+      "name": "Floor_UpperStudy",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Floor_WorkWing",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Interior",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.30859478E-07
+    },
+    {
+      "name": "Interior.001",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.27825546E-07
+    },
+    {
+      "name": "Interior.002",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.298152E-07
+    },
+    {
+      "name": "Interior.003",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.349911E-07
+    },
+    {
+      "name": "Interior.004",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Interior.005",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.15255737E-07
+    },
+    {
+      "name": "Interior.006",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.96046448E-07
+    },
+    {
+      "name": "Interior.007",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.49011612E-07
+    },
+    {
+      "name": "LivingSettle",
+      "vertexCount": 792,
+      "triangles": 324,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.84805229E-07
+    },
+    {
+      "name": "MedicalLibraryShelves",
+      "vertexCount": 1584,
+      "triangles": 648,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Porch",
+      "vertexCount": 144,
+      "triangles": 72,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.34869913E-06
+    },
+    {
+      "name": "PreparationBench",
+      "vertexCount": 528,
+      "triangles": 216,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Roof_DeepEntryFold",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.36961046E-06
+    },
+    {
+      "name": "Roof_DisplayCatslide",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.15255737E-07
+    },
+    {
+      "name": "Roof_Hero",
+      "vertexCount": 194,
+      "triangles": 116,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 9.83025E-07
+    },
+    {
+      "name": "Roof_Hero_GableFront",
+      "vertexCount": 90,
+      "triangles": 56,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 9.83025E-07
+    },
+    {
+      "name": "Roof_Hero_GableRear",
+      "vertexCount": 44,
+      "triangles": 24,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.298152E-07
+    },
+    {
+      "name": "Roof_LeftShopFold",
+      "vertexCount": 28,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Roof_RearCross",
+      "vertexCount": 48,
+      "triangles": 28,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Roof_RearCross_GableFront",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Roof_RearCross_GableRear",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Roof_SubordinateCross",
+      "vertexCount": 60,
+      "triangles": 36,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Roof_SubordinateCross_GableFront",
+      "vertexCount": 28,
+      "triangles": 16,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Roof_SubordinateCross_GableRear",
+      "vertexCount": 28,
+      "triangles": 16,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell",
+      "vertexCount": 48,
+      "triangles": 32,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.9028273E-07
+    },
+    {
+      "name": "Shell.001",
+      "vertexCount": 162,
+      "triangles": 104,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.92316531E-07
+    },
+    {
+      "name": "Shell.002",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.7892803E-07
+    },
+    {
+      "name": "Shell.003",
+      "vertexCount": 152,
+      "triangles": 132,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.215701E-06
+    },
+    {
+      "name": "Shell.004",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.349911E-07
+    },
+    {
+      "name": "Shell.005",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.349911E-07
+    },
+    {
+      "name": "Shell.006",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.840039E-07
+    },
+    {
+      "name": "Shell.007",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.915125E-07
+    },
+    {
+      "name": "Shell.008",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.81655951E-07
+    },
+    {
+      "name": "Shell.009",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.298152E-07
+    },
+    {
+      "name": "Shell.010",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.011",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.012",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 9.83025E-07
+    },
+    {
+      "name": "Shell.013",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.54485416E-07
+    },
+    {
+      "name": "Shell.014",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.41961662E-07
+    },
+    {
+      "name": "Shell.015",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.80548E-07
+    },
+    {
+      "name": "Shell.016",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.7697863E-07
+    },
+    {
+      "name": "Shell.017",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.191159E-07
+    },
+    {
+      "name": "Shell.018",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.74349565E-07
+    },
+    {
+      "name": "Shell.019",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.2590617E-07
+    },
+    {
+      "name": "Shell.020",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.74349565E-07
+    },
+    {
+      "name": "Shell.021",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.37174782E-07
+    },
+    {
+      "name": "Shell.022",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.37174782E-07
+    },
+    {
+      "name": "Shell.023",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.12924385E-07
+    },
+    {
+      "name": "Shell.024",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.703467E-07
+    },
+    {
+      "name": "Shell.025",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.12924385E-07
+    },
+    {
+      "name": "Shell.026",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.80548E-07
+    },
+    {
+      "name": "Shell.027",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.998401E-07
+    },
+    {
+      "name": "Shell.028",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.029",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.030",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.031",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.032",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.033",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.034",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.035",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.036",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.037",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.038",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.039",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.28703255E-06
+    },
+    {
+      "name": "Shell.040",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.28703255E-06
+    },
+    {
+      "name": "Shell.041",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.27036219E-06
+    },
+    {
+      "name": "Shell.042",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.043",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.044",
+      "vertexCount": 162,
+      "triangles": 108,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.41961662E-07
+    },
+    {
+      "name": "Shell.045",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.046",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.047",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.048",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.049",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.050",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Shell.051",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.052",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.053",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.054",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "Shell.055",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.75829654E-07
+    },
+    {
+      "name": "Shell.056",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.333284E-07
+    },
+    {
+      "name": "Shell.057",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.058",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.059",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.333284E-07
+    },
+    {
+      "name": "Shell.060",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.061",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.478204E-07
+    },
+    {
+      "name": "Shell.062",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.476177E-07
+    },
+    {
+      "name": "Shell.063",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.476177E-07
+    },
+    {
+      "name": "Shell.064",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "Shell.065",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.646198E-07
+    },
+    {
+      "name": "Shell_EastArchedReveal_-1",
+      "vertexCount": 84,
+      "triangles": 52,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.37174782E-07
+    },
+    {
+      "name": "Shell_EastArchedReveal_1",
+      "vertexCount": 84,
+      "triangles": 52,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 3.37174782E-07
+    },
+    {
+      "name": "ShopCounter",
+      "vertexCount": 528,
+      "triangles": 216,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 4.80548E-07
+    },
+    {
+      "name": "Stairs_StraightFlight",
+      "vertexCount": 364,
+      "triangles": 216,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.10710844E-07
+    },
+    {
+      "name": "Stairs_UpperGuard",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.4505806E-07
+    },
+    {
+      "name": "StorageCabinet",
+      "vertexCount": 264,
+      "triangles": 108,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.972121E-07
+    },
+    {
+      "name": "StorageHeader",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 9.61096E-07
+    },
+    {
+      "name": "StorageLeft",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.2584877E-07
+    },
+    {
+      "name": "StorageRight",
+      "vertexCount": 24,
+      "triangles": 12,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 8.596304E-07
+    },
+    {
+      "name": "Structure",
+      "vertexCount": 168,
+      "triangles": 84,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 7.53945756E-07
+    },
+    {
+      "name": "StudyWritingDesk",
+      "vertexCount": 792,
+      "triangles": 324,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 5.33120158E-07
+    },
+    {
+      "name": "TreatmentCouch",
+      "vertexCount": 528,
+      "triangles": 216,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 6.2584877E-07
+    },
+    {
+      "name": "Window",
+      "vertexCount": 2238,
+      "triangles": 1176,
+      "normalsValid": true,
+      "uvValid": true,
+      "boundsErrorMetres": 9.83025E-07
+    }
+  ],
+  "notes": "Bounds compare canonical Blender metre dimensions to imported Unity meshes. Shared sprite/paint UV reuse is intentional. Static validation is not a GPU performance profile or exhaustive overlap proof."
+}

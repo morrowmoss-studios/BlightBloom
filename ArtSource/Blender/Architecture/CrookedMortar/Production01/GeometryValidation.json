@@ -1,0 +1,1991 @@
+[
+  {
+    "name": "Floor_FrontShop",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 3.317999988883729,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      0.0,
+      -3.1500000953674316
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      0.20000000298023224,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Floor_RearStem",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 4.03199978685379,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      0.0,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      0.20000000298023224,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Floor_WorkWing",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.276500135369602,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.0,
+      1.350000023841858
+    ],
+    "unityBoundsMax": [
+      3.950000047683716,
+      0.20000000298023224,
+      4.900000095367432
+    ]
+  },
+  {
+    "name": "Floor_UpperHero",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 2.9295008829832487,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.799999952316284,
+      3.240000009536743,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      1.850000023841858,
+      3.440000057220459,
+      -0.8999999761581421
+    ]
+  },
+  {
+    "name": "Floor_UpperRightFront",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.7990001929998409,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.5,
+      3.240000009536743,
+      -0.8999999761581421
+    ],
+    "unityBoundsMax": [
+      1.850000023841858,
+      3.440000057220459,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Floor_UpperRightRear",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 2.0280003037452325,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.5,
+      3.240000009536743,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.440000057220459,
+      4.699999809265137
+    ]
+  },
+  {
+    "name": "Floor_UpperLanding",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.9744000598907064,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      3.240000009536743,
+      4.440000057220459
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.440000057220459,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Floor_UpperStudy",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.2765004206896104,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      3.240000009536743,
+      1.350000023841858
+    ],
+    "unityBoundsMax": [
+      3.950000047683716,
+      3.440000057220459,
+      4.900000095367432
+    ]
+  },
+  {
+    "name": "Shell",
+    "triangles": 32,
+    "nonmanifold": 0,
+    "volume": 0.9233400304135583,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      0.20000000298023224,
+      -3.259999990463257
+    ],
+    "unityBoundsMax": [
+      -0.05000000074505806,
+      3.3399999141693115,
+      -3.0399999618530273
+    ]
+  },
+  {
+    "name": "Window",
+    "triangles": 1176,
+    "nonmanifold": 0,
+    "volume": 0.7112699395209741,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.005000114440918,
+      0.9549998641014099,
+      -3.3350000381469727
+    ],
+    "unityBoundsMax": [
+      4.15500020980835,
+      7.577499866485596,
+      3.3901407718658447
+    ]
+  },
+  {
+    "name": "Floor_DisplayBay",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.8160811915731921,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.0,
+      -2.299999952316284
+    ],
+    "unityBoundsMax": [
+      3.200000047683716,
+      0.20000000298023224,
+      1.4689189195632935
+    ]
+  },
+  {
+    "name": "Interior",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.4702495431751092,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.4000000059604645,
+      0.20000000298023224,
+      2.140000104904175
+    ],
+    "unityBoundsMax": [
+      0.3499999940395355,
+      3.049999952316284,
+      2.359999895095825
+    ]
+  },
+  {
+    "name": "Stairs_StraightFlight",
+    "triangles": 216,
+    "nonmanifold": 0,
+    "volume": 10.772999786464851,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -1.9249999523162842,
+      0.20000000298023224,
+      -0.6000000238418579
+    ],
+    "unityBoundsMax": [
+      -0.675000011920929,
+      3.440000057220459,
+      4.440000057220459
+    ]
+  },
+  {
+    "name": "Stairs_UpperGuard",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.3431001833856135,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.6399999856948853,
+      3.440000057220459,
+      -0.8500000238418579
+    ],
+    "unityBoundsMax": [
+      -0.41999998688697815,
+      4.550000190734863,
+      4.650000095367432
+    ]
+  },
+  {
+    "name": "Roof_Hero",
+    "triangles": 116,
+    "nonmanifold": 0,
+    "volume": 7.792994109054421,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.2200000286102295,
+      5.869999885559082,
+      -4.400000095367432
+    ],
+    "unityBoundsMax": [
+      2.3299999237060547,
+      10.399999618530273,
+      1.1548649072647095
+    ]
+  },
+  {
+    "name": "Roof_Hero_GableFront",
+    "triangles": 56,
+    "nonmanifold": 0,
+    "volume": 2.3457675339446302,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.2200000286102295,
+      5.949999809265137,
+      -4.150000095367432
+    ],
+    "unityBoundsMax": [
+      2.3299999237060547,
+      10.229999542236328,
+      -3.940000057220459
+    ]
+  },
+  {
+    "name": "Roof_Hero_GableRear",
+    "triangles": 24,
+    "nonmanifold": 0,
+    "volume": 2.197353782961895,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.2200000286102295,
+      5.949999809265137,
+      0.6700000166893005
+    ],
+    "unityBoundsMax": [
+      2.3299999237060547,
+      9.865520477294922,
+      0.9048648476600647
+    ]
+  },
+  {
+    "name": "Roof_RearCross",
+    "triangles": 28,
+    "nonmanifold": 0,
+    "volume": 3.9679962463378606,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.4800000190734863,
+      6.039999961853027,
+      0.5
+    ],
+    "unityBoundsMax": [
+      2.4800000190734863,
+      8.550000190734863,
+      5.5
+    ]
+  },
+  {
+    "name": "Roof_RearCross_GableFront",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.1133153288078574,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.2300000190734863,
+      6.119999885559082,
+      0.5
+    ],
+    "unityBoundsMax": [
+      -2.0199999809265137,
+      8.380000114440918,
+      5.5
+    ]
+  },
+  {
+    "name": "Roof_RearCross_GableRear",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.1118113241786505,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0199999809265137,
+      6.119999885559082,
+      0.5
+    ],
+    "unityBoundsMax": [
+      2.2300000190734863,
+      8.380000114440918,
+      5.5
+    ]
+  },
+  {
+    "name": "Roof_SubordinateCross",
+    "triangles": 36,
+    "nonmanifold": 0,
+    "volume": 1.6600005089812495,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7999999523162842,
+      5.829999923706055,
+      1.0
+    ],
+    "unityBoundsMax": [
+      4.300000190734863,
+      7.550000190734863,
+      5.25
+    ]
+  },
+  {
+    "name": "Roof_SubordinateCross_GableFront",
+    "triangles": 16,
+    "nonmanifold": 0,
+    "volume": 0.636106484675769,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.049999952316284,
+      5.909999847412109,
+      1.0
+    ],
+    "unityBoundsMax": [
+      2.259999990463257,
+      7.380000114440918,
+      5.25
+    ]
+  },
+  {
+    "name": "Roof_SubordinateCross_GableRear",
+    "triangles": 16,
+    "nonmanifold": 0,
+    "volume": 0.6038298326138799,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      5.909999847412109,
+      1.1881080865859985
+    ],
+    "unityBoundsMax": [
+      4.050000190734863,
+      7.380000114440918,
+      5.25
+    ]
+  },
+  {
+    "name": "Floor_Porch",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 3.5144998029842913,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.950000047683716,
+      0.0,
+      -5.699999809265137
+    ],
+    "unityBoundsMax": [
+      2.0,
+      0.20000000298023224,
+      -2.1500000953674316
+    ]
+  },
+  {
+    "name": "Porch",
+    "triangles": 72,
+    "nonmanifold": 0,
+    "volume": 0.4731029135880448,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.0,
+      0.0,
+      -6.150000095367432
+    ],
+    "unityBoundsMax": [
+      2.0500001907348633,
+      3.2883248329162598,
+      -4.7975006103515625
+    ]
+  },
+  {
+    "name": "Roof_DeepEntryFold",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.6426007199764815,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.25,
+      3.009999990463257,
+      -5.800000190734863
+    ],
+    "unityBoundsMax": [
+      2.299999952316284,
+      4.400000095367432,
+      -4.0
+    ]
+  },
+  {
+    "name": "Roof_LeftShopFold",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.5953497461557465,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -3.1500000953674316,
+      2.9100000858306885,
+      -5.349999904632568
+    ],
+    "unityBoundsMax": [
+      0.0,
+      4.099999904632568,
+      -4.0
+    ]
+  },
+  {
+    "name": "Roof_DisplayCatslide",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.9104738545727976,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0,
+      3.1600000858306885,
+      -2.6500000953674316
+    ],
+    "unityBoundsMax": [
+      3.549999952316284,
+      4.300000190734863,
+      1.6214579343795776
+    ]
+  },
+  {
+    "name": "Chimney",
+    "triangles": 60,
+    "nonmanifold": 0,
+    "volume": 6.921112305319157,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.309999942779541,
+      0.20000000298023224,
+      2.119999885559082
+    ],
+    "unityBoundsMax": [
+      2.4749999046325684,
+      10.944999694824219,
+      5.425000190734863
+    ]
+  },
+  {
+    "name": "Shell.001",
+    "triangles": 104,
+    "nonmanifold": 0,
+    "volume": 0.6919669736726615,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.05000000074505806,
+      0.20000000298023224,
+      -2.259999990463257
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.3399999141693115,
+      -2.0399999618530273
+    ]
+  },
+  {
+    "name": "Shell.002",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.6907999650210146,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.1599999964237213,
+      0.20000000298023224,
+      -3.1500000953674316
+    ],
+    "unityBoundsMax": [
+      0.05999999865889549,
+      3.3399999141693115,
+      -2.1500000953674316
+    ]
+  },
+  {
+    "name": "Shell.003",
+    "triangles": 132,
+    "nonmanifold": 0,
+    "volume": 2.2397737090450853,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.799999952316284,
+      3.440000057220459,
+      -4.159999847412109
+    ],
+    "unityBoundsMax": [
+      1.850000023841858,
+      6.239999771118164,
+      -3.940000057220459
+    ]
+  },
+  {
+    "name": "Shell.004",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 2.815560489763637,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.2100000381469727,
+      0.20000000298023224,
+      -3.1500000953674316
+    ],
+    "unityBoundsMax": [
+      -1.9900000095367432,
+      3.440000057220459,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.005",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.21175011752547168,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      0.20000000298023224,
+      -2.1500000953674316
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      2.950000047683716,
+      -1.7999999523162842
+    ]
+  },
+  {
+    "name": "Shell.006",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.03773002106189945,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      2.950000047683716,
+      -2.1500000953674316
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      -1.7999999523162842
+    ]
+  },
+  {
+    "name": "Shell.007",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.15631001887202198,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      2.950000047683716,
+      -1.7999999523162842
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      -0.3499999940395355
+    ]
+  },
+  {
+    "name": "Shell.008",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.6957501053959149,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      0.20000000298023224,
+      -0.3499999940395355
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      2.950000047683716,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.009",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.12397001917719869,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      2.950000047683716,
+      -0.3499999940395355
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.010",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.5888299796962483,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      3.440000057220459,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      4.449999809265137,
+      -1.399999976158142
+    ]
+  },
+  {
+    "name": "Shell.011",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.8453503451824615,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      4.449999809265137,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      5.900000095367432,
+      -1.399999976158142
+    ]
+  },
+  {
+    "name": "Shell.012",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.19821985279079635,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      5.900000095367432,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      6.239999771118164,
+      -1.399999976158142
+    ]
+  },
+  {
+    "name": "Shell.013",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.2888599610212362,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      3.440000057220459,
+      -1.399999976158142
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      4.449999809265137,
+      -0.10000000149011612
+    ]
+  },
+  {
+    "name": "Shell.014",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.09723991801558754,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      5.900000095367432,
+      -1.399999976158142
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      6.239999771118164,
+      -0.10000000149011612
+    ]
+  },
+  {
+    "name": "Shell.015",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.19997997989147206,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      3.440000057220459,
+      -0.10000000149011612
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      4.449999809265137,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.016",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.2871000982627364,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      4.449999809265137,
+      -0.10000000149011612
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      5.900000095367432,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.017",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06731994555651175,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.9100000858306885,
+      5.900000095367432,
+      -0.10000000149011612
+    ],
+    "unityBoundsMax": [
+      -2.690000057220459,
+      6.239999771118164,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.018",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.5174401231002893,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      3.440000057220459,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      4.400000095367432,
+      -1.600000023841858
+    ]
+  },
+  {
+    "name": "Shell.019",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.8624001194953902,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      4.400000095367432,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.0,
+      -1.600000023841858
+    ]
+  },
+  {
+    "name": "Shell.020",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.12935990226743216,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      6.0,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.239999771118164,
+      -1.600000023841858
+    ]
+  },
+  {
+    "name": "Shell.021",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.29568005460739405,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      3.440000057220459,
+      -1.600000023841858
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      4.400000095367432,
+      -0.20000000298023224
+    ]
+  },
+  {
+    "name": "Shell.022",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.0739199402189149,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      6.0,
+      -1.600000023841858
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.239999771118164,
+      -0.20000000298023224
+    ]
+  },
+  {
+    "name": "Shell.023",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.21120003900528087,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      3.440000057220459,
+      -0.20000000298023224
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      4.400000095367432,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.024",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.3520000300407387,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      4.400000095367432,
+      -0.20000000298023224
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.0,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.025",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.0527999572992258,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      6.0,
+      -0.20000000298023224
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.239999771118164,
+      0.800000011920929
+    ]
+  },
+  {
+    "name": "Shell.026",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.43120004138946044,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.799999952316284,
+      3.440000057220459,
+      0.6899999976158142
+    ],
+    "unityBoundsMax": [
+      -2.0999999046325684,
+      6.239999771118164,
+      0.9100000262260437
+    ]
+  },
+  {
+    "name": "Shell.027",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.1539999308586077,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.850000023841858,
+      3.440000057220459,
+      0.6899999976158142
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      6.239999771118164,
+      0.9100000262260437
+    ]
+  },
+  {
+    "name": "Shell.028",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 6.378240442056608,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.2100000381469727,
+      0.20000000298023224,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      -1.9900000095367432,
+      6.239999771118164,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.029",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.0553181836648289,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      0.20000000298023224,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.0999999046325684,
+      2.458207130432129
+    ]
+  },
+  {
+    "name": "Shell.030",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.123727019187269,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      3.0999999046325684,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      2.458207130432129
+    ]
+  },
+  {
+    "name": "Shell.031",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.11947962004503689,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      3.0999999046325684,
+      2.450000047683716
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      4.052847385406494
+    ]
+  },
+  {
+    "name": "Shell.032",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.987991657345579,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      0.20000000298023224,
+      4.050000190734863
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.0999999046325684,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.033",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.11583356056724867,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      3.0999999046325684,
+      4.050000190734863
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.034",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.9497864460947094,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      3.440000057220459,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      6.050000190734863,
+      2.458207130432129
+    ]
+  },
+  {
+    "name": "Shell.035",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06914138581623454,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      6.050000190734863,
+      0.800000011920929
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      6.239999771118164,
+      2.458207130432129
+    ]
+  },
+  {
+    "name": "Shell.036",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06676784554396503,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      6.050000190734863,
+      2.450000047683716
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      6.239999771118164,
+      4.052847385406494
+    ]
+  },
+  {
+    "name": "Shell.037",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.8891925672527884,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      3.440000057220459,
+      4.050000190734863
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      6.050000190734863,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.038",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06473034713239215,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      6.050000190734863,
+      4.050000190734863
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      6.239999771118164,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.039",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.536151773688088,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      0.20000000298023224,
+      5.489999771118164
+    ],
+    "unityBoundsMax": [
+      0.3499999940395355,
+      3.049999952316284,
+      5.710000038146973
+    ]
+  },
+  {
+    "name": "Shell.040",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.7194119181857461,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      3.049999952316284,
+      5.489999771118164
+    ],
+    "unityBoundsMax": [
+      0.3499999940395355,
+      6.239999771118164,
+      5.710000038146973
+    ]
+  },
+  {
+    "name": "Shell.041",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.0176111480580703,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      0.3499999940395355,
+      3.049999952316284,
+      5.489999771118164
+    ],
+    "unityBoundsMax": [
+      1.7999999523162842,
+      6.239999771118164,
+      5.710000038146973
+    ]
+  },
+  {
+    "name": "Shell.042",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.18810019506808096,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7999999523162842,
+      0.20000000298023224,
+      5.489999771118164
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.049999952316284,
+      5.710000038146973
+    ]
+  },
+  {
+    "name": "Shell.043",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.21054021012300816,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7999999523162842,
+      3.049999952316284,
+      5.489999771118164
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      6.239999771118164,
+      5.710000038146973
+    ]
+  },
+  {
+    "name": "Shell.044",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 1.9124325852573776,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.20000000298023224,
+      1.2400000095367432
+    ],
+    "unityBoundsMax": [
+      3.950000047683716,
+      5.949999809265137,
+      1.6538028717041016
+    ]
+  },
+  {
+    "name": "Shell.045",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 2.3072927766515354,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.20000000298023224,
+      4.789999961853027
+    ],
+    "unityBoundsMax": [
+      3.950000047683716,
+      5.949999809265137,
+      5.010000228881836
+    ]
+  },
+  {
+    "name": "Shell.046",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.12842403235229397,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      0.20000000298023224,
+      1.5381081104278564
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      1.149999976158142,
+      2.1633803844451904
+    ]
+  },
+  {
+    "name": "Shell.047",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.2027748097648661,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      1.149999976158142,
+      1.5381081104278564
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      2.6500000953674316,
+      2.1633803844451904
+    ]
+  },
+  {
+    "name": "Shell.048",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.44610450735327895,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      2.6500000953674316,
+      1.5381081104278564
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      5.949999809265137,
+      2.1633803844451904
+    ]
+  },
+  {
+    "name": "Shell.049",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.23709052318229193,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      0.20000000298023224,
+      2.153665781021118
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      1.149999976158142,
+      3.2957746982574463
+    ]
+  },
+  {
+    "name": "Shell.050",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.823577558694202,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      2.6500000953674316,
+      2.153665781021118
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      5.949999809265137,
+      3.2957746982574463
+    ]
+  },
+  {
+    "name": "Shell.051",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.33587823079377055,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      0.20000000298023224,
+      3.2900800704956055
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      1.149999976158142,
+      4.900000095367432
+    ]
+  },
+  {
+    "name": "Shell.052",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.5303341057422422,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      1.149999976158142,
+      3.2900800704956055
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      2.6500000953674316,
+      4.900000095367432
+    ]
+  },
+  {
+    "name": "Shell.053",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.1667348387559766,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.8399999141693115,
+      2.6500000953674316,
+      3.2900800704956055
+    ],
+    "unityBoundsMax": [
+      4.059999942779541,
+      5.949999809265137,
+      4.900000095367432
+    ]
+  },
+  {
+    "name": "Shell.054",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.4989599372851682,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.9900000095367432,
+      0.20000000298023224,
+      4.900000095367432
+    ],
+    "unityBoundsMax": [
+      2.2100000381469727,
+      3.440000057220459,
+      5.599999904632568
+    ]
+  },
+  {
+    "name": "Shell.055",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.762300174468763,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.20000000298023224,
+      -2.4100000858306885
+    ],
+    "unityBoundsMax": [
+      3.200000047683716,
+      3.3499999046325684,
+      -2.190000057220459
+    ]
+  },
+  {
+    "name": "Shell.056",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.10559999655484922,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      0.20000000298023224,
+      -2.299999952316284
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      1.0,
+      -1.7000000476837158
+    ]
+  },
+  {
+    "name": "Shell.057",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.21119998130797887,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      1.0,
+      -2.299999952316284
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      2.5999999046325684,
+      -1.7000000476837158
+    ]
+  },
+  {
+    "name": "Shell.058",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.098999997138975,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      2.5999999046325684,
+      -2.299999952316284
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      3.3499999046325684,
+      -1.7000000476837158
+    ]
+  },
+  {
+    "name": "Shell.059",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.29040004494488325,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      0.20000000298023224,
+      -1.7000000476837158
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      1.0,
+      -0.05000000074505806
+    ]
+  },
+  {
+    "name": "Shell.060",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.27225004315003865,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      2.5999999046325684,
+      -1.7000000476837158
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      3.3499999046325684,
+      -0.05000000074505806
+    ]
+  },
+  {
+    "name": "Shell.061",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.2673297742341027,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      0.20000000298023224,
+      -0.05000000074505806
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      1.0,
+      1.4808108806610107
+    ]
+  },
+  {
+    "name": "Shell.062",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.5346595185917743,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      1.0,
+      -0.05000000074505806
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      2.5999999046325684,
+      1.4808108806610107
+    ]
+  },
+  {
+    "name": "Shell.063",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.25062166427810983,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.0899999141693115,
+      2.5999999046325684,
+      -0.05000000074505806
+    ],
+    "unityBoundsMax": [
+      3.309999942779541,
+      3.3499999046325684,
+      1.4808108806610107
+    ]
+  },
+  {
+    "name": "Shell.064",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.7559163286278034,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      2.0999999046325684,
+      0.20000000298023224,
+      1.2400000095367432
+    ],
+    "unityBoundsMax": [
+      3.200000047683716,
+      3.3499999046325684,
+      1.5752341747283936
+    ]
+  },
+  {
+    "name": "Shell.065",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.2119995731711357,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.8300000429153442,
+      0.20000000298023224,
+      -4.170000076293945
+    ],
+    "unityBoundsMax": [
+      2.0299999713897705,
+      3.200000047683716,
+      -2.1500000953674316
+    ]
+  },
+  {
+    "name": "Shell_EastArchedReveal_-1",
+    "triangles": 52,
+    "nonmanifold": 0,
+    "volume": 0.026715044961048026,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      5.199999809265137,
+      -1.600000023841858
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.0,
+      -0.8999999761581421
+    ]
+  },
+  {
+    "name": "Shell_EastArchedReveal_1",
+    "triangles": 52,
+    "nonmanifold": 0,
+    "volume": 0.026715038400436257,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7400000095367432,
+      5.199999809265137,
+      -0.8999999761581421
+    ],
+    "unityBoundsMax": [
+      1.9600000381469727,
+      6.0,
+      -0.20000000298023224
+    ]
+  },
+  {
+    "name": "Interior.001",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.03134997954367691,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.4000000059604645,
+      3.049999952316284,
+      2.140000104904175
+    ],
+    "unityBoundsMax": [
+      0.3499999940395355,
+      3.240000009536743,
+      2.359999895095825
+    ]
+  },
+  {
+    "name": "Interior.002",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06060995870707732,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      0.3499999940395355,
+      3.049999952316284,
+      2.140000104904175
+    ],
+    "unityBoundsMax": [
+      1.7999999523162842,
+      3.240000009536743,
+      2.359999895095825
+    ]
+  },
+  {
+    "name": "Interior.003",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.18809978737238378,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7999999523162842,
+      0.20000000298023224,
+      2.140000104904175
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.049999952316284,
+      2.359999895095825
+    ]
+  },
+  {
+    "name": "Interior.004",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.012539989824292748,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.7999999523162842,
+      3.049999952316284,
+      2.140000104904175
+    ],
+    "unityBoundsMax": [
+      2.0999999046325684,
+      3.240000009536743,
+      2.359999895095825
+    ]
+  },
+  {
+    "name": "Interior.005",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 3.0764802781605556,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.6100000143051147,
+      0.20000000298023224,
+      0.10000000149011612
+    ],
+    "unityBoundsMax": [
+      -0.38999998569488525,
+      3.240000009536743,
+      4.699999809265137
+    ]
+  },
+  {
+    "name": "Interior.006",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 1.0533600454854897,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.5699999928474426,
+      3.440000057220459,
+      -4.050000190734863
+    ],
+    "unityBoundsMax": [
+      -0.3499999940395355,
+      6.099999904632568,
+      -2.25
+    ]
+  },
+  {
+    "name": "Interior.007",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.029260005139112116,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.5699999928474426,
+      3.440000057220459,
+      -0.949999988079071
+    ],
+    "unityBoundsMax": [
+      -0.3499999940395355,
+      6.099999904632568,
+      -0.8999999761581421
+    ]
+  },
+  {
+    "name": "Entry_Jamb",
+    "triangles": 24,
+    "nonmanifold": 0,
+    "volume": 0.0524159493588213,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      0.009999994188547134,
+      0.20000004768371582,
+      -2.3399999141693115
+    ],
+    "unityBoundsMax": [
+      1.690000057220459,
+      2.0199999809265137,
+      -2.2200000286102295
+    ]
+  },
+  {
+    "name": "Entry_Arch",
+    "triangles": 192,
+    "nonmanifold": 0,
+    "volume": 0.03939984740423411,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      0.010191194713115692,
+      1.9952136278152466,
+      -2.3400001525878906
+    ],
+    "unityBoundsMax": [
+      1.6898088455200195,
+      3.019564151763916,
+      -2.2199997901916504
+    ]
+  },
+  {
+    "name": "Structure",
+    "triangles": 84,
+    "nonmanifold": 0,
+    "volume": 0.49608041033687905,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.799999952316284,
+      3.109999895095825,
+      -4.320000171661377
+    ],
+    "unityBoundsMax": [
+      2.0200002193450928,
+      10.119999885559082,
+      -2.1500000953674316
+    ]
+  },
+  {
+    "name": "StorageLeft",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.29820072226522143,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.4000000059604645,
+      0.20000004768371582,
+      4.230000019073486
+    ],
+    "unityBoundsMax": [
+      0.3499999940395355,
+      3.0399999618530273,
+      4.37000036239624
+    ]
+  },
+  {
+    "name": "StorageRight",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.11928031734472641,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.8000000715255737,
+      0.20000004768371582,
+      4.230000019073486
+    ],
+    "unityBoundsMax": [
+      2.1000001430511475,
+      3.0399999618530273,
+      4.37000036239624
+    ]
+  },
+  {
+    "name": "StorageHeader",
+    "triangles": 12,
+    "nonmanifold": 0,
+    "volume": 0.06699015099522222,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      0.3500000238418579,
+      2.990000009536743,
+      4.230000019073486
+    ],
+    "unityBoundsMax": [
+      1.8000000715255737,
+      3.319999933242798,
+      4.37000036239624
+    ]
+  },
+  {
+    "name": "ShopCounter",
+    "triangles": 216,
+    "nonmanifold": 0,
+    "volume": 1.2150655616766632,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.0999999046325684,
+      0.19999998807907104,
+      -3.0199999809265137
+    ],
+    "unityBoundsMax": [
+      -0.30000001192092896,
+      1.2799999713897705,
+      -2.240000009536743
+    ]
+  },
+  {
+    "name": "TreatmentCouch",
+    "triangles": 216,
+    "nonmanifold": 0,
+    "volume": 0.6818477430390457,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.3649999797344208,
+      0.19999998807907104,
+      2.490000009536743
+    ],
+    "unityBoundsMax": [
+      0.2849999964237213,
+      0.9350000023841858,
+      3.9700000286102295
+    ]
+  },
+  {
+    "name": "PreparationBench",
+    "triangles": 216,
+    "nonmanifold": 0,
+    "volume": 0.8186131576880563,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.259999990463257,
+      0.20000001788139343,
+      1.7699998617172241
+    ],
+    "unityBoundsMax": [
+      3.819999933242798,
+      1.209999918937683,
+      3.4699997901916504
+    ]
+  },
+  {
+    "name": "StorageCabinet",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.38265784049160007,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -0.30000001192092896,
+      0.19999998807907104,
+      4.619999885559082
+    ],
+    "unityBoundsMax": [
+      0.06000000983476639,
+      1.6800000667572021,
+      5.340000152587891
+    ]
+  },
+  {
+    "name": "BedroomBed",
+    "triangles": 324,
+    "nonmanifold": 0,
+    "volume": 1.2036156871743084,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      -2.2799999713897705,
+      3.440000057220459,
+      -3.919999837875366
+    ],
+    "unityBoundsMax": [
+      -1.1600000858306885,
+      4.649999618530273,
+      -2.2100000381469727
+    ]
+  },
+  {
+    "name": "LivingSettle",
+    "triangles": 324,
+    "nonmanifold": 0,
+    "volume": 0.6171820805726589,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      1.1549999713897705,
+      3.450000047683716,
+      -3.7799999713897705
+    ],
+    "unityBoundsMax": [
+      1.7799999713897705,
+      4.610000133514404,
+      -2.379999876022339
+    ]
+  },
+  {
+    "name": "StudyWritingDesk",
+    "triangles": 324,
+    "nonmanifold": 0,
+    "volume": 0.08924172926095975,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.299999952316284,
+      3.440000057220459,
+      1.5099999904632568
+    ],
+    "unityBoundsMax": [
+      3.799999952316284,
+      4.289999961853027,
+      2.5299999713897705
+    ]
+  },
+  {
+    "name": "MedicalLibraryShelves",
+    "triangles": 648,
+    "nonmanifold": 0,
+    "volume": 0.34981007937462977,
+    "degenerateUVTriangles": 0,
+    "unityBoundsMin": [
+      3.3899998664855957,
+      3.43999981880188,
+      3.440000057220459
+    ],
+    "unityBoundsMax": [
+      3.7799999713897705,
+      5.460000038146973,
+      4.559999942779541
+    ]
+  }
+]

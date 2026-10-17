@@ -1,0 +1,10 @@
+{
+  "baselineFiles": 1558,
+  "changedExistingFiles": [],
+  "deletedExistingFiles": [],
+  "approvedBenchmarkUnchanged": true,
+  "priorScenesUnchanged": true,
+  "originalKitSourcesAndPrefabsUnchanged": true,
+  "gameplayAndProjectSettingsUnchanged": true,
+  "notes": "Unity synchronized the shared roof material legacy _MainTex field during editing. Its exact pre-task bytes were restored; approved _BaseMap and appearance were never changed. No commits made."
+}
