@@ -1,0 +1,73 @@
+{
+  "modules": [
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 1296,
+      "importError": 1.527369E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 876,
+      "importError": 9.685755E-08
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 876,
+      "importError": 8.971687E-08
+    },
+    {
+      "name": "CM_PairedWindowBay02_ArchedHood_Optional",
+      "triangles": 660,
+      "importError": 1.56462193E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 1116,
+      "importError": 1.4171107E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 1116,
+      "importError": 4.875009E-08
+    },
+    {
+      "name": "CM_PairedWindowBay02_Sill",
+      "triangles": 148,
+      "importError": 1.49011612E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_PlanterBrackets",
+      "triangles": 328,
+      "importError": 1.074538E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 648,
+      "importError": 1.78813934E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_FacadeInfill_4p5m",
+      "triangles": 340,
+      "importError": 3.27825546E-07
+    },
+    {
+      "name": "CM_PairedWindowBay02_WideHeader_4p5m",
+      "triangles": 108,
+      "importError": 3.27825546E-07
+    }
+  ],
+  "libraryTriangles": 7512,
+  "defaultWindowTriangles": 6424,
+  "defaultFacadeAssemblyTriangles": 7340,
+  "optionalHoodTriangles": 660,
+  "maximumImportErrorMetres": 3.27825546E-07,
+  "roughOpeningProbes": 7,
+  "roughOpeningProbesPassed": true,
+  "sourceFloorRise": 3.24,
+  "postCentreSpan": 4.5,
+  "colliders": 0,
+  "missingComponents": 0,
+  "activeWindowRenderers": 9,
+  "compiling": false,
+  "scene": "Assets/Scenes/CM_PairedWindowBay02_ArtReview.unity"
+}

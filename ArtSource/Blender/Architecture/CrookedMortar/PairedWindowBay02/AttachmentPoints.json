@@ -1,0 +1,66 @@
+[
+  {
+    "name": "FloorDatum",
+    "position": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "FloorAbove",
+    "position": [
+      0,
+      3.24,
+      0
+    ]
+  },
+  {
+    "name": "GridLeft",
+    "position": [
+      -2.25,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "GridRight",
+    "position": [
+      2.25,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "ShutterHinge_L",
+    "position": [
+      -0.99,
+      1.11,
+      0.16
+    ]
+  },
+  {
+    "name": "ShutterHinge_R",
+    "position": [
+      0.99,
+      1.11,
+      0.16
+    ]
+  },
+  {
+    "name": "Planter",
+    "position": [
+      0,
+      0.65,
+      0.37
+    ]
+  },
+  {
+    "name": "Sill",
+    "position": [
+      0,
+      1.035,
+      0.11
+    ]
+  }
+]

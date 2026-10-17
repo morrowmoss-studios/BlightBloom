@@ -1,0 +1,2634 @@
+[
+  {
+    "name": "CM_BotanicalPlanterKit01_Pot_Small",
+    "kind": "Container",
+    "notes": "Hollow hand-shaped terracotta; plant root socket at soil surface.",
+    "soilHeight": 0.2688,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.2688,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Pot_Small_HollowTerracotta",
+      "CM_BotanicalPlanterKit01_Pot_Small_RecessedSoil"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Pot_Small.fbx",
+        "triangles": 344
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Pot_Medium",
+    "kind": "Container",
+    "notes": "Hollow hand-shaped terracotta; plant root socket at soil surface.",
+    "soilHeight": 0.3864,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.3864,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Pot_Medium_HollowTerracotta",
+      "CM_BotanicalPlanterKit01_Pot_Medium_RecessedSoil"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Pot_Medium.fbx",
+        "triangles": 344
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Pot_Large",
+    "kind": "Container",
+    "notes": "Hollow hand-shaped terracotta; plant root socket at soil surface.",
+    "soilHeight": 0.5207999999999999,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.5207999999999999,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Pot_Large_HollowTerracotta",
+      "CM_BotanicalPlanterKit01_Pot_Large_RecessedSoil"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Pot_Large.fbx",
+        "triangles": 344
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WoodBucket",
+    "kind": "Container",
+    "notes": "Open hollow walnut bucket, two restrained hoops.",
+    "soilHeight": 0.32,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.32,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WoodBucket_OpenWoodenContainer",
+      "CM_BotanicalPlanterKit01_WoodBucket_TimberHoop",
+      "CM_BotanicalPlanterKit01_WoodBucket_TimberHoop.001",
+      "CM_BotanicalPlanterKit01_WoodBucket_Soil"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WoodBucket.fbx",
+        "triangles": 368
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_HerbTray",
+    "kind": "Container",
+    "notes": "Independent walnut window box or herb tray; soil/root socket at top interior.",
+    "soilHeight": 0.192,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.192,
+          0
+        ]
+      },
+      {
+        "name": "WallMount",
+        "position": [
+          0,
+          0.108,
+          -0.19
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_HerbTray_Bottom",
+      "CM_BotanicalPlanterKit01_HerbTray_Front",
+      "CM_BotanicalPlanterKit01_HerbTray_Back",
+      "CM_BotanicalPlanterKit01_HerbTray_End",
+      "CM_BotanicalPlanterKit01_HerbTray_End.001",
+      "CM_BotanicalPlanterKit01_HerbTray_Soil",
+      "CM_BotanicalPlanterKit01_HerbTray_BoxAttachmentBackCleat",
+      "CM_BotanicalPlanterKit01_HerbTray_BoxAttachmentBackCleat.001"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_HerbTray.fbx",
+        "triangles": 352
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowBox_1p76m",
+    "kind": "Container",
+    "notes": "Independent walnut window box or herb tray; soil/root socket at top interior.",
+    "soilHeight": 0.24,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.24,
+          0
+        ]
+      },
+      {
+        "name": "WallMount",
+        "position": [
+          0,
+          0.135,
+          -0.19
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_Bottom",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_Front",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_Back",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_End",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_End.001",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_Soil",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_BoxAttachmentBackCleat",
+      "CM_BotanicalPlanterKit01_WindowBox_1p76m_BoxAttachmentBackCleat.001"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowBox_1p76m.fbx",
+        "triangles": 352
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowBox_2p10m",
+    "kind": "Container",
+    "notes": "Independent walnut window box or herb tray; soil/root socket at top interior.",
+    "soilHeight": 0.22400000000000003,
+    "sockets": [
+      {
+        "name": "PlantRoot",
+        "position": [
+          0,
+          0.22400000000000003,
+          0
+        ]
+      },
+      {
+        "name": "WallMount",
+        "position": [
+          0,
+          0.12600000000000003,
+          -0.195
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_Bottom",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_Front",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_Back",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_End",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_End.001",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_Soil",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_BoxAttachmentBackCleat",
+      "CM_BotanicalPlanterKit01_WindowBox_2p10m_BoxAttachmentBackCleat.001"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowBox_2p10m.fbx",
+        "triangles": 352
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Lavender_A",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_A_Lavender_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Lavender_A.fbx",
+        "triangles": 730
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Lavender_A_Reduced.fbx",
+        "triangles": 490
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Lavender_B",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Plant_Lavender_B_Lavender_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Lavender_B.fbx",
+        "triangles": 730
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Lavender_B_Reduced.fbx",
+        "triangles": 490
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Sage_A",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Sage_A_Sage_Leaf.019"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Sage_A.fbx",
+        "triangles": 610
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Sage_A_Reduced.fbx",
+        "triangles": 370
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Sage_B",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Sage_B_Sage_Leaf.019"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Sage_B.fbx",
+        "triangles": 610
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Sage_B_Reduced.fbx",
+        "triangles": 370
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Rosemary_A",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Rosemary_ShapedSprig.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Rosemary_A.fbx",
+        "triangles": 250
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Rosemary_A_Reduced.fbx",
+        "triangles": 202
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Rosemary_B",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Rosemary_ShapedSprig.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Rosemary_B.fbx",
+        "triangles": 250
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Rosemary_B_Reduced.fbx",
+        "triangles": 178
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Thyme_A",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_A_Thyme_ShapedSprig.005"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Thyme_A.fbx",
+        "triangles": 300
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Thyme_A_Reduced.fbx",
+        "triangles": 228
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Thyme_B",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Plant_Thyme_B_Thyme_ShapedSprig.005"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Thyme_B.fbx",
+        "triangles": 300
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Thyme_B_Reduced.fbx",
+        "triangles": 228
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Chamomile_A",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Chamomile_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Chamomile_A.fbx",
+        "triangles": 730
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Chamomile_A_Reduced.fbx",
+        "triangles": 490
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Plant_Chamomile_B",
+    "kind": "Plant",
+    "notes": "Root pivot; shaped bent individual foliage, no crossed whole-plant planes.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Chamomile_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Chamomile_B.fbx",
+        "triangles": 730
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Plant_Chamomile_B_Reduced.fbx",
+        "triangles": 490
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small",
+    "kind": "Plant",
+    "notes": "Centred root datum; fits existing approved window-box soil footprints without replacing architecture.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Chamomile_Flower.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.040",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.041",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.042",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.043",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.044",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.045",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.046",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.047",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.048",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.049",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.050",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.051",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.052",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.053",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.054",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.055",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.056",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.057",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.058",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Leaf.059",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Lavender_Flower.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Thyme_ShapedSprig.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Sage_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxStem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxStem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_TrailingBoxIvy.013"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small.fbx",
+        "triangles": 5858
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Reduced.fbx",
+        "triangles": 3866
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small",
+    "kind": "Plant",
+    "notes": "Centred root datum; fits existing approved window-box soil footprints without replacing architecture.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_Stem.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Thyme_ShapedSprig.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.040",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.041",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.042",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.043",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.044",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.045",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.046",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.047",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.048",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.049",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.050",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.051",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.052",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.053",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.054",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.055",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.056",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.057",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.058",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.059",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Rosemary_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.060",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.061",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.062",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.063",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.064",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.065",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.066",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.067",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.068",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.069",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.070",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.071",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.072",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.073",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.074",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.075",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Stem.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.076",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.077",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.078",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Sage_Leaf.079",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxStem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxStem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_TrailingBoxIvy.013"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small.fbx",
+        "triangles": 4228
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Reduced.fbx",
+        "triangles": 2764
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired",
+    "kind": "Plant",
+    "notes": "Centred root datum; fits existing approved window-box soil footprints without replacing architecture.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Chamomile_Flower.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.040",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.041",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.042",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.043",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.044",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.045",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.046",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.047",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.048",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.049",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.050",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.051",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.052",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.053",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.054",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.055",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.056",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.057",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.058",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Leaf.059",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Lavender_Flower.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Thyme_ShapedSprig.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Sage_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxStem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxStem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_TrailingBoxIvy.013"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired.fbx",
+        "triangles": 5858
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Reduced.fbx",
+        "triangles": 3866
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired",
+    "kind": "Plant",
+    "notes": "Centred root datum; fits existing approved window-box soil footprints without replacing architecture.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.020",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.021",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.022",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.023",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.024",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.025",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.026",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.027",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.028",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.029",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.030",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.031",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.032",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.033",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.034",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.035",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.036",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.037",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.038",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.039",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_Stem.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Thyme_ShapedSprig.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.040",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.041",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.042",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.043",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.044",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.045",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.046",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.047",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.048",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.049",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.050",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.051",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.013",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.052",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.053",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.054",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.055",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.014",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.056",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.057",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.058",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.059",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_Stem.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Rosemary_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.015",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.060",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.061",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.062",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.063",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.016",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.064",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.065",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.066",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.067",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.017",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.068",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.069",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.070",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.071",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.018",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.072",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.073",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.074",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.075",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Stem.019",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.076",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.077",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.078",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Sage_Leaf.079",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxStem",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.002",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.003",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.004",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.005",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.006",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxStem.001",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.007",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.008",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.009",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.010",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.011",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.012",
+      "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_TrailingBoxIvy.013"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired.fbx",
+        "triangles": 4228
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Reduced.fbx",
+        "triangles": 2764
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Ivy_Wall_A",
+    "kind": "Vine",
+    "notes": "Mount datum follows stem start, +Z stand-off; asymmetric shaped ivy leaves.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Mount",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          0.09,
+          1.4,
+          0.03
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_Stem",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.001",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.002",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.003",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.004",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.005",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.006",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.007",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.008",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.009",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.010",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.011",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.012",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.013",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.014",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.015",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.016",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_A_Wall_A_IvyLeaf.017"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Wall_A.fbx",
+        "triangles": 468
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Wall_A_Reduced.fbx",
+        "triangles": 252
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Ivy_Wall_B",
+    "kind": "Vine",
+    "notes": "Mount datum follows stem start, +Z stand-off; asymmetric shaped ivy leaves.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Mount",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          -0.22,
+          1.28,
+          0.06
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_Stem",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.001",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.002",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.003",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.004",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.005",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.006",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.007",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.008",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.009",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.010",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.011",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.012",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.013",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.014",
+      "CM_BotanicalPlanterKit01_Ivy_Wall_B_Wall_B_IvyLeaf.015"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Wall_B.fbx",
+        "triangles": 420
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Wall_B_Reduced.fbx",
+        "triangles": 228
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Ivy_Corner90",
+    "kind": "Vine",
+    "notes": "Mount datum follows stem start, +Z stand-off; asymmetric shaped ivy leaves.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Mount",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          0.06,
+          1.45,
+          0.04
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_Stem",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.001",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.002",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.003",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.004",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.005",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.006",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.007",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.008",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.009",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.010",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.011",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.012",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.013",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.014",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.015",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.016",
+      "CM_BotanicalPlanterKit01_Ivy_Corner90_Corner90_IvyLeaf.017"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Corner90.fbx",
+        "triangles": 468
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Corner90_Reduced.fbx",
+        "triangles": 252
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Ivy_BeamDrape",
+    "kind": "Vine",
+    "notes": "Mount datum follows stem start, +Z stand-off; asymmetric shaped ivy leaves.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Mount",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          0.68,
+          -0.35,
+          0.09
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_Stem",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.001",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.002",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.003",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.004",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.005",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.006",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.007",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.008",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.009",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.010",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.011",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.012",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.013",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.014",
+      "CM_BotanicalPlanterKit01_Ivy_BeamDrape_BeamDrape_IvyLeaf.015"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_BeamDrape.fbx",
+        "triangles": 420
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_BeamDrape_Reduced.fbx",
+        "triangles": 228
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Ivy_Trailing",
+    "kind": "Vine",
+    "notes": "Mount datum follows stem start, +Z stand-off; asymmetric shaped ivy leaves.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Mount",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          0.1,
+          -1.03,
+          0.14
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_Stem",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.001",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.002",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.003",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.004",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.005",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.006",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.007",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.008",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.009",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.010",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.011",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.012",
+      "CM_BotanicalPlanterKit01_Ivy_Trailing_Trailing_IvyLeaf.013"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Trailing.fbx",
+        "triangles": 372
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Ivy_Trailing_Reduced.fbx",
+        "triangles": 204
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Hanging_Lavender",
+    "kind": "Hanging",
+    "notes": "Top rope socket; hangs downward. Dried foliage separately tinted; no collider.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Hang",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_HangingLoop",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.004",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.005",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.020",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.021",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.022",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.023",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.005",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.006",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.024",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.025",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.026",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.027",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.006",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.007",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.028",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.029",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.030",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.031",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.007",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.008",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.032",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.033",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.034",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.035",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.008",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Stem.009",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.036",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.037",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.038",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Leaf.039",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Lavender_Flower.009",
+      "CM_BotanicalPlanterKit01_Hanging_Lavender_Binding"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Lavender.fbx",
+        "triangles": 1562
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Lavender_Reduced.fbx",
+        "triangles": 1082
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Hanging_Rosemary",
+    "kind": "Hanging",
+    "notes": "Top rope socket; hangs downward. Dried foliage separately tinted; no collider.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Hang",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_HangingLoop",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.005",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.006",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.007",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.008",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_Stem.009",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Rosemary_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_Hanging_Rosemary_Binding"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Rosemary.fbx",
+        "triangles": 602
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Rosemary_Reduced.fbx",
+        "triangles": 482
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Hanging_Sage",
+    "kind": "Hanging",
+    "notes": "Top rope socket; hangs downward. Dried foliage separately tinted; no collider.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Hang",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Hanging_Sage_HangingLoop",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.005",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.020",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.021",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.022",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.023",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.006",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.024",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.025",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.026",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.027",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.007",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.028",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.029",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.030",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.031",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.008",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.032",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.033",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.034",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.035",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Stem.009",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.036",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.037",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.038",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Sage_Leaf.039",
+      "CM_BotanicalPlanterKit01_Hanging_Sage_Binding"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Sage.fbx",
+        "triangles": 1322
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Sage_Reduced.fbx",
+        "triangles": 842
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Hanging_Mixed",
+    "kind": "Hanging",
+    "notes": "Top rope socket; hangs downward. Dried foliage separately tinted; no collider.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Hang",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_HangingLoop",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Lavender_Flower.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Rosemary_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_Hanging_Mixed_Binding"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Mixed.fbx",
+        "triangles": 1692
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Hanging_Mixed_Reduced.fbx",
+        "triangles": 1140
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Garden_HerbBed_A",
+    "kind": "Garden",
+    "notes": "Soil-level pivot; patch remains within existing beds, never adds physics.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Lavender_Flower.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Rosemary_ShapedSprig.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_HerbBed_A.fbx",
+        "triangles": 1890
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_HerbBed_A_Reduced.fbx",
+        "triangles": 1266
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Garden_HerbBed_B",
+    "kind": "Garden",
+    "notes": "Soil-level pivot; patch remains within existing beds, never adds physics.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Chamomile_Flower.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Sage_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Lavender_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_HerbBed_B.fbx",
+        "triangles": 2370
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_HerbBed_B_Reduced.fbx",
+        "triangles": 1578
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Garden_FlowerBorder",
+    "kind": "Garden",
+    "notes": "Soil-level pivot; patch remains within existing beds, never adds physics.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Stem",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Flower",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Flower.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Flower.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Flower.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Chamomile_Flower.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Stem",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Flower",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.005",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.006",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.007",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Flower.001",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.008",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.009",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.010",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.011",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Flower.002",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.012",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.013",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.014",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.015",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Flower.003",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.016",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.017",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.018",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Leaf.019",
+      "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Lavender_Flower.004"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_FlowerBorder.fbx",
+        "triangles": 1760
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_FlowerBorder_Reduced.fbx",
+        "triangles": 1208
+      }
+    ]
+  },
+  {
+    "name": "CM_BotanicalPlanterKit01_Garden_Groundcover",
+    "kind": "Garden",
+    "notes": "Soil-level pivot; patch remains within existing beds, never adds physics.",
+    "soilHeight": 0,
+    "sockets": [
+      {
+        "name": "Attach",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.001",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.001",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.002",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.002",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.003",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.003",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.004",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.004",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.005",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.005",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.006",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.006",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.007",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.007",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.008",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.008",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.009",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.009",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.010",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.010",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.011",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.011",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.012",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.012",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.013",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.013",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.014",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.014",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.015",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.015",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.016",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.016",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_Stem.017",
+      "CM_BotanicalPlanterKit01_Garden_Groundcover_Thyme_ShapedSprig.017"
+    ],
+    "lods": [
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_Groundcover.fbx",
+        "triangles": 900
+      },
+      {
+        "file": "CM_BotanicalPlanterKit01_Garden_Groundcover_Reduced.fbx",
+        "triangles": 684
+      }
+    ]
+  }
+]

@@ -1,0 +1,506 @@
+{
+  "parts": [
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Jamb_-1_-1",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.023100510562872455,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Jamb_-1_1",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.02310050149845029,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Rail_-1_1.11",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.010317689944748076,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Rail_-1_2.71",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.010317717692782532,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Jamb_1_-1",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.02310050150986162,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Jamb_1_1",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.023100510721849606,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Rail_1_1.11",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.010317689944748068,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_Rail_1_2.71",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.010317717692782495,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_CentralHousedPost",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.04736301930034948,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FixedFrame_CommonLintel",
+      "module": "CM_PairedWindowBay02_FixedFrame",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.05824371860410965,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_PaintedWarmGlazing",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.017438005871075947,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_CentralGlazingBar",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.004631951888319396,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_RebatedLeafRail",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.0014663754479673757,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_RebatedLeafRail.001",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.0014663659245959084,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_RebatedLeafStile",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.003395685393664357,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_RebatedLeafStile.001",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.0033956885865251557,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_L_SmallLatch",
+      "module": "CM_PairedWindowBay02_Casement_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 6.71219364340459e-05,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_PaintedWarmGlazing",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.017438005871076072,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_CentralGlazingBar",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.004631954643032668,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_RebatedLeafRail",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.0014663754479673722,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_RebatedLeafRail.001",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.001466365924595916,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_RebatedLeafStile",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.0033956885138678675,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_RebatedLeafStile.001",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 132,
+      "nonmanifold": 0,
+      "volume": 0.003395685393664369,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Casement_R_SmallLatch",
+      "module": "CM_PairedWindowBay02_Casement_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 6.71219364340459e-05,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_ArchedHood_Optional_ContinuousShallowArch",
+      "module": "CM_PairedWindowBay02_ArchedHood_Optional",
+      "triangles": 660,
+      "nonmanifold": 0,
+      "volume": 0.00887564118876356,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_SagePlank_0",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.019667083029502947,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_SagePlank_1",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.02138749604413887,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_SagePlank_2",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.022291049164425362,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_RearCrossRail",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.00284738639077845,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_HingeStrap",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.00028469627162768267,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_RearCrossRail.001",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.002847390494172361,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_HingeStrap.001",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.00028469652172194914,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_HingeKnuckle",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.0001730157596590581,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_L_HingeKnuckle.001",
+      "module": "CM_PairedWindowBay02_Shutter_L",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.0001730155672258261,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_SagePlank_0",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.019667083078044423,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_SagePlank_1",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.0213874962504651,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_SagePlank_2",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 156,
+      "nonmanifold": 0,
+      "volume": 0.022291049310942328,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_RearCrossRail",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.002847386390778448,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_HingeStrap",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.0002846962716276909,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_RearCrossRail.001",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.0028473904941723575,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_HingeStrap.001",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.0002846965217219561,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_HingeKnuckle",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.00017301575965905777,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Shutter_R_HingeKnuckle.001",
+      "module": "CM_PairedWindowBay02_Shutter_R",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.00017301556722582544,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_Sill_WaterShedSill",
+      "module": "CM_PairedWindowBay02_Sill",
+      "triangles": 148,
+      "nonmanifold": 0,
+      "volume": 0.13672951614718337,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_PlanterBrackets_HousedCorbel",
+      "module": "CM_PairedWindowBay02_PlanterBrackets",
+      "triangles": 164,
+      "nonmanifold": 0,
+      "volume": 0.004459469662652307,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_PlanterBrackets_HousedCorbel.001",
+      "module": "CM_PairedWindowBay02_PlanterBrackets",
+      "triangles": 164,
+      "nonmanifold": 0,
+      "volume": 0.004459469662652305,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_Base",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.03019101671327723,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_FrontTaperedBoard",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.025567676911673498,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_BackTaperedBoard",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.025603762141833644,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_EndCheek",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.006308236703561643,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_EndCheek.001",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.006308236703561636,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FlowerBox_RecessedSoil",
+      "module": "CM_PairedWindowBay02_FlowerBox",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.01469241103986682,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_FacadeInfill_4p5m_IvoryPlasterWithTrueOpenings",
+      "module": "CM_PairedWindowBay02_FacadeInfill_4p5m",
+      "triangles": 340,
+      "nonmanifold": 0,
+      "volume": 2.5917156315299787,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    },
+    {
+      "name": "CM_PairedWindowBay02_WideHeader_4p5m_WalnutHeader",
+      "module": "CM_PairedWindowBay02_WideHeader_4p5m",
+      "triangles": 108,
+      "nonmanifold": 0,
+      "volume": 0.39907517939528814,
+      "degenerateTriangles": 0,
+      "degenerateUVs": 0
+    }
+  ],
+  "dimensions": {
+    "floorRise": 3.24,
+    "hostGridWidth": 4.5,
+    "wallThickness": 0.28,
+    "casementCentres": [
+      -0.49,
+      0.49
+    ],
+    "casementWidth": 0.76,
+    "casementHeight": 1.6,
+    "base": 1.11,
+    "top": 2.71
+  },
+  "up": "Unity+Y",
+  "front": "Unity+Z",
+  "uniqueAtlas": 2048
+}

@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1728109790014755159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3424334838270987894}
+  m_Layer: 0
+  m_Name: CM_BotanicalPlanterKit01_Potted_Rosemary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3424334838270987894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728109790014755159}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6542748206663347723}
+  - {fileID: 2803712415510768136}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2701880490607134416
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3424334838270987894}
+    m_Modifications:
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.3864
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4289775156800261907, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+      propertyPath: m_Name
+      value: CM_BotanicalPlanterKit01_Plant_Rosemary_A
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+--- !u!4 &2803712415510768136 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 258895869358468312, guid: 6217ace45f7604db689a6f856bb8ff90, type: 3}
+  m_PrefabInstance: {fileID: 2701880490607134416}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4438874116240467125
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3424334838270987894}
+    m_Modifications:
+    - target: {fileID: 7435650065652112266, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_Name
+      value: CM_BotanicalPlanterKit01_Pot_Medium
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+--- !u!4 &6542748206663347723 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7446295893320288958, guid: 86247bc905dfc47e396690fc13b80607, type: 3}
+  m_PrefabInstance: {fileID: 4438874116240467125}
+  m_PrefabAsset: {fileID: 0}

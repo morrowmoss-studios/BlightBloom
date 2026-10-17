@@ -1,0 +1,15 @@
+{
+  "solidSourceParts": 418,
+  "openShapedLeafParts": 1226,
+  "sourceTriangles": 42114,
+  "degenerateGeometryOrUVs": 0,
+  "invalidNormals": 0,
+  "foliageLOD0Triangles": 39658,
+  "foliageLOD1Triangles": 26242,
+  "foliageLODReductionFraction": 0.33829240002017247,
+  "alphaAcceptedSampledLeafAreaFraction": 0.7405423831242883,
+  "alphaCutoff": 0.42,
+  "stemPaintPatchesOpaque": true,
+  "uniquePaintingAtlas": false,
+  "notes": "Intentional shared leaf-sprite and paint-trim UV reuse. Alpha-area sampling estimates mask waste on leaf surfaces, not screen-space overlap or GPU frame time; open foliage boundaries are intentional."
+}

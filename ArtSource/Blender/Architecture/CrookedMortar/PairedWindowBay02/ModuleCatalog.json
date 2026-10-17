@@ -1,0 +1,243 @@
+[
+  {
+    "name": "CM_PairedWindowBay02_FixedFrame",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "Approved rectangular pair: centres +/-0.49m; each frame-centre width .76m, height1.60m, sill datum1.11m. Central housed stile .135m.",
+    "parts": [
+      "CM_PairedWindowBay02_FixedFrame_Jamb_-1_-1",
+      "CM_PairedWindowBay02_FixedFrame_Jamb_-1_1",
+      "CM_PairedWindowBay02_FixedFrame_Rail_-1_1.11",
+      "CM_PairedWindowBay02_FixedFrame_Rail_-1_2.71",
+      "CM_PairedWindowBay02_FixedFrame_Jamb_1_-1",
+      "CM_PairedWindowBay02_FixedFrame_Jamb_1_1",
+      "CM_PairedWindowBay02_FixedFrame_Rail_1_1.11",
+      "CM_PairedWindowBay02_FixedFrame_Rail_1_2.71",
+      "CM_PairedWindowBay02_FixedFrame_CentralHousedPost",
+      "CM_PairedWindowBay02_FixedFrame_CommonLintel"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_Casement_L",
+    "pivot": [
+      -0.805,
+      1.16,
+      0.09
+    ],
+    "placement": [
+      -0.805,
+      1.16,
+      0.09
+    ],
+    "rotationY": 0,
+    "notes": "Closed left casement insert; hinge pivot for later authoring, no behaviour.",
+    "parts": [
+      "CM_PairedWindowBay02_Casement_L_PaintedWarmGlazing",
+      "CM_PairedWindowBay02_Casement_L_CentralGlazingBar",
+      "CM_PairedWindowBay02_Casement_L_RebatedLeafRail",
+      "CM_PairedWindowBay02_Casement_L_RebatedLeafRail.001",
+      "CM_PairedWindowBay02_Casement_L_RebatedLeafStile",
+      "CM_PairedWindowBay02_Casement_L_RebatedLeafStile.001",
+      "CM_PairedWindowBay02_Casement_L_SmallLatch"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_Casement_R",
+    "pivot": [
+      0.805,
+      1.16,
+      0.09
+    ],
+    "placement": [
+      0.805,
+      1.16,
+      0.09
+    ],
+    "rotationY": 0,
+    "notes": "",
+    "parts": [
+      "CM_PairedWindowBay02_Casement_R_PaintedWarmGlazing",
+      "CM_PairedWindowBay02_Casement_R_CentralGlazingBar",
+      "CM_PairedWindowBay02_Casement_R_RebatedLeafRail",
+      "CM_PairedWindowBay02_Casement_R_RebatedLeafRail.001",
+      "CM_PairedWindowBay02_Casement_R_RebatedLeafStile",
+      "CM_PairedWindowBay02_Casement_R_RebatedLeafStile.001",
+      "CM_PairedWindowBay02_Casement_R_SmallLatch"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_ArchedHood_Optional",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "Quiet segmental hood; off by default to preserve the benchmark rectangular front elevation.",
+    "parts": [
+      "CM_PairedWindowBay02_ArchedHood_Optional_ContinuousShallowArch"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_Shutter_L",
+    "pivot": [
+      -0.99,
+      1.11,
+      0.16
+    ],
+    "placement": [
+      -0.99,
+      1.11,
+      0.16
+    ],
+    "rotationY": -153,
+    "notes": "Detachable .96m curved-top plank shutter with actual hinge pivot; default opens153deg. Matching individual planks, rails and straps.",
+    "parts": [
+      "CM_PairedWindowBay02_Shutter_L_SagePlank_0",
+      "CM_PairedWindowBay02_Shutter_L_SagePlank_1",
+      "CM_PairedWindowBay02_Shutter_L_SagePlank_2",
+      "CM_PairedWindowBay02_Shutter_L_RearCrossRail",
+      "CM_PairedWindowBay02_Shutter_L_HingeStrap",
+      "CM_PairedWindowBay02_Shutter_L_RearCrossRail.001",
+      "CM_PairedWindowBay02_Shutter_L_HingeStrap.001",
+      "CM_PairedWindowBay02_Shutter_L_HingeKnuckle",
+      "CM_PairedWindowBay02_Shutter_L_HingeKnuckle.001"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_Shutter_R",
+    "pivot": [
+      0.99,
+      1.11,
+      0.16
+    ],
+    "placement": [
+      0.99,
+      1.11,
+      0.16
+    ],
+    "rotationY": 153,
+    "notes": "Detachable .96m curved-top plank shutter with actual hinge pivot; default opens153deg. Matching individual planks, rails and straps.",
+    "parts": [
+      "CM_PairedWindowBay02_Shutter_R_SagePlank_0",
+      "CM_PairedWindowBay02_Shutter_R_SagePlank_1",
+      "CM_PairedWindowBay02_Shutter_R_SagePlank_2",
+      "CM_PairedWindowBay02_Shutter_R_RearCrossRail",
+      "CM_PairedWindowBay02_Shutter_R_HingeStrap",
+      "CM_PairedWindowBay02_Shutter_R_RearCrossRail.001",
+      "CM_PairedWindowBay02_Shutter_R_HingeStrap.001",
+      "CM_PairedWindowBay02_Shutter_R_HingeKnuckle",
+      "CM_PairedWindowBay02_Shutter_R_HingeKnuckle.001"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_Sill",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "Projecting sill2.04m wide; bottom drip bevel; independent toggle.",
+    "parts": [
+      "CM_PairedWindowBay02_Sill_WaterShedSill"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_PlanterBrackets",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "Two seated corbels support planter bottom at y.65; independent from sill.",
+    "parts": [
+      "CM_PairedWindowBay02_PlanterBrackets_HousedCorbel",
+      "CM_PairedWindowBay02_PlanterBrackets_HousedCorbel.001"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_FlowerBox",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "Open-top fitted wooden planter; soil separate mesh, no mandatory flowers. 2.1m wide approved scale.",
+    "parts": [
+      "CM_PairedWindowBay02_FlowerBox_Base",
+      "CM_PairedWindowBay02_FlowerBox_FrontTaperedBoard",
+      "CM_PairedWindowBay02_FlowerBox_BackTaperedBoard",
+      "CM_PairedWindowBay02_FlowerBox_EndCheek",
+      "CM_PairedWindowBay02_FlowerBox_EndCheek.001",
+      "CM_PairedWindowBay02_FlowerBox_RecessedSoil"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_FacadeInfill_4p5m",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "4.5m post-centre span /3.24m floor rise; .28m plaster, two true .84x1.69m openings. Wide header omits an obstructing intermediate post.",
+    "parts": [
+      "CM_PairedWindowBay02_FacadeInfill_4p5m_IvoryPlasterWithTrueOpenings"
+    ]
+  },
+  {
+    "name": "CM_PairedWindowBay02_WideHeader_4p5m",
+    "pivot": [
+      0,
+      0,
+      0
+    ],
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "rotationY": 0,
+    "notes": "4.32m shoulder length plus shared .18m posts gives4.5m grid. Same facade .22m height/.42m depth.",
+    "parts": [
+      "CM_PairedWindowBay02_WideHeader_4p5m_WalnutHeader"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "tool": "Built-in image_gen",
+  "prompt": "Production transparent RGBA game foliage atlas, SQUARE image arranged as EXACTLY 4 equal columns by 2 equal rows, eight isolated painted botanical elements, NO grid lines, NO text, NO labels. Each element centered inside its own equal cell with 15 percent transparent margins on all four sides, entirely separate, not touching other cells. All stems oriented base toward bottom of cell, tip toward top. Top row left-to-right: 1 single lobed five-point English ivy leaf with short petiole; 2 single broad oval sage leaf with simple central vein and gentle folded painted volume; 3 small narrow rosemary sprig with about six pairs of fine needle leaves; 4 one lavender flower spike with small clustered purple flowers on a short green stem. Bottom row left-to-right: 5 a short branching thyme sprig with tiny rounded leaves; 6 one chamomile flower seen slightly from above, ivory petals and subdued ochre centre, short stem; 7 dried lavender spike muted dusty purple and straw stem; 8 dried sage leaf muted olive and ochre. Mature Gothic storybook apothecary art, traditional 1990s animated-background gouache, quiet intentional broad brushwork, simplified readable shapes, muted sage/moss greens, restrained lavender purple, creamy white, earthy straw colours. Deliberately illustrated, NOT photorealistic, no photographic noise, no gloss, no heavy outline, no harsh shadows, no black fringes, no blur. Real alpha transparency in all empty spaces and between the sprig leaves, no checkerboard painted into image. This is an atlas for individually shaped low-poly leaf and flower meshes; not a scene or a collection of full plants.",
+  "sourceImage": "CM_BotanicalElements01.png",
+  "sourceResolution": [
+    1254,
+    1254
+  ],
+  "referenceArtwork": "Existing CM_BotanicalCards06.png and approved StyledDetails07 botanical arrangements; new isolated sprites needed for shaped multidirectional meshes.",
+  "containerPaintSource": "ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "alpha": "True source alpha; Unity cutout .42, double sided, depth writing, preserve mip coverage",
+  "spriteNames": [
+    "Ivy",
+    "Sage",
+    "Rosemary",
+    "Lavender",
+    "Thyme",
+    "Chamomile",
+    "DriedLavender",
+    "DriedSage"
+  ],
+  "editing": "Flat editable PNG source and packed images in Blender; generated output is not a layered PSD. Keep measured UV regions stable when repainting."
+}

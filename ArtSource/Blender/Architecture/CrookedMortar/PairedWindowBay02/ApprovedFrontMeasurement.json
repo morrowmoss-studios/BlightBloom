@@ -1,0 +1,43 @@
+{
+  "reference_scene": "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity",
+  "measurement_basis": [
+    "MassingRefinements05/build_refinements.py rectangular paired casement constants",
+    "StyledProof06/build_styled_proof.py front post, sill, box and floor datums",
+    "Read-only Unity scene renderer bounds and approved Front.png"
+  ],
+  "approved_pair_world_centres": [
+    -0.95,
+    0.03
+  ],
+  "approved_pair_world_base": 4.55,
+  "approved_pair_world_top": 6.15,
+  "upper_finished_floor": 3.44,
+  "ground_finished_floor": 0.2,
+  "floor_rise": 3.24,
+  "local_pair_centres": [
+    -0.49,
+    0.49
+  ],
+  "local_pair_frame_centre_width": 0.76,
+  "local_pair_base": 1.11,
+  "local_pair_top": 2.71,
+  "approved_front_shutter_world_bounds_y": [
+    4.609,
+    5.929
+  ],
+  "new_shutter_local_bounds_y": [
+    1.17,
+    2.49
+  ],
+  "module_up": "Unity+Y",
+  "module_exterior": "Unity+Z",
+  "reference_only_placement": {
+    "position": [
+      -0.46,
+      3.44,
+      -4.2
+    ],
+    "yaw": 180
+  },
+  "installation": "Not performed; verify facade plane and host opening in a future authorized integration."
+}

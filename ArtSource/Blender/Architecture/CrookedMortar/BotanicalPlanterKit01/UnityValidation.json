@@ -1,0 +1,289 @@
+{
+  "modules": [
+    {
+      "name": "CM_BotanicalPlanterKit01_Pot_Small",
+      "lodTriangles": [
+        344
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Pot_Medium",
+      "lodTriangles": [
+        344
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Pot_Large",
+      "lodTriangles": [
+        344
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WoodBucket",
+      "lodTriangles": [
+        368
+      ],
+      "renderersPerLOD": 3
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_HerbTray",
+      "lodTriangles": [
+        352
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowBox_1p76m",
+      "lodTriangles": [
+        352
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowBox_2p10m",
+      "lodTriangles": [
+        352
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Lavender_A",
+      "lodTriangles": [
+        730,
+        490
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Lavender_B",
+      "lodTriangles": [
+        730,
+        490
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Sage_A",
+      "lodTriangles": [
+        610,
+        370
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Sage_B",
+      "lodTriangles": [
+        610,
+        370
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Rosemary_A",
+      "lodTriangles": [
+        250,
+        202
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Rosemary_B",
+      "lodTriangles": [
+        250,
+        178
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Thyme_A",
+      "lodTriangles": [
+        300,
+        228
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Thyme_B",
+      "lodTriangles": [
+        300,
+        228
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Chamomile_A",
+      "lodTriangles": [
+        730,
+        490
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Plant_Chamomile_B",
+      "lodTriangles": [
+        730,
+        490
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small",
+      "lodTriangles": [
+        5858,
+        3866
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small",
+      "lodTriangles": [
+        4228,
+        2764
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired",
+      "lodTriangles": [
+        5858,
+        3866
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired",
+      "lodTriangles": [
+        4228,
+        2764
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Ivy_Wall_A",
+      "lodTriangles": [
+        468,
+        252
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Ivy_Wall_B",
+      "lodTriangles": [
+        420,
+        228
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Ivy_Corner90",
+      "lodTriangles": [
+        468,
+        252
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Ivy_BeamDrape",
+      "lodTriangles": [
+        420,
+        228
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Ivy_Trailing",
+      "lodTriangles": [
+        372,
+        204
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Hanging_Lavender",
+      "lodTriangles": [
+        1562,
+        1082
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Hanging_Rosemary",
+      "lodTriangles": [
+        602,
+        482
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Hanging_Sage",
+      "lodTriangles": [
+        1322,
+        842
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Hanging_Mixed",
+      "lodTriangles": [
+        1692,
+        1140
+      ],
+      "renderersPerLOD": 2
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Garden_HerbBed_A",
+      "lodTriangles": [
+        1890,
+        1266
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Garden_HerbBed_B",
+      "lodTriangles": [
+        2370,
+        1578
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Garden_FlowerBorder",
+      "lodTriangles": [
+        1760,
+        1208
+      ],
+      "renderersPerLOD": 1
+    },
+    {
+      "name": "CM_BotanicalPlanterKit01_Garden_Groundcover",
+      "lodTriangles": [
+        900,
+        684
+      ],
+      "renderersPerLOD": 1
+    }
+  ],
+  "lod0LibraryTriangles": 42114,
+  "lod1FoliageLibraryTriangles": 26242,
+  "maximumImportBoundsErrorMetres": 1.63912773E-07,
+  "alphaClip": true,
+  "alphaCutoff": 0.42,
+  "doubleSided": true,
+  "depthWrites": true,
+  "blendSortingRequired": false,
+  "mipCoveragePreserved": true,
+  "sharedMaterials": 6,
+  "integration": {
+    "protectedComponents": 53,
+    "changed": [],
+    "newColliders": 0,
+    "centralEntryVisualBoundsClear": true,
+    "placedModules": 41,
+    "lod0MaterialSlots": 47,
+    "note": "Bounds check covers central approach; unchanged colliders preserve physical routes. No exhaustive navigation simulation."
+  },
+  "compiling": false
+}

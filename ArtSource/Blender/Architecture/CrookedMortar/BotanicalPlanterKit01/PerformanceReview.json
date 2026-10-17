@@ -1,0 +1,8 @@
+{
+  "lod0InstalledTriangles": 64510,
+  "lod0Renderers": 64,
+  "lod0MaterialDrawSlots": 64,
+  "shadowPassesAdditional": true,
+  "gpuFrameTimeMeasured": false,
+  "notes": "Draw slots are an upper-bound structural estimate before culling/batching, not a frame-profiler capture. Shared Lit materials have instancing enabled. Village-scale performance still requires target-hardware profiling."
+}
