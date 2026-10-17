@@ -1,0 +1,52 @@
+{
+  "parts": 12,
+  "lod0Triangles": 3272,
+  "boundsCenter": [
+    0.0,
+    1.51,
+    0.00549999624
+  ],
+  "boundsSize": [
+    2.43,
+    2.98,
+    0.221000209
+  ],
+  "rootUnitScale": true,
+  "openingWidthAtShoes": 1.99,
+  "openingWidthAtPosts": 2.055,
+  "centerHeadroom": 2.7225,
+  "controllerHeight": 2.0,
+  "controllerRadius": 0.4,
+  "runs": [
+    {
+      "x": 0.0,
+      "end": [
+        0.0,
+        0.04,
+        -1.60000014
+      ],
+      "sideHits": 0
+    },
+    {
+      "x": -0.45,
+      "end": [
+        -0.45,
+        0.04,
+        -1.60000014
+      ],
+      "sideHits": 0
+    },
+    {
+      "x": 0.45,
+      "end": [
+        0.45,
+        0.04,
+        -1.60000014
+      ],
+      "sideHits": 0
+    }
+  ],
+  "collidersInPrefab": 0,
+  "uvAndNormals": "all present, finite, valid",
+  "attachmentSockets": 13
+}

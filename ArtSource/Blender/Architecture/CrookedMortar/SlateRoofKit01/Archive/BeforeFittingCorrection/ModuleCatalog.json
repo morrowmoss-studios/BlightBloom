@@ -1,0 +1,1021 @@
+[
+  {
+    "name": "CM_SlateRoofKit01_Panel2x2p4_35",
+    "description": "2m course width, 2.4m on-slope length, measured-family pitch 35 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          1.3765834472425105,
+          1.9659649062935802
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          1.3765834472425105,
+          1.9659649062935802
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Panel2x2p4_35_Slate",
+      "CM_SlateRoofKit01_Panel2x2p4_35_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Panel2x2p4_56p9",
+    "description": "2m course width, 2.4m on-slope length, measured-family pitch 56.9 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          2.0105249198890527,
+          1.3106447064346298
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          2.0105249198890527,
+          1.3106447064346298
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Panel2x2p4_56p9_Slate",
+      "CM_SlateRoofKit01_Panel2x2p4_56p9_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Panel2x2p4_71p1",
+    "description": "2m course width, 2.4m on-slope length, measured-family pitch 71.1 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          2.2706048611861087,
+          0.7774018036755589
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          2.2706048611861087,
+          0.7774018036755589
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Panel2x2p4_71p1_Slate",
+      "CM_SlateRoofKit01_Panel2x2p4_71p1_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Panel4x2p4_56p9",
+    "description": "4m course width, 2.4m on-slope length, measured-family pitch 56.9 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          2.0105249198890527,
+          1.3106447064346298
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          4,
+          2.0105249198890527,
+          1.3106447064346298
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Panel4x2p4_56p9_Slate",
+      "CM_SlateRoofKit01_Panel4x2p4_56p9_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43",
+    "description": "2m course width, 2.4601829200285086m on-slope length, measured-family pitch 52.43140797117251 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          1.9499999999999997,
+          1.4999999999999998
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          1.9499999999999997,
+          1.4999999999999998
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43_Slate",
+      "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Panel2x1p2_56p9",
+    "description": "2m course width, 1.2m on-slope length, measured-family pitch 56.9 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          1.0052624599445263,
+          0.6553223532173149
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          1.0052624599445263,
+          0.6553223532173149
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Panel2x1p2_56p9_Slate",
+      "CM_SlateRoofKit01_Panel2x1p2_56p9_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Course2m_35",
+    "description": "2m course width, 0.43m on-slope length, measured-family pitch 35 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          0.2466378676309498,
+          0.3522353790442665
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          0.2466378676309498,
+          0.3522353790442665
+        ]
+      },
+      {
+        "name": "NextCourse",
+        "position": [
+          0,
+          0.1720729309053138,
+          0.24574561328669753
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Course2m_35_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Course2m_56p9",
+    "description": "2m course width, 0.43m on-slope length, measured-family pitch 56.9 degrees. Bottom-left eave pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "EaveStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "EaveEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "UpSlopeStart",
+        "position": [
+          0,
+          0.3602190481467886,
+          0.2348238432362045
+        ]
+      },
+      {
+        "name": "UpSlopeEnd",
+        "position": [
+          2,
+          0.3602190481467886,
+          0.2348238432362045
+        ]
+      },
+      {
+        "name": "NextCourse",
+        "position": [
+          0,
+          0.2513156149861316,
+          0.16383058830432873
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Course2m_56p9_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_EaveFascia2m_35",
+    "description": "Walnut fascia with seated supporting ledger. Align to panel EaveStart.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_EaveFascia2m_35_Timber"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_EaveFascia2m_56p9",
+    "description": "Walnut fascia with seated supporting ledger. Align to panel EaveStart.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_EaveFascia2m_56p9_Timber"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Ridge2m_Hero",
+    "description": "Low, asymmetric slate cap fitted to adjacent slope families; ridge-centre start pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Ridge2m_Hero_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Ridge2m_Wing",
+    "description": "Low, asymmetric slate cap fitted to adjacent slope families; ridge-centre start pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Ridge2m_Wing_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Ridge2m_Secondary",
+    "description": "Low, asymmetric slate cap fitted to adjacent slope families; ridge-centre start pivot.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Ridge2m_Secondary_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Verge2m_35",
+    "description": "Walnut sloping edge and slate overcloak. Match panel outside edge, no duplicate bargeboard.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Eave",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Upper",
+        "position": [
+          0,
+          1.147152872702092,
+          1.6383040885779836
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Verge2m_35_Timber",
+      "CM_SlateRoofKit01_Verge2m_35_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Verge2m_52p43",
+    "description": "Walnut sloping edge and slate overcloak. Match panel outside edge, no duplicate bargeboard.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Eave",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Upper",
+        "position": [
+          0,
+          1.949963138812132,
+          1.5000479183259239
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Verge2m_52p43_Timber",
+      "CM_SlateRoofKit01_Verge2m_52p43_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Verge2m_56p9",
+    "description": "Walnut sloping edge and slate overcloak. Match panel outside edge, no duplicate bargeboard.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Eave",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Upper",
+        "position": [
+          0,
+          1.6754374332408775,
+          1.0922039220288582
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Verge2m_56p9_Timber",
+      "CM_SlateRoofKit01_Verge2m_56p9_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Verge2m_71p1",
+    "description": "Walnut sloping edge and slate overcloak. Match panel outside edge, no duplicate bargeboard.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Eave",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Upper",
+        "position": [
+          0,
+          1.8921707176550906,
+          0.6478348363962991
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Verge2m_71p1_Timber",
+      "CM_SlateRoofKit01_Verge2m_71p1_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Valley2m_35",
+    "description": "Slate-lined open valley, roof edges terminate at channel. Rotate/seat using intersection sockets.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "Start",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "End",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Valley2m_35_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_PitchBreak2m_71to57",
+    "description": "Bent slate apron across 71.1 to56.9 degree shoulder. Centre crease pivot; ends are along course axis.",
+    "kind": "Reusable",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "CreaseStart",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "CreaseEnd",
+        "position": [
+          2,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_PitchBreak2m_71to57_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_Hero",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      -3.22000074,
+      6.03,
+      -4.40000057
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_Hero_Slate",
+      "CM_SlateRoofKit01_Fitted_Hero_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_RearCross",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      -2.48,
+      6.2,
+      0.4999996
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_RearCross_Slate",
+      "CM_SlateRoofKit01_Fitted_RearCross_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_SubordinateCross",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      1.80000007,
+      5.99,
+      0.9999997
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_SubordinateCross_Slate",
+      "CM_SlateRoofKit01_Fitted_SubordinateCross_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_DeepEntryFold",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      -0.250000864,
+      3.17,
+      -5.80000067
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_DeepEntryFold_Slate",
+      "CM_SlateRoofKit01_Fitted_DeepEntryFold_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_LeftShopFold",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      -3.15000081,
+      3.0700000000000003,
+      -5.35
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_LeftShopFold_Slate",
+      "CM_SlateRoofKit01_Fitted_LeftShopFold_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_DisplayCatslide",
+    "description": "Exact measured visible roof surface. Keep placement from catalog; cladding thickness only, no footprint/pitch/ridge deformation.",
+    "kind": "FittedAdapter",
+    "placement": [
+      1.99999964,
+      3.3200000000000003,
+      -2.65000057
+    ],
+    "sockets": [
+      {
+        "name": "MeasuredOrigin",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_DisplayCatslide_Slate",
+      "CM_SlateRoofKit01_Fitted_DisplayCatslide_Underlay"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork",
+    "description": "Measured boundary fascia/barge pieces, merged in one reusable adapter mesh. Excludes the HeroB front rake supplied separately.",
+    "kind": "FittedAdapter",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "WorldDatum",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_EaveVergeNetwork_Timber"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_RidgeNetwork",
+    "description": "Measured ridge adapters for the approved interlocking roofs. Not a generic substitute for a different intersection.",
+    "kind": "FittedAdapter",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "WorldDatum",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_RidgeNetwork_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_ValleyNetwork",
+    "description": "Measured valley adapters for the approved interlocking roofs. Not a generic substitute for a different intersection.",
+    "kind": "FittedAdapter",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "WorldDatum",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_ValleyNetwork_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_Fitted_PitchTransitionNetwork",
+    "description": "Measured pitchtransition adapters for the approved interlocking roofs. Not a generic substitute for a different intersection.",
+    "kind": "FittedAdapter",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "WorldDatum",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_Fitted_PitchTransitionNetwork_Slate"
+    ]
+  },
+  {
+    "name": "CM_SlateRoofKit01_HeroB_GableVerge",
+    "description": "Full measured front rake with one continuous walnut band and slate overcloak. FacadeBay01 HeroB profile equivalent, placed at original roof face.",
+    "kind": "FittedAdapter",
+    "placement": [
+      0,
+      0,
+      0
+    ],
+    "sockets": [
+      {
+        "name": "LeftEave",
+        "position": [
+          -3.22,
+          6.03,
+          -4.4
+        ]
+      },
+      {
+        "name": "Apex",
+        "position": [
+          -1.05,
+          10.4,
+          -4.4
+        ]
+      },
+      {
+        "name": "RightEave",
+        "position": [
+          2.33,
+          6.08,
+          -4.4
+        ]
+      }
+    ],
+    "parts": [
+      "CM_SlateRoofKit01_HeroB_GableVerge_Timber",
+      "CM_SlateRoofKit01_HeroB_GableVerge_Slate"
+    ]
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "name": "CM_FacadeBay01_Plain_3m",
+    "grid_width": 3,
+    "height": 3.35,
+    "description": "Plaster infill, .28m thick; .18m shared post grid and .22m floor/head beams; exterior at Z=0.",
+    "parts": [
+      "CM_FacadeBay01_Plain_3m_Plaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.35,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Plain_1p5m",
+    "grid_width": 1.5,
+    "height": 3.35,
+    "description": "Plaster infill, .28m thick; .18m shared post grid and .22m floor/head beams; exterior at Z=0.",
+    "parts": [
+      "CM_FacadeBay01_Plain_1p5m_Plaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -0.75,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          0.75,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.35,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Plain_3m_Tall",
+    "grid_width": 3,
+    "height": 3.6,
+    "description": "Plaster infill, .28m thick; .18m shared post grid and .22m floor/head beams; exterior at Z=0.",
+    "parts": [
+      "CM_FacadeBay01_Plain_3m_Tall_Plaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.6,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Post_3p35m",
+    "grid_width": 0.18,
+    "height": 3.35,
+    "description": "Single shared boundary post; 0.18m width, .42m depth. No duplicate posts between bays.",
+    "parts": [
+      "CM_FacadeBay01_Post_3p35m_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.35,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Post_3p60m",
+    "grid_width": 0.18,
+    "height": 3.6,
+    "description": "Single shared boundary post; 0.18m width, .42m depth. No duplicate posts between bays.",
+    "parts": [
+      "CM_FacadeBay01_Post_3p60m_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.6,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Beam_3m",
+    "grid_width": 3,
+    "height": 0.22,
+    "description": "Between-post shoulder length grid width minus .18m; bottom-centre pivot, .22m height, .42m depth.",
+    "parts": [
+      "CM_FacadeBay01_Beam_3m_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          0.22,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Beam_1p5m",
+    "grid_width": 1.5,
+    "height": 0.22,
+    "description": "Between-post shoulder length grid width minus .18m; bottom-centre pivot, .22m height, .42m depth.",
+    "parts": [
+      "CM_FacadeBay01_Beam_1p5m_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -0.75,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          0.75,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          0.22,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Brace45_L",
+    "grid_width": 1,
+    "height": 1,
+    "description": "Flat seated end shoulders fit post face and beam underside; embedded rear depth, grain follows diagonal.",
+    "parts": [
+      "CM_FacadeBay01_Brace45_L_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "PostShoulder",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "BeamShoulder",
+        "position": [
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Brace45_R",
+    "grid_width": 1,
+    "height": 1,
+    "description": "Flat seated end shoulders fit post face and beam underside; embedded rear depth, grain follows diagonal.",
+    "parts": [
+      "CM_FacadeBay01_Brace45_R_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "PostShoulder",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "BeamShoulder",
+        "position": [
+          -1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Corner90",
+    "grid_width": 3,
+    "height": 3.35,
+    "description": "Exterior vertex pivot; walnut corner with two complete 3m grid return bays and mitred timber/plaster transitions.",
+    "parts": [
+      "CM_FacadeBay01_Corner90_Post",
+      "CM_FacadeBay01_Corner90_PlasterFront",
+      "CM_FacadeBay01_Corner90_PlasterSide",
+      "CM_FacadeBay01_Corner90_RailFront0",
+      "CM_FacadeBay01_Corner90_RailFront3.13",
+      "CM_FacadeBay01_Corner90_RailSide0",
+      "CM_FacadeBay01_Corner90_RailSide3.13"
+    ],
+    "sockets": [
+      {
+        "name": "FrontReturnEnd",
+        "position": [
+          -3,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "SideReturnEnd",
+        "position": [
+          0,
+          0,
+          -3
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.35,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_WindowOpening_3m",
+    "grid_width": 3,
+    "height": 3.35,
+    "description": "Actual 1.6m wide arch through .28m plaster. Approved WindowBay01 insert at same origin; original wall/framing/eave omitted in adapter.",
+    "parts": [
+      "CM_FacadeBay01_WindowOpening_3m_RevealedPlaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.35,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "WindowBay01_Insert",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "SillCentre",
+        "position": [
+          0,
+          1.1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Plain_3m_Benchmark",
+    "grid_width": 3,
+    "height": 3.24,
+    "description": "Plaster infill, .28m thick; .18m shared post grid and .22m floor/head beams; exterior at Z=0. Benchmark variant: 3.24m finished-floor rise.",
+    "parts": [
+      "CM_FacadeBay01_Plain_3m_Benchmark_Plaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.24,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Post_3p24m",
+    "grid_width": 0.18,
+    "height": 3.24,
+    "description": "Single shared boundary post; 0.18m width, .42m depth. No duplicate posts between bays. Benchmark variant: 3.24m finished-floor rise.",
+    "parts": [
+      "CM_FacadeBay01_Post_3p24m_Timber"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          0.09,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.24,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Corner90_Benchmark",
+    "grid_width": 3,
+    "height": 3.24,
+    "description": "Exterior vertex pivot; walnut corner with two complete 3m grid return bays and mitred timber/plaster transitions. Benchmark variant: 3.24m finished-floor rise.",
+    "parts": [
+      "CM_FacadeBay01_Corner90_Benchmark_Post",
+      "CM_FacadeBay01_Corner90_Benchmark_PlasterFront",
+      "CM_FacadeBay01_Corner90_Benchmark_PlasterSide",
+      "CM_FacadeBay01_Corner90_Benchmark_RailFront0",
+      "CM_FacadeBay01_Corner90_Benchmark_RailFront3.13",
+      "CM_FacadeBay01_Corner90_Benchmark_RailSide0",
+      "CM_FacadeBay01_Corner90_Benchmark_RailSide3.13"
+    ],
+    "sockets": [
+      {
+        "name": "FrontReturnEnd",
+        "position": [
+          -3,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "SideReturnEnd",
+        "position": [
+          0,
+          0,
+          -3
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.24,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_WindowOpening_3m_Benchmark",
+    "grid_width": 3,
+    "height": 3.24,
+    "description": "Actual 1.6m wide arch through .28m plaster. Approved WindowBay01 insert at same origin; original wall/framing/eave omitted in adapter. Benchmark variant: 3.24m finished-floor rise.",
+    "parts": [
+      "CM_FacadeBay01_WindowOpening_3m_Benchmark_RevealedPlaster"
+    ],
+    "sockets": [
+      {
+        "name": "LeftGrid",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightGrid",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "StackTop",
+        "position": [
+          0,
+          3.24,
+          0
+        ]
+      },
+      {
+        "name": "ExteriorPlane",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "WindowBay01_Insert",
+        "position": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "SillCentre",
+        "position": [
+          0,
+          1.1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Gable_HeroB",
+    "grid_width": 5.55,
+    "height": 4.37,
+    "description": "B-derived asymmetric wall-end profile; no roof surfaces. Bottom baseline pivot. Shared .28m wall depth.",
+    "parts": [
+      "CM_FacadeBay01_Gable_HeroB_Plaster",
+      "CM_FacadeBay01_Gable_HeroB_ContinuousRake",
+      "CM_FacadeBay01_Gable_HeroB_KingPost"
+    ],
+    "sockets": [
+      {
+        "name": "LeftEave",
+        "position": [
+          -2.745,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightEave",
+        "position": [
+          2.805,
+          0.05,
+          0
+        ]
+      },
+      {
+        "name": "Apex",
+        "position": [
+          -0.575,
+          4.37,
+          0
+        ]
+      }
+    ],
+    "profile_unity": [
+      [
+        -2.745,
+        0
+      ],
+      [
+        -2.275,
+        0.45
+      ],
+      [
+        -1.325,
+        3.22
+      ],
+      [
+        -0.575,
+        4.37
+      ],
+      [
+        0.075,
+        3.6
+      ],
+      [
+        2.245,
+        0.55
+      ],
+      [
+        2.805,
+        0.05
+      ]
+    ]
+  },
+  {
+    "name": "CM_FacadeBay01_Gable_Secondary",
+    "grid_width": 3,
+    "height": 1.95,
+    "description": "B-derived asymmetric wall-end profile; no roof surfaces. Bottom baseline pivot. Shared .28m wall depth.",
+    "parts": [
+      "CM_FacadeBay01_Gable_Secondary_Plaster",
+      "CM_FacadeBay01_Gable_Secondary_ContinuousRake",
+      "CM_FacadeBay01_Gable_Secondary_KingPost"
+    ],
+    "sockets": [
+      {
+        "name": "LeftEave",
+        "position": [
+          -1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "RightEave",
+        "position": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Apex",
+        "position": [
+          0,
+          1.95,
+          0
+        ]
+      }
+    ]
+  }
+]

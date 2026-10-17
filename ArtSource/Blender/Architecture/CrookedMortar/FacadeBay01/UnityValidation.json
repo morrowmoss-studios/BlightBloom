@@ -1,0 +1,149 @@
+{
+  "modules": [
+    {
+      "name": "CM_FacadeBay01_Plain_3m",
+      "parts": 1,
+      "triangles": 44,
+      "importErrorMetres": 2.10734243E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_1p5m",
+      "parts": 1,
+      "triangles": 44,
+      "importErrorMetres": 1.11510083E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_3m_Tall",
+      "parts": 1,
+      "triangles": 44,
+      "importErrorMetres": 2.10734243E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p35m",
+      "parts": 1,
+      "triangles": 180,
+      "importErrorMetres": 4.47034836E-08,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p60m",
+      "parts": 1,
+      "triangles": 180,
+      "importErrorMetres": 4.47034836E-08,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Beam_3m",
+      "parts": 1,
+      "triangles": 108,
+      "importErrorMetres": 3.26808E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Beam_1p5m",
+      "parts": 1,
+      "triangles": 108,
+      "importErrorMetres": 1.20137E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Brace45_L",
+      "parts": 1,
+      "triangles": 164,
+      "importErrorMetres": 1.51962624E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Brace45_R",
+      "parts": 1,
+      "triangles": 164,
+      "importErrorMetres": 1.34110451E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90",
+      "parts": 7,
+      "triangles": 796,
+      "importErrorMetres": 3.582482E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_WindowOpening_3m",
+      "parts": 1,
+      "triangles": 532,
+      "importErrorMetres": 2.15834E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_3m_Benchmark",
+      "parts": 1,
+      "triangles": 44,
+      "importErrorMetres": 2.10734243E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p24m",
+      "parts": 1,
+      "triangles": 180,
+      "importErrorMetres": 4.47034836E-08,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark",
+      "parts": 7,
+      "triangles": 796,
+      "importErrorMetres": 3.582482E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_WindowOpening_3m_Benchmark",
+      "parts": 1,
+      "triangles": 532,
+      "importErrorMetres": 2.15834E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_HeroB",
+      "parts": 3,
+      "triangles": 500,
+      "importErrorMetres": 4.67668627E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_Secondary",
+      "parts": 3,
+      "triangles": 328,
+      "importErrorMetres": 2.38418579E-07,
+      "unitRoot": true,
+      "sharedMatteMaterial": true
+    }
+  ],
+  "maximumImportErrorMetres": 4.67668627E-07,
+  "openingClear": true,
+  "plasterSolid": true,
+  "revealSolid": true,
+  "sceneColliders": 0,
+  "sceneBehaviourComponents": 2,
+  "sceneGameplayScripts": 0,
+  "kitPrefabCount": 19,
+  "approvedFinishedFloorRise": 3.24
+}

@@ -1,0 +1,387 @@
+{
+  "reference": "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity",
+  "modules": 29,
+  "parts": [
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_35_Slate",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_35",
+      "triangles": 1172,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.10042921216296459
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_35_Underlay",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_35",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.3931930269825746
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_56p9_Slate",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_56p9",
+      "triangles": 1180,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.06695454437098605
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_56p9_Underlay",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.26212897870466373
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_71p1_Slate",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_71p1",
+      "triangles": 1180,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.03971369391094602
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_71p1_Underlay",
+      "module": "CM_SlateRoofKit01_Panel2x2p4_71p1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.15548028583237217
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel4x2p4_56p9_Slate",
+      "module": "CM_SlateRoofKit01_Panel4x2p4_56p9",
+      "triangles": 2236,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.13388515087054254
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel4x2p4_56p9_Underlay",
+      "module": "CM_SlateRoofKit01_Panel4x2p4_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.5242579574093275
+    },
+    {
+      "name": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43_Slate",
+      "module": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43",
+      "triangles": 1256,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.07726777989248085
+    },
+    {
+      "name": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43_Underlay",
+      "module": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.30000003380700946
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x1p2_56p9_Slate",
+      "module": "CM_SlateRoofKit01_Panel2x1p2_56p9",
+      "triangles": 648,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.033661185080099874
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x1p2_56p9_Underlay",
+      "module": "CM_SlateRoofKit01_Panel2x1p2_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.13106448935233186
+    },
+    {
+      "name": "CM_SlateRoofKit01_Course2m_35_Slate",
+      "module": "CM_SlateRoofKit01_Course2m_35",
+      "triangles": 124,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.012448658716304658
+    },
+    {
+      "name": "CM_SlateRoofKit01_Course2m_56p9_Slate",
+      "module": "CM_SlateRoofKit01_Course2m_56p9",
+      "triangles": 124,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.008298945814754205
+    },
+    {
+      "name": "CM_SlateRoofKit01_EaveFascia2m_35_Timber",
+      "module": "CM_SlateRoofKit01_EaveFascia2m_35",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.04495000298246746
+    },
+    {
+      "name": "CM_SlateRoofKit01_EaveFascia2m_56p9_Timber",
+      "module": "CM_SlateRoofKit01_EaveFascia2m_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.04495000298246746
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Hero_Slate",
+      "module": "CM_SlateRoofKit01_Ridge2m_Hero",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.01152000043869017
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Wing_Slate",
+      "module": "CM_SlateRoofKit01_Ridge2m_Wing",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.011519999321103104
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Secondary_Slate",
+      "module": "CM_SlateRoofKit01_Ridge2m_Secondary",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.011519998054504436
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_35_Timber",
+      "module": "CM_SlateRoofKit01_Verge2m_35",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.027687338493007453
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_35_Slate",
+      "module": "CM_SlateRoofKit01_Verge2m_35",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.003243842799373564
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_52p43_Timber",
+      "module": "CM_SlateRoofKit01_Verge2m_52p43",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.025350808932415547
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_52p43_Slate",
+      "module": "CM_SlateRoofKit01_Verge2m_52p43",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.002970095483698425
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_56p9_Timber",
+      "module": "CM_SlateRoofKit01_Verge2m_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.018458246479919792
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_56p9_Slate",
+      "module": "CM_SlateRoofKit01_Verge2m_56p9",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.002162564305271594
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_71p1_Timber",
+      "module": "CM_SlateRoofKit01_Verge2m_71p1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.010948408341682429
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_71p1_Slate",
+      "module": "CM_SlateRoofKit01_Verge2m_71p1",
+      "triangles": 12,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.0012827132363313772
+    },
+    {
+      "name": "CM_SlateRoofKit01_Valley2m_35_Slate",
+      "module": "CM_SlateRoofKit01_Valley2m_35",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.008400000332295897
+    },
+    {
+      "name": "CM_SlateRoofKit01_PitchBreak2m_71to57_Slate",
+      "module": "CM_SlateRoofKit01_PitchBreak2m_71to57",
+      "triangles": 20,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.011519996862411563
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_Hero_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_Hero",
+      "triangles": 19364,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.7827115452672928
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_Hero_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_Hero",
+      "triangles": 520,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 3.053817523669392
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_RearCross_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_RearCross",
+      "triangles": 10012,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.5294607076703544
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_RearCross_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_RearCross",
+      "triangles": 616,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 2.0735192652619325
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_SubordinateCross_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_SubordinateCross",
+      "triangles": 3488,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.19278450807176126
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_SubordinateCross_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_SubordinateCross",
+      "triangles": 132,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.7503498084562454
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DeepEntryFold_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_DeepEntryFold",
+      "triangles": 1636,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.09406765706103037
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DeepEntryFold_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_DeepEntryFold",
+      "triangles": 72,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.3569999841757397
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_LeftShopFold_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_LeftShopFold",
+      "triangles": 1528,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.0710052265542201
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_LeftShopFold_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_LeftShopFold",
+      "triangles": 144,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.27550000754064136
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DisplayCatslide_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_DisplayCatslide",
+      "triangles": 1836,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.11651345547727308
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DisplayCatslide_Underlay",
+      "module": "CM_SlateRoofKit01_Fitted_DisplayCatslide",
+      "triangles": 68,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.4482004201575452
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork_Timber",
+      "module": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork",
+      "triangles": 1000,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.8803949059251095
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork",
+      "triangles": 36,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.023648962583745332
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_RidgeNetwork_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_RidgeNetwork",
+      "triangles": 828,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.03969147650247238
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_ValleyNetwork_Slate",
+      "module": "CM_SlateRoofKit01_Fitted_ValleyNetwork",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.007668968522516673
+    },
+    {
+      "name": "CM_SlateRoofKit01_HeroB_GableVerge_Timber",
+      "module": "CM_SlateRoofKit01_HeroB_GableVerge",
+      "triangles": 52,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.08657991279602692
+    },
+    {
+      "name": "CM_SlateRoofKit01_HeroB_GableVerge_Slate",
+      "module": "CM_SlateRoofKit01_HeroB_GableVerge",
+      "triangles": 52,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "volume": 0.01398596452523961
+    }
+  ],
+  "visibleRoofPolygons": 147,
+  "junctionSegments": 13,
+  "uv0": "Continuous gouache slate colour field in shared roof coordinates; approved walnut trim-sheet reuse.",
+  "sourcePaint": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "topology": "Closed individual solids grouped per mesh; no per-shingle GameObjects."
+}

@@ -1,0 +1,279 @@
+{
+  "parts": [
+    {
+      "name": "CM_FacadeBay01_Plain_3m_Plaster",
+      "module": "CM_FacadeBay01_Plain_3m",
+      "triangles": 44,
+      "nonmanifold_edges": 0,
+      "volume": 2.2974946414898847,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_1p5m_Plaster",
+      "module": "CM_FacadeBay01_Plain_1p5m",
+      "triangles": 44,
+      "nonmanifold_edges": 0,
+      "volume": 1.0753579526868762,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_3m_Tall_Plaster",
+      "module": "CM_FacadeBay01_Plain_3m_Tall",
+      "triangles": 44,
+      "nonmanifold_edges": 0,
+      "volume": 2.494884093440021,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p35m_Timber",
+      "module": "CM_FacadeBay01_Post_3p35m",
+      "triangles": 180,
+      "nonmanifold_edges": 0,
+      "volume": 0.25253299392360573,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p60m_Timber",
+      "module": "CM_FacadeBay01_Post_3p60m",
+      "triangles": 180,
+      "nonmanifold_edges": 0,
+      "volume": 0.2713758079531123,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Beam_3m_Timber",
+      "module": "CM_FacadeBay01_Beam_3m",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "volume": 0.2605032758031158,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Beam_1p5m_Timber",
+      "module": "CM_FacadeBay01_Beam_1p5m",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "volume": 0.12193140395220747,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Brace45_L_Timber",
+      "module": "CM_FacadeBay01_Brace45_L",
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "volume": 0.0676702241900423,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Brace45_R_Timber",
+      "module": "CM_FacadeBay01_Brace45_R",
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "volume": 0.06767022419006821,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Post",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "volume": 0.26256684099548794,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_PlasterFront",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 72,
+      "nonmanifold_edges": 0,
+      "volume": 2.2284495847777563,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_PlasterSide",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 72,
+      "nonmanifold_edges": 0,
+      "volume": 2.228449584769634,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_RailFront0",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375630782137,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_RailFront3.13",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375606844953325,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_RailSide0",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375630758976203,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_RailSide3.13",
+      "module": "CM_FacadeBay01_Corner90",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375606829041697,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_WindowOpening_3m_RevealedPlaster",
+      "module": "CM_FacadeBay01_WindowOpening_3m",
+      "triangles": 532,
+      "nonmanifold_edges": 0,
+      "volume": 1.7779786041471684,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Plain_3m_Benchmark_Plaster",
+      "module": "CM_FacadeBay01_Plain_3m_Benchmark",
+      "triangles": 44,
+      "nonmanifold_edges": 0,
+      "volume": 2.2106433654597346,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Post_3p24m_Timber",
+      "module": "CM_FacadeBay01_Post_3p24m",
+      "triangles": 180,
+      "nonmanifold_edges": 0,
+      "volume": 0.24424216365738222,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_Post",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "volume": 0.2539449111113071,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_PlasterFront",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 72,
+      "nonmanifold_edges": 0,
+      "volume": 2.1442122497003213,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_PlasterSide",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 72,
+      "nonmanifold_edges": 0,
+      "volume": 2.144212249692439,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_RailFront0",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375630782137,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_RailFront3.13",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.2537560684495328,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_RailSide0",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375630758976203,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Corner90_Benchmark_RailSide3.13",
+      "module": "CM_FacadeBay01_Corner90_Benchmark",
+      "triangles": 136,
+      "nonmanifold_edges": 0,
+      "volume": 0.25375606829041675,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_WindowOpening_3m_Benchmark_RevealedPlaster",
+      "module": "CM_FacadeBay01_WindowOpening_3m_Benchmark",
+      "triangles": 532,
+      "nonmanifold_edges": 0,
+      "volume": 1.6911259616818821,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_HeroB_Plaster",
+      "module": "CM_FacadeBay01_Gable_HeroB",
+      "triangles": 112,
+      "nonmanifold_edges": 0,
+      "volume": 2.970295361281162,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_HeroB_ContinuousRake",
+      "module": "CM_FacadeBay01_Gable_HeroB",
+      "triangles": 288,
+      "nonmanifold_edges": 0,
+      "volume": 0.32002165758489687,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_HeroB_KingPost",
+      "module": "CM_FacadeBay01_Gable_HeroB",
+      "triangles": 100,
+      "nonmanifold_edges": 0,
+      "volume": 0.24588067137177871,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_Secondary_Plaster",
+      "module": "CM_FacadeBay01_Gable_Secondary",
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "volume": 0.6364163433852438,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_Secondary_ContinuousRake",
+      "module": "CM_FacadeBay01_Gable_Secondary",
+      "triangles": 164,
+      "nonmanifold_edges": 0,
+      "volume": 0.17001179434888672,
+      "degenerate_triangles": 0
+    },
+    {
+      "name": "CM_FacadeBay01_Gable_Secondary_KingPost",
+      "module": "CM_FacadeBay01_Gable_Secondary",
+      "triangles": 100,
+      "nonmanifold_edges": 0,
+      "volume": 0.10373153166574399,
+      "degenerate_triangles": 0
+    }
+  ],
+  "units": "metres",
+  "up": "Unity +Y",
+  "front": "Unity +Z",
+  "wall_depth": 0.28,
+  "storey_heights": [
+    3.24,
+    3.35,
+    3.6
+  ],
+  "paint_source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "atlas": 4096
+}

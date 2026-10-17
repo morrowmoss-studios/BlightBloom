@@ -1,0 +1,17 @@
+{
+  "scene": "Assets/Scenes/CM_SlateRoofKit01_IntegrationPreview.unity",
+  "hiddenOriginalRenderers": [
+    "Dress_Slate0_PresentationOnly",
+    "Dress_Slate1_PresentationOnly",
+    "Dress_Slate2_PresentationOnly",
+    "Roof_Hero_Bargeboard",
+    "Roof_RearCross_Bargeboard",
+    "Roof_SubordinateCross_Bargeboard"
+  ],
+  "disabledNewUnderlays": 6,
+  "existingRoofCarriers": "unchanged and rendered, including unioned dormer shell and collision",
+  "colliders": 37,
+  "behaviours": 10,
+  "protectedComponentsUnchanged": true,
+  "newVisibleRoofRenderers": 12
+}

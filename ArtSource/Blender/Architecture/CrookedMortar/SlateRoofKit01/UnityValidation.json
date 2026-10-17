@@ -1,0 +1,156 @@
+{
+  "modules": [
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_35",
+      "tris": 1184,
+      "importErrorMetres": 2.98116333E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_56p9",
+      "tris": 1192,
+      "importErrorMetres": 3.57627869E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x2p4_71p1",
+      "tris": 1192,
+      "importErrorMetres": 3.0255228E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel4x2p4_56p9",
+      "tris": 2248,
+      "importErrorMetres": 5.96093E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_SecondaryGablePanel2m_52p43",
+      "tris": 1268,
+      "importErrorMetres": 2.98116333E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Panel2x1p2_56p9",
+      "tris": 660,
+      "importErrorMetres": 2.98116333E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Course2m_35",
+      "tris": 124,
+      "importErrorMetres": 2.45640734E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Course2m_56p9",
+      "tris": 124,
+      "importErrorMetres": 2.393455E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_EaveFascia2m_35",
+      "tris": 12,
+      "importErrorMetres": 3.017485E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_EaveFascia2m_56p9",
+      "tris": 12,
+      "importErrorMetres": 3.017485E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Hero",
+      "tris": 36,
+      "importErrorMetres": 2.98023224E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Wing",
+      "tris": 36,
+      "importErrorMetres": 2.98023224E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Ridge2m_Secondary",
+      "tris": 36,
+      "importErrorMetres": 2.98023224E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_35",
+      "tris": 24,
+      "importErrorMetres": 2.73244382E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_52p43",
+      "tris": 24,
+      "importErrorMetres": 2.16066837E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_56p9",
+      "tris": 24,
+      "importErrorMetres": 1.96700967E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Verge2m_71p1",
+      "tris": 24,
+      "importErrorMetres": 9.685755E-08
+    },
+    {
+      "name": "CM_SlateRoofKit01_Valley2m_35",
+      "tris": 36,
+      "importErrorMetres": 2.980265E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_PitchBreak2m_71to57",
+      "tris": 20,
+      "importErrorMetres": 2.98023224E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_Hero",
+      "tris": 19884,
+      "importErrorMetres": 1.16800777E-06
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_RearCross",
+      "tris": 10628,
+      "importErrorMetres": 9.674657E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_SubordinateCross",
+      "tris": 3620,
+      "importErrorMetres": 7.15255737E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DeepEntryFold",
+      "tris": 1708,
+      "importErrorMetres": 3.60364169E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_LeftShopFold",
+      "tris": 1672,
+      "importErrorMetres": 4.234557E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_DisplayCatslide",
+      "tris": 1904,
+      "importErrorMetres": 5.96046448E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_EaveVergeNetwork",
+      "tris": 1036,
+      "importErrorMetres": 1.71926081E-06
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_RidgeNetwork",
+      "tris": 828,
+      "importErrorMetres": 1.06624032E-06
+    },
+    {
+      "name": "CM_SlateRoofKit01_Fitted_ValleyNetwork",
+      "tris": 108,
+      "importErrorMetres": 1.81280456E-07
+    },
+    {
+      "name": "CM_SlateRoofKit01_HeroB_GableVerge",
+      "tris": 104,
+      "importErrorMetres": 1.28392332E-06
+    }
+  ],
+  "totalLibraryTriangles": 49768,
+  "maximumImportErrorMetres": 1.71926081E-06,
+  "activeScene": "Assets/Scenes/CM_SlateRoofKit01_IntegrationPreview.unity",
+  "colliders": 37,
+  "compiling": false,
+  "renderOnly": true,
+  "newVisibleRenderersInIntegration": 13
+}

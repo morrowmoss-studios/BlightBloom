@@ -1,0 +1,10 @@
+{
+  "source": "ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "newUnityTexture": "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Textures/CM_SlateRoofKit01_ApprovedPaintSheet.png",
+  "originalUnchanged": true,
+  "textureSourcePackedInBlend": true,
+  "workflow": "Intentional UV0 paint-sheet reuse; lower-right slate and upper-right walnut. Quiet blue-grey regions, sparse sage regions, small brushwork patches. No procedural shader noise, gloss, blur or bloom.",
+  "uv0Unique": false,
+  "uv0DegenerateTriangles": 0,
+  "newRasterPaintingGenerated": false
+}

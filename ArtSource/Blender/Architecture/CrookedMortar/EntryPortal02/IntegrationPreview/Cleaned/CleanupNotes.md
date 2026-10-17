@@ -1,0 +1,8 @@
+# Integration cleanup
+Only CM_EntryPortal02_IntegrationPreview.unity modified among existing project files.
+
+The combined Porch render mesh contained a redundant right post centred at x=1.77 and diagonal knee brace spanning y=2.21..3.29, z=-5.63..-4.80. Both are excluded from a new preview-only canopy mesh asset; the original FBX is untouched. Its long straight fascia/header previously ran x=-3..2.05 at y=2.89..3.08, crossing the production curved arch. This now ends at x=-.25 over the new left portal cap. Shop-side post, knee brace and stoop retained. A .18 x .12 x .18m cap-derived bearing block connects the retained beam to the new cap, using the portal cap mesh UVs and walnut material. The curved arch remains unchanged and supports the entrance canopy composition. Old source renderers already hidden remain hidden; no redundant new braces added.
+
+Decorations and all light/emission settings unchanged. Lantern renders were inspected independently of gizmos: bright yellow/amber panes and emissive bulb are present, with black cage silhouettes retained. No brightness adjustment made.
+
+All 37 existing collider component configurations/transforms and 10 behaviour component configurations/transforms were checked unchanged during cleanup. Three temporary CharacterController probes matching the existing player (height2m/radius.4m/step.3m/skin.04m) traversed world z=-7.5..-1.1 on x=.60,.85,1.10 with zero side/above hits. Probes removed. The portal remains render-only; this check preserves existing collision rather than adding portal collision. Brief Play mode smoke check completed with zero current Console errors or warnings and no new captured messages. No gameplay scripts or unrelated scenes changed. Nothing committed.

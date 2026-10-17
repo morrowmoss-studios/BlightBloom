@@ -1,0 +1,20 @@
+{
+  "source": "ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "preservation": "Existing source file unmodified; original image and rebaked atlas packed in CM_FacadeBay01.blend",
+  "materials": [
+    "approved warm ivory plaster quadrant",
+    "approved walnut timber quadrant"
+  ],
+  "atlas": "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Textures/CM_FacadeBay01_Painted_BaseColor.png",
+  "resolution": [
+    4096,
+    4096
+  ],
+  "projection": "Physical scale; face-aware planar plaster, directional timber; unique UV0 rebake. No shader noise, normal maps, AO, bloom or blur.",
+  "texel_density_p05_p50_p95": [
+    172.69861780358949,
+    185.26850483786063,
+    193.28824311276938
+  ],
+  "note": "4096 atlas stores reused approved artwork; does not add native brush detail beyond the source. Small bevel-island density variation remains."
+}

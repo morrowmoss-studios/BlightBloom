@@ -1,0 +1,9 @@
+{
+  "roof_surface_sample_rays": 1431,
+  "missed_underlay_samples": [],
+  "maximum_underlay_height_error_metres": 1.4724731443038763e-06,
+  "expected_underlay_top_offset_metres": -0.006,
+  "original_roof_control_vertices_unchanged": true,
+  "hero_ridge_fall_metres": 0.4,
+  "note": "Sampled visible roof carriers excluding retained chimney footprints; this checks fit/coverage, not new collision behaviour."
+}

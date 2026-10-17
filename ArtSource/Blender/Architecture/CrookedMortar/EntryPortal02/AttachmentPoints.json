@@ -1,0 +1,184 @@
+[
+  {
+    "name": "OpeningCenter",
+    "position": [
+      0,
+      1.3,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "purpose": "Clear portal opening; no door is installed here"
+  },
+  {
+    "name": "DoorModule_RearRecess",
+    "position": [
+      0,
+      -0.2,
+      -3.32
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "purpose": "Existing approved door module root, 3.32m behind portal"
+  },
+  {
+    "name": "SignBoard",
+    "position": [
+      0,
+      3.44,
+      0.38
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing sign backing center; replaceable separate assembly"
+  },
+  {
+    "name": "Sign_WallBracket",
+    "position": [
+      0,
+      4.13,
+      -1.34
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Requires support from existing wall/canopy, not the arch"
+  },
+  {
+    "name": "Lantern_ReferenceLeft",
+    "position": [
+      1.25,
+      2.08,
+      0.16
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Approved west lantern body center"
+  },
+  {
+    "name": "Lantern_ReferenceRight",
+    "position": [
+      -1.25,
+      2.3,
+      0.09
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Approved east lantern body center"
+  },
+  {
+    "name": "Herb_PortalLeft",
+    "position": [
+      0.97,
+      2.4,
+      0.15
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Keep bundles outside the central head clearance"
+  },
+  {
+    "name": "Herb_PortalRight",
+    "position": [
+      -0.97,
+      2.4,
+      0.15
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Keep bundles outside the central head clearance"
+  },
+  {
+    "name": "Herb_CanopyLine_01",
+    "position": [
+      3.21,
+      2.72,
+      -0.07
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing shop canopy hook; outside the portal span"
+  },
+  {
+    "name": "Herb_CanopyLine_02",
+    "position": [
+      2.84,
+      2.72,
+      -0.07
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing shop canopy hook; outside the portal span"
+  },
+  {
+    "name": "Herb_CanopyLine_03",
+    "position": [
+      2.4699999999999998,
+      2.72,
+      -0.07
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing shop canopy hook; outside the portal span"
+  },
+  {
+    "name": "Herb_CanopyLine_04",
+    "position": [
+      2.1,
+      2.72,
+      -0.07
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing shop canopy hook; outside the portal span"
+  },
+  {
+    "name": "Herb_CanopyLine_05",
+    "position": [
+      1.73,
+      2.72,
+      -0.07
+    ],
+    "rotation": [
+      0,
+      180,
+      0
+    ],
+    "purpose": "Existing shop canopy hook; outside the portal span"
+  }
+]

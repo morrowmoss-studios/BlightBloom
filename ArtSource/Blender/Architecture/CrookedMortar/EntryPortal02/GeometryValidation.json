@@ -1,0 +1,173 @@
+{
+  "reference_scene": "CM_CrookedMortar_B_StyledDetails07",
+  "placement": {
+    "position": [
+      0.85,
+      0.2,
+      -5.52
+    ],
+    "rotation_euler": [
+      0,
+      180,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "paint_source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "paint_geometry_uv0_unchanged": true,
+  "part_notes": {
+    "01_Post_L": "2.50m post with <=3mm centreline irregularity; approved .145m section",
+    "02_BaseShoe_L": "Open fitted shoe sleeve; 4.5mm nominal radial clearance to post; no hidden solid block through stem",
+    "03_PostCap_L": "Cap .230x.120x.210m; concealed .084x.104m mortise, fitted .080x.100m tenon",
+    "01_Post_R": "2.50m post with <=3mm centreline irregularity; approved .145m section",
+    "02_BaseShoe_R": "Open fitted shoe sleeve; 4.5mm nominal radial clearance to post; no hidden solid block through stem",
+    "03_PostCap_R": "Cap .230x.120x.210m; concealed .084x.104m mortise, fitted .080x.100m tenon",
+    "04_ContinuousOuterArch": {
+      "curve": [
+        [
+          -1.1,
+          2.5
+        ],
+        [
+          0,
+          3.34
+        ],
+        [
+          1.1,
+          2.5
+        ]
+      ],
+      "section": [
+        0.16,
+        0.16
+      ],
+      "segments": 28,
+      "front_bow_max": 0.0025
+    },
+    "05_ContinuousInnerTrim": {
+      "curve": [
+        [
+          -0.97,
+          2.4
+        ],
+        [
+          0,
+          3.1
+        ],
+        [
+          0.97,
+          2.4
+        ]
+      ],
+      "section": [
+        0.055,
+        0.055
+      ],
+      "segments": 26,
+      "front_bow_max": 0.0025
+    }
+  },
+  "parts": [
+    {
+      "name": "01_Post_L",
+      "triangles": 180,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.05259429071967889
+    },
+    {
+      "name": "02_BaseShoe_L",
+      "triangles": 268,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.006603659557046748
+    },
+    {
+      "name": "03_PostCap_L",
+      "triangles": 128,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.004733427427500673
+    },
+    {
+      "name": "06_ConcealedTenon_L",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.001039682844251321
+    },
+    {
+      "name": "07_JoineryPeg_L",
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 1.5139966404645e-05
+    },
+    {
+      "name": "01_Post_R",
+      "triangles": 180,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.0525943077985313
+    },
+    {
+      "name": "02_BaseShoe_R",
+      "triangles": 268,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.006603659557150548
+    },
+    {
+      "name": "03_PostCap_R",
+      "triangles": 128,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.004733427427500672
+    },
+    {
+      "name": "06_ConcealedTenon_R",
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.001039682844251321
+    },
+    {
+      "name": "07_JoineryPeg_R",
+      "triangles": 220,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 1.5139963244657359e-05
+    },
+    {
+      "name": "04_ContinuousOuterArch",
+      "triangles": 756,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.061326301185158236
+    },
+    {
+      "name": "05_ContinuousInnerTrim",
+      "triangles": 708,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.006332466583116076
+    },
+    {
+      "name": "90_DistanceMesh",
+      "triangles": 1798,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume": 0.1975049221167757
+    }
+  ],
+  "lod0_triangles": 3272,
+  "lod1_triangles": 1798
+}

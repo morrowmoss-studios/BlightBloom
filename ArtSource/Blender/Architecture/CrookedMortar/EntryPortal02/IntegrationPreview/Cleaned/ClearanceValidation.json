@@ -1,0 +1,46 @@
+{
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "routes": [
+    {
+      "x": 0.85,
+      "end": [
+        0.85,
+        0.240000054,
+        -1.09999967
+      ],
+      "passed": true,
+      "aboveHits": 0,
+      "sideContactFrames": 0
+    },
+    {
+      "x": 0.6,
+      "end": [
+        0.6,
+        0.240000054,
+        -1.09999967
+      ],
+      "passed": true,
+      "aboveHits": 0,
+      "sideContactFrames": 0
+    },
+    {
+      "x": 1.1,
+      "end": [
+        1.1,
+        0.240000054,
+        -1.09999967
+      ],
+      "passed": true,
+      "aboveHits": 0,
+      "sideContactFrames": 0
+    }
+  ],
+  "existingColliders": 37,
+  "existingBehaviours": 10,
+  "notes": "Existing collision only, temporary CharacterController probes removed; side contacts can occur at step transitions. Portal prefab remains render-only; existing collision behaviour preserved."
+}

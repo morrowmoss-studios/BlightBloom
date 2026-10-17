@@ -1,0 +1,10 @@
+{
+  "source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Architecture/CrookedMortar/WindowBay01/Sources/GouacheMaterialSheet_v02.png",
+  "source_packed_in_blend": true,
+  "atlas": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Textures/CM_EntryPortal02_Walnut_BaseColor.png",
+  "atlas_resolution": 2048,
+  "albedo_only": true,
+  "noise": false,
+  "uv0_unchanged_during_bake": true,
+  "padding_pixels": 8
+}

@@ -1,0 +1,8 @@
+{
+  "playMode": "Entered and exited through the existing Editor",
+  "compilationFailed": false,
+  "compiling": false,
+  "consoleErrors": 0,
+  "consoleWarnings": 0,
+  "notes": "Final smoke check after successful imports. Earlier bulk-import Pipeline request timed out once and recovered; no runtime art-review errors occurred."
+}
