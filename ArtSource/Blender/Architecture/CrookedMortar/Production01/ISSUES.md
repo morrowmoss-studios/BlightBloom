@@ -19,3 +19,31 @@ These are reported issues, recorded without investigation or fixes in this docum
 3. Resolve CM-001–004 in a focused visual-coherence pass after functional acceptance. These are deferred visual issues unless inspection reveals a collision or navigation impact. Preserve the approved architecture and kits.
 
 No new structural blocker was confirmed by this documentation-only task. Earlier successful automated checks remain context, not a substitute for manual acceptance. Do not begin this milestone until requested; no new asset families or broad redesign are needed to start it.
+
+
+## Production02 finishing status — 2026-10-17
+
+Current working candidate: `Assets/Scenes/CM_CrookedMortar_Production02.unity`.
+The Production01 rows above remain historical/open for that preserved scene; these results apply **only to Production02**.
+
+| ID | Production02 finding / action | Current status |
+| --- | --- | --- |
+| CM-001 | Three drying bundles had no modeled rail at their ties. Added a walnut rail and two short canopy suspensions. | Corrected in Production02; rendered attachment review passed. |
+| CM-002 | Left lantern curl ended above its crown. Seated it and added canopy-connected mounting plates for both curls. Existing lights/intensities preserved. | Corrected in Production02. |
+| CM-003 | Reviewed current plaster room/exterior views and active window structure. Legacy window knee braces/eaves were already disabled; no unidentified diagonal wall geometry reproduced. Approved plaster brush strokes and the intentional structural brace retained. | Not reproduced in Production02; the two originally reported wall locations still need identification if seen again. |
+| CM-004 | Existing paired and arched panes used an opaque amber material. Applied shared, softly tinted translucent glazing while retaining frames, shutters and frame shadows. | Corrected in Production02; inside/outside views inspected. |
+| CM-005 | Connected routes and 64 camera samples checked; controller/camera unchanged. Stair-turn camera retraction remains the main manual comfort concern. | Open — manual acceptance still required. |
+| CM-006 | No shadow-atlas warning reproduced during this focused Play/capture pass; Console currently has zero errors/warnings. No light budgets or URP settings changed. | Deferred — historical warning remains unconfirmed, not declared fixed. |
+| CM02-007 | Exposed wing roof end, buried verges and standing valley strips. Fitted the existing wing pitch into the main envelope, trimmed concealed gable portions, replaced valley caps with conformed liners. Outer eaves, peaks and footprint preserved. | Corrected; surface probes and clean junction views passed. |
+| CM02-008 | Thin landing-guard floor seam and unfinished guard tops/ends. Added fitted foot joint, caps and end trim within existing guard footprints. | Corrected; stair ascent/descent and landing routes passed. |
+| CM02-009 | Closed entrance leaf had a visible right-edge daylight gap. Deepened and reshaped its existing local arched rebate to seat against the wood silhouette; no extra collider. | Corrected; oblique interior view and live E-key regression passed. |
+| CM02-010 | Ivy sat off the facade/post transition. Seated the same instance closer to the plaster and kept it outside the entrance route. Pots and window-box seating inspected. | Corrected in Production02; density unchanged. |
+
+Validation: 56/56 connected traversal routes; 2,028 floor/ceiling surface samples without holes; 4,732 roof-envelope samples without misses; 14/14 live E-input/safety checks and 9/9 related passage checks. All 90 existing colliders unchanged. Reports and current limitations: `../Production02/Finishing/README.md`.
+
+
+## Production02 staircase manual finding and correction
+
+Manual playtesting rejected the solid-guard stair construction despite earlier obstruction/traversal checks. CM-005 remains **open for manual acceptance**, with a corrected candidate now implemented; the guard-cap-only CM02-008 fix is superseded for this stairwell.
+
+`Production02/StairUsability02/README.md` records the open timber balustrade/landing revision and scene-local predictive camera. The final live-input stair run kept 1.95 m minimum / 3.18 m median camera distance, head/torso visible, no camera overlaps and no emergency corrections during walking. Both stair directions and adjacent rooms passed; 32 guard-edge and 220 landing-floor checks passed. Shared gameplay/camera source and the approved exterior are unchanged. Human review of orbit assistance and turning feel is still required before closing CM-005. Existing Production01 issue statuses above remain untouched for that scene.

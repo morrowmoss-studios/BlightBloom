@@ -1,0 +1,208 @@
+{
+  "passed": true,
+  "safetyEdgeSamples": 32,
+  "blocked": 32,
+  "turnLandingSurfaceSamples": 220,
+  "holes": 0,
+  "clearFlightWidth": 1.5,
+  "landingDepth": 1.7,
+  "height": 2.0,
+  "radius": 0.4,
+  "stepOffset": 0.3,
+  "checks": [
+    {
+      "edge": "centre",
+      "z": 4.85,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 5.04999971,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 5.24999952,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 5.44999933,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 5.649999,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 5.849999,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 6.04999876,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 6.24999857,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 6.44999838,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 6.649998,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 6.849998,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "centre",
+      "z": 7.049998,
+      "blocked": true,
+      "depth": 0.380000025
+    },
+    {
+      "edge": "upper",
+      "z": 4.8,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.0,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.2,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.39999962,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.59999943,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.799999,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 5.999999,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 6.199999,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 6.39999866,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 6.59999847,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 6.79999828,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 6.999998,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 7.199998,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 7.39999771,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 7.59999752,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 7.79999733,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 7.999997,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 8.199997,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 8.399997,
+      "blocked": true,
+      "depth": 0.38
+    },
+    {
+      "edge": "upper",
+      "z": 8.599997,
+      "blocked": true,
+      "depth": 0.38
+    }
+  ],
+  "playerSafetyLayerCollides": true,
+  "physicsDetectCollisions": true
+}

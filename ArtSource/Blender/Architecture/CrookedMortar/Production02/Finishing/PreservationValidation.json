@@ -1,0 +1,13 @@
+{
+  "protectedFilesUnchanged": {
+    "Assets/Scenes/CM_CrookedMortar_Production01.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity": true,
+    "Assets/BlightBloom/Traversal/ThirdPersonMotor.cs": true,
+    "Assets/BlightBloom/Traversal/TraversalInput.cs": true,
+    "Assets/BlightBloom/Traversal/ThirdPersonOrbitCamera.cs": true,
+    "Assets/BlightBloom/Traversal/Editor/TraversalSandboxBuilder.cs": true
+  },
+  "sharedSlateAliasRestored": true,
+  "noCommit": true
+}

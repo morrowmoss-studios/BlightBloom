@@ -1,0 +1,264 @@
+{
+  "gables": [
+    {
+      "name": "Gable_Roof_GardenStore_A",
+      "facesBefore": 5,
+      "facesAfter": 0
+    },
+    {
+      "name": "Gable_Roof_GardenStore_B",
+      "facesBefore": 5,
+      "facesAfter": 7
+    },
+    {
+      "name": "Gable_Roof_Hero_A",
+      "facesBefore": 31,
+      "facesAfter": 31
+    },
+    {
+      "name": "Gable_Roof_Hero_B",
+      "facesBefore": 31,
+      "facesAfter": 28
+    },
+    {
+      "name": "Gable_Roof_RearCross_A",
+      "facesBefore": 31,
+      "facesAfter": 34
+    },
+    {
+      "name": "Gable_Roof_RearCross_B",
+      "facesBefore": 31,
+      "facesAfter": 41
+    },
+    {
+      "name": "Gable_Roof_StairNook_A",
+      "facesBefore": 31,
+      "facesAfter": 34
+    },
+    {
+      "name": "Gable_Roof_StairNook_B",
+      "facesBefore": 31,
+      "facesAfter": 21
+    },
+    {
+      "name": "Gable_Roof_SubordinateWing_A",
+      "facesBefore": 31,
+      "facesAfter": 35
+    },
+    {
+      "name": "Gable_Roof_SubordinateWing_B",
+      "facesBefore": 31,
+      "facesAfter": 31
+    },
+    {
+      "name": "CM02_Fitted_EaveVergeNetwork_Slate",
+      "redundantInternalVergeVerticesRemoved": 32
+    },
+    {
+      "name": "CM02_Fitted_EaveVergeNetwork_Timber",
+      "redundantInternalVergeVerticesRemoved": 144
+    },
+    {
+      "name": "CM02_Fitted_ValleyNetwork_Slate",
+      "redundantInternalVergeVerticesRemoved": 80
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Gable_Roof_GardenStore_B",
+      "nonmanifold": 0,
+      "volume": 0.5547652819005888,
+      "degenerate": 0,
+      "triangles": 16
+    },
+    {
+      "name": "Gable_Roof_Hero_A",
+      "nonmanifold": 0,
+      "volume": 2.230607621862976,
+      "degenerate": 0,
+      "triangles": 112
+    },
+    {
+      "name": "Gable_Roof_Hero_B",
+      "nonmanifold": 0,
+      "volume": 1.5920371943195257,
+      "degenerate": 0,
+      "triangles": 100
+    },
+    {
+      "name": "Gable_Roof_RearCross_A",
+      "nonmanifold": 0,
+      "volume": 1.2183046751000361,
+      "degenerate": 0,
+      "triangles": 120
+    },
+    {
+      "name": "Gable_Roof_RearCross_B",
+      "nonmanifold": 0,
+      "volume": 1.0272100401525093,
+      "degenerate": 0,
+      "triangles": 152
+    },
+    {
+      "name": "Gable_Roof_StairNook_A",
+      "nonmanifold": 0,
+      "volume": 0.43557044688812363,
+      "degenerate": 0,
+      "triangles": 124
+    },
+    {
+      "name": "Gable_Roof_StairNook_B",
+      "nonmanifold": 0,
+      "volume": 0.15088100049399103,
+      "degenerate": 0,
+      "triangles": 72
+    },
+    {
+      "name": "Gable_Roof_SubordinateWing_A",
+      "nonmanifold": 0,
+      "volume": 0.5868142215214935,
+      "degenerate": 0,
+      "triangles": 128
+    },
+    {
+      "name": "Gable_Roof_SubordinateWing_B",
+      "nonmanifold": 0,
+      "volume": 0.9290817534921421,
+      "degenerate": 0,
+      "triangles": 112
+    },
+    {
+      "name": "Finish_RearLandingFootJoint",
+      "nonmanifold": 0,
+      "volume": 0.022976780434031473,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_RearLandingGuardCap",
+      "nonmanifold": 0,
+      "volume": 0.01753715672638101,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_CentreGuardCap",
+      "nonmanifold": 0,
+      "volume": 0.02559502981379299,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_UpperGuardCap",
+      "nonmanifold": 0,
+      "volume": 0.03886878507609525,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_GuardEnd_RearLeft",
+      "nonmanifold": 0,
+      "volume": 0.010975771652508693,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_GuardEnd_RearRight",
+      "nonmanifold": 0,
+      "volume": 0.010975771652508693,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_GuardEnd_CentreEnd",
+      "nonmanifold": 0,
+      "volume": 0.02656846005191759,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_GuardEnd_UpperEntry",
+      "nonmanifold": 0,
+      "volume": 0.020874084488149133,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_HerbRail",
+      "nonmanifold": 0,
+      "volume": 0.01112789789276981,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_HerbRailSuspension",
+      "nonmanifold": 0,
+      "volume": 0.000600329245790563,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_HerbRailSuspension.001",
+      "nonmanifold": 0,
+      "volume": 0.000600329245790563,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_LanternMountPlate",
+      "nonmanifold": 0,
+      "volume": 0.0019699237578685975,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "Finish_LanternMountPlate.001",
+      "nonmanifold": 0,
+      "volume": 0.0010329852469886675,
+      "degenerate": 0,
+      "triangles": 108
+    },
+    {
+      "name": "CM02_Fitted_EaveVergeNetwork_Slate",
+      "nonmanifold": 0,
+      "volume": 0.029443890517800664,
+      "degenerate": 0,
+      "triangles": 168
+    },
+    {
+      "name": "CM02_Fitted_EaveVergeNetwork_Timber",
+      "nonmanifold": 0,
+      "volume": 1.1135131103943041,
+      "degenerate": 0,
+      "triangles": 3740
+    },
+    {
+      "name": "CM02_Fitted_ValleyNetwork_Slate",
+      "nonmanifold": 0,
+      "volume": 0.016555358575136226,
+      "degenerate": 0,
+      "triangles": 612
+    },
+    {
+      "name": "CM02_FittedWingJunctionReturn_Slate",
+      "nonmanifold": 0,
+      "volume": 0.08087618766890116,
+      "degenerate": 0,
+      "triangles": 4832
+    },
+    {
+      "name": "CM02_FittedWingJunctionReturn_Underlay",
+      "nonmanifold": 0,
+      "volume": 0.35014547294127313,
+      "degenerate": 0,
+      "triangles": 936
+    },
+    {
+      "name": "CM02_ConformedValleyLiners_Slate",
+      "nonmanifold": 0,
+      "volume": 0.018112902841173242,
+      "degenerate": 0,
+      "triangles": 5112
+    }
+  ]
+}

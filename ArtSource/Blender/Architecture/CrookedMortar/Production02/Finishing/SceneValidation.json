@@ -1,0 +1,9 @@
+{
+  "collidersUnchanged": true,
+  "staticColliders": 90,
+  "controllerEnabled": true,
+  "inputEnabled": true,
+  "motorEnabled": true,
+  "cameraEnabled": true,
+  "doorClosed": true
+}

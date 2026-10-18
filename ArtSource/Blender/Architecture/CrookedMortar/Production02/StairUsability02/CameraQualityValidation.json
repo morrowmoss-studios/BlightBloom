@@ -1,0 +1,14 @@
+{
+  "routePassed": true,
+  "connectionsReached": 19,
+  "liveStairSamples": 136,
+  "minimumDistance": 1.95298231,
+  "medianDistance": 3.1809592249999996,
+  "minimumVisibleBodyPointsOf4": 3,
+  "headAndTorsoAlwaysVisible": true,
+  "cameraGeometryOverlaps": 0,
+  "maxPlayerViewportHeight": 0.5632286,
+  "initialPlacementCorrections": 1,
+  "correctionsDuringWalking": 0,
+  "cameraQualityPassed": true
+}

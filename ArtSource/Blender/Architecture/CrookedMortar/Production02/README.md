@@ -1,5 +1,7 @@
 # The Crooked Mortar — Production02 architectural candidate
 
+**Current staircase revision:** [StairUsability02](StairUsability02/README.md) replaces the earlier solid guards and adds a Production02-only camera profile. Earlier camera/collider counts below describe the reconstruction before this revision.
+
 Open `Assets/Scenes/CM_CrookedMortar_Production02.unity` alone. The original Production01, approved usability blockout, StyledDetails07 benchmark, shared gameplay/input code, original kits and project settings are unchanged. Nothing committed.
 
 ## Architecture and functional plan
@@ -25,8 +27,8 @@ The newly authored roof relationships follow StyledDetails07: an off-centre stee
 - **SlateRoofKit01:** existing painted slate/walnut materials, course proportions, restrained irregularity, exact clipping and intersection-finishing construction helpers. New site-specific FBX adapters accommodate the different expanded roof carriers.
 - **PairedWindowBay02 / WindowBay01:** original unit-scale inserts and independent shutters/sills/boxes. Rear paired casements and the narrow west return intentionally omit open shutters to avoid corner/post conflicts. Front composition retains the approved paired look and sage shutters.
 - **BotanicalPlanterKit01:** interchangeable flower-box inserts, potted herbs, drying bundles, attached ivy and small garden planting clusters, with no cosmetic colliders.
-- **EntranceBay01:** approved door and stone artwork transferred to new fitted visual adapters matching the existing 1.96 × 2.70 × 0.10 m moving collision leaf. Stone surround is seated to the floor and stays behind the outboard hinge plane. A fitted timber stop and silhouette-derived arched rebate close the main reveal gap; the approximately 1.89 m visual opening stays within the 1.8–2.0 m circulation target. Neither original mesh nor material is modified.
-- One new shared **CM02_MatteAmberGlazing** material derives from the existing warm-window treatment, with the incompatible old atlas removed. Existing paired-pane triangles get a separate glass slot; single arched inserts get fitted closed panes. All are deliberately matte illustrated amber, not a mix of boarded and glazed openings. These are opaque stylized panes, not transparent interior views.
+- **EntranceBay01:** approved door and stone artwork transferred to new fitted visual adapters matching the existing 1.96 × 2.70 × 0.10 m moving collision leaf. Stone surround is seated to the floor and stays behind the outboard hinge plane. A fitted timber stop and silhouette-derived arched rebate close the main reveal gap; the approximately 1.81 m finished visual opening stays within the 1.8–2.0 m circulation target. Neither original mesh nor material is modified.
+- One new shared **CM02_MatteAmberGlazing** material derives from the existing warm-window treatment, with the incompatible old atlas removed. Existing paired-pane triangles get a separate glass slot; single arched inserts get fitted closed panes. The initial opaque amber treatment was replaced in the finishing pass with restrained tinted translucent glazing, preserving the existing frame and shutter designs. The material retains its original asset name to preserve references.
 
 Editable source: `CM_CrookedMortar_Production02.blend` and `build_production02.py`. Roof helpers are read from the existing roof-kit source; only new output paths are written. The focused `repair_authored_uv0.py` and `fit_arched_apertures.py` document corrections applied to the new structural source; approved kits and the new roof FBX were not regenerated during these fixes. Native Unity glazing/door/stone adapters are reproducible from the Editor snippets, and retain the original kit UV artwork.
 
@@ -50,7 +52,7 @@ Reports: `TraversalValidation.json`, `IntegrationGeometryValidation.json`, `Door
 1. **Manual camera comfort remains necessary**, especially the U-stair turn: some yaws contract to 0.56 m (median 0.96 m there). The inherited behavior is unchanged; automatic reachability is not a comfort verdict.
 2. Interior furnishings retain full-size functional footprint geometry with appropriate materials. They are placeholders for production beds, examination furniture, cabinets and workbench assets, not finished interior art.
 3. The larger study wing needs the full 3.10 m headroom. Its eave therefore sits at the main storey datum; a lower peak, cross orientation and 2 m frontage setback keep it subordinate. This is an intentional usability compromise to review against the old benchmark.
-4. The expanded main roof and gable are newly fitted designs based on the benchmark's relationships, not an exact reproduction of old dimensions. Final silhouette/art acceptance is yours. Fine trim, chimney/hearth integration and broader garden/path dressing are not complete. A thin light line remains along part of the closed door rebate at oblique interior angles; it is cosmetic and requires final jamb tuning.
+4. The expanded main roof and gable are newly fitted designs based on the benchmark's relationships, not an exact reproduction of old dimensions. Final silhouette/art acceptance is yours. Fine trim, chimney/hearth integration and broader garden/path dressing are not complete. The closed-door light line was corrected in the finishing pass; see `Finishing/README.md`.
 5. Roughly **293k visible-library triangles / 423 enabled renderers before LOD culling and batching**, including all reused modular components. Static model surfaces batch; this landmark candidate still needs profiling, additional kit LODs and consolidation before village-wide repetition. No frame-rate benchmark was performed.
 6. Rear/internal doors remain clear openings. The front interaction is the existing scene-local fixture, not a new shared interaction framework. No unrelated gameplay systems were implemented.
 
@@ -63,3 +65,6 @@ Press Play, click Game view, use WASD / Shift / mouse as before. Press E within 
 New project work is confined to Production02 assets/scene, this source/report directory and the corresponding `ArtSource/Pipeline/Review/*CrookedMortarProduction02*.cs` snippets. Earlier scenes/assets, gameplay source, packages and settings are preserved; nothing committed.
 
 Final local door regression was repeated after the reveal work: all 14 input/safety and 9 route checks passed. The candidate is saved in Edit mode with all shared controller/input/camera components enabled. Final file inventory is `CreatedFiles.json`; original-scene/script hashes are in `PreservationValidation.json`.
+
+
+Architectural finishing (2026-10-17): see [focused changes and current validation](Finishing/README.md). Original reconstruction reports above are historical context; the finishing reports describe the current saved candidate.

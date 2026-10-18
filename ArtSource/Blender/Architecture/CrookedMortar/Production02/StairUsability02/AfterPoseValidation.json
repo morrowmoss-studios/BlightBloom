@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bottom",
+    "position": "(-1.250, 0.240, 4.100)",
+    "camera": "(2.406, 2.435, 2.633)",
+    "distance": 3.99999976,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "LowerFlight",
+    "position": "(-1.250, 1.317, 5.895)",
+    "camera": "(0.750, 2.817, 2.431)",
+    "distance": 4.0,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "TurnWest",
+    "position": "(-1.250, 1.940, 8.050)",
+    "camera": "(1.377, 4.973, 8.431)",
+    "distance": 3.06535959,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "TurnCrossing",
+    "position": "(-0.400, 1.940, 8.050)",
+    "camera": "(-1.797, 4.743, 5.630)",
+    "distance": 3.08359337,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "TurnEast",
+    "position": "(0.450, 1.940, 8.050)",
+    "camera": "(-1.778, 4.772, 8.647)",
+    "distance": 2.66363454,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "UpperFlight",
+    "position": "(0.450, 3.017, 6.005)",
+    "camera": "(0.450, 5.525, 8.773)",
+    "distance": 2.94604039,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "UpperLanding",
+    "position": "(0.450, 3.640, 3.900)",
+    "camera": "(0.450, 5.140, 7.900)",
+    "distance": 4.0,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  }
+]

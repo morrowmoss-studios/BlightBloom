@@ -1,0 +1,13 @@
+{
+  "protectedFilesUnchanged": {
+    "Assets/Scenes/CM_CrookedMortar_Production01.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity": true,
+    "Assets/BlightBloom/Traversal/ThirdPersonMotor.cs": true,
+    "Assets/BlightBloom/Traversal/TraversalInput.cs": true,
+    "Assets/BlightBloom/Traversal/ThirdPersonOrbitCamera.cs": true,
+    "Assets/BlightBloom/Traversal/Editor/TraversalSandboxBuilder.cs": true
+  },
+  "sceneRecordDiff": "Only 9 existing serialized records changed: old guard renderer/collider overrides, landing size/position, camera component enable/list and scene roots. New local stair/camera records added.",
+  "noCommit": true
+}

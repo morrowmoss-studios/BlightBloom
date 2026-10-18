@@ -1,0 +1,450 @@
+[
+  {
+    "name": "CentreNewel_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "CentrePostCap_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreNewel_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "CentrePostCap_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreNewel_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "CentrePostCap_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreNewel_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "CentrePostCap_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreNewel_04",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "CentrePostCap_04",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSlopingHandrail",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.021501305142151195,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreLowRail",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.013445377949920016,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_04",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_05",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_06",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_07",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_08",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_09",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_10",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_11",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_12",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "CentreSpindle_13",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingNewel_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingCap_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingNewel_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingCap_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingNewel_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingCap_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingNewel_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.014491877592247635,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingCap_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00107452668864463,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingHandrail",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.027630089777151885,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingLowRail",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.01727795573086599,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_00",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_01",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_02",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_03",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_04",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_05",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_06",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_07",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_08",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_09",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_10",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_11",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_12",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_13",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_14",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_15",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_16",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_17",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_18",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_19",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_20",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "LandingSpindle_21",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0008304180162228084,
+    "degenerate": 0
+  },
+  {
+    "name": "TurnWallHandrail",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.016561123747119176,
+    "degenerate": 0
+  },
+  {
+    "name": "TurnRailWallBracket",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00039358106998347805,
+    "degenerate": 0
+  },
+  {
+    "name": "TurnRailWallBracket.001",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.00039358106998347805,
+    "degenerate": 0
+  },
+  {
+    "name": "UpperStringer",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0572851010710784,
+    "degenerate": 0
+  },
+  {
+    "name": "UpperStringer.001",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 0.0572851010710784,
+    "degenerate": 0
+  },
+  {
+    "name": "FittedTurnLandingFloor",
+    "triangles": 108,
+    "nonmanifold": 0,
+    "volume": 1.0877854354317789,
+    "degenerate": 0
+  }
+]

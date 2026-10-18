@@ -1,0 +1,908 @@
+{
+  "passed": true,
+  "routeReached": 56,
+  "routeTotal": 56,
+  "door": {
+    "blockedClosed": true,
+    "opened": true,
+    "closedAfter": true,
+    "kitchenAccessibleDoorClosed": true,
+    "closedBarrierPosition": "(3.70, 0.24, -0.75)"
+  },
+  "floorSamples": 2028,
+  "floorHoles": 0,
+  "standingSamples": 1047,
+  "coverage": [
+    {
+      "room": "Shop",
+      "samples": 396,
+      "holes": 0,
+      "standingSamples": 261
+    },
+    {
+      "room": "Treatment",
+      "samples": 270,
+      "holes": 0,
+      "standingSamples": 124
+    },
+    {
+      "room": "Kitchen",
+      "samples": 238,
+      "holes": 0,
+      "standingSamples": 109
+    },
+    {
+      "room": "Storage",
+      "samples": 140,
+      "holes": 0,
+      "standingSamples": 60
+    },
+    {
+      "room": "Living",
+      "samples": 396,
+      "holes": 0,
+      "standingSamples": 243
+    },
+    {
+      "room": "Bedroom",
+      "samples": 270,
+      "holes": 0,
+      "standingSamples": 87
+    },
+    {
+      "room": "Study",
+      "samples": 238,
+      "holes": 0,
+      "standingSamples": 115
+    },
+    {
+      "room": "Landing west",
+      "samples": 80,
+      "holes": 0,
+      "standingSamples": 48
+    }
+  ],
+  "routes": [
+    {
+      "name": "Porch approach",
+      "target": "(4.000, 0.240, -2.500)",
+      "actual": "(4.000, 0.240, -2.520)",
+      "planar": 0.01999998,
+      "vertical": 1.1920929E-07,
+      "passed": true
+    },
+    {
+      "name": "Front doorway",
+      "target": "(3.800, 0.240, 0.500)",
+      "actual": "(3.802, 0.240, 0.473)",
+      "planar": 0.0266153254,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Shop circulation",
+      "target": "(3.600, 0.240, 3.300)",
+      "actual": "(3.602, 0.240, 3.266)",
+      "planar": 0.03374868,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Direct shop kitchen opening",
+      "target": "(6.100, 0.240, 3.300)",
+      "actual": "(6.082, 0.240, 3.300)",
+      "planar": 0.0178238861,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Kitchen bench aisle",
+      "target": "(7.400, 0.240, 3.400)",
+      "actual": "(7.358, 0.240, 3.397)",
+      "planar": 0.0416295342,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Kitchen rear",
+      "target": "(7.500, 0.240, 5.500)",
+      "actual": "(7.498, 0.240, 5.472)",
+      "planar": 0.0279126521,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Storage doorway",
+      "target": "(7.700, 0.240, 6.700)",
+      "actual": "(7.693, 0.240, 6.656)",
+      "planar": 0.04433429,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Storage between shelves",
+      "target": "(7.700, 0.240, 8.100)",
+      "actual": "(7.700, 0.240, 8.056)",
+      "planar": 0.0437656119,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Garden exit",
+      "target": "(7.700, 0.240, 9.700)",
+      "actual": "(7.700, 0.240, 9.656)",
+      "planar": 0.0437641144,
+      "vertical": 1.1920929E-07,
+      "passed": true
+    },
+    {
+      "name": "Garden route",
+      "target": "(7.700, 0.040, 11.000)",
+      "actual": "(7.700, 0.040, 10.976)",
+      "planar": 0.02376461,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "East perimeter",
+      "target": "(10.600, 0.040, 11.000)",
+      "actual": "(10.580, 0.040, 11.000)",
+      "planar": 0.0200974569,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "East walkaround",
+      "target": "(10.600, 0.040, -4.000)",
+      "actual": "(10.600, 0.040, -3.960)",
+      "planar": 0.03984908,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "Front walkaround",
+      "target": "(-3.500, 0.040, -4.000)",
+      "actual": "(-3.480, 0.040, -4.000)",
+      "planar": 0.0200033989,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "West walkaround",
+      "target": "(-3.500, 0.040, 10.500)",
+      "actual": "(-3.500, 0.040, 10.480)",
+      "planar": 0.019957561,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "Rear walkaround",
+      "target": "(7.700, 0.040, 10.500)",
+      "actual": "(7.660, 0.040, 10.500)",
+      "planar": 0.03999049,
+      "vertical": 1.71363354E-07,
+      "passed": true
+    },
+    {
+      "name": "Garden return",
+      "target": "(7.700, 0.240, 8.000)",
+      "actual": "(7.700, 0.240, 8.020)",
+      "planar": 0.0202481411,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Storage return",
+      "target": "(7.700, 0.240, 5.500)",
+      "actual": "(7.700, 0.240, 5.540)",
+      "planar": 0.04024601,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Kitchen return",
+      "target": "(7.200, 0.240, 3.300)",
+      "actual": "(7.203, 0.240, 3.315)",
+      "planar": 0.015364076,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Shop return",
+      "target": "(3.600, 0.240, 3.300)",
+      "actual": "(3.643, 0.240, 3.300)",
+      "planar": 0.0433780141,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Treatment doorway",
+      "target": "(3.600, 0.240, 5.300)",
+      "actual": "(3.601, 0.240, 5.260)",
+      "planar": 0.0402902961,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Treatment exam foot",
+      "target": "(3.400, 0.240, 6.000)",
+      "actual": "(3.412, 0.240, 5.955)",
+      "planar": 0.0470497459,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Treatment bedside",
+      "target": "(3.400, 0.240, 8.300)",
+      "actual": "(3.400, 0.240, 8.275)",
+      "planar": 0.0254405681,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Treatment return",
+      "target": "(3.600, 0.240, 5.200)",
+      "actual": "(3.597, 0.240, 5.241)",
+      "planar": 0.04105011,
+      "vertical": 0.0,
+      "passed": true
+    },
+    {
+      "name": "Shop rear",
+      "target": "(3.600, 0.240, 3.700)",
+      "actual": "(3.600, 0.240, 3.721)",
+      "planar": 0.0209656078,
+      "vertical": 1.1920929E-07,
+      "passed": true
+    },
+    {
+      "name": "Stair lobby",
+      "target": "(-1.250, 0.240, 3.700)",
+      "actual": "(-1.200, 0.240, 3.700)",
+      "planar": 0.050009124,
+      "vertical": 1.1920929E-07,
+      "passed": true
+    },
+    {
+      "name": "Lower stair approach",
+      "target": "(-1.250, 0.240, 4.300)",
+      "actual": "(-1.247, 0.240, 4.258)",
+      "planar": 0.0418651551,
+      "vertical": 1.1920929E-07,
+      "passed": true
+    },
+    {
+      "name": "Lower flight up",
+      "target": "(-1.250, 1.940, 7.900)",
+      "actual": "(-1.250, 1.940, 7.858)",
+      "planar": 0.04172184,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Midlanding turn",
+      "target": "(0.450, 1.940, 8.050)",
+      "actual": "(0.419, 1.940, 8.047)",
+      "planar": 0.0307372846,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Upper flight up",
+      "target": "(0.450, 3.640, 4.050)",
+      "actual": "(0.450, 3.640, 4.087)",
+      "planar": 0.03667223,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Upper landing",
+      "target": "(0.450, 3.640, 3.300)",
+      "actual": "(0.450, 3.640, 3.327)",
+      "planar": 0.02667165,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Living open route",
+      "target": "(3.600, 3.640, 3.300)",
+      "actual": "(3.570, 3.640, 3.300)",
+      "planar": 0.0301224068,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom doorway",
+      "target": "(3.600, 3.640, 5.400)",
+      "actual": "(3.600, 3.640, 5.380)",
+      "planar": 0.0199610274,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom bed foot",
+      "target": "(3.600, 3.640, 6.100)",
+      "actual": "(3.600, 3.640, 6.060)",
+      "planar": 0.0399589576,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom west approach",
+      "target": "(2.350, 3.640, 6.300)",
+      "actual": "(2.382, 3.640, 6.294)",
+      "planar": 0.03280826,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom west bed aisle",
+      "target": "(2.300, 3.640, 8.200)",
+      "actual": "(2.301, 3.640, 8.172)",
+      "planar": 0.0279571824,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom west return",
+      "target": "(2.350, 3.640, 6.300)",
+      "actual": "(2.349, 3.640, 6.333)",
+      "planar": 0.03270401,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom foot crossing",
+      "target": "(4.900, 3.640, 6.300)",
+      "actual": "(4.869, 3.640, 6.300)",
+      "planar": 0.031061817,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom east bed aisle",
+      "target": "(4.900, 3.640, 8.200)",
+      "actual": "(4.900, 3.640, 8.180)",
+      "planar": 0.0198552944,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom east return",
+      "target": "(4.900, 3.640, 6.100)",
+      "actual": "(4.900, 3.640, 6.140)",
+      "planar": 0.0401473045,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Bedroom exit approach",
+      "target": "(3.600, 3.640, 5.400)",
+      "actual": "(3.614, 3.640, 5.408)",
+      "planar": 0.0159284864,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Living return",
+      "target": "(3.600, 3.640, 3.300)",
+      "actual": "(3.600, 3.640, 3.328)",
+      "planar": 0.02792657,
+      "vertical": 7.15255737E-07,
+      "passed": true
+    },
+    {
+      "name": "Study door",
+      "target": "(6.200, 3.640, 3.300)",
+      "actual": "(6.160, 3.640, 3.300)",
+      "planar": 0.039966505,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Study desk aisle",
+      "target": "(7.450, 3.640, 4.400)",
+      "actual": "(7.439, 3.640, 4.390)",
+      "planar": 0.0150116012,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Study bookcase access",
+      "target": "(7.450, 3.640, 5.350)",
+      "actual": "(7.450, 3.640, 5.310)",
+      "planar": 0.0398058519,
+      "vertical": 7.15255737E-07,
+      "passed": true
+    },
+    {
+      "name": "Study return",
+      "target": "(7.200, 3.640, 3.300)",
+      "actual": "(7.203, 3.640, 3.325)",
+      "planar": 0.0256244261,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Living table route",
+      "target": "(3.900, 3.640, 3.300)",
+      "actual": "(3.923, 3.640, 3.300)",
+      "planar": 0.02325413,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Living front route",
+      "target": "(4.300, 3.640, 1.100)",
+      "actual": "(4.295, 3.640, 1.132)",
+      "planar": 0.0322020352,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Living rear return",
+      "target": "(3.600, 3.640, 3.300)",
+      "actual": "(3.611, 3.640, 3.265)",
+      "planar": 0.0367898121,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Landing return",
+      "target": "(0.450, 3.640, 3.300)",
+      "actual": "(0.491, 3.640, 3.300)",
+      "planar": 0.04141734,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Upper flight down",
+      "target": "(0.450, 1.940, 8.050)",
+      "actual": "(0.450, 1.940, 8.019)",
+      "planar": 0.0306398589,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Midlanding reverse",
+      "target": "(-1.250, 1.940, 8.050)",
+      "actual": "(-1.229, 1.940, 8.050)",
+      "planar": 0.0205432121,
+      "vertical": 2.38418579E-07,
+      "passed": true
+    },
+    {
+      "name": "Lower flight down",
+      "target": "(-1.250, 0.240, 3.700)",
+      "actual": "(-1.250, 0.240, 3.730)",
+      "planar": 0.0296786744,
+      "vertical": 1.04308128E-07,
+      "passed": true
+    },
+    {
+      "name": "Shop from stairs",
+      "target": "(3.600, 0.240, 3.700)",
+      "actual": "(3.550, 0.240, 3.700)",
+      "planar": 0.04995082,
+      "vertical": 1.49011612E-08,
+      "passed": true
+    },
+    {
+      "name": "Kitchen still accessible",
+      "target": "(6.200, 0.240, 3.300)",
+      "actual": "(6.160, 0.240, 3.306)",
+      "planar": 0.0400144644,
+      "vertical": 1.04308128E-07,
+      "passed": true
+    },
+    {
+      "name": "Shop exit",
+      "target": "(3.800, 0.240, 3.300)",
+      "actual": "(3.840, 0.240, 3.300)",
+      "planar": 0.0404418819,
+      "vertical": 1.04308128E-07,
+      "passed": true
+    },
+    {
+      "name": "Front threshold exit",
+      "target": "(3.800, 0.240, -2.500)",
+      "actual": "(3.800, 0.240, -2.460)",
+      "planar": 0.0402434133,
+      "vertical": 1.04308128E-07,
+      "passed": true
+    }
+  ],
+  "cameraSamples": [
+    {
+      "room": "Shop",
+      "yaw": 0.0,
+      "distance": 2.97995973,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 45.0,
+      "distance": 3.592038,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 90.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 135.0,
+      "distance": 3.597155,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 180.0,
+      "distance": 3.99999952,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 225.0,
+      "distance": 2.38805866,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 270.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Shop",
+      "yaw": 315.0,
+      "distance": 2.83955145,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 0.0,
+      "distance": 4.0,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 45.0,
+      "distance": 1.93656623,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 90.0,
+      "distance": 1.35471451,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 135.0,
+      "distance": 1.93656611,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 180.0,
+      "distance": 2.0996387,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 225.0,
+      "distance": 2.8395524,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 270.0,
+      "distance": 1.99322164,
+      "obstructed": false
+    },
+    {
+      "room": "Treatment",
+      "yaw": 315.0,
+      "distance": 2.83955169,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 0.0,
+      "distance": 2.31247473,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 45.0,
+      "distance": 3.99999952,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 90.0,
+      "distance": 1.35471427,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 135.0,
+      "distance": 1.93656611,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 180.0,
+      "distance": 3.999999,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 225.0,
+      "distance": 2.388059,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 270.0,
+      "distance": 1.78038645,
+      "obstructed": false
+    },
+    {
+      "room": "Kitchen",
+      "yaw": 315.0,
+      "distance": 2.538557,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 0.0,
+      "distance": 4.0,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 45.0,
+      "distance": 1.93656659,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 90.0,
+      "distance": 1.67396784,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 135.0,
+      "distance": 2.38805819,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 180.0,
+      "distance": 2.8445642,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 225.0,
+      "distance": 2.38805938,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 270.0,
+      "distance": 1.67396784,
+      "obstructed": false
+    },
+    {
+      "room": "Bedroom foot",
+      "yaw": 315.0,
+      "distance": 1.93656683,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 0.0,
+      "distance": 2.31247449,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 45.0,
+      "distance": 3.99999952,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 90.0,
+      "distance": 1.35471439,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 135.0,
+      "distance": 1.93656623,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 180.0,
+      "distance": 1.301521,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 225.0,
+      "distance": 2.38805842,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 270.0,
+      "distance": 1.78038645,
+      "obstructed": false
+    },
+    {
+      "room": "Study",
+      "yaw": 315.0,
+      "distance": 2.538557,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 0.0,
+      "distance": 3.27023435,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 45.0,
+      "distance": 1.33457685,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 90.0,
+      "distance": 2.365683,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 135.0,
+      "distance": 3.366292,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 180.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 225.0,
+      "distance": 1.6388303,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 270.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Landing",
+      "yaw": 315.0,
+      "distance": 4.0,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 0.0,
+      "distance": 2.73814583,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 45.0,
+      "distance": 3.893033,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 90.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 135.0,
+      "distance": 2.087064,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 180.0,
+      "distance": 3.99999976,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 225.0,
+      "distance": 2.087064,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 270.0,
+      "distance": 4.0,
+      "obstructed": false
+    },
+    {
+      "room": "Living",
+      "yaw": 315.0,
+      "distance": 2.388059,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 0.0,
+      "distance": 4.0,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 45.0,
+      "distance": 3.36629248,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 90.0,
+      "distance": 2.36568379,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 135.0,
+      "distance": 1.10883081,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 180.0,
+      "distance": 0.7694173,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 225.0,
+      "distance": 0.8078353,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 270.0,
+      "distance": 0.5565812,
+      "obstructed": false
+    },
+    {
+      "room": "Stair turn",
+      "yaw": 315.0,
+      "distance": 0.8078353,
+      "obstructed": false
+    }
+  ],
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "limitations": "Deterministic actual CharacterController.Move with input/motor temporarily disabled in Play only; real camera PlaceCamera sampled at 20-degree pitch. This is clearance evidence, not a claim of manual camera comfort. Stop Play restores all components."
+}
