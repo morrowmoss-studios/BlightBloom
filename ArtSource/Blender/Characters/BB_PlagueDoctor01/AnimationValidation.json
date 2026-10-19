@@ -1,0 +1,14 @@
+{
+  "movingSamples": 1635,
+  "minLegAngle": -23.9998779,
+  "maxLegAngle": 23.9996319,
+  "capsuleHidden": true,
+  "height": 2.0,
+  "radius": 0.4,
+  "avatarColliders": 0,
+  "captures": [
+    "Stairs",
+    "Upstairs",
+    "Exterior"
+  ]
+}

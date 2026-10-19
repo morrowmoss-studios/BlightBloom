@@ -9536,6 +9536,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1531700833}
+  - {fileID: 954420361}
   m_Father: {fileID: 441255221}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &778732688
@@ -11631,6 +11632,68 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 944590271}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &954420360
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 778732687}
+    m_Modifications:
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8354062662835482095, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_Name
+      value: Plague Doctor Avatar
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+--- !u!4 &954420361 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6322390547177955392, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+  m_PrefabInstance: {fileID: 954420360}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &958484294
 GameObject:
   m_ObjectHideFlags: 0
@@ -16271,7 +16334,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1531700832}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1

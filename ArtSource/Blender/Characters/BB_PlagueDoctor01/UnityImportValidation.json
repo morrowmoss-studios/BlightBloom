@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ArmL",
+    "triangles": 544,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "ArmR",
+    "triangles": 544,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "Body",
+    "triangles": 616,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "CoatL",
+    "triangles": 156,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "CoatR",
+    "triangles": 156,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "Hat",
+    "triangles": 756,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "Head",
+    "triangles": 1368,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "LegL",
+    "triangles": 336,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "LegR",
+    "triangles": 336,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "Torso",
+    "triangles": 124,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  },
+  {
+    "name": "Underskirt",
+    "triangles": 124,
+    "uv0": true,
+    "normals": true,
+    "unitScale": true,
+    "material": "BB_Doctor_Painted"
+  }
+]

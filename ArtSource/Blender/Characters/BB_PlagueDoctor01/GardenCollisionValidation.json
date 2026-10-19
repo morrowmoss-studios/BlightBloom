@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "method": "Targeted collision walk using a temporary CharacterController copied from the unchanged player, Edit-mode .03m steps with gravity; not a live input or camera comfort test.",
+  "reached": [
+    {
+      "name": "Treatment",
+      "passed": true,
+      "position": "(3.600, 0.240, 5.550)",
+      "steps": 75
+    },
+    {
+      "name": "Shop",
+      "passed": true,
+      "position": "(3.600, 0.240, 3.360)",
+      "steps": 73
+    },
+    {
+      "name": "Kitchen doorway",
+      "passed": true,
+      "position": "(6.149, 0.240, 3.301)",
+      "steps": 85
+    },
+    {
+      "name": "Kitchen",
+      "passed": true,
+      "position": "(7.659, 0.240, 4.761)",
+      "steps": 70
+    },
+    {
+      "name": "Storage",
+      "passed": true,
+      "position": "(7.699, 0.240, 6.740)",
+      "steps": 66
+    },
+    {
+      "name": "Garden exit",
+      "passed": true,
+      "position": "(7.700, 0.240, 8.150)",
+      "steps": 47
+    },
+    {
+      "name": "Garden step",
+      "passed": true,
+      "position": "(7.700, 0.240, 9.440)",
+      "steps": 43
+    },
+    {
+      "name": "Rear garden",
+      "passed": true,
+      "position": "(7.700, 0.050, 10.340)",
+      "steps": 30
+    },
+    {
+      "name": "East rear",
+      "passed": true,
+      "position": "(10.459, 0.040, 10.399)",
+      "steps": 92
+    },
+    {
+      "name": "East garden",
+      "passed": true,
+      "position": "(10.500, 0.040, 3.049)",
+      "steps": 245
+    },
+    {
+      "name": "Front perimeter",
+      "passed": true,
+      "position": "(10.500, 0.040, -4.751)",
+      "steps": 260
+    },
+    {
+      "name": "Front approach",
+      "passed": true,
+      "position": "(4.050, 0.040, -4.800)",
+      "steps": 215
+    }
+  ]
+}

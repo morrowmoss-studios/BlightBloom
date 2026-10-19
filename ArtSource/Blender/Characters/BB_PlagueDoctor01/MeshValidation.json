@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Torso",
+    "triangles": 124,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "Underskirt",
+    "triangles": 124,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "CoatL",
+    "triangles": 156,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "ArmL",
+    "triangles": 544,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "LegL",
+    "triangles": 336,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "CoatR",
+    "triangles": 156,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "ArmR",
+    "triangles": 544,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "LegR",
+    "triangles": 336,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "Body",
+    "triangles": 616,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "Head",
+    "triangles": 1368,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  },
+  {
+    "name": "Hat",
+    "triangles": 756,
+    "nonManifoldEdges": 0,
+    "positiveVolume": true,
+    "uv0": true
+  }
+]
