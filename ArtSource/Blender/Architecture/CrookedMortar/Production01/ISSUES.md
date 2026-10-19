@@ -47,3 +47,33 @@ Validation: 56/56 connected traversal routes; 2,028 floor/ceiling surface sample
 Manual playtesting rejected the solid-guard stair construction despite earlier obstruction/traversal checks. CM-005 remains **open for manual acceptance**, with a corrected candidate now implemented; the guard-cap-only CM02-008 fix is superseded for this stairwell.
 
 `Production02/StairUsability02/README.md` records the open timber balustrade/landing revision and scene-local predictive camera. The final live-input stair run kept 1.95 m minimum / 3.18 m median camera distance, head/torso visible, no camera overlaps and no emergency corrections during walking. Both stair directions and adjacent rooms passed; 32 guard-edge and 220 landing-floor checks passed. Shared gameplay/camera source and the approved exterior are unchanged. Human review of orbit assistance and turning feel is still required before closing CM-005. Existing Production01 issue statuses above remain untouched for that scene.
+
+
+## Production02 focused repair — 2026-10-18
+
+| ID | Finding / action | Current status |
+| --- | --- | --- |
+| CM02-011 | Shop-display door-side shutter intersected the outward front door. Scene-only shutter yaw changed 27° → 99°, hinge retained. Actual mesh tested over the full 105° door sweep with 3 cm envelope margin; live E interaction and related passage checks passed. | Mechanical fix was visually rejected; superseded by FacadeEntrance04 below. |
+| CM02-012 | Redundant wall-side upper-flight rail and turning-wall rail removed from dedicated local stair mesh. Added open timber protection across exposed upper-floor lower-flight opening, seated to wall/centre newel; continuous player-safety collider refitted. | Corrected; all 36 guard/connected-route checks passed, including edge pushes and both stair directions. |
+| CM-005 | Local assist fought user orbit. Look now takes priority; assistance resumes only while moving after one second without look. Added affected doorway zones and obstruction-driven 65°–78° local FOV. Full mouse circles passed at five locations with no overlaps; 19 live movement connections passed. | **Open — manual comfort acceptance pending.** Close-wall orbit still retracts substantially (down to ~0.54 m in deliberate full-circle tests); two automatic recovery turns recorded. Prior automated acceptance is superseded, not treated as proof of comfort. |
+
+Details, previews and exact scope: `../Production02/FocusedRepair03/README.md`. No other scenes, approved kits, shared gameplay, settings or packages changed; nothing committed.
+
+
+## Production02 facade / entrance visual correction — 2026-10-18
+
+| ID | Finding / action | Current status |
+| --- | --- | --- |
+| CM02-011 | Previous 99° single-shutter fix rejected visually. Lower shutters are now a matched 9° / 351° pair; the existing door is right-hung with a 105° outward swing and continuous projected reveal. Right planter moved beyond its stop. Original approved meshes/materials reused; derived door copy preserves correct exterior/hardware orientation. | Visually rejected; superseded by EntryShopComposition05. Mechanical checks did not establish artistic approval. |
+| CM02-013 | Left LivingWest shutters hidden by the earlier finalization renderer-disable operation. Restored both leaves; seated the corner-side leaf against the nook return instead of embedding it in the wall. Rear paired windows were inspected and already have visible shutters. | All 14 relevant renderers enabled; adjacent-wall fitting checks passed. **Awaiting manual visual approval.** |
+
+Complete-facade closed/open previews and scope: `../Production02/FacadeEntrance04/README.md`. Other architecture, rooms, cameras, gameplay and approved kits unchanged. No commits.
+
+
+## Production02 coherent entry / shop section 05 — 2026-10-18
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-011 / CM02-014 | Prior localized arrangements rejected. Replaced broad shop shutters with fitted matching bi-fold stacks, narrowed the existing shop insert with plaster returns, restored the shallow doorway, and used a right-hand outward swing away from the display. Base timber now terminates at the stone jambs; porch/shop finish overlap removed. | Functional checks passed (211 sweep poses, 14 E-key checks, nine passage checks, eight live-input entry/exit connections). **Manual visual approval pending; no previous shutter arrangement is treated as approved.** |
+
+Six complete-facade / approach closed/open previews, source paths and scope: `../Production02/EntryShopComposition05/README.md`. Expanded layout, roof hierarchy, unrelated rooms/assets, camera and gameplay source preserved. Two obsolete projecting-return colliders disabled; original functional collision preserved. Nothing committed.

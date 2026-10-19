@@ -1,0 +1,346 @@
+[
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_SagePlank_0",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0069109795549589445
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_SagePlank_1",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006958538440014074
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_SagePlank_2",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0069109791674899085
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_BackRail",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231274439608076
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_BackRail.001",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.000623125390969247
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_HingeBand",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787251091870015
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FixedLeaf_HingeBand.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787214772501908
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_SagePlank_0",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910976167637625
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_SagePlank_1",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0069585313645654755
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_SagePlank_2",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910981505600336
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_BackRail",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231276696765107
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_BackRail.001",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231256166838173
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_HingeBand",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787259404370898
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldedLeaf_HingeBand.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0001278722308518123
+  },
+  {
+    "name": "CM02_EntryShop05_Left_JambHingePlate",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.000245791274753491
+  },
+  {
+    "name": "CM02_EntryShop05_Left_JambKnuckle",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00017798451078333572
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldKnuckle",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00031259102087331087
+  },
+  {
+    "name": "CM02_EntryShop05_Left_JambHingePlate.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0002457914629499663
+  },
+  {
+    "name": "CM02_EntryShop05_Left_JambKnuckle.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0001779847423782644
+  },
+  {
+    "name": "CM02_EntryShop05_Left_FoldKnuckle.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00031259143825538194
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_SagePlank_0",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910975001922995
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_SagePlank_1",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006958533278417547
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_SagePlank_2",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910987512834571
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_BackRail",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231273452523365
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_BackRail.001",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231252922606172
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_HingeBand",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0001278725047179185
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FixedLeaf_HingeBand.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787214152429555
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_SagePlank_0",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910970829599707
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_SagePlank_1",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006958525810053501
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_SagePlank_2",
+    "role": "Sage",
+    "triangles": 120,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.006910991403610932
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_BackRail",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231275709679906
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_BackRail.001",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0006231255179751224
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_HingeBand",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787250552897937
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldedLeaf_HingeBand.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00012787214233696232
+  },
+  {
+    "name": "CM02_EntryShop05_Right_JambHingePlate",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0002457916234232609
+  },
+  {
+    "name": "CM02_EntryShop05_Right_JambKnuckle",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.00017798571600781556
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldKnuckle",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0003125892512442131
+  },
+  {
+    "name": "CM02_EntryShop05_Right_JambHingePlate.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0002457918116201801
+  },
+  {
+    "name": "CM02_EntryShop05_Right_JambKnuckle.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.000177985947603781
+  },
+  {
+    "name": "CM02_EntryShop05_Right_FoldKnuckle.001",
+    "role": "Iron",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.0003125896686239247
+  },
+  {
+    "name": "CM02_EntryShop05_ShopWindow_PlasterReturn",
+    "role": "Plaster",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.06967785576235772
+  },
+  {
+    "name": "CM02_EntryShop05_ShopWindow_PlasterReturn.001",
+    "role": "Plaster",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.06967791650572691
+  },
+  {
+    "name": "CM02_EntryShop05_ShopWindow_HeaderShoulder",
+    "role": "Walnut",
+    "triangles": 108,
+    "nonManifold": 0,
+    "degenerate": 0,
+    "volume": 0.03603617422052674
+  }
+]

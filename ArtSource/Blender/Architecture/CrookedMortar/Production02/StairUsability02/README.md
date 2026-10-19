@@ -1,3 +1,5 @@
+> Latest: `../FocusedRepair03/README.md` supersedes the guard/camera results below after further manual findings. This document describes the prior revision.
+
 # Production02 stair usability correction
 
 Current scene: `Assets/Scenes/CM_CrookedMortar_Production02.unity`. This supersedes the earlier guard-cap finishing pass for the staircase. Manual acceptance of the new camera feel remains necessary.

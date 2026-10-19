@@ -1,0 +1,68 @@
+[
+  {
+    "name": "CM02_EntryShop_Iron",
+    "triangles": 2160,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_EntryShop_Iron.mat"
+    ],
+    "scale": "(1.00, 1.00, 1.00)"
+  },
+  {
+    "name": "CM02_EntryShop_Plaster",
+    "triangles": 216,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Plaster.mat"
+    ],
+    "scale": "(1.00, 1.00, 1.00)"
+  },
+  {
+    "name": "CM02_EntryShop_Sage",
+    "triangles": 1440,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_EntryShop_Sage.mat"
+    ],
+    "scale": "(1.00, 1.00, 1.00)"
+  },
+  {
+    "name": "CM02_EntryShop_Walnut",
+    "triangles": 972,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+    ],
+    "scale": "(1.00, 1.00, 1.00)"
+  },
+  {
+    "name": "Shop-side plinth termination",
+    "triangles": 108,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ],
+    "scale": "(0.86, 1.00, 1.00)"
+  },
+  {
+    "name": "Entrance right plinth termination",
+    "triangles": 108,
+    "uv0": true,
+    "inverted": 0,
+    "degenerateUV": 0,
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ],
+    "scale": "(0.15, 1.00, 1.00)"
+  }
+]

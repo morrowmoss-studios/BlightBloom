@@ -33,14 +33,13 @@ beam('CentreSlopingHandrail',(-.4,4.65,4.6),(-.4,2.95,7.3),.09,.075)
 beam('CentreLowRail',(-.4,3.76,4.6),(-.4,2.06,7.3),.065,.065)
 for i in range(14):
  z=4.7+i*2.5/13;y=floor(z);box('CentreSpindle_%02d'%i,(-.4,y+.57,z),(.032,.82,.032))
-# Slim continuous upper landing guard, with small newels and an unobstructed view through it.
-for i,z in enumerate([4.65,5.95,7.25,8.65]):
- box('LandingNewel_%02d'%i,(1.3,4.14,z),(.115,1.1,.115));box('LandingCap_%02d'%i,(1.3,4.71,z),(.14,.055,.14))
-box('LandingHandrail',(1.3,4.65,6.65),(.09,.075,4.1));box('LandingLowRail',(1.3,3.76,6.65),(.065,.065,4.1))
-for i in range(22):box('LandingSpindle_%02d'%i,(1.3,4.18,4.72+i*3.86/21),(.032,.82,.032))
-# Rear is a full-height enclosing wall: a wall-mounted turning rail replaces redundant guard.
-box('TurnWallHandrail',(-.4,2.95,8.94),(2.95,.075,.075))
-for x in [-1.7,.9]:box('TurnRailWallBracket',(x,2.89,8.97),(.055,.12,.06))
+# Wall-side upper-flight railing and rear wall rail removed: full-height walls already protect these edges.
+# Protect the previously open upper-floor edge over the LOWER flight; leave the upper-flight entry clear.
+for i,x in enumerate([-1.94,-.4]):
+ box('OpeningNewel_%02d'%i,(x,4.14,4.55),(.115,1.1,.115));box('OpeningPostCap_%02d'%i,(x,4.71,4.55),(.14,.055,.14))
+box('OpeningHandrail',(-1.17,4.65,4.55),(1.65,.075,.09))
+box('OpeningLowRail',(-1.17,3.76,4.55),(1.65,.065,.065))
+for i in range(10):box('OpeningSpindle_%02d'%i,(-1.88+i*1.42/9,4.18,4.55),(.032,.82,.032))
 # Proper stringers finish the exposed upper flight underside, outside the walking faces.
 for x in [-.36,1.26]:beam('UpperStringer', (x,3.42,4.6),(x,1.72,7.3),.10,.18)
 # Landings extend to the enclosing wall; no room footprint change.

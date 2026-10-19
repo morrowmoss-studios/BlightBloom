@@ -1,0 +1,189 @@
+{
+  "tests": [
+    {
+      "name": "Upper floor guard north push x=-1.75",
+      "actual": "(-1.560, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-1.6",
+      "actual": "(-1.560, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-1.45",
+      "actual": "(-1.450, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-1.3",
+      "actual": "(-1.300, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-1.15",
+      "actual": "(-1.150, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-1",
+      "actual": "(-1.000, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-0.8500001",
+      "actual": "(-0.850, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-0.7000002",
+      "actual": "(-0.700, 3.640, 4.050)",
+      "passed": true
+    },
+    {
+      "name": "Upper floor guard north push x=-0.5500002",
+      "actual": "(-0.563, 3.640, 4.052)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=4.95",
+      "actual": "(2.740, 3.640, 5.009)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=5.35",
+      "actual": "(2.740, 3.640, 5.350)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=5.75",
+      "actual": "(2.740, 3.640, 5.750)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=6.15",
+      "actual": "(2.240, 3.640, 6.240)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=6.55",
+      "actual": "(2.240, 3.640, 6.550)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=6.95",
+      "actual": "(2.240, 3.640, 6.950)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=7.35",
+      "actual": "(2.240, 3.640, 7.350)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=7.75",
+      "actual": "(2.240, 3.640, 7.750)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=8.150001",
+      "actual": "(2.240, 3.640, 8.150)",
+      "passed": true
+    },
+    {
+      "name": "Bedroom wall replaces redundant rail z=8.55",
+      "actual": "(2.240, 3.640, 8.550)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=5.1",
+      "actual": "(0.100, 3.586, 5.100)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=5.4",
+      "actual": "(0.098, 3.351, 5.464)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=5.7",
+      "actual": "(0.100, 3.209, 5.700)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=6",
+      "actual": "(0.110, 3.020, 6.000)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=6.300001",
+      "actual": "(0.100, 2.831, 6.300)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=6.600001",
+      "actual": "(0.110, 2.642, 6.600)",
+      "passed": true
+    },
+    {
+      "name": "Centre sloped protection z=6.900001",
+      "actual": "(0.100, 2.453, 6.900)",
+      "passed": true
+    },
+    {
+      "name": "Lower ascent",
+      "passed": true,
+      "actual": "(-1.250, 1.940, 8.020)"
+    },
+    {
+      "name": "Turn",
+      "passed": true,
+      "actual": "(0.430, 1.940, 8.050)"
+    },
+    {
+      "name": "Upper ascent",
+      "passed": true,
+      "actual": "(0.450, 3.640, 3.730)"
+    },
+    {
+      "name": "Living approach",
+      "passed": true,
+      "actual": "(3.541, 3.640, 3.308)"
+    },
+    {
+      "name": "Bedroom",
+      "passed": true,
+      "actual": "(3.599, 3.640, 5.467)"
+    },
+    {
+      "name": "Bedroom return",
+      "passed": true,
+      "actual": "(3.600, 3.640, 3.347)"
+    },
+    {
+      "name": "Top return",
+      "passed": true,
+      "actual": "(0.499, 3.640, 3.694)"
+    },
+    {
+      "name": "Upper descent",
+      "passed": true,
+      "actual": "(0.450, 1.940, 8.014)"
+    },
+    {
+      "name": "Turn descent",
+      "passed": true,
+      "actual": "(-1.229, 1.940, 8.050)"
+    },
+    {
+      "name": "Lower descent",
+      "passed": true,
+      "actual": "(-1.250, 0.240, 3.730)"
+    }
+  ],
+  "passed": true,
+  "height": 2.0,
+  "radius": 0.4,
+  "stepOffset": 0.3,
+  "method": "Actual unchanged CharacterController.Move: repeated attempts over repaired edge, adjacent wall and central guard; ascent/descent/turn and bedroom connection. Systems disabled only for synchronous probes, restored in finally."
+}

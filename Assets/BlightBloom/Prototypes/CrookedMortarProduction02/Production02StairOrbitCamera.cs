@@ -35,14 +35,24 @@ namespace BlightBloom.Prototypes
         [SerializeField, Min(0.05f)] private float collisionRadius = 0.18f;
         [SerializeField] private LayerMask obstructionLayers = ~0;
         private bool captured;
-        [Header("Production02 stairwell only")]
+        [Header("Production02 local indoor assistance")]
         [SerializeField] private Bounds stairZone = new Bounds(new Vector3(-0.4f, 2f, 6.25f), new Vector3(3.8f, 5f, 6.5f));
         [SerializeField, Min(1f)] private float usefulDistance = 3.0f;
         [SerializeField, Range(60f, 240f)] private float assistDegreesPerSecond = 240f;
         private float assistYaw, assistPitch, nextProbe;
         private Vector3 lastTargetPosition, targetVelocity;
         public int EmergencyCorrections { get; private set; }
+        [SerializeField, Min(0f), Tooltip("Manual look always wins. Assistance resumes only while moving after this quiet interval.")]
+        private float manualLookPrioritySeconds = 1.0f;
+        [SerializeField] private Bounds[] additionalInteriorZones = new Bounds[0];
+        [SerializeField, Range(65f, 85f), Tooltip("Modest local widening preserves context when a real wall shortens the camera boom.")]
+        private float tightSpaceFieldOfView = 78f;
+        private Camera viewCamera;
+        private float exteriorFieldOfView;
+        private float lastManualLook = float.NegativeInfinity;
         private bool assistActive;
+        private bool CanAssist => Time.unscaledTime - lastManualLook > manualLookPrioritySeconds
+            && input != null && input.Move.sqrMagnitude > .01f;
         private readonly RaycastHit[] hits = new RaycastHit[64];
         public float CurrentDistance { get; private set; }
         public bool StairAssistActive { get; private set; }
@@ -92,7 +102,8 @@ namespace BlightBloom.Prototypes
         private void AssistStairOrbit()
         {
             StairAssistActive = stairZone.Contains(target.position);
-            if (!StairAssistActive) { assistActive=false; return; }
+            foreach (var zone in additionalInteriorZones) StairAssistActive |= zone.Contains(target.position);
+            if (!StairAssistActive || !CanAssist) { assistActive=false; return; }
             float clear = PlanningClearance(smoothYaw, smoothPitch);
             Vector3 at = pivot - Quaternion.Euler(smoothPitch,smoothYaw,0) * Vector3.forward * clear;
             int visible = VisibleBodyPoints(at);
@@ -106,7 +117,7 @@ namespace BlightBloom.Prototypes
                     for (int offset = -180; offset <= 180; offset += 30)
                     for (int p = 0; p < 4; p++)
                     {
-                        float elevation = p==0 ? Mathf.Clamp(smoothPitch,0,30) : p==1 ? 0 : p==2 ? 10 : 25;
+                        float elevation = p==0 ? smoothPitch : p==1 ? 0f : p==2 ? 10f : 25f;
                         float heading = smoothYaw + offset;
                         float space = PlanningClearance(heading,elevation);
                         Vector3 candidate = pivot - Quaternion.Euler(elevation,heading,0)*Vector3.forward*space;
@@ -142,6 +153,8 @@ namespace BlightBloom.Prototypes
                 enabled = false;
                 return;
             }
+            viewCamera = GetComponent<Camera>();
+            exteriorFieldOfView = viewCamera.fieldOfView;
             pivot = target.position + targetOffset;
             lastTargetPosition = target.position;
             yaw = smoothYaw = target.eulerAngles.y;
@@ -185,6 +198,8 @@ namespace BlightBloom.Prototypes
             {
                 lastLookWasMouse = usesMouse;
                 nextProbe = 0f;
+                lastManualLook = Time.unscaledTime;
+                assistActive = false;
             }
             // Mouse input is accumulated displacement; stick input is an angular rate.
             Vector2 delta = look * (usesMouse ? mouseSensitivity : stickSensitivity * deltaTime);
@@ -232,7 +247,7 @@ namespace BlightBloom.Prototypes
             }
             // Emergency escape for abrupt user-orbit changes; normal movement should be handled
             // predictively above, before the boom collapses. Never push through an obstacle.
-            if (StairAssistActive && avoidObstacles && safeDistance < 1.65f)
+            if (StairAssistActive && CanAssist && avoidObstacles && safeDistance < 1.65f)
             {
                 float best=-1000f, heading=smoothYaw, elevation=smoothPitch, bestDistance=safeDistance;
                 for(int offset=-180;offset<=180;offset+=15)
@@ -255,12 +270,22 @@ namespace BlightBloom.Prototypes
                     safeDistance=bestDistance;EmergencyCorrections++;
                 }
             }
+            if (viewCamera != null)
+            {
+                float tightness = StairAssistActive ? Mathf.Clamp01((2.6f-safeDistance)/1.4f) : 0f;
+                float desiredFov = Mathf.Lerp(exteriorFieldOfView, Mathf.Max(exteriorFieldOfView, tightSpaceFieldOfView), tightness);
+                viewCamera.fieldOfView = Mathf.Lerp(viewCamera.fieldOfView, desiredFov, 1f-Mathf.Exp(-6f*Time.deltaTime));
+            }
             CurrentDistance = safeDistance;
             transform.SetPositionAndRotation(pivot + backward * safeDistance, rotation);
         }
 
         private void OnApplicationFocus(bool focused) { if (!focused) ReleaseCursor(); }
-        private void OnDisable() => ReleaseCursor();
+        private void OnDisable()
+        {
+            ReleaseCursor();
+            if (viewCamera != null) viewCamera.fieldOfView = exteriorFieldOfView;
+        }
         private void OnValidate() { maximumPitch = Mathf.Max(minimumPitch, maximumPitch); }
     }
 }

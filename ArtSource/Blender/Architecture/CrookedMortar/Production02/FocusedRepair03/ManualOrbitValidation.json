@@ -1,0 +1,56 @@
+{
+  "error": null,
+  "results": [
+    {
+      "name": "Stair bottom",
+      "rotationDegrees": 532.800659,
+      "maxMouseYawError": 3.05175781E-05,
+      "minDistance": 0.5401072,
+      "maxFov": 77.99041,
+      "overlaps": 0,
+      "samples": 149,
+      "passed": true
+    },
+    {
+      "name": "Turning landing",
+      "rotationDegrees": 543.6006,
+      "maxMouseYawError": 3.05175781E-05,
+      "minDistance": 0.7471628,
+      "maxFov": 77.99889,
+      "overlaps": 0,
+      "samples": 151,
+      "passed": true
+    },
+    {
+      "name": "Upper landing",
+      "rotationDegrees": 450.000549,
+      "maxMouseYawError": 3.05175781E-05,
+      "minDistance": 1.15902054,
+      "maxFov": 77.29113,
+      "overlaps": 0,
+      "samples": 125,
+      "passed": true
+    },
+    {
+      "name": "Kitchen opening",
+      "rotationDegrees": 500.400726,
+      "maxMouseYawError": 3.05175781E-05,
+      "minDistance": 0.593487263,
+      "maxFov": 77.76748,
+      "overlaps": 0,
+      "samples": 139,
+      "passed": true
+    },
+    {
+      "name": "Bedroom opening",
+      "rotationDegrees": 518.400757,
+      "maxMouseYawError": 3.05175781E-05,
+      "minDistance": 0.7989256,
+      "maxFov": 76.86489,
+      "overlaps": 0,
+      "samples": 144,
+      "passed": true
+    }
+  ],
+  "method": "Mouse.delta state events through existing Player/Look -> TraversalInput -> camera Update/LateUpdate, stationary full-circle mouse orbit at five affected positions. Initial placement per pose; no camera positioning during rotation. Collision/retraction remains active. Automated input authority and collision checks, not human comfort approval."
+}

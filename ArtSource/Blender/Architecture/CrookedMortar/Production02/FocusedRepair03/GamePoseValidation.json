@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bottom",
+    "position": "(-1.250, 0.240, 4.100)",
+    "camera": "(-1.250, 2.349, 2.427)",
+    "distance": 1.780386,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "Turn",
+    "position": "(0.450, 1.940, 8.050)",
+    "camera": "(0.450, 4.808, 4.291)",
+    "distance": 4.0,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  },
+  {
+    "name": "UpperLanding",
+    "position": "(0.450, 3.640, 3.900)",
+    "camera": "(0.450, 6.508, 7.659)",
+    "distance": 3.99999952,
+    "visibleBodyPoints": 3,
+    "totalBodyPoints": 3,
+    "obstruction": false
+  }
+]

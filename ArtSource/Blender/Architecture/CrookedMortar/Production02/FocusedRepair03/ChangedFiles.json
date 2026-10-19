@@ -1,0 +1,23 @@
+[
+  "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/ChangedFiles.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/DoorInteractionValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/GamePoseValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/GuardValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/LiveRouteValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/ManualOrbitValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/Previews/DoorShutterClearance.png",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/Previews/Game_Bottom.png",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/Previews/Game_Turn.png",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/Previews/Game_UpperLanding.png",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/Previews/UpperOpeningGuard.png",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/README.md",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/FocusedRepair03/ShutterSweepValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/StairUsability02/CM02_OpenTimberStair.blend",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/StairUsability02/MeshValidation.json",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/StairUsability02/README.md",
+  "ArtSource/Blender/Architecture/CrookedMortar/Production02/StairUsability02/build_stair.py",
+  "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_OpenTimberStair.fbx",
+  "Assets/BlightBloom/Prototypes/CrookedMortarProduction02/Production02StairOrbitCamera.cs",
+  "Assets/Scenes/CM_CrookedMortar_Production02.unity"
+]

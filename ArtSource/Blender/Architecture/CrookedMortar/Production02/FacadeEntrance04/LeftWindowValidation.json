@@ -1,0 +1,10 @@
+{
+  "enabledShutterMeshes": 14,
+  "testedWalls": [
+    "Upper front",
+    "Upper shop west front",
+    "Upper nook south"
+  ],
+  "hits": [],
+  "passed": true
+}

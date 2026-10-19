@@ -1,0 +1,13 @@
+{
+  "samples": 211,
+  "closedAngle": 180,
+  "openAngle": 75,
+  "outwardTravelDegrees": 105,
+  "doorPivot": "(4.680, 0.200, -0.750)",
+  "staticMeshes": 54,
+  "hits": [],
+  "shutterMarginHits": 0,
+  "margin": 0.03,
+  "passed": true,
+  "method": "Actual fitted door convex envelope against nearby visible static meshes, including shutters, facade, surrounds, canopy posts and fixtures. Separate +3cm rectangular door envelope checks shutter margin. Ignore penetrations <=2mm as seating tolerance."
+}

@@ -1,0 +1,8 @@
+{
+  "samples": 211,
+  "shutterYaw": 99.0,
+  "doorSweep": 105,
+  "clearanceEnvelopeExpansion": 0.03,
+  "passed": true,
+  "collisions": []
+}

@@ -1,0 +1,19 @@
+{
+  "changedExistingRecords": 12,
+  "newRecords": 8,
+  "removedRecords": 0,
+  "existingMonoBehaviourRecordsChanged": [],
+  "existingCharacterControllerRecordsChanged": [],
+  "colliderChanges": [
+    {
+      "name": "Right fitted doorway return collision",
+      "beforeEnabled": "1",
+      "afterEnabled": "0"
+    },
+    {
+      "name": "Left fitted doorway return collision",
+      "beforeEnabled": "1",
+      "afterEnabled": "0"
+    }
+  ]
+}
