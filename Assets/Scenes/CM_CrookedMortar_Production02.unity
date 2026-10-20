@@ -6360,6 +6360,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4402920343066356284, guid: 5c23f32a166ef4f6188b7d2ba3bb9985, type: 3}
   m_PrefabInstance: {fileID: 459129347}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &464316174
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 778732687}
+    m_Modifications:
+    - target: {fileID: 7335001173511709790, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_Name
+      value: BB_PlagueDoctor_Locomotion03
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+--- !u!4 &464316175 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9096713688851542993, guid: 9268532ca1400462c8f309796e6ee530, type: 3}
+  m_PrefabInstance: {fileID: 464316174}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &467707899
 GameObject:
   m_ObjectHideFlags: 0
@@ -8815,6 +8877,72 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1001 &687906869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 778732687}
+    m_Modifications:
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7910005015818619094, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_Name
+      value: BB_PlagueDoctor01_Rigged02
+      objectReference: {fileID: 0}
+    - target: {fileID: 7910005015818619094, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+--- !u!4 &687906870 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4323263168525685302, guid: 83ebe8004dad641ce932d85cb4be1f65, type: 3}
+  m_PrefabInstance: {fileID: 687906869}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &707782030
 GameObject:
   m_ObjectHideFlags: 0
@@ -9537,6 +9665,8 @@ Transform:
   m_Children:
   - {fileID: 1531700833}
   - {fileID: 954420361}
+  - {fileID: 687906870}
+  - {fileID: 464316175}
   m_Father: {fileID: 441255221}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &778732688
@@ -11683,6 +11813,10 @@ PrefabInstance:
     - target: {fileID: 8354062662835482095, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
       propertyPath: m_Name
       value: Plague Doctor Avatar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8354062662835482095, guid: b283c6baee0c4498995ac56a0ce8b272, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -77,3 +77,11 @@ Complete-facade closed/open previews and scope: `../Production02/FacadeEntrance0
 | CM02-011 / CM02-014 | Prior localized arrangements rejected. Replaced broad shop shutters with fitted matching bi-fold stacks, narrowed the existing shop insert with plaster returns, restored the shallow doorway, and used a right-hand outward swing away from the display. Base timber now terminates at the stone jambs; porch/shop finish overlap removed. | Functional checks passed (211 sweep poses, 14 E-key checks, nine passage checks, eight live-input entry/exit connections). **Manual visual approval pending; no previous shutter arrangement is treated as approved.** |
 
 Six complete-facade / approach closed/open previews, source paths and scope: `../Production02/EntryShopComposition05/README.md`. Expanded layout, roof hierarchy, unrelated rooms/assets, camera and gameplay source preserved. Two obsolete projecting-return colliders disabled; original functional collision preserved. Nothing committed.
+
+## Production02 plague doctor locomotion — 2026-10-20
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| BB-CHAR-003 | Rigged02 had limited elbow articulation, minimal body coordination and one short-stride clip accelerated for sprint. Locomotion03 adds coordinated wrist/foot trajectories, separate walk/sprint clips, phase-preserving transitions, authored-knee-plane ground contact and corrected coat weighting/linen walking vents. Rigged02 retained disabled for recovery. | Live focused Play-mode captures passed at unchanged 3/6 m/s; 19 stair/room, eight E-key entry/exit and 12 garden/exterior connections passed. **Manual animation feel approval pending.** Limited bone-driven cloth and approximate stair foot placement remain polish items. No shared gameplay/camera/collision changes. |
+
+Source, previews, reports and exact changed-file list: `../../../Characters/BB_PlagueDoctor01/Locomotion03/README.md`. No character compilation errors or gameplay exceptions observed; Pipeline automation timeout remains in Console. Nothing committed.

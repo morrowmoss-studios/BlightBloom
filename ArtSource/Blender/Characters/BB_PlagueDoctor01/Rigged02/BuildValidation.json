@@ -1,0 +1,387 @@
+{
+  "parts": [
+    {
+      "mesh": "Body",
+      "triangles": 124,
+      "uv0": true,
+      "weightedVertices": 64
+    },
+    {
+      "mesh": "Body.002",
+      "triangles": 92,
+      "uv0": true,
+      "weightedVertices": 48
+    },
+    {
+      "mesh": "Head",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "Head.001",
+      "triangles": 52,
+      "uv0": true,
+      "weightedVertices": 28
+    },
+    {
+      "mesh": "Head.002",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "Head.003",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "Head.004",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Head.005",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "Head.006",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "Head.007",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Hat",
+      "triangles": 140,
+      "uv0": true,
+      "weightedVertices": 72
+    },
+    {
+      "mesh": "Hat.001",
+      "triangles": 124,
+      "uv0": true,
+      "weightedVertices": 64
+    },
+    {
+      "mesh": "Hat.002",
+      "triangles": 60,
+      "uv0": true,
+      "weightedVertices": 32
+    },
+    {
+      "mesh": "Body.003",
+      "triangles": 60,
+      "uv0": true,
+      "weightedVertices": 32
+    },
+    {
+      "mesh": "Body.004",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.005",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.006",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.007",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.008",
+      "triangles": 44,
+      "uv0": true,
+      "weightedVertices": 24
+    },
+    {
+      "mesh": "Body.009",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.010",
+      "triangles": 44,
+      "uv0": true,
+      "weightedVertices": 24
+    },
+    {
+      "mesh": "Body.011",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Body.012",
+      "triangles": 44,
+      "uv0": true,
+      "weightedVertices": 24
+    },
+    {
+      "mesh": "Body.013",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Hat.003",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Hat.004",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Hat.005",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "Hat.006",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "TailoredTorso",
+      "triangles": 892,
+      "uv0": true,
+      "weightedVertices": 448
+    },
+    {
+      "mesh": "SleeveL",
+      "triangles": 1052,
+      "uv0": true,
+      "weightedVertices": 528
+    },
+    {
+      "mesh": "GloveL",
+      "triangles": 476,
+      "uv0": true,
+      "weightedVertices": 240
+    },
+    {
+      "mesh": "ThumbL",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "TrousersL",
+      "triangles": 908,
+      "uv0": true,
+      "weightedVertices": 456
+    },
+    {
+      "mesh": "BootShaftL",
+      "triangles": 476,
+      "uv0": true,
+      "weightedVertices": 240
+    },
+    {
+      "mesh": "BootToeL",
+      "triangles": 332,
+      "uv0": true,
+      "weightedVertices": 168
+    },
+    {
+      "mesh": "SoleL",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "LeatherBootBandL",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "BootBuckleL",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "LeatherBootBandL.001",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "BootBuckleL.001",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "CoatFrontL",
+      "triangles": 880,
+      "uv0": true,
+      "weightedVertices": 442
+    },
+    {
+      "mesh": "CoatBackL",
+      "triangles": 880,
+      "uv0": true,
+      "weightedVertices": 442
+    },
+    {
+      "mesh": "LinenSkirtL",
+      "triangles": 656,
+      "uv0": true,
+      "weightedVertices": 330
+    },
+    {
+      "mesh": "SleeveR",
+      "triangles": 1052,
+      "uv0": true,
+      "weightedVertices": 528
+    },
+    {
+      "mesh": "GloveR",
+      "triangles": 476,
+      "uv0": true,
+      "weightedVertices": 240
+    },
+    {
+      "mesh": "ThumbR",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "TrousersR",
+      "triangles": 908,
+      "uv0": true,
+      "weightedVertices": 456
+    },
+    {
+      "mesh": "BootShaftR",
+      "triangles": 476,
+      "uv0": true,
+      "weightedVertices": 240
+    },
+    {
+      "mesh": "BootToeR",
+      "triangles": 332,
+      "uv0": true,
+      "weightedVertices": 168
+    },
+    {
+      "mesh": "SoleR",
+      "triangles": 220,
+      "uv0": true,
+      "weightedVertices": 112
+    },
+    {
+      "mesh": "LeatherBootBandR",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "BootBuckleR",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "LeatherBootBandR.001",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "BootBuckleR.001",
+      "triangles": 108,
+      "uv0": true,
+      "weightedVertices": 56
+    },
+    {
+      "mesh": "CoatFrontR",
+      "triangles": 880,
+      "uv0": true,
+      "weightedVertices": 442
+    },
+    {
+      "mesh": "CoatBackR",
+      "triangles": 880,
+      "uv0": true,
+      "weightedVertices": 442
+    },
+    {
+      "mesh": "LinenSkirtR",
+      "triangles": 656,
+      "uv0": true,
+      "weightedVertices": 330
+    },
+    {
+      "mesh": "ShoulderMantle",
+      "triangles": 1280,
+      "uv0": true,
+      "weightedVertices": 640
+    }
+  ],
+  "bones": [
+    "Root",
+    "Hips",
+    "Spine",
+    "Chest",
+    "Neck",
+    "Head",
+    "ShoulderL",
+    "UpperArmL",
+    "ForearmL",
+    "HandL",
+    "ThighL",
+    "ShinL",
+    "FootL",
+    "ToeL",
+    "CoatFrontL",
+    "CoatBackL",
+    "ShoulderR",
+    "UpperArmR",
+    "ForearmR",
+    "HandR",
+    "ThighR",
+    "ShinR",
+    "FootR",
+    "ToeR",
+    "CoatFrontR",
+    "CoatBackR",
+    "Satchel"
+  ],
+  "actions": [
+    "Doctor_Idle",
+    "Doctor_Walk"
+  ],
+  "triangles": 18524,
+  "vertices": 9376
+}

@@ -1,0 +1,19 @@
+{
+  "boneCount": 27,
+  "allBonesAssigned": true,
+  "triangles": 18524,
+  "vertices": 12375,
+  "uv0": true,
+  "normals": true,
+  "normalized": true,
+  "maxInfluences": 3,
+  "material": "BB_Doctor_Painted",
+  "rootMotion": false,
+  "colliders": 0,
+  "controllerHeight": 2.0,
+  "controllerRadius": 0.4,
+  "visualOffset": "(0.00, -0.04, 0.00)",
+  "scene": "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+  "dirty": false,
+  "playing": false
+}

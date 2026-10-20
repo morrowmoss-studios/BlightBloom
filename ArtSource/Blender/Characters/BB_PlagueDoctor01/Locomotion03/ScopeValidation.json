@@ -1,0 +1,32 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+  "modifiedDocuments": [
+    {
+      "id": 687906869,
+      "classId": 1001
+    },
+    {
+      "id": 778732687,
+      "classId": 4
+    }
+  ],
+  "newDocuments": [
+    {
+      "id": 464316174,
+      "classId": 1001
+    },
+    {
+      "id": 464316175,
+      "classId": 4
+    }
+  ],
+  "removedDocuments": [],
+  "unchangedOtherSceneDocuments": true,
+  "note": "Changes are the new avatar prefab instance/transform, player child list, and old Rigged02 prefab active override. No architecture, camera, door, input, motor or collider document changed.",
+  "controller": {
+    "height": 2,
+    "radius": 0.4,
+    "stepOffset": 0.3
+  },
+  "newAvatarColliders": 0
+}

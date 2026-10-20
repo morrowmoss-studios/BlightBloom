@@ -1,0 +1,12 @@
+{
+  "changedExistingTypes": {
+    "4": 1,
+    "1001": 1
+  },
+  "changedExistingGameplayOrCollisionRecords": [],
+  "previousVersionPreserved": true,
+  "liveVisualValidation": "passed on final FBX after coat weight cleanup",
+  "visualAttachmentOffsetMetres": -0.04,
+  "compilationFailed": false,
+  "consoleNote": "One Pipeline /api/exec main-thread timeout during capture; zero compilation failures and no game-script runtime errors observed."
+}
