@@ -1,0 +1,20 @@
+[
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/ChangedFiles.json",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/EntryExitValidation.json",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Idle_Front.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Idle_Side.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Idle_ThreeQuarter.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/RuntimeContactSheet.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_A_Front.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_A_Side.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_A_ThreeQuarter.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_B_Front.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_B_Side.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/Previews/Walk_B_ThreeQuarter.png",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/README.md",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/StairRouteValidation.json",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/AnimationRepair/VisualCycleValidation.json",
+  "ArtSource/Blender/Characters/BB_PlagueDoctor01/README.md",
+  "Assets/BlightBloom/Characters/PlagueDoctor01/Prefabs/BB_PlagueDoctor01.prefab",
+  "Assets/BlightBloom/Characters/PlagueDoctor01/Scripts/PlagueDoctorPresentation.cs"
+]

@@ -1,0 +1,144 @@
+{
+  "passed": true,
+  "error": null,
+  "captures": [
+    "Idle",
+    "Walk_A",
+    "Walk_B"
+  ],
+  "samples": [
+    {
+      "key": "Idle",
+      "position": "(0.0000, 0.0400, -7.0000)",
+      "grounded": true,
+      "input": "(0.00, 0.00)",
+      "joints": [
+        {
+          "name": "ArmL visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0035, 1.0719, -6.7050)"
+        },
+        {
+          "name": "ArmR visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0035, 1.0719, -7.2950)"
+        },
+        {
+          "name": "LegL visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0650, 0.4480, -6.8750)"
+        },
+        {
+          "name": "LegR visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0650, 0.4480, -7.1250)"
+        },
+        {
+          "name": "CoatL visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0000, 0.7082, -6.8104)"
+        },
+        {
+          "name": "CoatR visual joint",
+          "angle": 0.0,
+          "renderers": 1,
+          "meshCentre": "(0.0000, 0.7082, -7.1896)"
+        }
+      ]
+    },
+    {
+      "key": "Walk_A",
+      "position": "(1.8865, 0.0400, -7.0000)",
+      "grounded": true,
+      "input": "(0.66, 0.00)",
+      "joints": [
+        {
+          "name": "ArmL visual joint",
+          "angle": -18.4736938,
+          "renderers": 1,
+          "meshCentre": "(2.0031, 1.0920, -6.7050)"
+        },
+        {
+          "name": "ArmR visual joint",
+          "angle": 18.4736958,
+          "renderers": 1,
+          "meshCentre": "(1.7765, 1.0898, -7.2950)"
+        },
+        {
+          "name": "LegL visual joint",
+          "angle": 21.733757,
+          "renderers": 1,
+          "meshCentre": "(1.7876, 0.4618, -6.8750)"
+        },
+        {
+          "name": "LegR visual joint",
+          "angle": -21.7337646,
+          "renderers": 1,
+          "meshCentre": "(2.1061, 0.4342, -7.1250)"
+        },
+        {
+          "name": "CoatL visual joint",
+          "angle": 4.78142643,
+          "renderers": 1,
+          "meshCentre": "(1.8564, 0.7101, -6.8104)"
+        },
+        {
+          "name": "CoatR visual joint",
+          "angle": -4.781433,
+          "renderers": 1,
+          "meshCentre": "(1.9166, 0.7101, -7.1896)"
+        }
+      ]
+    },
+    {
+      "key": "Walk_B",
+      "position": "(2.6096, 0.0400, -7.0000)",
+      "grounded": true,
+      "input": "(0.66, 0.00)",
+      "joints": [
+        {
+          "name": "ArmL visual joint",
+          "angle": 17.3851452,
+          "renderers": 1,
+          "meshCentre": "(2.5061, 1.0878, -6.7050)"
+        },
+        {
+          "name": "ArmR visual joint",
+          "angle": -17.3851318,
+          "renderers": 1,
+          "meshCentre": "(2.7197, 1.0899, -7.2950)"
+        },
+        {
+          "name": "LegL visual joint",
+          "angle": -20.453125,
+          "renderers": 1,
+          "meshCentre": "(2.8207, 0.4360, -6.8750)"
+        },
+        {
+          "name": "LegR visual joint",
+          "angle": 20.4531116,
+          "renderers": 1,
+          "meshCentre": "(2.5202, 0.4701, -7.1250)"
+        },
+        {
+          "name": "CoatL visual joint",
+          "angle": -4.499695,
+          "renderers": 1,
+          "meshCentre": "(2.6379, 0.7100, -6.8104)"
+        },
+        {
+          "name": "CoatR visual joint",
+          "angle": 4.49968433,
+          "renderers": 1,
+          "meshCentre": "(2.5812, 0.7100, -7.1896)"
+        }
+      ]
+    }
+  ],
+  "method": "Normal TraversalInput and ThirdPersonMotor with temporary gamepad events. Runtime observer renders of actual mesh motion at opposing gait phases, no pose methods invoked."
+}

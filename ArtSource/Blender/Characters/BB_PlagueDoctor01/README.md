@@ -1,5 +1,7 @@
 # BB_PlagueDoctor01 — first playable avatar
 
+**Animation repair:** Original numeric animation validation rotated empty joints and did not prove visible motion. See `AnimationRepair/README.md` and runtime pose renders for the corrected saved prefab and visual validation.
+
 First-pass interpretation of `BlightBloom Apothecary Character Sheet.png`: moss hood/cape and open coat, ivory beaked mask, aged-gold lens rims, dark leather broad-brim hat, cream sleeves/underskirt, gloves, boots, belt vials and satchel. This is an intentionally simplified playable prototype, not final hero art or an exact reproduction of the painting.
 
 ## Editable sources and export
