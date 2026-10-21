@@ -1,0 +1,864 @@
+{
+  "modules": [
+    {
+      "name": "CM_AF01_SalesCounter",
+      "collider": [
+        [
+          0,
+          0.5,
+          0
+        ],
+        [
+          2.2,
+          1.0,
+          0.7
+        ]
+      ],
+      "sockets": [
+        [
+          "Customer",
+          [
+            0,
+            0,
+            1.2
+          ]
+        ],
+        [
+          "Shopkeeper",
+          [
+            0,
+            0,
+            -1.1
+          ]
+        ],
+        [
+          "WorkSurface",
+          [
+            0,
+            1.055,
+            0
+          ]
+        ],
+        [
+          "Scale",
+          [
+            0.67,
+            1.055,
+            0
+          ]
+        ],
+        [
+          "Ledger",
+          [
+            -0.56,
+            1.055,
+            0
+          ]
+        ]
+      ],
+      "triangles": 5308,
+      "vertices": 2784,
+      "bounds": [
+        [
+          -1.1399999856948853,
+          -0.40299999713897705,
+          0.0
+        ],
+        [
+          1.1399999856948853,
+          0.39500001072883606,
+          1.0525000095367432
+        ]
+      ],
+      "boundaryEdges": 48,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineShelving",
+      "collider": [
+        [
+          0,
+          1.1,
+          0
+        ],
+        [
+          1.8,
+          2.2,
+          0.34
+        ]
+      ],
+      "sockets": [
+        [
+          "WallFix",
+          [
+            0,
+            1.7,
+            -0.17
+          ]
+        ]
+      ],
+      "triangles": 4892,
+      "vertices": 2544,
+      "bounds": [
+        [
+          -0.9125000238418579,
+          -0.20000000298023224,
+          0.0
+        ],
+        [
+          0.9125000238418579,
+          0.20000000298023224,
+          2.32448673248291
+        ]
+      ],
+      "boundaryEdges": 48,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_AF01_PreparationBench",
+      "collider": [
+        [
+          0,
+          0.46,
+          0
+        ],
+        [
+          3.2,
+          0.92,
+          0.65
+        ]
+      ],
+      "sockets": [
+        [
+          "Use",
+          [
+            0,
+            0,
+            1.15
+          ]
+        ],
+        [
+          "CraftingFocus",
+          [
+            0,
+            0.98,
+            0
+          ]
+        ],
+        [
+          "CameraPreview",
+          [
+            0,
+            1.5,
+            2.25
+          ]
+        ]
+      ],
+      "triangles": 3532,
+      "vertices": 1824,
+      "bounds": [
+        [
+          -1.6299999952316284,
+          -0.3384999930858612,
+          0.0
+        ],
+        [
+          1.6299999952316284,
+          0.3630000054836273,
+          0.9725000262260437
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_AF01_SideWorktable",
+      "collider": [
+        [
+          0,
+          0.46,
+          0
+        ],
+        [
+          1.5,
+          0.92,
+          0.65
+        ]
+      ],
+      "sockets": [
+        [
+          "Use",
+          [
+            0,
+            0,
+            1.15
+          ]
+        ],
+        [
+          "CraftingFocus",
+          [
+            0,
+            0.98,
+            0
+          ]
+        ],
+        [
+          "CameraPreview",
+          [
+            0,
+            1.5,
+            2.25
+          ]
+        ]
+      ],
+      "triangles": 2516,
+      "vertices": 1296,
+      "bounds": [
+        [
+          -0.7799999713897705,
+          -0.3384999930858612,
+          0.0
+        ],
+        [
+          0.7799999713897705,
+          0.3630000054836273,
+          0.9725000262260437
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_AF01_InstrumentStand",
+      "collider": [
+        [
+          0,
+          0.35,
+          0
+        ],
+        [
+          0.65,
+          0.7,
+          0.46
+        ]
+      ],
+      "sockets": [
+        [
+          "Use",
+          [
+            0,
+            0,
+            0.9
+          ]
+        ]
+      ],
+      "triangles": 1312,
+      "vertices": 672,
+      "bounds": [
+        [
+          -0.33500000834465027,
+          -0.23849999904632568,
+          0.0
+        ],
+        [
+          0.33500000834465027,
+          0.23849999904632568,
+          0.7225000262260437
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_AF01_ExaminationCouch",
+      "collider": [
+        [
+          0,
+          0.39,
+          0
+        ],
+        [
+          0.94,
+          0.78,
+          2.0
+        ]
+      ],
+      "sockets": [
+        [
+          "PatientApproach",
+          [
+            0,
+            0,
+            -1.6
+          ]
+        ],
+        [
+          "Clinician",
+          [
+            -1.25,
+            0,
+            0
+          ]
+        ],
+        [
+          "PatientLying",
+          [
+            0,
+            0.82,
+            0
+          ]
+        ],
+        [
+          "ExaminationFocus",
+          [
+            0,
+            1.05,
+            0.15
+          ]
+        ]
+      ],
+      "triangles": 2492,
+      "vertices": 1274,
+      "bounds": [
+        [
+          -0.5,
+          -1.0299999713897705,
+          0.0
+        ],
+        [
+          0.5,
+          1.0299999713897705,
+          1.0299999713897705
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_AF01_Cloth"
+      ]
+    },
+    {
+      "name": "CM_AF01_PhysicianStool",
+      "collider": [
+        [
+          0,
+          0.25,
+          0
+        ],
+        [
+          0.43,
+          0.5,
+          0.43
+        ]
+      ],
+      "sockets": [],
+      "triangles": 384,
+      "vertices": 200,
+      "bounds": [
+        [
+          -0.22499999403953552,
+          -0.22499999403953552,
+          0.015501081943511963
+        ],
+        [
+          0.22499999403953552,
+          0.22499999403953552,
+          0.5
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_AF01_Washstand",
+      "collider": [
+        [
+          0,
+          0.43,
+          0
+        ],
+        [
+          0.78,
+          0.86,
+          0.56
+        ]
+      ],
+      "sockets": [
+        [
+          "Use",
+          [
+            0,
+            0,
+            1.0
+          ]
+        ],
+        [
+          "Basin",
+          [
+            0,
+            0.89,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1928,
+      "vertices": 984,
+      "bounds": [
+        [
+          -0.4000000059604645,
+          -0.30000001192092896,
+          0.0
+        ],
+        [
+          0.4000000059604645,
+          0.35249999165534973,
+          1.0399999618530273
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Ceramic",
+        "CM_AF01_Water",
+        "CM_AF01_Brass",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_AF01_SupplyCabinet",
+      "collider": [
+        [
+          0,
+          0.92,
+          0
+        ],
+        [
+          1.45,
+          1.84,
+          0.4
+        ]
+      ],
+      "sockets": [
+        [
+          "Use",
+          [
+            0,
+            0,
+            1.15
+          ]
+        ]
+      ],
+      "triangles": 2252,
+      "vertices": 1184,
+      "bounds": [
+        [
+          -0.7400000095367432,
+          -0.2199999988079071,
+          0.0
+        ],
+        [
+          0.7400000095367432,
+          0.2680000066757202,
+          1.8899999856948853
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_AF01_DryingRack",
+      "collider": null,
+      "sockets": [
+        [
+          "WallFix",
+          [
+            0,
+            0.55,
+            -0.13
+          ]
+        ],
+        [
+          "HerbL",
+          [
+            -0.48,
+            0.54,
+            0.23
+          ]
+        ],
+        [
+          "HerbM",
+          [
+            0,
+            0.54,
+            0.23
+          ]
+        ],
+        [
+          "HerbR",
+          [
+            0.48,
+            0.54,
+            0.23
+          ]
+        ]
+      ],
+      "triangles": 720,
+      "vertices": 384,
+      "bounds": [
+        [
+          -0.699999988079071,
+          -0.14000000059604645,
+          0.2650756537914276
+        ],
+        [
+          0.699999988079071,
+          0.26499998569488525,
+          0.6050000190734863
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_AF01_BalanceScales",
+      "collider": null,
+      "sockets": [
+        [
+          "PanL",
+          [
+            -0.19,
+            0.16,
+            0
+          ]
+        ],
+        [
+          "PanR",
+          [
+            0.19,
+            0.16,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1280,
+      "vertices": 660,
+      "bounds": [
+        [
+          -0.28999999165534973,
+          -0.14000000059604645,
+          0.0
+        ],
+        [
+          0.28999999165534973,
+          0.14000000059604645,
+          0.47999998927116394
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_AF01_MortarPestle",
+      "collider": null,
+      "sockets": [],
+      "triangles": 576,
+      "vertices": 292,
+      "bounds": [
+        [
+          -0.15000000596046448,
+          -0.15000000596046448,
+          0.0
+        ],
+        [
+          0.15000000596046448,
+          0.15000000596046448,
+          0.309447705745697
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_AF01_InstrumentTray",
+      "collider": null,
+      "sockets": [],
+      "triangles": 1312,
+      "vertices": 680,
+      "bounds": [
+        [
+          -0.24250000715255737,
+          -0.14000000059604645,
+          0.0
+        ],
+        [
+          0.24250000715255737,
+          0.14000000059604645,
+          0.07999999821186066
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_AF01_MeasuringTools",
+      "collider": null,
+      "sockets": [],
+      "triangles": 668,
+      "vertices": 344,
+      "bounds": [
+        [
+          -0.22499999403953552,
+          -0.11500000208616257,
+          0.0
+        ],
+        [
+          0.20499999821186066,
+          0.05602068454027176,
+          0.09000000357627869
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Brass",
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_AF01_CeramicJar",
+      "collider": null,
+      "sockets": [],
+      "triangles": 522,
+      "vertices": 268,
+      "bounds": [
+        [
+          -0.08568000048398972,
+          -0.08568000048398972,
+          0.0
+        ],
+        [
+          0.08568000048398972,
+          0.08609999716281891,
+          0.2800000011920929
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_AF01_TinctureBottle",
+      "collider": null,
+      "sockets": [],
+      "triangles": 614,
+      "vertices": 316,
+      "bounds": [
+        [
+          -0.0979200005531311,
+          -0.0979200005531311,
+          0.0
+        ],
+        [
+          0.0979200005531311,
+          0.09839999675750732,
+          0.3199999928474426
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Glass",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Sage"
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineRowA",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2088,
+      "vertices": 1072,
+      "bounds": [
+        [
+          -0.653439998626709,
+          -0.0948600023984909,
+          0.0
+        ],
+        [
+          0.656499981880188,
+          0.09532500058412552,
+          0.3100000023841858
+        ]
+      ],
+      "boundaryEdges": 16,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineRowB",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2180,
+      "vertices": 1120,
+      "bounds": [
+        [
+          -0.653439998626709,
+          -0.0948600023984909,
+          0.0
+        ],
+        [
+          0.656499981880188,
+          0.09532500058412552,
+          0.3100000023841858
+        ]
+      ],
+      "boundaryEdges": 16,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Glass",
+        "CM_AF01_Sage"
+      ]
+    },
+    {
+      "name": "CM_AF01_OpenLedger",
+      "collider": null,
+      "sockets": [],
+      "triangles": 248,
+      "vertices": 136,
+      "bounds": [
+        [
+          -0.22499999403953552,
+          -0.1599999964237213,
+          0.0024999999441206455
+        ],
+        [
+          0.22499999403953552,
+          0.1599999964237213,
+          0.054999999701976776
+        ]
+      ],
+      "boundaryEdges": 8,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Labels",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_AF01_LinenRolls",
+      "collider": null,
+      "sockets": [],
+      "triangles": 228,
+      "vertices": 120,
+      "bounds": [
+        [
+          -0.09700000286102295,
+          -0.03200000151991844,
+          0.0
+        ],
+        [
+          0.09700000286102295,
+          0.03200000151991844,
+          0.11999999731779099
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    }
+  ],
+  "totalTriangles": 35052,
+  "paintSource": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Textures/CM_Production01_ApprovedPaint.png",
+  "labelSource": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Paint/Interiors/CrookedMortar/ApothecaryFurnishings01/CM_AF01_BotanicalLabels.svg",
+  "axes": "Unity +Y up / +Z front",
+  "scaleMetres": 1,
+  "notes": "Intentional open label/inlay sheets. Solid furniture and vessels are closed meshes; no collider geometry in FBX."
+}

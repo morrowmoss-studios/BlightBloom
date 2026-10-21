@@ -1,0 +1,42 @@
+[
+  {
+    "test": "FurnitureRouteValidation",
+    "passed": true,
+    "waypoints": 18,
+    "cameraOverlaps": 0,
+    "samples": 143,
+    "minCameraDistance": 1.16134524,
+    "minimumVisibleBodyPoints": 2,
+    "emergencyCorrections": 1
+  },
+  {
+    "test": "StairRouteValidation",
+    "passed": true,
+    "waypoints": 19,
+    "cameraOverlaps": 0,
+    "samples": 213,
+    "minCameraDistance": 0.9341838,
+    "minimumVisibleBodyPoints": 2,
+    "emergencyCorrections": 6
+  },
+  {
+    "test": "EntryExitValidation",
+    "passed": true,
+    "waypoints": 8,
+    "cameraOverlaps": 0,
+    "samples": 86,
+    "minCameraDistance": 0.896178961,
+    "minimumVisibleBodyPoints": 2,
+    "emergencyCorrections": 0
+  },
+  {
+    "test": "GardenRouteValidation",
+    "passed": true,
+    "waypoints": 12,
+    "cameraOverlaps": 0,
+    "samples": 197,
+    "minCameraDistance": 0.7802045,
+    "minimumVisibleBodyPoints": 2,
+    "emergencyCorrections": 0
+  }
+]

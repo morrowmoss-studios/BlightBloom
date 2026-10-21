@@ -85,3 +85,13 @@ Six complete-facade / approach closed/open previews, source paths and scope: `..
 | BB-CHAR-003 | Rigged02 had limited elbow articulation, minimal body coordination and one short-stride clip accelerated for sprint. Locomotion03 adds coordinated wrist/foot trajectories, separate walk/sprint clips, phase-preserving transitions, authored-knee-plane ground contact and corrected coat weighting/linen walking vents. Rigged02 retained disabled for recovery. | Live focused Play-mode captures passed at unchanged 3/6 m/s; 19 stair/room, eight E-key entry/exit and 12 garden/exterior connections passed. **Manual animation feel approval pending.** Limited bone-driven cloth and approximate stair foot placement remain polish items. No shared gameplay/camera/collision changes. |
 
 Source, previews, reports and exact changed-file list: `../../../Characters/BB_PlagueDoctor01/Locomotion03/README.md`. No character compilation errors or gameplay exceptions observed; Pipeline automation timeout remains in Console. Nothing committed.
+
+
+## Production02 ground-floor furnishings — 2026-10-21
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-FURN-001 | Placeholder ground-floor furniture replaced scene-locally with a reusable painted furnishing family. Initial stool/cabinet and instrument-stand/bed approach conflicts corrected before live validation. | Nine standing markers clear; 18 furnished-room, 19 stair/connected-room, eight E-key entry/exit and 12 garden route waypoints passed through the existing controller. Walk/sprint/stop smoke test passed at unchanged 3/6 m/s. Manual arrangement and camera comfort approval pending. |
+| CM02-FURN-002 | Existing indoor camera can retract strongly near doorways and stairs; six emergency corrections occurred during the stair smoke route. | Retained for manual review; no camera changes in the furnishing pass. No sampled camera/geometry overlap. Automated accessibility does not establish comfort. |
+
+Sources, previews, measurements and validation: `../../../Interiors/CrookedMortar/ApothecaryFurnishings01/README.md`. Furniture stations currently provide planning markers only; patient/crafting animations and interactions remain future work. No architecture, shared gameplay, approved kits or settings changed. Nothing committed.

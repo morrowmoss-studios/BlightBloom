@@ -1,0 +1,407 @@
+{
+  "passed": true,
+  "modules": [
+    {
+      "name": "CM_AF01_BalanceScales",
+      "triangles": 1280,
+      "vertices": 660,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_CeramicJar",
+      "triangles": 522,
+      "vertices": 268,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_DryingRack",
+      "triangles": 720,
+      "vertices": 384,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_ExaminationCouch",
+      "triangles": 2492,
+      "vertices": 1274,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_InstrumentStand",
+      "triangles": 1312,
+      "vertices": 672,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_InstrumentTray",
+      "triangles": 1312,
+      "vertices": 680,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_LinenRolls",
+      "triangles": 228,
+      "vertices": 120,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_MeasuringTools",
+      "triangles": 668,
+      "vertices": 344,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineRowA",
+      "triangles": 2088,
+      "vertices": 1072,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineRowB",
+      "triangles": 2180,
+      "vertices": 1120,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_MedicineShelving",
+      "triangles": 4892,
+      "vertices": 2544,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_MortarPestle",
+      "triangles": 576,
+      "vertices": 292,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_OpenLedger",
+      "triangles": 248,
+      "vertices": 136,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_PhysicianStool",
+      "triangles": 384,
+      "vertices": 200,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_PreparationBench",
+      "triangles": 3532,
+      "vertices": 1824,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_SalesCounter",
+      "triangles": 5308,
+      "vertices": 2784,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_SideWorktable",
+      "triangles": 2516,
+      "vertices": 1296,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_SupplyCabinet",
+      "triangles": 2252,
+      "vertices": 1184,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_TinctureBottle",
+      "triangles": 614,
+      "vertices": 316,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_AF01_Washstand",
+      "triangles": 1928,
+      "vertices": 984,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "units": "METRIC",
+  "scaleLength": 1.0
+}
