@@ -1,0 +1,2539 @@
+{
+  "status": "PROPOSED_ONLY_NOT_APPROVED",
+  "recoveryCommit": "6253fc0d57f9c0f6bf3c5c0210003d67b9fb03d9",
+  "method": "Historical files already stored in verified Git blobs; retain all primary .blend and painted source images in working tree. No deletion or move until explicit approval. Use Unity AssetDatabase.DeleteAsset for authorized Assets paths, preserving shared GUIDs. Recheck hashes and inbound references before execution.",
+  "entries": [
+    {
+      "category": "delete_disposable",
+      "path": ".DS_Store",
+      "bytes": 6148,
+      "sha256": "8ec455d5925ff6ba9dc4d9b328c2a0c1b7752a2525bf842f3b9e528d743c3607",
+      "gitBlob": "640cd80063e86eebfad16163751b2298182ba291",
+      "meta": null
+    },
+    {
+      "category": "delete_disposable",
+      "path": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/PipelineProbe.fbx",
+      "bytes": 19740,
+      "sha256": "77406834351e41a2d2498935d659c0f5df5c78f9f3fc8900168a7bd55beafaaa",
+      "gitBlob": "6c9f70778b72e2e27646c452272ec1d7c87f4b9f",
+      "meta": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/PipelineProbe.fbx.meta"
+    },
+    {
+      "category": "delete_disposable",
+      "path": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/PipelineProbe.glb",
+      "bytes": 6200,
+      "sha256": "2786e3d73e59e8025ad58cb8608f8e30cc363aa695e3b040958bfa754cc4b27e",
+      "gitBlob": "78836ef6a117474d412f02203cd1dfc8667f44ea",
+      "meta": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/PipelineProbe.glb.meta"
+    },
+    {
+      "category": "delete_disposable",
+      "path": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/README.md",
+      "bytes": 795,
+      "sha256": "da24f51a34d9450dc5fe889342148b966916b3f7500bf7d173948860b96d72e5",
+      "gitBlob": "73049d1b3d4ea293b11366da91376f5e3ae3a9d6",
+      "meta": "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe/README.md.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction02/CM_ConceptReconstruction02.blend1",
+      "bytes": 161360,
+      "sha256": "cc06027a68d0d23fdd6c6adc4556bb731750686ba4e8f1b735ff1bdf6a26d129",
+      "gitBlob": "cdeb62ce736b4c43ae73c8c51679a9a4e79dbd69",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction02/Previews/Front.png",
+      "bytes": 523090,
+      "sha256": "8a6c373f9a88be547eeed455a06899f2c514a5d36d81cb9e3b4b138f113cc769",
+      "gitBlob": "75f0c54033f46b56fe61b2bb44ffd732f41de39f",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction02/Previews/Side.png",
+      "bytes": 442138,
+      "sha256": "70f3bbe69b0e5c8ea358bfcffbfb719b5a42fdc04958711d533a2c2cd33041fd",
+      "gitBlob": "fe601ed155d81e42d178d3638a2a09e144e0fc0e",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction02/Previews/ThreeQuarter.png",
+      "bytes": 498834,
+      "sha256": "d211b0516fcf9656c12c8593507953f21c973911f9f5a0f79a2930eca2949b43",
+      "gitBlob": "555e360b366988578ab0eb1347070ecc1d84064a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction03/CM_ConceptReconstruction03.blend1",
+      "bytes": 164906,
+      "sha256": "0051a40268dc8fc86bc4f8de20d15033a089eef5fc6c9579e70352e2ba779845",
+      "gitBlob": "28ea92bd0635659ae94684fa4521227c9deaea46",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction03/Previews/Front.png",
+      "bytes": 501500,
+      "sha256": "ca42630f91ed0755c157223ad72aecc187b4a308f4c42a77f9e7b42e003e40c3",
+      "gitBlob": "ab77f8634de7c1871ad9a8d88a98143ea47af34d",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction03/Previews/Side.png",
+      "bytes": 442660,
+      "sha256": "49b2cea1eedc6121fd2033d8408870da73d4f12f2d34cd72247a7860132cdc0e",
+      "gitBlob": "b68b2e43f666c7a864b0c7692970f85b7245ac2b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/ConceptReconstruction03/Previews/ThreeQuarter.png",
+      "bytes": 509471,
+      "sha256": "af458e6824ade1ebe3980ecc24af98ca37e358201e56e0c06cf9642b1edfc3e3",
+      "gitBlob": "dbc407e70b48ef0c7f8ffa026352d19bd0c18ed1",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/EntranceBay01/CM_EntranceBay01_Geometry_v01.blend1",
+      "bytes": 414471,
+      "sha256": "7fe8e9bf16a90a6841a0634310ba248dbeb7be5c85048c69c2b60fbe8e0027a8",
+      "gitBlob": "49329aa64ff84b5e38f4c49a8a8b1684520cf203",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/EntranceBay01/CM_EntranceBay01_Painted_v01.blend1",
+      "bytes": 10217908,
+      "sha256": "40308253c4cb4cb50e19a50be247c338e30f654ecd0b1407f70c37eb4da24c66",
+      "gitBlob": "72fadb1b2a704efdd00b50a90e37de94dad7f5db",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/CM_Refinement05_A.blend1",
+      "bytes": 223774,
+      "sha256": "6ea106b5ec6947ea9ce5113fd4c54273116c62a4c014faf13e10cb2d13023bfe",
+      "gitBlob": "b3c4a758d6f31306d064748133e33cc83b5b85d4",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/CM_Refinement05_B.blend1",
+      "bytes": 219170,
+      "sha256": "7876292372bccc521a45ee7e24862fbbcf990755ec90514c2c2e68e3d1636762",
+      "gitBlob": "c955a9ee126a473dc5713ff18a24b87643e5a772",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/CM_Refinement05_C.blend1",
+      "bytes": 222814,
+      "sha256": "7e7d5ba7259e59fc01a47a46cf100e3b5d9b3db067a3fbd976dc19f2c95e43f3",
+      "gitBlob": "3118651f74c284b69be17476a882917a83df3f77",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/A_Front.png",
+      "bytes": 456356,
+      "sha256": "6ce00aab837855ec041fa3311b2f4818d0bbdd9cbd24a640ee21974753e85a24",
+      "gitBlob": "26cac449420f7439234667cb375d49fc71886136",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/A_ThreeQuarter.png",
+      "bytes": 464743,
+      "sha256": "6ccbfa27ffdc20c4649f2f6b6cd81a2acd06a4fe83f4b819e9c7baa0b2c64293",
+      "gitBlob": "cd23f60efed71e601d229a0424a2b74708b096f1",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/B_Front.png",
+      "bytes": 392598,
+      "sha256": "600b1cba8284fb333aca5cc0e819f925e49cbac3b993a7400db31ed3c0128a73",
+      "gitBlob": "2e11535efa4091e818c91659cfc44faea84fdd81",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/B_ThreeQuarter.png",
+      "bytes": 417822,
+      "sha256": "28b8dfb586abfb67e1e9940015f9b2e9ba151b7d4721ebab0f63de9037a0d23d",
+      "gitBlob": "49ba494f4988f49374d867512e57dfe2d478bfe6",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/C_Front.png",
+      "bytes": 386879,
+      "sha256": "5eff62250102467036d65860e14ec8e43751fd0d021641657c4ecab5ac41924e",
+      "gitBlob": "a356fcb2fd26f211f282663de50f92428b045a7a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/C_ThreeQuarter.png",
+      "bytes": 446282,
+      "sha256": "f3ce1990c8c5dd67e0b6c7b29fdf5081634b644e8864bedfb66dd967cc3d2fa7",
+      "gitBlob": "e965b768531816e9dad2f6eac1bc244a8bc1438b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/Front_Comparison.png",
+      "bytes": 214222,
+      "sha256": "d0d99ef78603f313b721c3350d1e7f29d24dcb2329f2841fdf694ec065a9cd86",
+      "gitBlob": "a2a172df23fc7e78c16a803aaa7c6176b3766c71",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingRefinements05/Previews/ThreeQuarter_Comparison.png",
+      "bytes": 268899,
+      "sha256": "ae6bb93d8787f3e9f7227107a6e557765218447ed419505b6e0fc712d6f7e6d0",
+      "gitBlob": "4cea3d3fbab7c349845f4cc1d76e2963ca37139a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/CM_Massing04_A.blend1",
+      "bytes": 238490,
+      "sha256": "bfd1c28f0536d0f3b0ca51c6a345e2bff046021d8f0b54cc426c356029b166eb",
+      "gitBlob": "2ce30567011b8cb6ece2998d6eb9d42bac12645a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/CM_Massing04_B.blend1",
+      "bytes": 238372,
+      "sha256": "011fdb3fe3fd99d776da0e46c60304a63758cc187306d5c63b2ddfba20ce9e12",
+      "gitBlob": "bfacdaff0720d4da2bba567fba7fbe3395b8ff4f",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/CM_Massing04_C.blend1",
+      "bytes": 233398,
+      "sha256": "74ecadbd66a97d6b24c268b1e6ee209ea9586f45ba3e6f85e71c4f1bc957956a",
+      "gitBlob": "2fa0a6fef63c9e2a56e4819b8622f5a4e4c4febc",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/A_Front.png",
+      "bytes": 426381,
+      "sha256": "70f9308be88af5e7ef70cee2066d5ec5cbe38e969f9bc7673fcbdc0df06ea379",
+      "gitBlob": "68c95fea624f3d0b07831bcb884cdadbdaade676",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/A_ThreeQuarter.png",
+      "bytes": 470688,
+      "sha256": "5494c5771cf5fa79a9dea4a6aea3eea0ba861a0f60cba158e6dd15943fce074b",
+      "gitBlob": "c4168dd6fe2be8a414cad1e9e142a1e5d7d098da",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/B_Front.png",
+      "bytes": 412093,
+      "sha256": "c64b233c7114a08e90a9c2056a8fa0f05a0348e7b506e6f1b6ba6fc6529c6991",
+      "gitBlob": "111acf0d5aada43407b654b2a57057623a1a9f72",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/B_ThreeQuarter.png",
+      "bytes": 427486,
+      "sha256": "3938d232c0f51b6e4c25ef40b148bbf9d4b439b6560ead8df2155b688b53608a",
+      "gitBlob": "533b82ec2d90b6b060556a73066b34519e232252",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/C_Front.png",
+      "bytes": 412311,
+      "sha256": "2c08110aa7484202e02e380f564a3650aac4b7394da7b844a37cdbaaa58c31a0",
+      "gitBlob": "8eb4be969548888cacbc00d56c26c2d89287bc43",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/C_ThreeQuarter.png",
+      "bytes": 470576,
+      "sha256": "3b2b04e7615a3a75c7e7a04fa877712fdcfb4eaec1ee96cd4c5932f6efb4ddd4",
+      "gitBlob": "31fefadb1b67bf157d0b68f2eac8343752cccad4",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/Front_Comparison.png",
+      "bytes": 219116,
+      "sha256": "cb4478a52c21873b978a1458d71fa1f21efa3387c1b80021965da01980d28644",
+      "gitBlob": "f2bbf93fce282c2cb589729eb7fb9e0a4dbad0d8",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/MassingStudies04/Previews/ThreeQuarter_Comparison.png",
+      "bytes": 276056,
+      "sha256": "9bf49bce3d2cc3f18e1b8a0f0f29c680294e379fdbb82e57fc88ac5724e899c1",
+      "gitBlob": "7e47cc45cceb23d35fd715ed5e89f709d98aac3b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/ActualGameViewExterior.png",
+      "bytes": 1485950,
+      "sha256": "3f1ef11034ca74c92c78f247d41679c8aaf9d6b66e8d7830bffd26d1eac76577",
+      "gitBlob": "dae66ba3606c020012362ed7e7e5ecaa3b2e5005",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/ActualGameViewInterior.png",
+      "bytes": 1814303,
+      "sha256": "cb8509c7466fa3346c175f479bcc83907b59dc85d0feecb7d47b165742b80b24",
+      "gitBlob": "5684462a23a65f070a9781b4b72fa9ed5aa0656a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/BedroomInterior.png",
+      "bytes": 1284195,
+      "sha256": "b7c1bc6a375117f65963c7fda7ab3eb8a3c527560c8e6aae9d2737061880a10e",
+      "gitBlob": "5de433ba801facc0cb87fe38e6b92d7ea4b0b3ce",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/Elevated.png",
+      "bytes": 1251810,
+      "sha256": "f8bc7111555ae5ac62fdf452f43730f51f8bcf551dbbd4ebd446504dd3c465e5",
+      "gitBlob": "96d10ebe646ea43479bc104f40dae10dedbe381f",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/Front.png",
+      "bytes": 1031274,
+      "sha256": "95e12a424e2a9cb7fe1fb859da51faed74885278c1ef196e7028e50d16eaad2a",
+      "gitBlob": "675a4131237286538754e13d4977c835151c40ab",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/GameplayDistance.png",
+      "bytes": 1292765,
+      "sha256": "8b48854f8e364145cfa6fb64a0cf949251f6e649539b1ca60ed7b22de76e618e",
+      "gitBlob": "df766c41d491387f0c0f52ed4ee52712911f358e",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/ShopInterior.png",
+      "bytes": 1294531,
+      "sha256": "072dc1d798673fb51b436afeebe130ab069e29c3131f19430c2c12ac518bd0ae",
+      "gitBlob": "001a9f9e4d6d61277d2cbbc8c49c7a196a975dec",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/Side.png",
+      "bytes": 1113733,
+      "sha256": "2417448d6aedc88ad3c5301711aaef660c033f1ccced17581630fb02a815526c",
+      "gitBlob": "e8c74458739102025ba8e62c5e9b782f8c4c1e99",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/StudyInterior.png",
+      "bytes": 1356752,
+      "sha256": "b7e549e82b40b502fcf56ea7ae9722c215eb2ea678f9d8d9f5f2d9ae2bc299bc",
+      "gitBlob": "c73c57ac908b0294ace2acdfad9c6f835138e8e1",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/ThreeQuarter.png",
+      "bytes": 951429,
+      "sha256": "76a36b14cd4bbaffbfc96df8bb2f40e6f89dc9d3fd01844bac13b221f81bc8d2",
+      "gitBlob": "ff48ff6e43c764e93671cb2df5a89029904c703b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/Previews/TreatmentInterior.png",
+      "bytes": 1271308,
+      "sha256": "8a4665a9fde227474f47188678737877ce10ce55350c34fe1d2f3ce697cd4256",
+      "gitBlob": "fcd6120702eb27b6d004c02706bac5527f56e29b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/CM_Redesign01_Geometry.blend1",
+      "bytes": 168406,
+      "sha256": "6ad854738d90d1581a676112a2952b87d2454f6ba8aa09f486ba97b283595c8b",
+      "gitBlob": "0ebddae16244883d2e02345ac391ff669dd73758",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/CM_Redesign01_Painted_v01.blend1",
+      "bytes": 17795507,
+      "sha256": "0fdd56b792e69a6a1cbe86eb46fbe0169512d719e6804e1b361a0f5e94b0b4b7",
+      "gitBlob": "82c146146a91409d1e70461501daccb7e35670ad",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/Elevated.png",
+      "bytes": 619389,
+      "sha256": "0665faf8bcdd94e02a25d68ba8213683105e7bb5a523f1f096354aec282fa6fe",
+      "gitBlob": "2a5dc86cc803e0f8fdf19ee715a9aea4226c59a2",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/Front.png",
+      "bytes": 848760,
+      "sha256": "e77ab72680e43bf567b8b04da822d88ab5e97555c4cfbc610185a3b5fb95b424",
+      "gitBlob": "19335e9f0c45811f75156a15eb11316ee0065d74",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/Layout.svg",
+      "bytes": 6580,
+      "sha256": "afc5612eacb18fa003b3f4d1ae31ff308b243384c274f38f83f8b13c1250f14f",
+      "gitBlob": "16d55ed543f97d74f7f44f3b90396177969b194f",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/Original_ThreeQuarter.png",
+      "bytes": 768679,
+      "sha256": "3c306f819173bc845b5943afeebb3f2b7922022418820b32f5e69acb13044bb3",
+      "gitBlob": "8cbc6f7ff6770f405be2b4d75a208b08c428f5c4",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/Side.png",
+      "bytes": 721870,
+      "sha256": "5febc4a681756567d29ffcdc030596745b515720635e099fa850bdce93999561",
+      "gitBlob": "063c2a84dc49631d7299ddaed363b07c4e16b9d1",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Redesign01/Previews/ThreeQuarter.png",
+      "bytes": 669943,
+      "sha256": "a0a11dcdb0b6232842ba47facac2474a4a9c12e774fbda8b7f984c590f2e11f9",
+      "gitBlob": "1b87cbaacfd1216831590d17f4d9c7f302d73bb7",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/StyledProof06/CM_B_StyledProof06.blend1",
+      "bytes": 19139713,
+      "sha256": "878d4bb131380583ad5215822190169434b5b5ffc5141d05c90161f982cf55b1",
+      "gitBlob": "33c74d8871bace180a83fa460a96bbe983294d8a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/StyledProof06/Previews/Front.png",
+      "bytes": 962416,
+      "sha256": "6f852f63b27458900904bb470d97d3e79d63ced881aafaa7bdc4615c98d18000",
+      "gitBlob": "4c3f0876c18a5ee7725b26016c26dbcfb0e06221",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/StyledProof06/Previews/GameplayDistance.png",
+      "bytes": 1402511,
+      "sha256": "8a5e408bc3d1c0367f7953399c7487f2b09920c499f8c82c11a1d0e7d0ec7c72",
+      "gitBlob": "81b424b49c48c4530231b57e6812bd30350ae4c6",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/StyledProof06/Previews/Hero.png",
+      "bytes": 1116806,
+      "sha256": "41c9c516e44cbb90600c3292f70d7a5bbe76f60d7a0b2a6dc3a884b2f1450d4c",
+      "gitBlob": "1e0ab6a4c3b9dfce9b3ef1b08ff6fcbcc140b030",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/StyledProof06/Previews/Side.png",
+      "bytes": 1216203,
+      "sha256": "8e83b60d2a6fde9bede3ddaeb528d7d63faabc5bc1ac6300a0bdce71d7ab6a27",
+      "gitBlob": "774a7dbcf68866af8020ba35d5c44fafda91b5db",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/WindowBay01/CM_WindowBay01.blend1",
+      "bytes": 303095,
+      "sha256": "568af706c296ed3629fd5d5ce88d8f604b9beae72bdd1f25c3aac4088dc63411",
+      "gitBlob": "a0aa68cf12b413b4442fba16f5d2f2f500bef0e8",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureConceptReconstruction02.cs",
+      "bytes": 1452,
+      "sha256": "9117d1c12c582bfe9702ec9d7bdfe85a737933e6f38e8c956b7afaca556768f0",
+      "gitBlob": "6def03275e71606b250bd99bcdd1ef97be6b1df8",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureConceptReconstruction03.cs",
+      "bytes": 1645,
+      "sha256": "d17988795fbad58fa88bf77b5e640c81dadcf0c31c18d86d3e7fffe1a3e9fc4e",
+      "gitBlob": "08fc49c8672aaab49c9e785ce0d266c329164fee",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureCrookedMortarOriginal.cs",
+      "bytes": 2285,
+      "sha256": "0a60f5a305962d46deef80f2ee4963c1c935c1fd77e3505727ed3ffc8e24e06e",
+      "gitBlob": "3b318429c67a1d95b8811d1d66a66f9df6da50cd",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureCrookedMortarProduction01.cs",
+      "bytes": 1889,
+      "sha256": "30c6604d8fc7fb111ca2192a829ee758dd5b1c10330fd10f56b2f28b7ab742e6",
+      "gitBlob": "4efa5ce52604ec895818c1a741ba6c9ab39b699e",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureCrookedMortarRedesign.cs",
+      "bytes": 1174,
+      "sha256": "f0c00b39947298a665d255253197cb43a30510479dbf16be2535b202566442ab",
+      "gitBlob": "3194d230d5b9336be5fd36d59da7d0c48c9014aa",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureMassingRefinements05.cs",
+      "bytes": 1909,
+      "sha256": "ea0c28e4b8c02fc013de78705d8ed0eda5e703460258a1e2510189e0c866546d",
+      "gitBlob": "a9d210fceb73d459a32631beb889b17c27328f28",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureMassingStudies04.cs",
+      "bytes": 1910,
+      "sha256": "a6f84df0737ad2b14b0d777b0d074c0b7214330e6c918c6ce7bd1aca12e76789",
+      "gitBlob": "93648939d6b6b32fa6dde4471e3bb68e61961d8f",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CaptureStyledProof06.cs",
+      "bytes": 1696,
+      "sha256": "190191a2a36a545bf486023d238c0d9f01c67c3ecf6422c26cdaefc8a1371e39",
+      "gitBlob": "1f773f07ef7efa8ea09c4b78fbd557aea4d8fef5",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateConceptReconstruction02.cs",
+      "bytes": 10235,
+      "sha256": "b577ccd2ccca58f4fb247aad86d45ebc7d3e05cf81aa66b1294befba421243fc",
+      "gitBlob": "9fa70edbe3e5e6d7180d069e5b9caf243de10096",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateConceptReconstruction03.cs",
+      "bytes": 10263,
+      "sha256": "564f49c20423efd106725582570414062c27d0c0e90cfe3672064cf061fcd78e",
+      "gitBlob": "d3f7717e2dcf3fa6c444c42fc01ea689e32cd34d",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateCrookedMortarProduction01.cs",
+      "bytes": 13004,
+      "sha256": "8e61ca2636c97be7627dcf99bb02a5c16ed3eeb48779cd20cbebff9cb61cd81e",
+      "gitBlob": "c280cb0cd31dcc9e3187a369b55e08b21aff1ed9",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateCrookedMortarRedesign.cs",
+      "bytes": 11904,
+      "sha256": "ece8e1154d3607fe175b418e99761b9ff4b8c9bac93bcc89165964585c140d9d",
+      "gitBlob": "9049acbd74170efddf1bc19aef973ab0cd2e344b",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateMassingRefinements05.cs",
+      "bytes": 8149,
+      "sha256": "716c0f5fd4a55fae3efb23060c3b59d03455e2e8ade2b90fe62f61cc82a9118f",
+      "gitBlob": "402d4d897b09ea1be4099a7e49f0f923e42e27e6",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateMassingStudies04.cs",
+      "bytes": 8128,
+      "sha256": "967fa1c54d37b18f5e2ea964e0d9e89a5992a36b10c6d00256fa797cc062550b",
+      "gitBlob": "7f0e0fde2d522ff3fbfce56b019ee34f3a6e0cc1",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/CreateStyledProof06.cs",
+      "bytes": 17579,
+      "sha256": "effd963dba3af9ed5cd3120566ccb230db4a8175465358a4e5549fc0b91397d9",
+      "gitBlob": "b6880c1420bf345d76da674ce5cdd97c50148956",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/FinalizeCrookedMortarProduction01.cs",
+      "bytes": 5203,
+      "sha256": "1a79108eece7f1a9739c3f076e996f1715e656d90552ed1fc5671f6ab925df7c",
+      "gitBlob": "ce740fb7f4a83f45bc601d0a85b508807f37df67",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/RefineStyledProof06.cs",
+      "bytes": 6004,
+      "sha256": "a2c02b81e9589405580d4fa5cba2c125d27a905e98e4b629642a1c74e2ebfe19",
+      "gitBlob": "4979ece0dd03dad3d9140b67b1f533ad92ad8099",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestConceptReconstruction02.cs",
+      "bytes": 3037,
+      "sha256": "0e2b6a33fec8159578a508fd0ff03fc1c693ebb4699e57bc7b931fb224b580bc",
+      "gitBlob": "b77e75c49230482184ed75afcdae2f0482745517",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestConceptReconstruction03.cs",
+      "bytes": 3242,
+      "sha256": "d9319f87f27d0dc09b413b21b019645fb7db42cda1ab0913827fc04026661ed3",
+      "gitBlob": "a1b38fa9ecbc22d27dc2c4e6fb25c8f59a3efbbe",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestCrookedMortarProduction01.cs",
+      "bytes": 4499,
+      "sha256": "96a3d386264acdd377d5f18f998962aefc6eb6deb75bee2a9ab14da93eb73ee2",
+      "gitBlob": "eedb04ccd6e217a25954082afc82ef49367bd1d0",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestMassingRefinements05.cs",
+      "bytes": 3143,
+      "sha256": "6272640444e4c7dbff6205286cb5c87fbeeaab6aa539d54d7e7ea6dc7cf8e714",
+      "gitBlob": "f51778dad60e43f51e38c5a1f2f3123c9d195d9a",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestMassingStudies04.cs",
+      "bytes": 3102,
+      "sha256": "499771a86c0e5c78f11ef7d7a1eb1896e3835af3ab397db39da57d6d3136e2cc",
+      "gitBlob": "02bbaf4e010be74e3c75ece82132810159d9db22",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/TestStyledProof06.cs",
+      "bytes": 3124,
+      "sha256": "6af97eddc2ea5a40ee8d7ad8dd8aa08feae0fe0012b99465039d01a2b534f38e",
+      "gitBlob": "ef7dc9c9cdb477df205c3a1cb04f85a8c16bc1f0",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/ValidateConceptReconstruction03.cs",
+      "bytes": 1494,
+      "sha256": "da62b66d77bea491029de3798cb0355605599c2011d7b07636844b2a3407dc89",
+      "gitBlob": "8673b9bbcc2a2508e8851845d848f9ccf5e90f57",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "ArtSource/Pipeline/Review/ValidateCrookedMortarProduction01.cs",
+      "bytes": 4827,
+      "sha256": "b5a130599a78f55be6939c4acbd1d5c94397da2d8a126690e0c707f2a3cd180b",
+      "gitBlob": "2564925128bb3f5935454a80c39e3ec737f8969d",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Glass.mat",
+      "bytes": 3903,
+      "sha256": "8d1dca8c86816d7657f06b0e250f6d846b14254c4cdd2e5fd6b3c09a3f84b741",
+      "gitBlob": "541913f01ffdc7b144f6af9d9f0bc10415a1ec0c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Glass.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Path.mat",
+      "bytes": 3844,
+      "sha256": "2847434f3cb42cea8d996b1ae997f0ff3ca859e76891b4e5ae62368b56fa86e9",
+      "gitBlob": "a6271581b7ca07e0d43d798a258e2a660885d762",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Path.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Plaster.mat",
+      "bytes": 3887,
+      "sha256": "4186c5206f7fbb493e011955ef81930b8656a45845a83a8563ae79380504427f",
+      "gitBlob": "79477c6f4a01b2d0bd15cb9a7a96022a845ea830",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_ProxyWood.mat",
+      "bytes": 3848,
+      "sha256": "ea92913519aa92be17ed68a56e56fd49871f7239bd246cdb3a95f483cca98ad6",
+      "gitBlob": "e668d72503d0a3d3cd03b99ce37ca24e4bb2741e",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_ProxyWood.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Site.mat",
+      "bytes": 3845,
+      "sha256": "4329a1be8849b364653009ce3622eb7893e7fc48b12d9bd4224f0adaedb37d3e",
+      "gitBlob": "80434b6d5cf7bb6ae74a9f45144da50ec708d7f2",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Site.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Slate.mat",
+      "bytes": 3902,
+      "sha256": "d366788ec08647e68546b20d5e3d3e0b14fe7886726ce11eaa97c48d87e725f8",
+      "gitBlob": "7e38002190caac0ab2dd98e5f4b92e41dd7b4ff4",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Slate.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Stone.mat",
+      "bytes": 3902,
+      "sha256": "f44959e90bea15c00ba21a8290387a6a6ac8b79984d178fcdadb8f35362c30b6",
+      "gitBlob": "3d0023a9a71b531f2e4e50480bde5da35c9631f3",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Timber.mat",
+      "bytes": 3903,
+      "sha256": "5ea5b483d54d2d53a0a0b253812b1d4513c0c167d3a1c09fd8cfd8b665d2bf1a",
+      "gitBlob": "0bb6141c545ecb96aabc22897357cbc352d97327",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials/CM_Concept02_Timber.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Models/CM_ConceptReconstruction02.fbx",
+      "bytes": 148380,
+      "sha256": "29d3b9cf7bb1235f03b358b329c2023213f62f7e68a1a06ab492945e81ad10de",
+      "gitBlob": "fa43c22195e1cdba89ab12f55acafb18a4d173f8",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Models/CM_ConceptReconstruction02.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Glass.mat",
+      "bytes": 3902,
+      "sha256": "bb9fb3525d066944da7e6695d7054c1174395aa4c81a67e7300b82c8cafab3f2",
+      "gitBlob": "1356d7b96f866750a93d7c5f44a615b22079de45",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Glass.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Path.mat",
+      "bytes": 3845,
+      "sha256": "23617094790b3d41c4a7b6ef686f11a8847b13e7a6772149f6ae0783584495ff",
+      "gitBlob": "f42a0f9c14cc5357a8b8485f2f560e583f807156",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Path.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Plaster.mat",
+      "bytes": 3886,
+      "sha256": "e9ab8e9f442a3c7c69ee955d52625ffaebd0d8cb4f7db917b11f87c5fc656114",
+      "gitBlob": "fa5d6aea3b522bd99cf09464efa9647c5e71b685",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_ProxyWood.mat",
+      "bytes": 3849,
+      "sha256": "399351249dac0a9fbe044e5efb0e381f4d40f0249bc9a76db0310932c59faee3",
+      "gitBlob": "356249539c3784f0421d11c9633d0c72111887f2",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_ProxyWood.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Site.mat",
+      "bytes": 3844,
+      "sha256": "dbf182e9202c047d7f4ce7c2be797c74918d8820dc0479d003f02d99d4f93f94",
+      "gitBlob": "0580bcadad97943f74e442bf1e1de5052e27a1de",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Site.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Slate.mat",
+      "bytes": 3902,
+      "sha256": "8bf6f005f276edfa25259336cdfd79d0394feb1244c9599782e5d05bc9f8971e",
+      "gitBlob": "2c69b34e5727c919daea134a15f556a49cccada8",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Slate.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Stone.mat",
+      "bytes": 3903,
+      "sha256": "a8d55c1ee66ad4a7f4716ca1cbe9d41c3b6b108c76201fdc61d307ceff6cd8c2",
+      "gitBlob": "f52522b334bd0e758f668839a82072d4848004f5",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Timber.mat",
+      "bytes": 3904,
+      "sha256": "bb9b72554bbfd0d97d6a7f66337c3433d0b4e69c8db5742ff252666c17b58bf8",
+      "gitBlob": "8c7b62a0ebc22d00280fb1867b97150e5694eb80",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials/CM_Concept03_Timber.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Models/CM_ConceptReconstruction03.fbx",
+      "bytes": 154076,
+      "sha256": "e5a708fb09df12f85f914260d6a782e6111d958acbefa52205eb3fc78f19a8a0",
+      "gitBlob": "458931e2067afffcdd7fc0591642879d920748fb",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Models/CM_ConceptReconstruction03.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Path.mat",
+      "bytes": 3848,
+      "sha256": "e85f62987b9cc3adba509721616496002c3ac53f96169aecf100e71a2af9a905",
+      "gitBlob": "d8d98197536b3132e7b19ff438e5a7b73d858801",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Path.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Site.mat",
+      "bytes": 3847,
+      "sha256": "e13c8e177ec3fe2349b10c940d37a5c374f82006e2376af465448ae3b69da508",
+      "gitBlob": "8ab6e2fb0f05a4a134533f1ee2f6e8b9a455096b",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Site.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Models/CM_Refinement05_A.fbx",
+      "bytes": 245308,
+      "sha256": "930b919910b617a987b064b102455e202e12459134d874fc7e64cdc9ab31a360",
+      "gitBlob": "68e86047c34b72344b122ad4b209d9d983831526",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Models/CM_Refinement05_A.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Models/CM_Refinement05_C.fbx",
+      "bytes": 250108,
+      "sha256": "8fbea965ee377a4677aaa046546f57373c36a1256d70ee86549e7778fc0cf2cd",
+      "gitBlob": "66346d6b32b20cfb2c78fdc8d19f9b9751394718",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Models/CM_Refinement05_C.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Glass.mat",
+      "bytes": 3902,
+      "sha256": "d78ae9d25c49530969a299e4a7ed4c12d5360bc0a6f3fa910426a5a74ee201c8",
+      "gitBlob": "27e762998b515dba7524bd6202622317f002a086",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Glass.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Path.mat",
+      "bytes": 3844,
+      "sha256": "2519d8d0a8febda5202486ed0d0d44ff4c86509efd6bc4778843393ef176c0ef",
+      "gitBlob": "433e378a0df0a73bbdc063d3edb606fdc0ee3d3e",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Path.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Plaster.mat",
+      "bytes": 3887,
+      "sha256": "db1e29750e9e851c81cf0307235397100f8793c742ed68aa176ba4ed0ee54b1a",
+      "gitBlob": "29ab768904ff623698556a01a94534bf2bc54a07",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_ProxyWood.mat",
+      "bytes": 3849,
+      "sha256": "86888aa33710354258f7425f286cffd637462282df67324af7e9d2fa91ce7fbc",
+      "gitBlob": "5fe49118d32e526b12c1d710554138e3f80d34a4",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_ProxyWood.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Roof.mat",
+      "bytes": 3902,
+      "sha256": "419c994b42861df17ec04b724bef30ab0adab54dab8b9a0f03d1091eb70071a1",
+      "gitBlob": "c29120e379addec88224c5e4c7412f725c40770c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Roof.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Site.mat",
+      "bytes": 3845,
+      "sha256": "3597123195dc7c5840b47350c7f5c9fec435cea21da719b4b315389d2e357583",
+      "gitBlob": "20d04ff0461346015163b9a7189eb390c0e4bfee",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Site.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Stone.mat",
+      "bytes": 3903,
+      "sha256": "d5d6320c219352cd82b0c98f59584bbcfe122b3fb080977dea27f8a6a4e3bdaf",
+      "gitBlob": "b2abb67251931ba0eed260f9b1bee8753ff2462f",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Timber.mat",
+      "bytes": 3903,
+      "sha256": "c9475ba2fe42ab62a442687c53abec6a587e5002621fd6a845cb81e9484cc5b6",
+      "gitBlob": "de8a1a89729f808ec21999713a96f2ed0974c346",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials/CM_Massing04_Timber.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_A.fbx",
+      "bytes": 242156,
+      "sha256": "5356114b912fb3ea1e4aaa88ddf3424940477978de920742e164e3ac699d440e",
+      "gitBlob": "5bdfc87dbd4a3f8b077f3d87f6028cb1a57e2bf7",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_A.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_B.fbx",
+      "bytes": 242140,
+      "sha256": "c462f95f54ab69dd1dc1c61482a046b7340472ca788b1007315da4c47d007fb6",
+      "gitBlob": "921327fc0b0b5ee068f8aee7977cfd54ffe28495",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_B.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_C.fbx",
+      "bytes": 242812,
+      "sha256": "780ec94e7ab0ae65ce62f7fb389484a7ec379b4d8b4f7ca5a021f3f29a733feb",
+      "gitBlob": "4f780cf60b43c82d0a439450a5fef0f7453e126f",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models/CM_Massing04_C.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Glass.mat",
+      "bytes": 3905,
+      "sha256": "baf795ea179f4d213bc5fb9686371d9821d6c1fa723b7c8face6d165014f9104",
+      "gitBlob": "ec35d318c47e95541db5086b97a5d10ef7ec87d9",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Glass.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_RoofBacking.mat",
+      "bytes": 4008,
+      "sha256": "af16990a8616c6c9edafcf958870162eb87142e8f7c22783da1641f6c3b1c660",
+      "gitBlob": "3303c7f5a2d31f200557ec3354cd90a48d230295",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_RoofBacking.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/CM_Production01_FittedBuilding.fbx",
+      "bytes": 508588,
+      "sha256": "b8da673b9ad6a1ef61a080ecbd0a9c7bd45599914465a2b623cedf54ffd2d63a",
+      "gitBlob": "508038338d3dcc0ddb2ec3ef7a2b30daddefb02f",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/CM_Production01_FittedBuilding.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_GardenEarth.asset",
+      "bytes": 12412,
+      "sha256": "c361bfb6c6474eb568f4ca9e800235e4f1b7cdefbfa87470d685db06c180c82f",
+      "gitBlob": "2c3bef8f8ce782095e9b0e00255d917c4fd92db9",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_GardenEarth.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_Iron.asset",
+      "bytes": 188043,
+      "sha256": "9e9dfda5cbc3b50cebf2f318aeec43f51f8ee742205bb2f86ee123add2c83f76",
+      "gitBlob": "95911a7178ffb7573c288360cbd8bf4b3ca025b9",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_Iron.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_LanternAmber.asset",
+      "bytes": 15421,
+      "sha256": "02fef62ba690b8dbfe34e0588630fec97bf87fa5fc6c0601a9afa5e9ab479224",
+      "gitBlob": "eb0c3d9744d34d0b537810b1adafe3d2eb3d6c1a",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_LanternAmber.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel0.asset",
+      "bytes": 97736,
+      "sha256": "4f820b41b383d5b33b5e63bf0f2b09d513ad36b16897210e2ed7f1b61602b5e6",
+      "gitBlob": "be7633d0cd6f77ce5756a9328db02cfc9bc9c0a4",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel0.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel1.asset",
+      "bytes": 74190,
+      "sha256": "36f01a9c1168eaca65904ebf438d268c55c8a3ae3046afecb80b72f7f4b8f93e",
+      "gitBlob": "953812b7378a1bf0a55ec82826c459f0ca69b5c7",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel2.asset",
+      "bytes": 50637,
+      "sha256": "cf5679c9134c6a943aad2cd941ca1187526d78d8a10f0eae4c00ad4c9d4feab0",
+      "gitBlob": "bb2fcfec7dd15a26ffd2488967faddd8ff4a8b04",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_MedicineVessel2.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_WalnutProxy.asset",
+      "bytes": 89828,
+      "sha256": "7c8274c782bc69749c64d7c48f502e58758cf9e68abac8d1ad95f3d46a26818b",
+      "gitBlob": "91a2a231f975e39013aa6cbbad981dd48b7f9b1c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM06_WalnutProxy.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_HerbLabelIvory.asset",
+      "bytes": 9460,
+      "sha256": "3de78474632a0f4e4da3dc551f87df7820783f1681bb1e12b681c80bb15b56c5",
+      "gitBlob": "5405c539f02223fd9a24182a6bf6cb3223e46382",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_HerbLabelIvory.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_OiledWalnutTrim.asset",
+      "bytes": 51025,
+      "sha256": "003e8969b0ee1435d5c21c5c84a1b321e7b238df34b5b98986069b1773100d86",
+      "gitBlob": "1498ef0f4c441ab9f14daa4a02dd710e90447e8c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_OiledWalnutTrim.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_WeatheredSage.asset",
+      "bytes": 63049,
+      "sha256": "330637b4ed811133c0bea8b79013d5d44046c3dabdda91e0d91f69928fb14f57",
+      "gitBlob": "012876c520d4e60648488c4aa738fd4aba5f6c25",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_WeatheredSage.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_WovenOchre.asset",
+      "bytes": 48326,
+      "sha256": "e0de8eb9d34754cbb52b7f5c80c1ee3e187760d4e7869572c9572611ce0e6c53",
+      "gitBlob": "086a2447433649d5a6493c060ba2592318e33af7",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches/CM_Production01_Site_CM07_WovenOchre.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_CrookedMortar_ProductionArchitecture.prefab",
+      "bytes": 509438,
+      "sha256": "0fcd18c69be044f44b8a984a84bf74976daff0b725e154653ab0a735cc62dea6",
+      "gitBlob": "9cfd3c709a411f7be205a9dfa3305991d6a21716",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_CrookedMortar_ProductionArchitecture.prefab.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_Production01_FixedSiteDressing.prefab",
+      "bytes": 30121,
+      "sha256": "d000cbbe9b618e513123089ead2768a4fdd55607be6c422fd1f62fb440d0f838",
+      "gitBlob": "90b08f13f392d98f8535a277893c0901dc0be779",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_Production01_FixedSiteDressing.prefab.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_Production01_FoundationMasonry.prefab",
+      "bytes": 6288,
+      "sha256": "f71d9dc5c6f39232333405d2b31e9e347aa279a61ab66e54765a143ff9108a99",
+      "gitBlob": "74f3b455e09d3290ed67df601c06ee0f61e07e65",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs/CM_Production01_FoundationMasonry.prefab.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Glass.mat",
+      "bytes": 3920,
+      "sha256": "650ad1c056e4308c9c5a918f2a98a3c0817826c4d8e7671a34b1f74930d921b2",
+      "gitBlob": "702c4533e894f062eeadf12ac2e0101c4f636352",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Glass.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Path.mat",
+      "bytes": 3840,
+      "sha256": "e01d89bdd4d97bbaaf2839d0267eabe223ef8cc1a2187465052be3a712e191c5",
+      "gitBlob": "9e4149a1e03d97276dba3250fb525e70d665c9c4",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Path.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Plaster.mat",
+      "bytes": 3922,
+      "sha256": "0283909d96e8af4fe0938f2750f04dcf79ed23f1a26bce3851f3f62127fbb38d",
+      "gitBlob": "5d6b8a68b75cba8e3b617c19479f7aa4e0b7bd56",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_ProxyWood.mat",
+      "bytes": 3849,
+      "sha256": "31e080951fdf225f24e3e88aa53146297109ca810b1e8941c9a97f8d374dc523",
+      "gitBlob": "3a4b45942e9caadf11f6dedc4f5e8523e72b0c3b",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_ProxyWood.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Site.mat",
+      "bytes": 3844,
+      "sha256": "f5df601fb6fc4cc0bdf8f8d35deb7339c4622e6a2b183ca81eae823d28905996",
+      "gitBlob": "374c9441fea23a518634d15dce03f3aecddd1866",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Site.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Slate.mat",
+      "bytes": 3921,
+      "sha256": "3b5c7b9e07dab9b665cae8d5d678482d98094159a160f522aac54d9a9c5a74c7",
+      "gitBlob": "fc1d5e8d7fa5b9d8e2bc7dd1941f32232210ebcb",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Slate.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Stone.mat",
+      "bytes": 3921,
+      "sha256": "c0c84c607bcf2400eb0b4e2729b05f65f597e2d3d2a9911c45341dc5f6a28db3",
+      "gitBlob": "d9ec5f33035a5bdb2e580176a71e46999d1a9bb9",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Timber.mat",
+      "bytes": 3921,
+      "sha256": "7f05f4c0e412fd5e8708c9f08198b950cd67ca559db14df0a5a217f55bd5fffc",
+      "gitBlob": "eb4b09004189b9caf1154e985b9cf7b283f28a2d",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials/CM_Redesign01_Timber.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Models/CM_Redesign01_Painted_v01.fbx",
+      "bytes": 150012,
+      "sha256": "fa6b855580952ae546d1e181b7f4455fbcf4ff39f0b2f7cee047bb9096c3ff7a",
+      "gitBlob": "0b10b47b7ce5050e717bff32a9e62e58c9b6229c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Models/CM_Redesign01_Painted_v01.fbx.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Prefabs/CM_CrookedMortar_Redesign01.prefab",
+      "bytes": 55521,
+      "sha256": "c1cd866766008d51a634b02c4d89316e1514546cac36dfece8abaa6b0549dbba",
+      "gitBlob": "e0cfa796ec59134d1930f501d07e267ecf39090c",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Prefabs/CM_CrookedMortar_Redesign01.prefab.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Textures/CM_Redesign01_Painted_BaseColor_v01.png",
+      "bytes": 17751211,
+      "sha256": "8dc258ce07024d92f37ea27caba25aa80544c489e36de8418f535b82e4cd91e6",
+      "gitBlob": "088dc380491ad01294ad3ac28161273bdd4a90f4",
+      "meta": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Textures/CM_Redesign01_Painted_BaseColor_v01.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Bedroom.mat",
+      "bytes": 3832,
+      "sha256": "fbe53d4f6a2adbccf535a975e3ed4b9a33775fffb5b8702a84c647ed4a72122d",
+      "gitBlob": "e12954ecea5f126ea87b58a6bbc775fc72792b9e",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Bedroom.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Earth.mat",
+      "bytes": 3834,
+      "sha256": "613d82e607393230821f64d3ce77d16029084cf212b9056bbfd532711935c396",
+      "gitBlob": "f768dd5cfef7bbc1a2613a1115dac54950b76c39",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Earth.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Hearth.mat",
+      "bytes": 3838,
+      "sha256": "b35dc0c2791c654b1aa434aa184da2db9f243946bff684187eccb0200f807efd",
+      "gitBlob": "1c7db88ed54bcb12216066175cb005809542abe8",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Hearth.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Herb.mat",
+      "bytes": 3834,
+      "sha256": "86c7f8ccf1f90831ec1684cf3ebbd1b6ac38b9b7859abd590169b41e58ea6db9",
+      "gitBlob": "4173a22db75967bf3e7e1196237a40689abe9e9a",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Herb.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Iron.mat",
+      "bytes": 3835,
+      "sha256": "a366a8e8eb289c41f6b2ab0614799238b638e1f179aa5c296d3e50cd9cf0c3a0",
+      "gitBlob": "3044de545624980a22e21682d06ccb241dcc77a0",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Iron.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Limewash.mat",
+      "bytes": 3820,
+      "sha256": "604da7645e28dc4141d1675139473a88bdca47a0b75d55070ef7beeecdb3c2e2",
+      "gitBlob": "464c24b36eae4bd411a68443a4684a8830e565a8",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Limewash.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Linen.mat",
+      "bytes": 3816,
+      "sha256": "d17d60f07c2512c9903488b0c207c0683daee0ab7746374eabfd952e20b35129",
+      "gitBlob": "50c3ba13cb7f4816bb40b23e070a26ed8b37ecf6",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Linen.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Living.mat",
+      "bytes": 3825,
+      "sha256": "7a9ca4c38279714572f3b018f01131cecda3c780a2d98c2e5110dfc0a04d8eb4",
+      "gitBlob": "6023e8663a8fca0f831cb6eccbef2cb70509006b",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Living.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Oak.mat",
+      "bytes": 3834,
+      "sha256": "2dd88a72a2554a41bd93fef3d279e0393960cf6fbfb5a6f0f7e34ab479e1b491",
+      "gitBlob": "ede21dacae083361dc8fd265abef11073d7976bc",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Oak.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Plaster.mat",
+      "bytes": 3820,
+      "sha256": "7d4d6a19479fb60fb3bd9015ae8c0a7b7aabc1bffe710c2de529cf55bf39aa86",
+      "gitBlob": "214c3513826ccae97551441cee677618848f956f",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Preparation.mat",
+      "bytes": 3841,
+      "sha256": "8b646cd5db860ac80bcdb0c227af484c8a71dbd24a0aa8181acaf417438cc203",
+      "gitBlob": "5497d812404792ca948632bbcc6308720798dab7",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Preparation.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Roof.mat",
+      "bytes": 3835,
+      "sha256": "179265ce00affcf505fad98364e9414d7fdb50fd8c4908f7f3de2664a394418a",
+      "gitBlob": "77aa66a3542ef0a45317e5b95b59be9173345ad8",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Roof.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Shop.mat",
+      "bytes": 3834,
+      "sha256": "61fc43c452be7d3ab81947c119bb7e8ffcd765a40265c4a1d5c64732de659207",
+      "gitBlob": "607fa6881a3395d9bb02ebcfce31a5705e5f7869",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Shop.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Stone.mat",
+      "bytes": 3835,
+      "sha256": "f40c139c75e6ad10d457103cd0d23659924583042ff46d48545bd238c5829c4f",
+      "gitBlob": "9e01b7ad5d3a671d7705d94b514d9bda121b30ed",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Storage.mat",
+      "bytes": 3837,
+      "sha256": "8c7f80b05c4de086c09f4abdbb2dbe26fa644febf69e1f2f15624f09bcb21505",
+      "gitBlob": "73d0242524ffaecc273a37e03b3e778836589ebb",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Storage.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Study.mat",
+      "bytes": 3834,
+      "sha256": "1012ed51af68c50bb58fd66b0423b80e4ba9201b96b049c6308507cd38ac7432",
+      "gitBlob": "cbb5f4b946bd5bf9b5ce3957f60d3d21724320eb",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Study.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Timber.mat",
+      "bytes": 3840,
+      "sha256": "8555b74f2769f8b0207044869e05512594c951408e56f6bd74945f5fee152e83",
+      "gitBlob": "c6cc8cc75cc128e840e8c4e3853d809ee526f9da",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Timber.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ProxyMaterials/Treatment.mat",
+      "bytes": 3827,
+      "sha256": "c1af286b1320e786e2c9535fe60443dcf825ee3c5e614f16f8b5158f45b6c4d9",
+      "gitBlob": "436e596f469df5c41c88d5e4e74d27d8e19d5255",
+      "meta": "Assets/BlightBloom/Locations/ProxyMaterials/Treatment.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Bloom centre.mat",
+      "bytes": 3883,
+      "sha256": "5ca029437a337473feea107543ac08c4844f5a615552e7871f223052618a9257",
+      "gitBlob": "6f339a65864850a98fb1207174bb4e049fd4df2e",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Bloom centre.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Cream bloom.mat",
+      "bytes": 3887,
+      "sha256": "2690d55385118336d3965a753e84714a10d0c6e34a677e2a9a6cb97be9866197",
+      "gitBlob": "dcfe500f8f0b3a7aaadbb87f6472212527fc84dc",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Cream bloom.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Cut arch stone.mat",
+      "bytes": 4022,
+      "sha256": "a630bfd32b92b8256041abb6fd205381791758b4a1445c2dc9618cf7fe62dbf4",
+      "gitBlob": "24c05c14a45e6986421df8bfa7e162a136d88693",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Cut arch stone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Iron.mat",
+      "bytes": 3889,
+      "sha256": "5c388299cbf773f22b0324cf8c7bcaf26f44c9c184fe83a06050255d676e6918",
+      "gitBlob": "d92cbf76cc805dfa2dc3cd1def8dc6e97cfc27a8",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Iron.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf light.mat",
+      "bytes": 3888,
+      "sha256": "7755f00b3b28655b97f7b1d726dd7ca88b7d2a8c9114d4b0a7464ca421c4e9ee",
+      "gitBlob": "54ec7efaa204e6acf4a4253b13fd6ac542f5a10a",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf light.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf mid.mat",
+      "bytes": 3887,
+      "sha256": "8345fcc760a24443ca2839c54607df93fcec46818178c838bf483398dd2ff7d7",
+      "gitBlob": "853a9641c9f51beec0ebdeded84250a6be8771cf",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf mid.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf shade.mat",
+      "bytes": 3895,
+      "sha256": "5664ab23770d980c7a2680675ef5cbd7c2a8b19a9300da6c8f84ad5b75d17264",
+      "gitBlob": "92e07ee79599326364a8c881bc2eb4c08d3b7518",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Leaf shade.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted cream plaster.mat",
+      "bytes": 4012,
+      "sha256": "ad37090ef92f981985bed93a5faee275de82dd864b433eb536cd794278c1db66",
+      "gitBlob": "d705c3a4e00fdae6fd900262c71b2a4e23558acf",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted cream plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted limestone.mat",
+      "bytes": 4026,
+      "sha256": "667ac589497d3ff474e9c3f315ba13f7d58fe5175ae904508c1ba0ed42b531aa",
+      "gitBlob": "1f22b8adf3c6a206727ab946d7042db585e5ef71",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted limestone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted slate.mat",
+      "bytes": 4019,
+      "sha256": "c0ecfdebce3d2078dd4e370f603cd61454b104d30d61de2da72c6233d1acfe90",
+      "gitBlob": "5adfcbaaa816c7d3c49f6176edf45845668a9a3d",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted slate.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted walnut.mat",
+      "bytes": 4020,
+      "sha256": "1d7034bc0bfc981bf91725dda1443808b8ffdd75bce9aa596867a01746c36c30",
+      "gitBlob": "dc91e287bf5bcde9915140ba3efa28866bff7c5e",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Painted walnut.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Quiet amber glazing.mat",
+      "bytes": 3991,
+      "sha256": "9d4f4beeb6caf45c4274dfd872cd7da0e4abfa243e6d07cc6e69dbb8e67f7862",
+      "gitBlob": "4b69ca28d4bcd556fc6cfaeecf380e45e59a93c8",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Quiet amber glazing.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Sage shutter.mat",
+      "bytes": 3897,
+      "sha256": "6e32a5ae50fa296c4fa5a6a2e5213bc9c00cb5655ed53bd8b6dce2e7a4586718",
+      "gitBlob": "5199fb88a704724f986ec47f2b5add289718bb48",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Sage shutter.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Sign parchment.mat",
+      "bytes": 3887,
+      "sha256": "87812fbfb3d7a26365090d784c57ded2741f28eaadff55fef79ea8a4656dad1c",
+      "gitBlob": "bbf1a9d304127925804d54f727e33579af64c71b",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Materials/Sign parchment.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Arched attic vent surround -3.4.asset",
+      "bytes": 7946,
+      "sha256": "c5060fab41c3905160e4fb5ee939e6d061af0d14504e4d5aeac8f6839a291f16",
+      "gitBlob": "d43de293603c9f3bd1b78a0f13ff4ca898129474",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Arched attic vent surround -3.4.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Arched attic vent surround 4.8.asset",
+      "bytes": 7957,
+      "sha256": "e207392af6bd333f0165f29bbca56657230954ddc10da0f879fe9a08c1d859b5",
+      "gitBlob": "ebbab6a0a8a454d18a4252fb47371f476f7abfed",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Arched attic vent surround 4.8.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Central quiet glass.asset",
+      "bytes": 3722,
+      "sha256": "e1ee8d4c94cb46fc466aa5b7375c73697ddf4edbe27dd735e9e46ae48e2728ab",
+      "gitBlob": "943084670a088d7d038833c41055ecf7270809b4",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Central quiet glass.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Curved steep west roof tiles.asset",
+      "bytes": 97602,
+      "sha256": "c99d5102a49ba36f99f893295c74b81dcfd0981ff3fbac856d469daa4c24c9b3",
+      "gitBlob": "6d7fe7eeb7b54e9e5633a0ae2a5d4fb1967b602a",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Curved steep west roof tiles.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Curved sweeping east roof tiles.asset",
+      "bytes": 137923,
+      "sha256": "f2b95b32db85738db654d54019d7730f2cab99f217c004d374ed5796107be2a2",
+      "gitBlob": "606788ddfd0d1729e20a973c1f74c8657dac1f21",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Curved sweeping east roof tiles.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer plaster triangle.asset",
+      "bytes": 3625,
+      "sha256": "6b21e43ed0a2238dc4a2ef70b0d8dc35bbd6dcc330c987111d657b56fbe31e37",
+      "gitBlob": "b7ebfecc94372ee97e1f53aa560ad63d548b0181",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer plaster triangle.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer roof -1.asset",
+      "bytes": 3759,
+      "sha256": "cebf16dc207801e0a2e6cc191b7949ffdb1fcdb874096789d6a21f3ca11e62b1",
+      "gitBlob": "4e9d677e8dc510fb6d0ed58fc5792638a29f7699",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer roof -1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer roof 1.asset",
+      "bytes": 3758,
+      "sha256": "3ee7fe7aeb562308ba54e86896e3f0ff6de2ecbd7999c4e2ca311dcffa9cd22d",
+      "gitBlob": "9912b561ee72d5a55aa46d2932e4273cab4f6969",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Dormer roof 1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 1.asset",
+      "bytes": 7952,
+      "sha256": "5b9d57e26d41158ae7e2552aefd6f75a7c8e89c655e7dc482726397c918c5946",
+      "gitBlob": "89dbcb765696db9dd7601fdd54ed5f9a30bbf17d",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 2.asset",
+      "bytes": 7950,
+      "sha256": "70b326e063256d8153c4b04ee08a08e323be6d3fa34344496d3a0c76e1b10f6a",
+      "gitBlob": "56aa84d078b683a9ef216ac67c24fd9ecad7a8a8",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 2.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 3.asset",
+      "bytes": 7952,
+      "sha256": "5425ad522f0edae8700c223b118f1201a7f87aa9bd77206eb44c625e05bf58f5",
+      "gitBlob": "eb21a5444656803852f1f9479c3eb1260e4d854e",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 3.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 4.asset",
+      "bytes": 7950,
+      "sha256": "ae4817fd54ad135f304a0f418c77754c3ecab85f443716c4756e9a7ca83a7baa",
+      "gitBlob": "7f11f19619c4240ba445528cdf05538de4c88332",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Inner wooden arch 4.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Lean-to painted shop canopy.asset",
+      "bytes": 3742,
+      "sha256": "60e83f7690e0d0bd29fdd485b82e7788f9fa4a4f6884f3ee0bf80dbe43f02682",
+      "gitBlob": "995340957d8fe8c01b732736dd37457343502273",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Lean-to painted shop canopy.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Lobed ivy leaf clusters.asset",
+      "bytes": 51340,
+      "sha256": "cf85a6a8c052b370dcbdaaa67eb884bd319ad1c1521360c574acaba72cdb24d7",
+      "gitBlob": "d56370f0f05e164575a1852f3264fa69d33a6156",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Lobed ivy leaf clusters.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Painted canopy tile courses.asset",
+      "bytes": 16941,
+      "sha256": "d81dc667b689338fd472c7dd3170cc913d7da210e8eec0f68ced726077ea8172",
+      "gitBlob": "ba9562334a857137dcfeddbf580dd732a06170af",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Painted canopy tile courses.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 1.asset",
+      "bytes": 9070,
+      "sha256": "eafca5606ac4fac7f94f924fec00aeb25f01116968063b8acc18c416e318df98",
+      "gitBlob": "993074477ceec4987828dfef4fdafd6a588e7297",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 2.asset",
+      "bytes": 9068,
+      "sha256": "bcf3fa8d1f8edb1423333b1b9193beae961e2bf53f4f65f4891692ec1cce8f91",
+      "gitBlob": "e8f3beeafe4bd3f9b1020788145f0b29ae48d10a",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 2.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 3.asset",
+      "bytes": 9084,
+      "sha256": "da95bd2fe8a5a4e8ffd0a09a287765f075ce8101fdd37a2318fdf61e2d1acfdd",
+      "gitBlob": "f2518669e2cef1290b8be71694803c0c49da4eb8",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 3.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 4.asset",
+      "bytes": 9082,
+      "sha256": "f7d41ff85b9425e72973b4c1fe584ec395989e78a1ca1b351ea10108325995f0",
+      "gitBlob": "a45af6cf1ebfa59e7720f4bfee47b5e240330486",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Plaster arched aperture infill 4.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 1.asset",
+      "bytes": 4887,
+      "sha256": "84c6708d7921d3ac6721a03f1fa790bf39b66633fefe2fee1d67426077f55117",
+      "gitBlob": "843f6982697f13c9822962f30a8dbc2dcc49f5c5",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 2.asset",
+      "bytes": 4885,
+      "sha256": "6032c51a4ea1a8c1744141e8c4b29f9156e35c2ef3a710a2463e7b1bc213d32f",
+      "gitBlob": "888178863a0b3113b7bce414edc38974dae28876",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 2.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 3.asset",
+      "bytes": 4877,
+      "sha256": "f0d51a8729de7e8c612cf3401d24843a5ce1fca1e23784b6c44ad6b417f4ed04",
+      "gitBlob": "cd79683c58c685a94d1635f28ce407e8856f6a04",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 3.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 4.asset",
+      "bytes": 4875,
+      "sha256": "d183ef74bc337fb5630636d5960bd7810b8d439d7cfd9842e428ffd74c769a49",
+      "gitBlob": "6e8662bd1074f18fa71d64d739f258160c15d622",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Quiet amber arched pane 4.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Segmented entrance arch.asset",
+      "bytes": 7944,
+      "sha256": "459908a1ef780381827b75d0506fb0a67bf170ccdfc50c7bb04d418600da0644",
+      "gitBlob": "72581dfa8c48b9302370007083e27c7dd56f4dd7",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Segmented entrance arch.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Shared round-top shutter mesh.asset",
+      "bytes": 4547,
+      "sha256": "4bf54e48c445f3f7bebd532cf95ab65b2f90c74ce4e31c1a945d8a7cd6ccd22d",
+      "gitBlob": "a386e16c111d73de11bfb0b00802e7873cd89fa7",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Shared round-top shutter mesh.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Tall front plaster gable.asset",
+      "bytes": 3648,
+      "sha256": "e5a95497cfb6ab9f5d09bc78dd6a1f6b7be7e01464fb7c164a7b72100442501a",
+      "gitBlob": "e6f7b5363de3550d9ebbed1bcb046b5e89887023",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Tall front plaster gable.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Tall rear plaster gable.asset",
+      "bytes": 3645,
+      "sha256": "60f251145571ec5853e24b93a1717961aa8a1aa31f3cb96b8afc8b35559f67c0",
+      "gitBlob": "69a815d97a3e3b51951f5eef032568ba18453436",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Tall rear plaster gable.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 1.asset",
+      "bytes": 7956,
+      "sha256": "61bff9b8a01c6ccb47f3ff1f2f7b69e8d3536173be75e2029a7abb292c04553d",
+      "gitBlob": "9950f2250540222fa1f465bae73029804084bf9c",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 1.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 2.asset",
+      "bytes": 7954,
+      "sha256": "0f1f8c10876e373a87ab851c1d477e5c29d89f9fa9a26731bbf4314cbdd7d0e1",
+      "gitBlob": "c72bec3ceb2279ff0f39d937a917a2306c8c5bca",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 2.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 3.asset",
+      "bytes": 7956,
+      "sha256": "d181c37b214588789f2743eb3750e74720fdc14114102de485f18267a3bff758",
+      "gitBlob": "d6c2dac78f28a467d4dccea2a862da42ee763056",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 3.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 4.asset",
+      "bytes": 7954,
+      "sha256": "0f9d4b5c65ef634657cc86751a14a928e29cbfcee193518660c35a1f0ef25090",
+      "gitBlob": "8276321285794fbbd5b79c8c8a4efbefeb21861d",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Meshes/Window limestone arch 4.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/README.md",
+      "bytes": 4739,
+      "sha256": "5bbbdcd48eff00d901aa52779c8a68ae5e685ae6c2574fe60223f437fe5627e8",
+      "gitBlob": "0868b334433bd8301a008ad3c83be6f29e4409c2",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/README.md.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/ReferenceFacade/Textures/IllustratedSurfaceAtlas.png",
+      "bytes": 2893085,
+      "sha256": "c6cce23cf31dff53a910cca169f75e3a3d944746b24a70cab58d9c772778a389",
+      "gitBlob": "8696245bd28b65fb81cb967112a36c2dde843ce7",
+      "meta": "Assets/BlightBloom/Locations/ReferenceFacade/Textures/IllustratedSurfaceAtlas.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Amber lantern.mat",
+      "bytes": 3893,
+      "sha256": "705e9bfa65544fd0542e63882d04406b0899a7da5d6f4d6f98ae0f04bc48f004",
+      "gitBlob": "22de8d7e858864ba0d4257021a9545071edbfd2e",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Amber lantern.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Charcoal moss slate.mat",
+      "bytes": 3978,
+      "sha256": "96dc2d8838ce4586469afb43cea0cd91fa0597232d8917de660625cde5f1d5a2",
+      "gitBlob": "8fab025e4f42ec7b6e6568db0dacae8ac1d2aa86",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Charcoal moss slate.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Deep leaf.mat",
+      "bytes": 3895,
+      "sha256": "4c18a6d4a8b9563946eeaf3affd22409e5f690fd7ac6024bb2c4e8fdc185910a",
+      "gitBlob": "530eda2e214dfdcc806b4bc8bd9d9e00cd525437",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Deep leaf.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Dried lavender.mat",
+      "bytes": 3897,
+      "sha256": "c25ad5a66a20b841342534caf1c823d0a73306ae0ecbd29bf0af916edc1fa91d",
+      "gitBlob": "889d074d08b7e644c28892201901f1daf3646490",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Dried lavender.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Illustrated daylight.mat",
+      "bytes": 1000,
+      "sha256": "5c80983a252e14915280e1709d8ed7906369c6f893f04a2d044d63f88cae4426",
+      "gitBlob": "bbd2240d2ec300fa26c1fd976508fb0ee8907f5f",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Illustrated daylight.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Ivory lettering.mat",
+      "bytes": 3885,
+      "sha256": "fcd38a4d4cf9d04afdde2720e9dab2d08a25ab9c926b8e68416b6714fed58aef",
+      "gitBlob": "c196f53888101fc9d7bcd922a81f91ca636d4576",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Ivory lettering.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Ivory plaster.mat",
+      "bytes": 3971,
+      "sha256": "2a921a04625148679d80281bc72006e70b356d6c3d1baddf8634a7c7bb3cae2b",
+      "gitBlob": "eadf97b86fc8b3ab9eeb2bf66bd238b4337ca786",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Ivory plaster.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Leaf highlight.mat",
+      "bytes": 3899,
+      "sha256": "7d631493d93ecacd1f535e7f00f7786807803b374c8692b16d1ca62c14f0ccff",
+      "gitBlob": "29754d5bb8e84e634708e58a223ce6cd5936878c",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Leaf highlight.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Moss limestone.mat",
+      "bytes": 3972,
+      "sha256": "48519879ec21aae75f837162a8185fe7342a13cb5300c6d2a83212fc4f985943",
+      "gitBlob": "b41e9daf6146bf7fe6d1d496da98489e99fe7743",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Moss limestone.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Old copper.mat",
+      "bytes": 3969,
+      "sha256": "5dfa77e4d8657eab72d3028d4941e1e287f6b8135743c3d22817f5360744fbd0",
+      "gitBlob": "970fe08bc58f7f98c8477315f84224c8770972a8",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Old copper.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Sage shutters.mat",
+      "bytes": 3972,
+      "sha256": "c16d161e6a7e339a12ddebaba56652d7cadc1176d1d7103c7a9e3caa5e8b7ec4",
+      "gitBlob": "8f852b080a69d8bff2c1b328251ad2b154c0a998",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Sage shutters.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate mauve variation -1.mat",
+      "bytes": 4013,
+      "sha256": "2652562ee96daab15699d35f23552fd3186e115b31b8b1a12e74f972503190e2",
+      "gitBlob": "476d76732936060c50ba14b15328e87338874721",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate mauve variation -1.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate mauve variation 1.mat",
+      "bytes": 4011,
+      "sha256": "d4d766069b5c972e1d993a33908ca2f64f4ac1610196d4e1575245e2b87a3d16",
+      "gitBlob": "c8eac8fbb7124bba9d740fa4faf63e7ed71e593f",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate mauve variation 1.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate moss variation -1.mat",
+      "bytes": 4000,
+      "sha256": "5eafff98fc857d5c7244f9b8a5dcd152fa44ac7a8fccc8e7ae145337258f4784",
+      "gitBlob": "9375b4f2c55b2cd43d825f2200684df689dd209b",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate moss variation -1.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate moss variation 1.mat",
+      "bytes": 3998,
+      "sha256": "9509a21971ae8703923106e73188529b3aec9f8f2fc55bd9d9924ec1abf821cb",
+      "gitBlob": "366397107d6b27159fcf03d3d77f984743fe3fbf",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Slate moss variation 1.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Soft leaf.mat",
+      "bytes": 3967,
+      "sha256": "c11811275470a4529ea07142a5403a333276ed4512dfb6d69001ea2a4bad2dee",
+      "gitBlob": "7b0616a7f04c28562d8f08441b1a8beba879c37d",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Soft leaf.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Warm carved oak.mat",
+      "bytes": 3973,
+      "sha256": "7beaf91d7f2ca5e749878b1bfbf8c39c5a7d21419b9737f6d2d7f76e9a0c4f68",
+      "gitBlob": "6a026ddd9cea73780fb60e6d8cda9f8be6c3cc81",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Warm carved oak.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Weathered walnut.mat",
+      "bytes": 3974,
+      "sha256": "a549019c8302dab2d153b25a35b577fe25899fea148f1444410da4fb7cd77c4a",
+      "gitBlob": "fa88925cfa12ecfeb2b0369e173e3a242835dd25",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Weathered walnut.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Wildflower gold.mat",
+      "bytes": 3887,
+      "sha256": "f159071339744d2efa72dba8d56dacac522f96657d9466cfc82e0a03b4fa2729",
+      "gitBlob": "40b7c6ac2c750f4de12a26d6900a6f3677473587",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Materials/Wildflower gold.mat.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/East painted shingles.asset",
+      "bytes": 173732,
+      "sha256": "e47fbc51994d3639cd0741a347c7b99e9a3a90f372d192b4e8ae196ca0423bbe",
+      "gitBlob": "3761f3d5182fdf1e75e0034af10e18152a178d84",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/East painted shingles.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Front painted gable.asset",
+      "bytes": 3639,
+      "sha256": "02acad55d66188f1b08858d218ede7423b4fc296a15c4ec2f99293536efe5a87",
+      "gitBlob": "cdf26a04ad813a48fa4e0f6192aa286b7bcfa56e",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Front painted gable.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Hand-hewn timber unit.asset",
+      "bytes": 5532,
+      "sha256": "fcbc6c5be870195f18535f1dbc06ba548b5e3d6f80f3c9f53eb9f13047fd3d7f",
+      "gitBlob": "6d859568009c6f53215d3dff72930559c65432aa",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Hand-hewn timber unit.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Painted ivy leaves.asset",
+      "bytes": 26177,
+      "sha256": "c4b479644f28bda8f0e575b68bebd173612f5d8487b593ae46c09fb617cc1b8a",
+      "gitBlob": "66937ce641920db857f7265b4088dfcefd79a168",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Painted ivy leaves.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Rear painted gable.asset",
+      "bytes": 3636,
+      "sha256": "ef11e5f36f2d54265b28a8cbfcf8ff606248783e3b6de6c6c998229ad9f37038",
+      "gitBlob": "1195fd9a0eb9a33f2627b81a4f3ab47a8e827798",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/Rear painted gable.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/West painted shingles.asset",
+      "bytes": 173733,
+      "sha256": "82f0987772edffed4e76c7b2e4fda4ede40419fdc6aeb7b3d64aae17dcaf7465",
+      "gitBlob": "1caf055dd11f0733724df9385f1f0cf697231bc5",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Meshes/West painted shingles.asset.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/README.md",
+      "bytes": 2852,
+      "sha256": "19c44ca890a9d2a75f56f1cff66385c76dc72c96a0ec652bcc0c9783ff0bde1b",
+      "gitBlob": "25fafadcb82c251934bb68d93b3ed0a60d77d28e",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/README.md.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Charcoal moss slate.png",
+      "bytes": 84942,
+      "sha256": "4f001fa2dd32c67bfd26665187c9bd993c16f7db0a37c563bce0abf93c26c91a",
+      "gitBlob": "2864a9f4e086c0f562a41a1684c7759b167179a3",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Charcoal moss slate.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Ivory plaster.png",
+      "bytes": 83811,
+      "sha256": "9806c07131c792617e1e6d7c9b0deec1ec335dbe35a7ca0e384c0ea852b7348f",
+      "gitBlob": "df10a873469fd886e6c5e5cbcb79913bedebe312",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Ivory plaster.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Moss limestone.png",
+      "bytes": 84568,
+      "sha256": "0b7deeb426d16a4963891e2339a70c7664ffaf3a38908b46074214ef205a4640",
+      "gitBlob": "41e316970be64ac4714db0fc3ae27ea061faaadd",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Moss limestone.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Old copper.png",
+      "bytes": 84147,
+      "sha256": "63d2c70b365d1cb253bb965ed6f88a9d6625e0db67a8a306e4e9d8511ab9912e",
+      "gitBlob": "c8d1195189d39327f3d9d4d13017e87a8b859253",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Old copper.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Sage shutters.png",
+      "bytes": 83402,
+      "sha256": "bb2dcee9158b316e20ad396991b6cf07c11f53251d68dbc6e904c085240608b1",
+      "gitBlob": "fe8520a22a80d33039d20dd5fb9afde39c343c5a",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Sage shutters.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Soft leaf.png",
+      "bytes": 84151,
+      "sha256": "030fe350b84e9fc79e7c629bf91e49452181b3ffb549b8b8e7366b43f1b832ae",
+      "gitBlob": "dbedd1404c6dd73f8bddc7ee1fd1749a1fedb7a1",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Soft leaf.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Warm carved oak.png",
+      "bytes": 83365,
+      "sha256": "92b56298d248c6ae727506e5132f298c12dbac2e276829e730cc43c52422d7c5",
+      "gitBlob": "b91fc78904986d291775721ac5141b56bfb00ba2",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Warm carved oak.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Weathered walnut.png",
+      "bytes": 83414,
+      "sha256": "4e760e1a5a0d955bbeeb9fdcfbf194e5876cbc95a875cfb354e105a7f8894c0c",
+      "gitBlob": "f55e272e00bd9b1adfb536eb5f6fe60bdf7f35e6",
+      "meta": "Assets/BlightBloom/Locations/StorybookExterior/Textures/Weathered walnut.png.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_BotanicalPlanterKit01_IntegrationPreview.unity",
+      "bytes": 976590,
+      "sha256": "aa416de3e885694c2b78e7d8e53cbe09f687f875587a7ed8d3c03b422329db66",
+      "gitBlob": "1832b4ac7f652e0043f6b221f114cbb25f9e1cc7",
+      "meta": "Assets/Scenes/CM_BotanicalPlanterKit01_IntegrationPreview.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_ArchitecturalRedesign01.unity",
+      "bytes": 134746,
+      "sha256": "0239a8be156a87a3ddc4f8b294401ededfe6593bff701b4f08fda32185d8f804",
+      "gitBlob": "aa44de17346e98ecb1b768068f838878686f92df",
+      "meta": "Assets/Scenes/CM_CrookedMortar_ArchitecturalRedesign01.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_B_StyledProof06.unity",
+      "bytes": 390778,
+      "sha256": "278526ddc280ce86224064b6813d694c71fafb9d3578f9f2de390c232c3812b8",
+      "gitBlob": "ae083bdf0bbc657a9c23cdb664567d57bef1ae5a",
+      "meta": "Assets/Scenes/CM_CrookedMortar_B_StyledProof06.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_ConceptReconstruction02.unity",
+      "bytes": 215808,
+      "sha256": "f146139d08172028236f1000a9c4144fe67bac722b2f152c6b8cb1a297ea783c",
+      "gitBlob": "3622b4bb129e4549313c42e29c205f9fd26de9d4",
+      "meta": "Assets/Scenes/CM_CrookedMortar_ConceptReconstruction02.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_ConceptReconstruction03.unity",
+      "bytes": 216113,
+      "sha256": "efe6719af0fe4ff72b02e916adbdacb5b8d15fc451cfa2f1521f308439a01289",
+      "gitBlob": "08ae5f5c5f89fc8a4b556c9ac1bf21aa06c73eb3",
+      "meta": "Assets/Scenes/CM_CrookedMortar_ConceptReconstruction03.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_MassingRefinements05.unity",
+      "bytes": 201752,
+      "sha256": "77d7bfb47f8267c545d7cb0a727454d99f873c28d49fc13e14457ce4c711c18b",
+      "gitBlob": "b01912114257cb7963ef92861277e13054e29a1f",
+      "meta": "Assets/Scenes/CM_CrookedMortar_MassingRefinements05.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_MassingStudies04.unity",
+      "bytes": 201604,
+      "sha256": "09f90fed2b80a90da5f7f8bdd277171687f016a42730d1dc62a332181b8185a9",
+      "gitBlob": "3f9127e07b5215fc2b13b4996dbe263836e8f195",
+      "meta": "Assets/Scenes/CM_CrookedMortar_MassingStudies04.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_CrookedMortar_Production01.unity",
+      "bytes": 514099,
+      "sha256": "3fb8f3cbba53063329c78f6e9ba2f8fa2319c8bb3da6dac732040bcbbfa6eb1d",
+      "gitBlob": "112b03ce78d74b8174bdfde7be49769fd6feb514",
+      "meta": "Assets/Scenes/CM_CrookedMortar_Production01.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_EntryPortal02_IntegrationPreview.unity",
+      "bytes": 845391,
+      "sha256": "73cabe88bf3620561655ff9e15dc698134b9ef545f96d32ecf2e4e4d037c244f",
+      "gitBlob": "2e8ce019092e8fb863f91367ddf5409c31c4f596",
+      "meta": "Assets/Scenes/CM_EntryPortal02_IntegrationPreview.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/CM_SlateRoofKit01_IntegrationPreview.unity",
+      "bytes": 844542,
+      "sha256": "1ef30ab05118f550fb999ee180c76a1e94835985c2badedccd1a916541148f06",
+      "gitBlob": "0ff40c29de6d28d422230acc0687b19e74ef8eae",
+      "meta": "Assets/Scenes/CM_SlateRoofKit01_IntegrationPreview.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Assets/Scenes/UncleRobertsApothecary.unity",
+      "bytes": 3548599,
+      "sha256": "e2bced5598aa894e03bb9a458624e87927bc7eb9e4cebee05f6c834d1a9ffc85",
+      "gitBlob": "d35c8449a666455dbc3fb1d0ca045b9564384947",
+      "meta": "Assets/Scenes/UncleRobertsApothecary.unity.meta"
+    },
+    {
+      "category": "git_archive",
+      "path": "Tools/ApothecaryArchitecturalPass.cs",
+      "bytes": 17898,
+      "sha256": "542acd198c341326b61335484ec1cb98c6ef1ea7fa104676320ece0c1f1ee7a9",
+      "gitBlob": "ed5d485d2301b801cfbcf5c19c8999795b19feae",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "Tools/ApothecaryReferenceFacadePass.cs",
+      "bytes": 26975,
+      "sha256": "9cbbaf931969652caff1bfb0a8ae74b55ed3864b4b9710c6b7e7951f2eb63102",
+      "gitBlob": "d59d29de5b5af0fef82c13bb3b05166fa3528b28",
+      "meta": null
+    },
+    {
+      "category": "git_archive",
+      "path": "Tools/ApothecaryStorybookPass.cs",
+      "bytes": 26333,
+      "sha256": "acabe26419a37275a0b8586e865258089c8a54b2bde0a0f5333210ffb724d878",
+      "gitBlob": "74a1b90a8562a27a165cb5f40ac6690f89d71919",
+      "meta": null
+    }
+  ],
+  "emptyFolderMetaCandidates": [
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Materials.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction02/Models.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Materials.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/ConceptReconstruction03/Models.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Materials.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingStudies04/Models.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Models/SiteBatches.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Prefabs.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Materials.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Models.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Prefabs.meta",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Redesign01/Textures.meta",
+    "Assets/BlightBloom/Art/_PipelineTests.meta",
+    "Assets/BlightBloom/Art/_PipelineTests/Blender522Probe.meta",
+    "Assets/BlightBloom/Locations/ProxyMaterials.meta",
+    "Assets/BlightBloom/Locations/ReferenceFacade.meta",
+    "Assets/BlightBloom/Locations/ReferenceFacade/Materials.meta",
+    "Assets/BlightBloom/Locations/ReferenceFacade/Meshes.meta",
+    "Assets/BlightBloom/Locations/ReferenceFacade/Textures.meta",
+    "Assets/BlightBloom/Locations/StorybookExterior.meta",
+    "Assets/BlightBloom/Locations/StorybookExterior/Materials.meta",
+    "Assets/BlightBloom/Locations/StorybookExterior/Meshes.meta",
+    "Assets/BlightBloom/Locations/StorybookExterior/Textures.meta"
+  ],
+  "protectedRoots": [
+    "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity",
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity",
+    "Assets/Scenes/TraversalSandbox.unity",
+    "Assets/Scenes/SampleScene.unity"
+  ],
+  "protectedAssets": [
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Clay.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Foliage.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_ReviewNeutral.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Soil.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Timber.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_Botanical01_ReviewBeamUV.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_FlowerBorder.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_FlowerBorder_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_Groundcover.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_Groundcover_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_HerbBed_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_HerbBed_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_HerbBed_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Garden_HerbBed_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Lavender.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Lavender_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Mixed.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Mixed_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Rosemary.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Rosemary_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Sage.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Hanging_Sage_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_HerbTray.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_BeamDrape.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_BeamDrape_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Corner90.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Corner90_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Trailing.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Trailing_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Wall_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Wall_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Wall_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Ivy_Wall_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Chamomile_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Chamomile_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Chamomile_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Chamomile_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Lavender_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Lavender_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Lavender_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Lavender_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Rosemary_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Rosemary_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Rosemary_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Rosemary_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Sage_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Sage_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Sage_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Sage_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Thyme_A.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Thyme_A_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Thyme_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Plant_Thyme_B_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Pot_Large.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Pot_Medium.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_Pot_Small.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowBox_1p76m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowBox_2p10m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small_Reduced.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Models/CM_BotanicalPlanterKit01_WoodBucket.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Box_Flowering_Paired.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Box_Flowering_Small.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Box_Greenery_Paired.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Box_Greenery_Small.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Garden_FlowerBorder.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Garden_Groundcover.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Garden_HerbBed_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Garden_HerbBed_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Hanging_Lavender.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Hanging_Mixed.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Hanging_Rosemary.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Hanging_Sage.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_HerbTray.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Ivy_BeamDrape.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Ivy_Corner90.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Ivy_Trailing.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Ivy_Wall_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Ivy_Wall_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Chamomile_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Chamomile_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Lavender_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Lavender_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Rosemary_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Rosemary_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Sage_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Sage_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Thyme_A.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Plant_Thyme_B.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Pot_Large.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Pot_Medium.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Pot_Small.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_Chamomile.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_Lavender.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_MixedLarge.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_Rosemary.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_Sage.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_Thyme.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_Potted_WoodSage.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowBox_1p76m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowBox_2p10m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Paired.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowInsert_Flowering_Small.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Paired.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WindowInsert_Greenery_Small.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Prefabs/CM_BotanicalPlanterKit01_WoodBucket.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Textures/CM_BotanicalContainerPaint01.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Textures/CM_BotanicalElements01.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Iron.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Plaster.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Sage.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Slate.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Stone.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Timber.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Models/CM_EntranceBay01_Painted_v01.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Prefabs/CM_EntranceBay01_Painted_v01.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Textures/CM_EntranceBay01_Painted_BaseColor_v01.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Materials/CM_EntryPortal02_PaintedWalnut.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Materials/CM_EntryPortal02_ReviewGround.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Models/CM_EntryPortal02.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Models/CM_EntryPortal02_IntegrationCanopy.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Prefabs/CM_EntryPortal02.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntryPortal02/Textures/CM_EntryPortal02_Walnut_BaseColor.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_ReviewGround.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Beam_1p5m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Beam_3m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Brace45_L.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Brace45_R.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Corner90.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Corner90_Benchmark.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Gable_HeroB.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Gable_Secondary.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Plain_1p5m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Plain_3m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Plain_3m_Benchmark.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Plain_3m_Tall.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Post_3p24m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Post_3p35m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_Post_3p60m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_WindowOpening_3m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Models/CM_FacadeBay01_WindowOpening_3m_Benchmark.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Beam_1p5m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Beam_3m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Brace45_L.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Brace45_R.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Corner90.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Corner90_Benchmark.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Gable_HeroB.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Gable_Secondary.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Plain_1p5m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Plain_3m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Plain_3m_Benchmark.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Plain_3m_Tall.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Post_3p24m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Post_3p35m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_Post_3p60m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_WindowBay01_Benchmark.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_WindowBay01_Compatible.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_WindowOpening_3m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Prefabs/CM_FacadeBay01_WindowOpening_3m_Benchmark.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Textures/CM_FacadeBay01_Painted_BaseColor.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Glass.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Plaster.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_ProxyWood.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Roof.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Stone.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Materials/CM_Refinement05_Timber.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/MassingRefinements05/Models/CM_Refinement05_B.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_ReviewStage.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_ApprovedPlanterCards.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_ArchedHood_Optional.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_Casement_L.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_Casement_R.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_FacadeInfill_4p5m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_FixedFrame.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_FlowerBox.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_PlanterBrackets.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_Shutter_L.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_Shutter_R.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_Sill.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Models/CM_PairedWindowBay02_WideHeader_4p5m.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_ArchedHood_Optional.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_Casement_L.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_Casement_R.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_FacadeAssembly_4p5m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_FacadeInfill_4p5m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_FixedFrame.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_FlowerBox.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_PlanterBrackets.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_PlanterDressing.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_Shutter_L.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_Shutter_R.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_Sill.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Prefabs/CM_PairedWindowBay02_WideHeader_4p5m.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Textures/CM_PairedWindowBay02_Painted_BaseColor.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Linen.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Plaster.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Stone.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Walnut.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Textures/CM_Production01_ApprovedPaint.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_EntryShop_Iron.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_EntryShop_Sage.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_MatteAmberGlazing.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_ArchedDoorRebate.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_ArchedGlazing.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_ArchitecturalFinishing.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_Casement_L_ConsistentGlazing.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_Casement_R_ConsistentGlazing.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_EntryShopComposition05.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedApprovedDoorLeaf.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedApprovedDoorStops.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedArchitecture.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedEntranceStoneSurround.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_FittedRoof.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_OpenTimberStair.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Models/CM02_RightHingedEntranceLeaf.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Prefabs/CM02_EntranceInstallation.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Prefabs/CM02_FittedArchitectureAndRoof.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Prefabs/CM02_ModularFacadeInstallation.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedSlate.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_ReviewShell.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Course2m_35.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Course2m_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_EaveFascia2m_35.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_EaveFascia2m_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_DeepEntryFold.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_DisplayCatslide.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_EaveVergeNetwork.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_Hero.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_LeftShopFold.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_PitchTransitionNetwork.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_RearCross.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_RidgeNetwork.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_SubordinateCross.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Fitted_ValleyNetwork.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_HeroB_GableVerge.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Panel2x1p2_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Panel2x2p4_35.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Panel2x2p4_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Panel2x2p4_71p1.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Panel4x2p4_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_PitchBreak2m_71to57.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Ridge2m_Hero.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Ridge2m_Secondary.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Ridge2m_Wing.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_SecondaryGablePanel2m_52p43.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Valley2m_35.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Verge2m_35.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Verge2m_52p43.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Verge2m_56p9.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Models/CM_SlateRoofKit01_Verge2m_71p1.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_ApprovedRoofAssembly.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Course2m_35.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Course2m_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_EaveFascia2m_35.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_EaveFascia2m_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_DeepEntryFold.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_DisplayCatslide.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_EaveVergeNetwork.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_Hero.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_LeftShopFold.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_PitchTransitionNetwork.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_RearCross.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_RidgeNetwork.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_SubordinateCross.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Fitted_ValleyNetwork.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_HeroB_GableVerge.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Panel2x1p2_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Panel2x2p4_35.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Panel2x2p4_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Panel2x2p4_71p1.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Panel4x2p4_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_PitchBreak2m_71to57.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Ridge2m_Hero.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Ridge2m_Secondary.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Ridge2m_Wing.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_SecondaryGablePanel2m_52p43.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Valley2m_35.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Verge2m_35.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Verge2m_52p43.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Verge2m_56p9.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Prefabs/CM_SlateRoofKit01_Verge2m_71p1.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Textures/CM_SlateRoofKit01_ApprovedPaintSheet.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Textures/CM_Slate_GouacheColour_v03.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Textures/CM_Slate_GouacheColour_v04.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_ClayLip.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_HerbLabelIvory.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_MutedTerracotta.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_OiledWalnutTrim.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_WeatheredSage.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Materials/CM07_WovenOchre.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Meshes/CM07_FullerBotanicalDetails.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledDetails07/Meshes/CM07_HandShapedPlanter.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_ApothecarySign.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_BotanicalCards.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_GardenEarth.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_Iron.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_LanternAmber.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_MedicineVessel0.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_MedicineVessel1.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_MedicineVessel2.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_PaintedArchitecture.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_PathStone0.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_PathStone1.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_PathStone2.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_PathStone3.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_SiteEarth.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_WalnutProxy.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_WarmWindowGlass.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Meshes/CM06_BotanicalPresentationMesh.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Meshes/CM06_CobbleGroup0.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Meshes/CM06_CobbleGroup1.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Meshes/CM06_CobbleGroup2.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Meshes/CM06_CobbleGroup3.asset",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Models/CM_B_StyledProof06.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Textures/CM_B_StyledAtlas06.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Textures/CM_BotanicalCards06.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Textures/CM_CrookedMortarSign06.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Iron_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Iron_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Plaster_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Plaster_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Shutters_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Shutters_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Slate_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Slate_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Soil_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Soil_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Timber_v01.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Painted_Timber_v02.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Iron.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Plaster.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Shutters.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Slate.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Soil.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Materials/CM_Review_Timber.mat",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Models/CM_WindowBay01.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Models/CM_WindowBay01_Painted_v01.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Models/CM_WindowBay01_Painted_v02.fbx",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Prefabs/CM_WindowBay01.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Prefabs/CM_WindowBay01_Painted_v01.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Prefabs/CM_WindowBay01_Painted_v02.prefab",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Textures/CM_WindowBay01_Painted_BaseColor_v01.png",
+    "Assets/BlightBloom/Art/Architecture/CrookedMortar/WindowBay01/Textures/CM_WindowBay01_Painted_BaseColor_v02.png",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Animations/BB_DoctorLocomotion03.controller",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Models/BB_PlagueDoctor_Locomotion03.fbx",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Prefabs/BB_PlagueDoctor_Locomotion03.prefab",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Scripts/PlagueDoctorLocomotion03.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Materials/BB_Doctor_Painted.mat",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Models/BB_PlagueDoctor01.fbx",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Prefabs/BB_PlagueDoctor01.prefab",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Rigged02/Animations/BB_DoctorLocomotion.controller",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Rigged02/Models/BB_PlagueDoctor01_Rigged02.fbx",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Rigged02/Prefabs/BB_PlagueDoctor01_Rigged02.prefab",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Rigged02/Scripts/PlagueDoctorLocomotion.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Scripts/PlagueDoctorPresentation.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Textures/BB_Doctor_PaintedAtlas.png",
+    "Assets/BlightBloom/Prototypes/CrookedMortarProduction02/Production02StairOrbitCamera.cs",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/BlockoutDoor.cs",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Hero front gable.asset",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_0.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_1.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_2.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_3.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_4.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Layout01_5.mat",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Low storage extension.asset",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Lower rear crossroof.asset",
+    "Assets/BlightBloom/Prototypes/CrookedMortarUsability01/Recessed study wing.asset",
+    "Assets/BlightBloom/Traversal/ThirdPersonMotor.cs",
+    "Assets/BlightBloom/Traversal/ThirdPersonOrbitCamera.cs",
+    "Assets/BlightBloom/Traversal/TraversalInput.cs",
+    "Assets/InputSystem_Actions.inputactions",
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity",
+    "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity",
+    "Assets/Scenes/SampleScene.unity",
+    "Assets/Scenes/TraversalSandbox.unity",
+    "Assets/Settings/SampleSceneProfile.asset",
+    "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+    "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+    "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+    "Packages/com.unity.render-pipelines.core/Runtime/Volume/Volume.cs",
+    "Packages/com.unity.render-pipelines.core/Runtime/Volume/VolumeProfile.cs",
+    "Packages/com.unity.render-pipelines.universal/Editor/AssetVersion.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Bloom.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Overrides/MotionBlur.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Tonemapping.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Vignette.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalCameraData.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalLightData.cs",
+    "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+  ],
+  "blockingReferences": {},
+  "byteIdenticalButRetained": [
+    [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Textures/CM_Production01_ApprovedPaint.png",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Textures/CM_SlateRoofKit01_ApprovedPaintSheet.png",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Textures/CM_BotanicalContainerPaint01.png"
+    ]
+  ]
+}

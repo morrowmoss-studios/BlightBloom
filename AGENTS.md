@@ -3,7 +3,7 @@
 ## Project references
 
 - Unity 6.4 / URP; Blender 5.2.2 LTS. Project root is this directory; never create a nested Unity project.
-- Playable candidate: `Assets/Scenes/CM_CrookedMortar_Production01.unity`.
+- Playable candidate: `Assets/Scenes/CM_CrookedMortar_Production02.unity`.
 - Approved visual benchmark: `Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity`. Preserve its storybook silhouette and matte painted palette; do not overwrite reference/review scenes.
 - Approved asset folders under `Assets/BlightBloom/Art/Architecture/CrookedMortar/`: `EntryPortal02`, `FacadeBay01`, `SlateRoofKit01`, `PairedWindowBay02`, `BotanicalPlanterKit01`, and `WindowBay01`. Reuse suitable existing signage and lanterns.
 - Editable sources and asset documentation: `ArtSource/Blender/Architecture/CrookedMortar/`; painting sources: `ArtSource/Paint/Architecture/CrookedMortar/`.
@@ -17,7 +17,7 @@
 - Reuse existing modeling/export/Editor utilities. Do not regenerate unchanged assets or recreate validation tools unnecessarily.
 - Use the existing running Unity Editor through Pipeline/MCP. Do not launch a second Editor or delete lock files. Report connection blockers.
 - Follow the established Blender → FBX → Unity export conversion: metric scale, Unity +Y up and +Z exterior. Reuse the relevant asset's exporter and check pivots, UVs, normals and material assignments when changed.
-- Production01 contains scene-only structural repairs and placement overrides. Its original generator, architecture prefab and older validation reports do not fully represent those repairs. Do not regenerate or reapply prefabs over the saved scene without inspecting the affected overrides.
+- Production02 contains scene-local architectural and gameplay overrides. Do not regenerate or reapply prefabs over the saved scene without inspecting them. Historical studies, including Production01, are recoverable at Git commit `6253fc0`; see `ArtSource/Pipeline/CleanupAudit20261021.md` and its approved manifest.
 - Read automation snippets before execution: scripts named `Validate` may modify meshes, colliders, prefabs or scenes; traversal probes may disable components during Play mode. Reuse only applicable operations, then restore normal state.
 - Ask before destructive actions, major redesigns, dependency installations or unrelated changes. Never commit unless explicitly requested.
 
