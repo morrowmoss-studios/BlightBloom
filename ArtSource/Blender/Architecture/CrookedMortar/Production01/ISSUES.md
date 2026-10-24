@@ -95,3 +95,12 @@ Source, previews, reports and exact changed-file list: `../../../Characters/BB_P
 | CM02-FURN-002 | Existing indoor camera can retract strongly near doorways and stairs; six emergency corrections occurred during the stair smoke route. | Retained for manual review; no camera changes in the furnishing pass. No sampled camera/geometry overlap. Automated accessibility does not establish comfort. |
 
 Sources, previews, measurements and validation: `../../../Interiors/CrookedMortar/ApothecaryFurnishings01/README.md`. Furniture stations currently provide planning markers only; patient/crafting animations and interactions remain future work. No architecture, shared gameplay, approved kits or settings changed. Nothing committed.
+
+
+## Production02 shop/entrance hero-detail pass — 2026-10-21
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-002 | Basic counter/shelf construction and repetitive stock refined with shaped joinery, apothecary relief, varied vessels, case records, consultation signage and fitted entrance detail. Originals preserved through scene-local visual overrides and separate derivative assets. | Integrated and saved; artistic approval pending. Source/import checks pass; all 108 collider definitions/transforms/activation unchanged; 43 door-sweep poses clear the new art. Live input checks passed: nine shop-route and eight E-key entrance/exit waypoints; zero sampled camera/geometry overlaps and zero emergency corrections. Unity reports no new errors/warnings. Manual artistic and camera-comfort approval remains pending. |
+
+Matching before/after previews, editable source, scope and limitations: `../../../Interiors/CrookedMortar/HeroRefinement02/README.md`. No shared gameplay/camera/door/settings or roof changes. No shutters restored. Nothing committed.

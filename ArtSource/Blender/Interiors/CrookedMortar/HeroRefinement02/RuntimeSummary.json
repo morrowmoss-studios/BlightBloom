@@ -1,0 +1,22 @@
+[
+  {
+    "test": "ShopRouteValidation",
+    "passed": true,
+    "waypoints": 9,
+    "cameraOverlapSamples": 0,
+    "samples": 84,
+    "minCameraDistance": 1.66204381,
+    "minimumVisibleBodyPoints": 3,
+    "emergencyCorrections": 0
+  },
+  {
+    "test": "EntryExitValidation",
+    "passed": true,
+    "waypoints": 8,
+    "cameraOverlapSamples": 0,
+    "samples": 92,
+    "minCameraDistance": 0.8975583,
+    "minimumVisibleBodyPoints": 2,
+    "emergencyCorrections": 0
+  }
+]

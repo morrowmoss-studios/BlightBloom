@@ -1,0 +1,119 @@
+{
+  "newModels": [
+    {
+      "name": "CM_HR02_CounterCraft",
+      "vertexCount": 13595,
+      "triangles": 15462,
+      "uvs": 13595,
+      "normals": 13595
+    },
+    {
+      "name": "CM_HR02_CounterJar",
+      "vertexCount": 426,
+      "triangles": 498,
+      "uvs": 426,
+      "normals": 426
+    },
+    {
+      "name": "CM_HR02_HerbariumBoard",
+      "vertexCount": 204,
+      "triangles": 262,
+      "uvs": 204,
+      "normals": 204
+    },
+    {
+      "name": "CM_HR02_LimeRepair",
+      "vertexCount": 158,
+      "triangles": 268,
+      "uvs": 158,
+      "normals": 158
+    },
+    {
+      "name": "CM_HR02_Parcel",
+      "vertexCount": 332,
+      "triangles": 358,
+      "uvs": 332,
+      "normals": 332
+    },
+    {
+      "name": "CM_HR02_PortalJoinery",
+      "vertexCount": 4470,
+      "triangles": 4776,
+      "uvs": 4470,
+      "normals": 4470
+    },
+    {
+      "name": "CM_HR02_PracticePlaque",
+      "vertexCount": 264,
+      "triangles": 358,
+      "uvs": 264,
+      "normals": 264
+    },
+    {
+      "name": "CM_HR02_RecordsCluster",
+      "vertexCount": 989,
+      "triangles": 1484,
+      "uvs": 989,
+      "normals": 989
+    },
+    {
+      "name": "CM_HR02_ResearchSheet",
+      "vertexCount": 4,
+      "triangles": 2,
+      "uvs": 4,
+      "normals": 4
+    },
+    {
+      "name": "CM_HR02_ShelvingCraft",
+      "vertexCount": 4964,
+      "triangles": 7656,
+      "uvs": 4964,
+      "normals": 4964
+    },
+    {
+      "name": "CM_HR02_StockCourse1",
+      "vertexCount": 2300,
+      "triangles": 2802,
+      "uvs": 2300,
+      "normals": 2300
+    },
+    {
+      "name": "CM_HR02_StockCourse2",
+      "vertexCount": 2280,
+      "triangles": 2802,
+      "uvs": 2280,
+      "normals": 2280
+    },
+    {
+      "name": "CM_HR02_StockCourse3",
+      "vertexCount": 2300,
+      "triangles": 2802,
+      "uvs": 2300,
+      "normals": 2300
+    },
+    {
+      "name": "CM_HR02_StockCourse4",
+      "vertexCount": 1574,
+      "triangles": 2028,
+      "uvs": 1574,
+      "normals": 1574
+    },
+    {
+      "name": "CM_HR02_StoopFace",
+      "vertexCount": 906,
+      "triangles": 1512,
+      "uvs": 906,
+      "normals": 906
+    }
+  ],
+  "totalTriangles": 43070,
+  "originalColliders": 108,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 15
+}

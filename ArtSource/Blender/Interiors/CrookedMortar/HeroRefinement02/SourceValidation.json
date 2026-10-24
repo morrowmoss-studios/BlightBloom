@@ -1,0 +1,307 @@
+{
+  "passed": true,
+  "modules": [
+    {
+      "name": "CM_HR02_CounterCraft",
+      "triangles": 15462,
+      "vertices": 8227,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_CounterJar",
+      "triangles": 498,
+      "vertices": 256,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_HerbariumBoard",
+      "triangles": 262,
+      "vertices": 140,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_LimeRepair",
+      "triangles": 268,
+      "vertices": 136,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_Parcel",
+      "triangles": 358,
+      "vertices": 196,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_PortalJoinery",
+      "triangles": 4776,
+      "vertices": 2576,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_PracticePlaque",
+      "triangles": 358,
+      "vertices": 188,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_RecordsCluster",
+      "triangles": 1484,
+      "vertices": 760,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_ResearchSheet",
+      "triangles": 2,
+      "vertices": 4,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_ShelvingCraft",
+      "triangles": 7656,
+      "vertices": 4002,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse1",
+      "triangles": 2802,
+      "vertices": 1440,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse2",
+      "triangles": 2802,
+      "vertices": 1440,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse3",
+      "triangles": 2802,
+      "vertices": 1440,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse4",
+      "triangles": 2028,
+      "vertices": 1044,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_HR02_StoopFace",
+      "triangles": 1512,
+      "vertices": 768,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "units": "METRIC",
+  "scaleLength": 1.0
+}

@@ -1,0 +1,421 @@
+{
+  "modules": [
+    {
+      "name": "CM_HR02_CounterCraft",
+      "collider": null,
+      "sockets": [],
+      "triangles": 15462,
+      "vertices": 8227,
+      "bounds": [
+        [
+          -1.1399999856948853,
+          -0.40299999713897705,
+          0.0
+        ],
+        [
+          1.1399999856948853,
+          0.4520000219345093,
+          1.0525000095367432
+        ]
+      ],
+      "boundaryEdges": 48,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_HR02_ShelvingCraft",
+      "collider": null,
+      "sockets": [],
+      "triangles": 7656,
+      "vertices": 4002,
+      "bounds": [
+        [
+          -0.9125000238418579,
+          -0.20000000298023224,
+          0.0
+        ],
+        [
+          0.9125000238418579,
+          0.27000001072883606,
+          2.450000047683716
+        ]
+      ],
+      "boundaryEdges": 124,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass",
+        "CM_AF01_Labels",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse1",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2802,
+      "vertices": 1440,
+      "bounds": [
+        [
+          -0.7310000061988831,
+          -0.09600000083446503,
+          0.0
+        ],
+        [
+          0.7179999947547913,
+          0.11237499862909317,
+          0.3799999952316284
+        ]
+      ],
+      "boundaryEdges": 20,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Glass",
+        "CM_AF01_Sage"
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse2",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2802,
+      "vertices": 1440,
+      "bounds": [
+        [
+          -0.7149999737739563,
+          -0.09000000357627869,
+          0.0
+        ],
+        [
+          0.7300000190734863,
+          0.11237499862909317,
+          0.3499999940395355
+        ]
+      ],
+      "boundaryEdges": 20,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Glass",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Sage",
+        "CM_AF01_Ceramic"
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse3",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2802,
+      "vertices": 1440,
+      "bounds": [
+        [
+          -0.7310000061988831,
+          -0.09600000083446503,
+          0.0
+        ],
+        [
+          0.7179999947547913,
+          0.11237499862909317,
+          0.3799999952316284
+        ]
+      ],
+      "boundaryEdges": 20,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Glass",
+        "CM_AF01_Sage"
+      ]
+    },
+    {
+      "name": "CM_HR02_StockCourse4",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2028,
+      "vertices": 1044,
+      "bounds": [
+        [
+          -0.6800000071525574,
+          -0.11500000208616257,
+          0.0
+        ],
+        [
+          0.7400000095367432,
+          0.11599999666213989,
+          0.3400000035762787
+        ]
+      ],
+      "boundaryEdges": 16,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Glass",
+        "CM_AF01_Sage",
+        "CM_AF01_Ceramic"
+      ]
+    },
+    {
+      "name": "CM_HR02_CounterJar",
+      "collider": null,
+      "sockets": [],
+      "triangles": 498,
+      "vertices": 256,
+      "bounds": [
+        [
+          -0.08399999886751175,
+          -0.08399999886751175,
+          0.0
+        ],
+        [
+          0.08399999886751175,
+          0.08609999716281891,
+          0.2800000011920929
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_HR02_RecordsCluster",
+      "collider": null,
+      "sockets": [],
+      "triangles": 1484,
+      "vertices": 760,
+      "bounds": [
+        [
+          -0.289000004529953,
+          -0.1599999964237213,
+          0.0
+        ],
+        [
+          0.1829172968864441,
+          0.1599999964237213,
+          0.389382928609848
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_AF01_Sage",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_HR02_ResearchSheet",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2,
+      "vertices": 4,
+      "bounds": [
+        [
+          -0.18000000715255737,
+          -0.2199999988079071,
+          0.003000000026077032
+        ],
+        [
+          0.18000000715255737,
+          0.2199999988079071,
+          0.003000000026077032
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_HR02_Parcel",
+      "collider": null,
+      "sockets": [],
+      "triangles": 358,
+      "vertices": 196,
+      "bounds": [
+        [
+          -0.125,
+          -0.10300000011920929,
+          0.0
+        ],
+        [
+          0.125,
+          0.10300000011920929,
+          0.11800000071525574
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen",
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_HR02_HerbariumBoard",
+      "collider": null,
+      "sockets": [],
+      "triangles": 262,
+      "vertices": 140,
+      "bounds": [
+        [
+          -0.36000001430511475,
+          -0.019999999552965164,
+          -0.44999998807907104
+        ],
+        [
+          0.36000001430511475,
+          0.03799999877810478,
+          0.44999998807907104
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_HR02_PracticePlaque",
+      "collider": null,
+      "sockets": [],
+      "triangles": 358,
+      "vertices": 188,
+      "bounds": [
+        [
+          -0.26978951692581177,
+          -0.02500000037252903,
+          -0.3100000023841858
+        ],
+        [
+          0.26979315280914307,
+          0.039000000804662704,
+          0.3496668040752411
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_HR02_PortalJoinery",
+      "collider": null,
+      "sockets": [],
+      "triangles": 4776,
+      "vertices": 2576,
+      "bounds": [
+        [
+          -1.189640760421753,
+          0.07150000333786011,
+          0.4000000059604645
+        ],
+        [
+          1.189640760421753,
+          0.12700000405311584,
+          2.9262635707855225
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Iron",
+        "CM_AF01_Linen",
+        "CM_AF01_Brass",
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_HR02_LimeRepair",
+      "collider": null,
+      "sockets": [],
+      "triangles": 268,
+      "vertices": 136,
+      "bounds": [
+        [
+          -0.25,
+          -0.003000000026077032,
+          -0.24992330372333527
+        ],
+        [
+          0.24985665082931519,
+          0.003000000026077032,
+          0.23000000417232513
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_HR02_StoopFace",
+      "collider": null,
+      "sockets": [],
+      "triangles": 1512,
+      "vertices": 768,
+      "bounds": [
+        [
+          -2.619999885559082,
+          -0.014999999664723873,
+          -0.09000000357627869
+        ],
+        [
+          1.9049999713897705,
+          0.014999999664723873,
+          0.09000000357627869
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Ceramic"
+      ]
+    }
+  ],
+  "totalTriangles": 43070,
+  "scaleMetres": 1,
+  "axes": "Unity +Y up +Z front",
+  "sourceBase": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Interiors/CrookedMortar/ApothecaryFurnishings01/CM_ApothecaryFurnishings01.blend",
+  "notes": "Purposeful open ink sheets/inlay edges; decorative modules have no colliders."
+}
