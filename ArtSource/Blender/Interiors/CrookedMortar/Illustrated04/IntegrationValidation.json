@@ -1,0 +1,126 @@
+{
+  "newModels": [
+    {
+      "name": "CM_IL04_ArchedWindowLining",
+      "vertexCount": 3684,
+      "triangles": 4336,
+      "uvs": 3684,
+      "normals": 3684
+    },
+    {
+      "name": "CM_IL04_BotanicalArchive",
+      "vertexCount": 528,
+      "triangles": 728,
+      "uvs": 528,
+      "normals": 528
+    },
+    {
+      "name": "CM_IL04_CounterCarving",
+      "vertexCount": 11702,
+      "triangles": 11562,
+      "uvs": 11702,
+      "normals": 11702
+    },
+    {
+      "name": "CM_IL04_CounterRunner",
+      "vertexCount": 342,
+      "triangles": 196,
+      "uvs": 342,
+      "normals": 342
+    },
+    {
+      "name": "CM_IL04_FrontCraftwork",
+      "vertexCount": 3763,
+      "triangles": 4056,
+      "uvs": 3763,
+      "normals": 3763
+    },
+    {
+      "name": "CM_IL04_Header",
+      "vertexCount": 2910,
+      "triangles": 2938,
+      "uvs": 2910,
+      "normals": 2910
+    },
+    {
+      "name": "CM_IL04_HerbalBanner",
+      "vertexCount": 402,
+      "triangles": 528,
+      "uvs": 402,
+      "normals": 402
+    },
+    {
+      "name": "CM_IL04_JambDetail",
+      "vertexCount": 2708,
+      "triangles": 2592,
+      "uvs": 2708,
+      "normals": 2708
+    },
+    {
+      "name": "CM_IL04_LimewashRepair",
+      "vertexCount": 6,
+      "triangles": 4,
+      "uvs": 6,
+      "normals": 6
+    },
+    {
+      "name": "CM_IL04_PreparationRecords",
+      "vertexCount": 2018,
+      "triangles": 3046,
+      "uvs": 2018,
+      "normals": 2018
+    },
+    {
+      "name": "CM_IL04_PrepTableCraft",
+      "vertexCount": 1444,
+      "triangles": 2384,
+      "uvs": 1444,
+      "normals": 1444
+    },
+    {
+      "name": "CM_IL04_ShelfCarving",
+      "vertexCount": 5982,
+      "triangles": 5744,
+      "uvs": 5982,
+      "normals": 5982
+    },
+    {
+      "name": "CM_IL04_WindowConsole",
+      "vertexCount": 2536,
+      "triangles": 2184,
+      "uvs": 2536,
+      "normals": 2536
+    },
+    {
+      "name": "CM_IL04_WorkingCollection1",
+      "vertexCount": 10177,
+      "triangles": 12606,
+      "uvs": 10177,
+      "normals": 10177
+    },
+    {
+      "name": "CM_IL04_WorkingCollection3",
+      "vertexCount": 9899,
+      "triangles": 12302,
+      "uvs": 9899,
+      "normals": 9899
+    },
+    {
+      "name": "CM_IL04_WovenMat",
+      "vertexCount": 1301,
+      "triangles": 723,
+      "uvs": 1301,
+      "normals": 1301
+    }
+  ],
+  "totalTriangles": 65929,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 16
+}

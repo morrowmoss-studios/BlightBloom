@@ -1,0 +1,430 @@
+{
+  "modules": [
+    {
+      "name": "CM_LI03_RecordShelf",
+      "collider": [
+        [
+          0,
+          0.38,
+          0.14
+        ],
+        [
+          1.28,
+          0.76,
+          0.28
+        ]
+      ],
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0.38,
+            0
+          ]
+        ]
+      ],
+      "triangles": 6174,
+      "vertices": 3172,
+      "bounds": [
+        [
+          -0.6449999809265137,
+          0.0,
+          0.0
+        ],
+        [
+          0.6449999809265137,
+          0.2904999852180481,
+          0.7950000166893005
+        ]
+      ],
+      "boundaryEdges": 20,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_AF01_Labels",
+        "CM_AF01_Glass",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_LI03_ReagentCabinet",
+      "collider": [
+        [
+          0,
+          0.7,
+          0.16
+        ],
+        [
+          1.18,
+          1.4,
+          0.32
+        ]
+      ],
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0.7,
+            0
+          ]
+        ]
+      ],
+      "triangles": 6594,
+      "vertices": 3404,
+      "bounds": [
+        [
+          -0.6000000238418579,
+          0.0,
+          0.0
+        ],
+        [
+          0.6000000238418579,
+          0.3199999928474426,
+          1.559999942779541
+        ]
+      ],
+      "boundaryEdges": 36,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Glass",
+        "CM_AF01_Labels",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_LI03_ToolRail",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1056,
+      "vertices": 564,
+      "bounds": [
+        [
+          -0.5600000023841858,
+          0.0,
+          -0.4699999988079071
+        ],
+        [
+          0.5600000023841858,
+          0.1550000011920929,
+          0.054999999701976776
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Iron",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_LI03_ShopBeam",
+      "collider": null,
+      "sockets": [
+        [
+          "CeilingTop",
+          [
+            0,
+            0.08,
+            0
+          ]
+        ],
+        [
+          "WallL",
+          [
+            -2.7,
+            0,
+            0
+          ]
+        ],
+        [
+          "WallR",
+          [
+            2.7,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1116,
+      "vertices": 576,
+      "bounds": [
+        [
+          -2.700000047683716,
+          -0.11999999731779099,
+          -0.33000001311302185
+        ],
+        [
+          2.700000047683716,
+          0.11999999731779099,
+          0.07999999821186066
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_LI03_PrepBeam",
+      "collider": null,
+      "sockets": [
+        [
+          "CeilingTop",
+          [
+            0,
+            0.08,
+            0
+          ]
+        ],
+        [
+          "WallL",
+          [
+            -1.7,
+            0,
+            0
+          ]
+        ],
+        [
+          "WallR",
+          [
+            1.7,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1116,
+      "vertices": 576,
+      "bounds": [
+        [
+          -1.7000000476837158,
+          -0.11999999731779099,
+          -0.33000001311302185
+        ],
+        [
+          1.7000000476837158,
+          0.11999999731779099,
+          0.07999999821186066
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_LI03_WorkSurfaceStory",
+      "collider": null,
+      "sockets": [
+        [
+          "Surface",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 2616,
+      "vertices": 1376,
+      "bounds": [
+        [
+          -0.3499999940395355,
+          -0.2199999988079071,
+          -0.20079462230205536
+        ],
+        [
+          0.3499999940395355,
+          0.3799999952316284,
+          0.4490000009536743
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen",
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage"
+      ]
+    },
+    {
+      "name": "CM_LI03_WorkbenchJoinery",
+      "collider": null,
+      "sockets": [
+        [
+          "BenchDatum",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 1580,
+      "vertices": 840,
+      "bounds": [
+        [
+          -1.5325000286102295,
+          -0.24500000476837158,
+          0.26249998807907104
+        ],
+        [
+          1.5325000286102295,
+          0.3489999771118164,
+          0.8700000047683716
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_LI03_FieldNotebook",
+      "collider": null,
+      "sockets": [
+        [
+          "Surface",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 226,
+      "vertices": 120,
+      "bounds": [
+        [
+          -0.1550000011920929,
+          -0.11999999731779099,
+          0.0
+        ],
+        [
+          0.1550000011920929,
+          0.13664908707141876,
+          0.052000001072883606
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_LI03_FormularyBoard",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 262,
+      "vertices": 140,
+      "bounds": [
+        [
+          -0.41999998688697815,
+          0.0,
+          -0.25
+        ],
+        [
+          0.41999998688697815,
+          0.05299999937415123,
+          0.25
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Labels",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_LI03_BeamHook",
+      "collider": null,
+      "sockets": [
+        [
+          "CeilingMount",
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        [
+          "HerbLoop",
+          [
+            0,
+            -0.08,
+            0
+          ]
+        ]
+      ],
+      "triangles": 200,
+      "vertices": 112,
+      "bounds": [
+        [
+          -0.02199999988079071,
+          -0.02199999988079071,
+          -0.0959412008523941
+        ],
+        [
+          0.03195718675851822,
+          0.02199999988079071,
+          0.02800000086426735
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Iron"
+      ]
+    }
+  ],
+  "totalTriangles": 20940,
+  "scaleMetres": 1,
+  "axes": "Unity +Y up +Z front",
+  "notes": "WallBack and Surface datums are explicit. New fixed wall furniture gets simple purposeful colliders; small dressing does not."
+}

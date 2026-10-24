@@ -1,0 +1,84 @@
+{
+  "newModels": [
+    {
+      "name": "CM_LI03_BeamHook",
+      "vertexCount": 264,
+      "triangles": 200,
+      "uvs": 264,
+      "normals": 264
+    },
+    {
+      "name": "CM_LI03_FieldNotebook",
+      "vertexCount": 167,
+      "triangles": 226,
+      "uvs": 167,
+      "normals": 167
+    },
+    {
+      "name": "CM_LI03_FormularyBoard",
+      "vertexCount": 204,
+      "triangles": 262,
+      "uvs": 204,
+      "normals": 204
+    },
+    {
+      "name": "CM_LI03_PrepBeam",
+      "vertexCount": 748,
+      "triangles": 1116,
+      "uvs": 748,
+      "normals": 748
+    },
+    {
+      "name": "CM_LI03_ReagentCabinet",
+      "vertexCount": 5265,
+      "triangles": 6594,
+      "uvs": 5265,
+      "normals": 5265
+    },
+    {
+      "name": "CM_LI03_RecordShelf",
+      "vertexCount": 3881,
+      "triangles": 6174,
+      "uvs": 3881,
+      "normals": 3881
+    },
+    {
+      "name": "CM_LI03_ShopBeam",
+      "vertexCount": 748,
+      "triangles": 1116,
+      "uvs": 748,
+      "normals": 748
+    },
+    {
+      "name": "CM_LI03_ToolRail",
+      "vertexCount": 1030,
+      "triangles": 1056,
+      "uvs": 1030,
+      "normals": 1030
+    },
+    {
+      "name": "CM_LI03_WorkbenchJoinery",
+      "vertexCount": 1139,
+      "triangles": 1580,
+      "uvs": 1139,
+      "normals": 1139
+    },
+    {
+      "name": "CM_LI03_WorkSurfaceStory",
+      "vertexCount": 1842,
+      "triangles": 2616,
+      "uvs": 1842,
+      "normals": 1842
+    }
+  ],
+  "totalTriangles": 20940,
+  "originalColliders": 108,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 8,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 10
+}

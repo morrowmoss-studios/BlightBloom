@@ -1,0 +1,584 @@
+{
+  "scope": "Illustrated04 pass only; prior uncommitted LivedIn03 and HeroRefinement02 work preserved",
+  "modified": [
+    "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+    "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md"
+  ],
+  "files": [
+    {
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+      "sha256": "a7a10522d82789bf9cba16cde0a5e606fe32006a62e306f9a69fe9b5e8562f02"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/ApplyPaintedSurfaces.cs",
+      "sha256": "a545512ab441c98b3c4436d17165cd213921853984fbe6d3a923608e74219cdd"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/AssetCatalog.json",
+      "sha256": "aa81cd184322d408cc3efdfcbf3d8f6af1e43e5153a3d40f92902b414da7744a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CM_Illustrated04.blend",
+      "sha256": "668f7dc9eb036779a35796e0d7b29c25378a77f1581068bf6933183a8ffe1209"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CaptureAfterDone.json",
+      "sha256": "ccbc6726842d83aea07933c211d212d83713fd67442f8d13bd743ad93fb89bc3"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CaptureBeforeDone.json",
+      "sha256": "ccbc6726842d83aea07933c211d212d83713fd67442f8d13bd743ad93fb89bc3"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CaptureCloseViews.cs",
+      "sha256": "5aef7ecfee36a5b4e95d77ef5fc67ff6bb3837a9e0eae884a015ab74f17f76c7"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CaptureGameViews.cs",
+      "sha256": "ba45d74b514161b0b051b1939ab2eba97c84815a55191d2b29e55ed2175d2a0c"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/ChangedFiles.json",
+      "sha256": null
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/CompareViews.py",
+      "sha256": "6f972beca127ec3435cb3c7d3ab715255d47672606695445d38592778b8e389a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/ExistingSupportValidation.json",
+      "sha256": "146bbba63416a0ae8506a26406586f25a6a48b976569d79798dfa6834488a1a9"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/FinalValidation.json",
+      "sha256": "e621c1b091fcb51e6794fb38f94f1a66c3eb07f5e4694514bee5edd380e3ee27"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/FinishIllustrated04.cs",
+      "sha256": "86ee898d20317514536f493de60c9cafcad3a0c06938f1dde5484c2b2b474224"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/GameViewPoses.json",
+      "sha256": "390a7ad9374e303e327acf491e35b81fcea84a224a4e0c27edf80da1d36c66aa"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/InstallIllustrated04.cs",
+      "sha256": "018c629dcb0a5942d1c4a175e2f21d94266b73cff23de5f167d0df6f0c8c21ad"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Installed.json",
+      "sha256": "7a678e988f58b1d8fbfc85f427e54971ca2d3f3af286482bb618437ad7ba67e1"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/IntegrationValidation.json",
+      "sha256": "4b4d007271f6e7930e6d3541b980caf378122f0b120d78e9668619049c0dfd65"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/LiveTestStatus.json",
+      "sha256": "616504c36c5e619f7b1a389982313761f55e9be58e06e76d9672ea78d864d68b"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/NewSupportValidation.json",
+      "sha256": "af65424bd17305b3f5db8fef12269f0cc7c69f952163284e1aa2f839fab29aef"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/PaintedSurfaces.json",
+      "sha256": "56b08cbbdc29833fce3ad2d879369e82585256eaa95b037c0d549a5f877d07f2"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/ParcelSeat.json",
+      "sha256": "c7b648cac4e5ad1aeec3816a13fe8af4cd70b92c45176178ef7c155c574072b4"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/PlantingSeats.json",
+      "sha256": "cb050d89b1676e620669c6fb17e3474aea0690c86bd64bbf1e8542431e5181a0"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/CounterCraftClose.png",
+      "sha256": "14fb01c6020e6359daff8b496d261e11f1300e5cf7df01a7ecd1726a81d67841"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/CounterShelves.png",
+      "sha256": "1c1c51e50b0bfee83746cc088085638043ff5834458e44926ccb92ee599ad689"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/EntranceCraftClose.png",
+      "sha256": "7b6d8e79a54669bfa00618459448c63b7fdb17b93960bcb9c55821d211fa56b3"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/ExteriorFullHeight.png",
+      "sha256": "14f2d63edb37f66b99e8407c808083c7f661d7b05f84c013015561e1848867ea"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/ExteriorThreeQuarter.png",
+      "sha256": "2812c0685b7193485f61b78335e4d6d0e96eff404aae145b6927ed41b22f9463"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/FrontExterior.png",
+      "sha256": "85f7f351c415cfa80995f38c3517ec5c5fc58ac3230ce044973adcd743b68a00"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/Mounting.png",
+      "sha256": "eec9b8c29f91f50656616fed9bdd01152702980ca4bb9401551ce64d795d8d41"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/Preparation.png",
+      "sha256": "6d03be78f6761c5b7318c4695be2c3f1a755538d7a1e8f1c6d2cb907154d8a3f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/PreparationBench.png",
+      "sha256": "df77d7f4f3c8ed84849fb6a32bdc14f29031c3ae7af8b12eaee106a608c85770"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/Shop.png",
+      "sha256": "00c68f0168dd2e062335ef42c1bf72372583e2bd429076e2135639368ba69377"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/After/StairTransition.png",
+      "sha256": "7ca35bbb33b6a469d9126b38248993b907c8f91418f45466745b50774eb79244"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/CounterShelves.png",
+      "sha256": "c6e19e4ed02040ff08e3b31acfcc2f15ac53ca19fffa853246530951e0fa73de"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/ExteriorThreeQuarter.png",
+      "sha256": "3b2e683c832ec6acbd464b4aae49b33bca48dc08027e33bc1f1323bfef383540"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/FrontExterior.png",
+      "sha256": "c95512ed0118acf3f299f78cf14a231858744fcb14db0c3e0cace884e39fcf6e"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/Mounting.png",
+      "sha256": "cc356d93eb21dccbc1a95dde079c71190f3ba52d25758c56e03033c9fb3c7be2"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/Preparation.png",
+      "sha256": "9d8ca217b7be30c8ad5084fddea71da352a519134bd11b3b2c4ccc45dbc28d2f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/PreparationBench.png",
+      "sha256": "7ab25e7bd08f9826ca7dd0e6b006e759b9c21a88d15fc040dc8609e186483f18"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/Shop.png",
+      "sha256": "9e5700c8cf6c12aa82d948b376ca8a944b012c8fa8e53800db9bf73d4128b0b1"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Before/StairTransition.png",
+      "sha256": "e8b99de5d17bc02c8401363f3ffdd1736aacb703647da54c686c37ac6aa2d288"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/CounterShelves.jpg",
+      "sha256": "864ee9d75e3c03e6846e2acb4b3c815db961f0f9806a64391ccef653679b8126"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/ExteriorThreeQuarter.jpg",
+      "sha256": "dfae405e03dc0c59866645bd3717187e8fd4909c22627fee51b56769ef84eeff"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/FrontExterior.jpg",
+      "sha256": "528bc3902dba2814609e03fe68c3a392864287655015d29f4226ae4462c01af6"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/Mounting.jpg",
+      "sha256": "0db4e380f5cef26d601bcce4170164314ab85e74ba4b81a15242bd12646f7526"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/Preparation.jpg",
+      "sha256": "9e1bc834904784d4f4ad581e1d3cb3a695dfb59596e327d4f2c0fc160dcca634"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/PreparationBench.jpg",
+      "sha256": "049bb17524c90155500315790097c02176ab78e14deaf8a3809c9b6ef552e230"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/Shop.jpg",
+      "sha256": "22e4752abc19ce5e45d9f8fb64a355059d854e717a9a9c4f2001e756cdc97d44"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/Previews/Comparison/StairTransition.jpg",
+      "sha256": "56cb4154fbbc5f3596c50e70fd86fc80efd212ffa0183e84fecd9832c4f2cf67"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/README.md",
+      "sha256": "8846c1c57df058867cf76e999d72340ee865f8f263a3a11a125c643af02278ad"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/SeatExistingPlantings.cs",
+      "sha256": "ec00bf535deafef5b62c3049938052a293ca334dc2beda9880fc710a6b3db385"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/SourceValidation.json",
+      "sha256": "a9407906714304a96b8bc0f015736f0b77a91918609d7918db1d610879a3210a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/ValidateSource.py",
+      "sha256": "423bea55c546710c11c5a7197ca242ae81b4a32093141d4e0c1a6987f4265512"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/WindowPlantingDatums.json",
+      "sha256": "0b9decd967dad5efe0cec4beac3eb149f5e17235a8e9e83a0d6e796b61c61277"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/Illustrated04/build_illustrated04.py",
+      "sha256": "0cd26b8ce79aa7211ab00ca38bba27f0cbac9a71e96ab6862969c38af2476ae4"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/CM_Illustrated04_Master.png",
+      "sha256": "42eed8fca54b165c24e40e514a48ba39f3f5b3598b7d33dcc1dabf8382757631"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/CM_Illustrated04_SignMaster.png",
+      "sha256": "6aa5c0bcdffbe53607bd979920dbfc1aa4c429ca19ff85b9664ecc601b9f7539"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/PrepareTexture.py",
+      "sha256": "53f98e18d9104f89f5c6cf12e2c393a3b60d3bdf1ac410e42885321674c90a0d"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/Prompt.txt",
+      "sha256": "ddccbd517ed88e1a60202a20daa686a435187d8343ffc845546cf683aa7a537c"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/README.md",
+      "sha256": "91d4053ce1c36032fd9894d451c010e183c810e5268f700aa58f51dac39a83a8"
+    },
+    {
+      "path": "ArtSource/Paint/Interiors/CrookedMortar/Illustrated04/SignPrompt.txt",
+      "sha256": "abd879cb0cf824b7eb03599e0396ae06766f439e155c7479b43ee1c97392ab49"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04.meta",
+      "sha256": "1493ad172b7ffe5eed24994ed3b2306c41b3c58fa39adad568ae6990e90e0b20"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials.meta",
+      "sha256": "50f2120fffffa1c0368f86239cb7bfd0929f142ef4b34fbdeb4be8e577f45e43"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_CrookedMortarSign.mat",
+      "sha256": "95a2323f160d2c35c414ecb658071d0e8769632e4d5da3661644d30e5052c633"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_CrookedMortarSign.mat.meta",
+      "sha256": "1551ec3f938532b7ec4c946172102163f314e4794321bd7f35fb3f518ff88ea7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "sha256": "27aebb4239404a445a3fd4529d7bec6dfb6c9b36137a126639884ffbf1533cd7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat.meta",
+      "sha256": "8c5a06628cc9f59624bc6f40d8e177d5726ed2120edb0940d57ba4c4188cda65"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat",
+      "sha256": "e15dee0ee1bd51c472606e1f23fa8035d04c228659f1bf9cdafc7c0e992d659b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat.meta",
+      "sha256": "83607836278c8c792a9e5a20573f568afe3dcc88bcbcd3d7c97d5a5a5c503f09"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models.meta",
+      "sha256": "c249e4517a1a0112b0f3ae4723fa519b790ee8249a4c02cb3406359cced0277b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_ArchedWindowLining.fbx",
+      "sha256": "68def89df4b806f8805e504a5d2d2e3ec45db2f7572cd0ae7bc40dd56b093004"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_ArchedWindowLining.fbx.meta",
+      "sha256": "83b455d3fef665d796722fc6527d079b1afb50d6ebd1da0a40b326191424aaa8"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_BotanicalArchive.fbx",
+      "sha256": "0da21e13e23c19dcc2475f9e789de6e562d857abb34198ef10c78446b5129bfe"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_BotanicalArchive.fbx.meta",
+      "sha256": "fa956b50da77616229c7f4b659483d78a024b81d7e95b64f7020547d078ee05a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_CounterCarving.fbx",
+      "sha256": "ab45b92d75610ea81adaf1cb334172c45a499e4e57e8295726f6da8c41993b81"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_CounterCarving.fbx.meta",
+      "sha256": "bd5875e13e5b677b9cfb2043c21b096c97b2eb2767f0dd91643cc5dc9f6865c0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_CounterRunner.fbx",
+      "sha256": "33a0ebe0e0cdf524046692d35545950f102e0fc538ce59d370adaa937547436a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_CounterRunner.fbx.meta",
+      "sha256": "bfa13e307f9d68436ba50c241353a77dde457f63fc4b96e3d69db26b45c9b618"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_FrontCraftwork.fbx",
+      "sha256": "7b58c8fe1ccbec767f9dd9634e9e5430dd96d03b892069c7b048211bef4c96e6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_FrontCraftwork.fbx.meta",
+      "sha256": "c52c5dd1ad8945d77c04789f3fb072d8d5c7df84f833c6be2c5d1f55501cec7f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_Header.fbx",
+      "sha256": "5d9e3ced38c3f2c326fd6c64c2d7572e2a8f8eef31350ea784b74032ac32d311"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_Header.fbx.meta",
+      "sha256": "9fcff4bc33eb23c2b649f3b45b536d21b8172312023fd4cec2bed1c898504cb7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_HerbalBanner.fbx",
+      "sha256": "c728b1b2ee1189c6359b7fb50c6fe021307ddcdf045251213b7a57aa0c47e331"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_HerbalBanner.fbx.meta",
+      "sha256": "e709f267d52743f9223ad4ce06dcf304a79342232c8efed3cf9e51f031a938d9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_JambDetail.fbx",
+      "sha256": "3f51ab5c5e212ad9e5e4f523d3cbd72be5d39f6ca23ea0029b50a6c6cdfe606c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_JambDetail.fbx.meta",
+      "sha256": "71c1f2454dd50a11ce084752ca20e2d1015ad09eaf75beb5af20f4ddcc1bf3e7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_LimewashRepair.fbx",
+      "sha256": "40a7f948fadd808982a9a7391ce7d740a97453a14ab47634bb981a89d498b5f6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_LimewashRepair.fbx.meta",
+      "sha256": "27b0c64916bd1c2894ed81efa7fa4e064d7a1fd67c7b20720dfe2f7e1c40404a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_PrepTableCraft.fbx",
+      "sha256": "69c4a8cce857b3f1e33c304a42d8da01a4cc54c6c15a3cb2a444e854a8ad0219"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_PrepTableCraft.fbx.meta",
+      "sha256": "6255f1d9f63bdabf1bd33869daedea508b2b5f66a27d762a102f848cff2350ae"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_PreparationRecords.fbx",
+      "sha256": "6ebbc05c5c6dbc22a88d8fc5b10d78b92681a95fb3ae23dd7adba31cf8c646d7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_PreparationRecords.fbx.meta",
+      "sha256": "0dc5a33c891ab1371c39d4e54dde1fa0fa929c8f87626c9a25f15d4758df8dba"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_ShelfCarving.fbx",
+      "sha256": "dd21a02d71dec579ae9c2a257dbd3976c26c2e4a722389bb9e0d3626de9dbcb1"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_ShelfCarving.fbx.meta",
+      "sha256": "4e4820601a3c8880d45986beb642941a03c1b28cef42bb1df88cf7433ea3a55f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WindowConsole.fbx",
+      "sha256": "08c22317c6b06bfe0abbea71d527471b6bafee6e93f0872766188844cbbf7320"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WindowConsole.fbx.meta",
+      "sha256": "bd82bb1d82d3e6a951ddccd9c30dd0b9789642c3e95586b7b75cec8e488aab57"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WorkingCollection1.fbx",
+      "sha256": "8654869bca01033d594a93d81c79695618af2016222a3320864ae48c4b68dfe3"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WorkingCollection1.fbx.meta",
+      "sha256": "5f1be858d6291d3e3c364db3a50242e8bce824d9612a9f868cf18ce0438237eb"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WorkingCollection3.fbx",
+      "sha256": "9dcef4a832aa6048076e138a5cf2846c6c5cb869c7492d187341a1e4a565122d"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WorkingCollection3.fbx.meta",
+      "sha256": "91f8feaa8b7e7c84896cf82d330823934f88d6ae1bbac8e263dda73e8f5fa9ad"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WovenMat.fbx",
+      "sha256": "86aeb71e08e0bda5d78257fe7e7cb09a1f70a86e56d4106ac83a1ce8ba58bfe0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Models/CM_IL04_WovenMat.fbx.meta",
+      "sha256": "7a815877a9ead5c5221c1502d2d3e7e38e6a30756b389e1062e7fa446b2f5a49"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs.meta",
+      "sha256": "b29280a26c7f218aa7113613326d471a14ea08f77b8e464a5f9b9bfa709ec233"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_ArchedWindowLining.prefab",
+      "sha256": "c186b4c12c450b2992882043d9563bae765dab2b484d2a8d30520a6f0e1e2af2"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_ArchedWindowLining.prefab.meta",
+      "sha256": "7145677210f297f3d454bffa639d962d9e4be25917c79a759bba7636f130674c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_BotanicalArchive.prefab",
+      "sha256": "e4a94e6726241439f136202399b414671567b8f5e72ecbd2a3b4d4ae6786c17e"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_BotanicalArchive.prefab.meta",
+      "sha256": "4c38af026ce074d9c45028980f9bddfdad957e9ab4c47c85e737256971bbd5f9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_CounterCarving.prefab",
+      "sha256": "27121bfb078432daa563d3d17344afc2edbaf09f7a6a07ad63f8c565283718c9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_CounterCarving.prefab.meta",
+      "sha256": "e794143055bd88d69df13877099e7040dcdc31475fb7ed129716c1602644f4f3"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_CounterRunner.prefab",
+      "sha256": "5f338087439379fd1055819db20a25d0c6468a7f66199b9364fe5b4371edc07b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_CounterRunner.prefab.meta",
+      "sha256": "63b185c5020c4934c2121c94f0a272133ceddf9c29fa4ad2760c314fb1790061"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_FrontCraftwork.prefab",
+      "sha256": "e60d4493adfc1cacdd44af2f4e339a759bbe07535a20962e0729ee4543c175fc"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_FrontCraftwork.prefab.meta",
+      "sha256": "6ad8bbb83934b789dc242c22efcdc48d6d2b9dc9d0dcd9bf704e3cf66a5c3007"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_Header.prefab",
+      "sha256": "dfbaea11235129c9b05cfb8b0c783d6c63bd25f7f994746636c23d22fdc23ac1"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_Header.prefab.meta",
+      "sha256": "e6ee3bd1ebcabb4e83090a778cb7d77f1dc84459635581343ca8d123b0257d44"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_HerbalBanner.prefab",
+      "sha256": "226fce15be7770c5fb3e9361bd65fb1e906949afe0714274ce686e32b5867967"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_HerbalBanner.prefab.meta",
+      "sha256": "c06dca4edaab03ed122229a14ba0a1cbeeef9402fcbd2f1ada0706ff75df23d8"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_JambDetail.prefab",
+      "sha256": "aae1d0cafd3ed968a84bcb357922b341bb5c2b5bf33cd46cffd91a2aaebce11b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_JambDetail.prefab.meta",
+      "sha256": "8626e36ff2480fa16e19e3410e0e03bda535b196ad1fd328deab0f8247b1783b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_LimewashRepair.prefab",
+      "sha256": "fdeea670e6b4ed08886675ec61c40f183a0244565e25e38c3ab41879eb534aea"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_LimewashRepair.prefab.meta",
+      "sha256": "3c36b67e2f79f9667a2dcd7ca107035e56da9e6da94318670beec1ca3fdcdc24"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_PrepTableCraft.prefab",
+      "sha256": "f18c65b218da6ffa6bbeceaec57e2e6063a1ea9e4f264ee16665a82451f75bea"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_PrepTableCraft.prefab.meta",
+      "sha256": "1a02735971e320a18deb9c4839734e0206f5178ff75365d7c68ae0e3cc7be421"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_PreparationRecords.prefab",
+      "sha256": "0358c9b528a9461e46bf4aa499d7a643f78d87e69de7aceb44418ca4f1e3ecee"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_PreparationRecords.prefab.meta",
+      "sha256": "757acaf9d108d5b33fe002de3200e4ad2afa3381edf5e71679c8cac8c2c49c02"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_ShelfCarving.prefab",
+      "sha256": "67427d1a6dac8a827ec63aa740367f1724d5b7d7688dae30acc58ae34c1983aa"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_ShelfCarving.prefab.meta",
+      "sha256": "e49240c30261b276cef06db25684c056b7d8fb3a007049a4e9b8cdaa166eae8d"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WindowConsole.prefab",
+      "sha256": "3d611ccb4fdcf5a789e949799e2be02a4dfc6698f2ade68d9cca438b68abb849"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WindowConsole.prefab.meta",
+      "sha256": "4181c859be25bddc59f7cbfec23665289cdb7044a42fabe978895ef972bd1711"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WorkingCollection1.prefab",
+      "sha256": "67e5d97795b49cd679f92cddc179ed641755f439a0e3a58ef0a39fc31c00393b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WorkingCollection1.prefab.meta",
+      "sha256": "3cdd3d63d2d974964f473f5d8ce7ad9c7c9595757a9c21ef8b704e744d8c8fb6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WorkingCollection3.prefab",
+      "sha256": "a7e0e1db87f64ab5b49b054271d0103a2ab0324c9daebeb48efde77bb31efd93"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WorkingCollection3.prefab.meta",
+      "sha256": "3f5222f9af44bda7b7a78609a2401923e45703a06256039ee14cc31026ada5bb"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WovenMat.prefab",
+      "sha256": "5df9844d167942205430ea94ff733efd733a099d073ae78787d9ac80eac784c9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Prefabs/CM_IL04_WovenMat.prefab.meta",
+      "sha256": "775f959a0296faea4eeee9223b892fd01f47cee0d7139d7fd4572c8947ac2234"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures.meta",
+      "sha256": "95b49d6dd6b9dd467e27b2d482b0c560df111251f404643f3a8d62fea9581d27"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_Atlas.png",
+      "sha256": "42eed8fca54b165c24e40e514a48ba39f3f5b3598b7d33dcc1dabf8382757631"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_Atlas.png.meta",
+      "sha256": "507a91202ef423920929050995c318d16cc8ea227e2182788ea87d996dd3d40c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_QuietPlaster.png",
+      "sha256": "f1b4a2499ae940e463b1650ca69bfe4173865376e0303192be3b0be6e89f71e5"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_QuietPlaster.png.meta",
+      "sha256": "67069079d6d834238789af5a744e15cb080b6f09e214ce425572f07aa8dee5e0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_Sign.png",
+      "sha256": "6aa5c0bcdffbe53607bd979920dbfc1aa4c429ca19ff85b9664ecc601b9f7539"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Textures/CM_Illustrated04_Sign.png.meta",
+      "sha256": "9ca0334a9fdc6745c684ba38cd9ab8af71ae36be0d5176476e46d315a656a01c"
+    },
+    {
+      "path": "Assets/Scenes/CM_CrookedMortar_Production02.unity",
+      "sha256": "8027a4d1f8326776b679cda7bc38155d46a83a691dd77ed6d2847c72423cbb33"
+    }
+  ],
+  "deleted": [],
+  "committed": false,
+  "pushed": false
+}

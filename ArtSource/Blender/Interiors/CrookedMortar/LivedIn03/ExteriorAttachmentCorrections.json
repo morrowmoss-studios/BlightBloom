@@ -1,0 +1,8 @@
+{
+  "ivyAnchor": "(4.0500, 3.1000, -2.9822)",
+  "ivyStemGap": 0.002,
+  "ivyPosition": "(4.0500, 3.1000, -2.9345)",
+  "plasterRepair": "(5.2100, 0.7600, -0.2060)",
+  "repairScale": 0.6,
+  "rootCause": "Decorations placed from assumed facade positions without visible-surface support checks"
+}

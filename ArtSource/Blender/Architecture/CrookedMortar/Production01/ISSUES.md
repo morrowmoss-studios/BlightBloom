@@ -104,3 +104,27 @@ Sources, previews, measurements and validation: `../../../Interiors/CrookedMorta
 | CM02-ART-002 | Basic counter/shelf construction and repetitive stock refined with shaped joinery, apothecary relief, varied vessels, case records, consultation signage and fitted entrance detail. Originals preserved through scene-local visual overrides and separate derivative assets. | Integrated and saved; artistic approval pending. Source/import checks pass; all 108 collider definitions/transforms/activation unchanged; 43 door-sweep poses clear the new art. Live input checks passed: nine shop-route and eight E-key entrance/exit waypoints; zero sampled camera/geometry overlaps and zero emergency corrections. Unity reports no new errors/warnings. Manual artistic and camera-comfort approval remains pending. |
 
 Matching before/after previews, editable source, scope and limitations: `../../../Interiors/CrookedMortar/HeroRefinement02/README.md`. No shared gameplay/camera/door/settings or roof changes. No shutters restored. Nothing committed.
+
+
+## Production02 supported shop/preparation pass — 2026-10-24
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-PLACE-003 | HeroRefinement02 herbarium frame was placed in the open stair connection because the installer assumed the west wall continued past z=2.2. Cosmetic collision was appropriate only for a mounted frame; its location was wrong. Relocated to the verified solid shop/kitchen jamb and corrected the install source. | Visible-mesh back-plane support checks pass; the former painting route passed through the normal player controller. Manual visual review pending. |
+| CM02-PLACE-004 | Audit found shop rail gap, preparation rail penetration, porch plaque offset, floating limewash patch and unsupported ivy root. | Placements corrected against actual support geometry. Surface/visible-support reports preserved. No collision added to paper, pictures, herbs or tiny tools. |
+| CM02-ART-003 | Shop and preparation room remained sparse/disconnected. Added supported records alcove, reagent cabinet/tool rail, connected timber details, formulary and a working herb press/notes arrangement. | Integrated; **not artistically approved**. Matched actual Game-view comparisons available. Initial room/garden route passed but exposed camera retraction near the new cupboard. Cupboard lowered; final route reached 16/17 points through the garden exit before focus loss. Cupboard-approach camera distance improved from about 0.50 m to 0.99 m. Garden return, live E-key door, stairs and locomotion checks remain blocked by locked Mac/application focus; no final gameplay pass claimed. Waiting test and temporary devices cancelled; saved scene open in Edit mode. Zero current Console errors; two warnings require message review. |
+
+Current scope, sources and comparisons: `../../../Interiors/CrookedMortar/LivedIn03/README.md`. Earlier HeroRefinement02 navigation reports did not validate decorative mounting and are not proof of these repairs. No layout, shared gameplay/camera, lighting or settings changes. Nothing committed.
+
+
+## Production02 illustrated composition pass — 2026-10-24
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-004 | Reference comparison showed sparse wall fields, basic furniture profiles and isolated decoration. Added fitted carving/trim, botanical working displays, mixed book/order collections, textiles and painted plaster/sign surfaces. | Saved for artistic review; not approved. Matched actual Game-view captures document gains and remaining simplicity. No architecture, gameplay, camera or collision changes. |
+| CM02-PLACE-005 | All eight window planting inserts shared an incorrect generic root height, burying their roots 0.13–0.14 m below the actual soil surface. | All eight roots checked/seated on actual planter soil mesh triangles. Source kits unchanged. |
+| CM02-PLACE-003 follow-up | Rechecked the previously relocated herbarium painting and existing wall furniture against visible meshes; inspected new mounting rails, jamb trim and headers. | Existing painting/support checks and 13 new multi-point mount checks pass. No indiscriminate decoration colliders added. |
+
+Evidence and remaining limitations: `../../../Interiors/CrookedMortar/Illustrated04/README.md`. The first sequential live-input test waited for focus and timed out while the Mac was locked; no final live room/door/stair/locomotion pass is claimed. Waiting test was cancelled. All 116 baseline colliders remain unchanged and 43 outward door-sweep samples clear the new art. Nothing committed or pushed.
+
+CM02-ARCH-005: Close Game-view review reveals small visible gaps around the existing entrance surround. Confirmed visually; original surround untouched in Illustrated04. Deferred architectural fit investigation. The stair-side order parcel was relocated to the records shelf with verified surface contact.

@@ -1,0 +1,207 @@
+{
+  "passed": true,
+  "modules": [
+    {
+      "name": "CM_LI03_BeamHook",
+      "triangles": 200,
+      "vertices": 112,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_FieldNotebook",
+      "triangles": 226,
+      "vertices": 120,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_FormularyBoard",
+      "triangles": 262,
+      "vertices": 140,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_PrepBeam",
+      "triangles": 1116,
+      "vertices": 576,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_ReagentCabinet",
+      "triangles": 6594,
+      "vertices": 3404,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_RecordShelf",
+      "triangles": 6174,
+      "vertices": 3172,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_ShopBeam",
+      "triangles": 1116,
+      "vertices": 576,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_ToolRail",
+      "triangles": 1056,
+      "vertices": 564,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_WorkbenchJoinery",
+      "triangles": 1580,
+      "vertices": 840,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_LI03_WorkSurfaceStory",
+      "triangles": 2616,
+      "vertices": 1376,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "units": "METRIC",
+  "scaleLength": 1.0
+}

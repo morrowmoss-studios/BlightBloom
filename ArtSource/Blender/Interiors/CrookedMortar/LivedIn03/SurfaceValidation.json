@@ -1,0 +1,37 @@
+[
+  {
+    "item": "Working linen contact",
+    "point": "(8.6400, 1.1790, 4.0500)",
+    "support": "CM_AF01_PreparationBench",
+    "gap": 0.006499894,
+    "passed": true
+  },
+  {
+    "item": "Working linen contact",
+    "point": "(8.6400, 1.1790, 4.3500)",
+    "support": "CM_AF01_PreparationBench",
+    "gap": 0.006499894,
+    "passed": true
+  },
+  {
+    "item": "Notebook",
+    "point": "(8.6600, 1.1760, 3.7100)",
+    "support": "CM_AF01_PreparationBench",
+    "gap": 0.003499873,
+    "passed": true
+  },
+  {
+    "item": "Counter jar",
+    "point": "(2.1300, 1.2550, 1.3000)",
+    "support": "CM_HR02_CounterCraft",
+    "gap": 0.00249989331,
+    "passed": true
+  },
+  {
+    "item": "Record cluster ink foot",
+    "point": "(1.7400, 1.2550, 1.2300)",
+    "support": "CM_HR02_CounterCraft",
+    "gap": 0.00249989331,
+    "passed": true
+  }
+]

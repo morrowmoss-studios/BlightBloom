@@ -1,0 +1,511 @@
+{
+  "modules": [
+    {
+      "name": "CM_IL04_CounterCarving",
+      "collider": null,
+      "sockets": [],
+      "triangles": 11562,
+      "vertices": 6444,
+      "bounds": [
+        [
+          -1.100000023841858,
+          0.4090000092983246,
+          0.1899999976158142
+        ],
+        [
+          1.100000023841858,
+          0.4729999899864197,
+          0.9200000166893005
+        ]
+      ],
+      "boundaryEdges": 140,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_IL04_Artwork",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_IL04_ShelfCarving",
+      "collider": null,
+      "sockets": [],
+      "triangles": 5744,
+      "vertices": 3136,
+      "bounds": [
+        [
+          -0.9300000071525574,
+          0.18000000715255737,
+          0.22491572797298431
+        ],
+        [
+          0.9300000071525574,
+          0.2199999988079071,
+          2.1039059162139893
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_IL04_WorkingCollection1",
+      "collider": null,
+      "sockets": [],
+      "triangles": 12606,
+      "vertices": 6716,
+      "bounds": [
+        [
+          -0.7085000276565552,
+          -0.10000000149011612,
+          -0.0024999999441206455
+        ],
+        [
+          0.7250000238418579,
+          0.13199999928474426,
+          0.35249999165534973
+        ]
+      ],
+      "boundaryEdges": 68,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen",
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass",
+        "CM_AF01_Glass",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_IL04_WorkingCollection3",
+      "collider": null,
+      "sockets": [],
+      "triangles": 12302,
+      "vertices": 6556,
+      "bounds": [
+        [
+          -0.6740000247955322,
+          -0.11999999731779099,
+          -0.0024999999441206455
+        ],
+        [
+          0.7749999761581421,
+          0.12700000405311584,
+          0.35249999165534973
+        ]
+      ],
+      "boundaryEdges": 68,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Linen",
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass",
+        "CM_AF01_Glass",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_IL04_CounterRunner",
+      "collider": null,
+      "sockets": [],
+      "triangles": 196,
+      "vertices": 123,
+      "bounds": [
+        [
+          0.27000001072883606,
+          -0.2199999988079071,
+          0.6397608518600464
+        ],
+        [
+          0.6899999976158142,
+          0.43778976798057556,
+          1.059000015258789
+        ]
+      ],
+      "boundaryEdges": 12,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_IL04_Artwork",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_IL04_BotanicalArchive",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 728,
+      "vertices": 384,
+      "bounds": [
+        [
+          -0.3799999952316284,
+          -0.006000000052154064,
+          -0.33000001311302185
+        ],
+        [
+          0.3799999952316284,
+          0.06499999761581421,
+          0.4625000059604645
+        ]
+      ],
+      "boundaryEdges": 8,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Linen",
+        "CM_IL04_Artwork",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_IL04_JambDetail",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 2592,
+      "vertices": 1456,
+      "bounds": [
+        [
+          -0.07500000298023224,
+          0.0,
+          0.0
+        ],
+        [
+          0.18689364194869995,
+          0.11999999731779099,
+          2.740000009536743
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_IL04_Header",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 2938,
+      "vertices": 1636,
+      "bounds": [
+        [
+          -0.9599999785423279,
+          0.0,
+          -0.0794999971985817
+        ],
+        [
+          0.9599999785423279,
+          0.09799999743700027,
+          0.0794999971985817
+        ]
+      ],
+      "boundaryEdges": 36,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass",
+        "CM_IL04_Artwork"
+      ]
+    },
+    {
+      "name": "CM_IL04_PrepTableCraft",
+      "collider": null,
+      "sockets": [],
+      "triangles": 2384,
+      "vertices": 1224,
+      "bounds": [
+        [
+          -0.7599999904632568,
+          0.2199999988079071,
+          0.6247491836547852
+        ],
+        [
+          0.7599999904632568,
+          0.3684999942779541,
+          0.9275000095367432
+        ]
+      ],
+      "boundaryEdges": 8,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_IL04_Artwork"
+      ]
+    },
+    {
+      "name": "CM_IL04_PreparationRecords",
+      "collider": null,
+      "sockets": [],
+      "triangles": 3046,
+      "vertices": 1564,
+      "bounds": [
+        [
+          -0.4399999976158142,
+          -0.10499999672174454,
+          0.0
+        ],
+        [
+          0.36800000071525574,
+          0.09449999779462814,
+          0.23999999463558197
+        ]
+      ],
+      "boundaryEdges": 4,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen",
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Glass",
+        "CM_AF01_Labels"
+      ]
+    },
+    {
+      "name": "CM_IL04_HerbalBanner",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 528,
+      "vertices": 278,
+      "bounds": [
+        [
+          -0.36000001430511475,
+          -0.004999999888241291,
+          -0.4000000059604645
+        ],
+        [
+          0.36000001430511475,
+          0.052000001072883606,
+          0.47999998927116394
+        ]
+      ],
+      "boundaryEdges": 6,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Iron",
+        "CM_AF01_Linen",
+        "CM_IL04_Artwork"
+      ]
+    },
+    {
+      "name": "CM_IL04_WovenMat",
+      "collider": null,
+      "sockets": [
+        [
+          "Floor",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 723,
+      "vertices": 437,
+      "bounds": [
+        [
+          -0.6600000262260437,
+          -1.0399999618530273,
+          0.0020000000949949026
+        ],
+        [
+          0.6700000166893005,
+          1.0399999618530273,
+          0.006000000052154064
+        ]
+      ],
+      "boundaryEdges": 5,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_IL04_Artwork",
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_IL04_FrontCraftwork",
+      "collider": null,
+      "sockets": [],
+      "triangles": 4096,
+      "vertices": 2232,
+      "bounds": [
+        [
+          0.004999999888241291,
+          -0.4050000011920929,
+          2.880000114440918
+        ],
+        [
+          5.394999980926514,
+          -0.2029999941587448,
+          8.932000160217285
+        ]
+      ],
+      "boundaryEdges": 40,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_IL04_Artwork",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_IL04_LimewashRepair",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 4,
+      "vertices": 6,
+      "bounds": [
+        [
+          -0.3400000035762787,
+          0.003000000026077032,
+          -0.3100000023841858
+        ],
+        [
+          0.3199999928474426,
+          0.003000000026077032,
+          0.30000001192092896
+        ]
+      ],
+      "boundaryEdges": 6,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_IL04_Artwork"
+      ]
+    },
+    {
+      "name": "CM_IL04_ArchedWindowLining",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 4336,
+      "vertices": 2336,
+      "bounds": [
+        [
+          -0.949999988079071,
+          0.0,
+          0.8137964606285095
+        ],
+        [
+          0.949999988079071,
+          0.09000000357627869,
+          2.4790000915527344
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_IL04_WindowConsole",
+      "collider": null,
+      "sockets": [
+        [
+          "WallBack",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 2184,
+      "vertices": 1248,
+      "bounds": [
+        [
+          -0.10000000149011612,
+          -0.014999999664723873,
+          -0.38349536061286926
+        ],
+        [
+          0.10000000149011612,
+          0.33500000834465027,
+          0.05000000074505806
+        ]
+      ],
+      "boundaryEdges": 32,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Brass"
+      ]
+    }
+  ],
+  "axes": "Unity +Y up +Z exterior",
+  "scaleMetres": 1,
+  "notes": "Fitted room composition accents; no collision geometry exported; existing approved material assignments retained outside new additions."
+}

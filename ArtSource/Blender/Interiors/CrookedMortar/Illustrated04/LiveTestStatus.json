@@ -1,0 +1,13 @@
+{
+  "status": "blocked",
+  "attempts": 2,
+  "reason": "Mac remained locked / Unity application focus unavailable after user ready response. Both 150-second focus waits expired without starting movement.",
+  "checksNotRun": [
+    "room and garden input route",
+    "E-key entrance/exit",
+    "stairs both directions",
+    "idle/walk/sprint/turn/stop"
+  ],
+  "waitingTestCancelled": true,
+  "gameplaySuccessClaimed": false
+}

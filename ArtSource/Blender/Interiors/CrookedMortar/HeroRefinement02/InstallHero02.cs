@@ -9,16 +9,17 @@ void VisualOff(Transform t){foreach(var r in t.GetComponentsInChildren<Renderer>
 VisualOff(counter);Spawn("CM_HR02_CounterCraft",counter,Vector3.zero);VisualOff(shelves);Spawn("CM_HR02_ShelvingCraft",shelves,Vector3.zero);
 var stock=shelves.parent.Cast<Transform>().Where(t=>t.name=="CM_AF01_MedicineRowA"||t.name=="CM_AF01_MedicineRowB").OrderBy(t=>t.localPosition.y).ToArray();for(int i=0;i<stock.Length;i++){VisualOff(stock[i]);Spawn("CM_HR02_StockCourse"+(i+1),shelves,stock[i].localPosition);}
 // Lift the existing drying rail just enough to clear the new continuous pediment and its herbs.
-var rack=furniture.GetComponentsInChildren<Transform>().Single(t=>t.name=="CM_AF01_HerbDryingStation"&&t.parent.name.StartsWith("Shop"));rack.position+=Vector3.up*.12f;
+var rack=furniture.GetComponentsInChildren<Transform>().Single(t=>t.name=="CM_AF01_HerbDryingStation"&&t.parent.name.StartsWith("Shop"));rack.position=new Vector3(.14f,2.50f,1.15f);PrefabUtility.RecordPrefabInstancePropertyModifications(rack);
 // Keep counter working area readable: old jar is moved to the low shelf, records replace its former tabletop spot.
 var sale=counter.parent;var jar=sale.Cast<Transform>().Single(t=>t.name=="CM_AF01_CeramicJar");jar.localPosition=new Vector3(.10f,1.055f,.18f);
 Spawn("CM_HR02_RecordsCluster",counter,new Vector3(.05f,1.055f,-.16f));
 // Existing ledger receives the new accounts/field-notes pages without changing its mesh or prefab asset.
 var ledger=sale.Cast<Transform>().Single(t=>t.name=="CM_AF01_OpenLedger");foreach(var r in ledger.GetComponentsInChildren<Renderer>()){r.sharedMaterials=r.sharedMaterials.Select(m=>m.name=="CM_AF01_Labels"?ink:m).ToArray();}
-Spawn("CM_HR02_HerbariumBoard",root.transform,new Vector3(.065f,1.85f,3.20f),90);
+var board=Spawn("CM_HR02_HerbariumBoard",root.transform,new Vector3(5.377f,2.08f,1.10f),270);
+var wall=UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects().SelectMany(g=>g.GetComponentsInChildren<Collider>()).Single(c=>c.name=="Shop to kitchen 1.8 jamb A");foreach(float x in new[]{-.324f,0,.324f})foreach(float y in new[]{-.405f,0,.405f}){var back=board.transform.TransformPoint(new Vector3(x,y,-.02f));if(!wall.Raycast(new Ray(back+board.transform.forward*.04f,-board.transform.forward),out _, .065f))throw new System.Exception("Herbarium mount must have verified wall support");}
 Spawn("CM_HR02_Parcel",root.transform,new Vector3(.26f,.20f,2.50f),90);
 Spawn("CM_HR02_PortalJoinery",root.transform,new Vector3(3.7f,.2f,-2.9f),180);
-Spawn("CM_HR02_PracticePlaque",root.transform,new Vector3(4.8f,1.40f,-3.04f),180);
-Spawn("CM_HR02_LimeRepair",root.transform,new Vector3(5.14f,.76f,-.305f),180);
+Spawn("CM_HR02_PracticePlaque",root.transform,new Vector3(4.8f,1.40f,-3.002f),180);
+var repair=Spawn("CM_HR02_LimeRepair",root.transform,new Vector3(5.21f,.76f,-.206f),180);repair.transform.localScale=Vector3.one*.6f;PrefabUtility.RecordPrefabInstancePropertyModifications(repair.transform);
 Spawn("CM_HR02_StoopFace",root.transform,new Vector3(3.3925f,.105f,-2.809f),180);
 UnityEditor.SceneManagement.EditorSceneManager.MarkSceneDirty(UnityEngine.SceneManagement.SceneManager.GetActiveScene());UnityEditor.SceneManagement.EditorSceneManager.SaveScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene());return new{modules=paths.Count,root=root.name};

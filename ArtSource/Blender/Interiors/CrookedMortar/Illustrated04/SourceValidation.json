@@ -1,0 +1,327 @@
+{
+  "passed": true,
+  "modules": [
+    {
+      "name": "CM_IL04_ArchedWindowLining",
+      "triangles": 4336,
+      "vertices": 2336,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_BotanicalArchive",
+      "triangles": 728,
+      "vertices": 384,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_CounterCarving",
+      "triangles": 11562,
+      "vertices": 6444,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_CounterRunner",
+      "triangles": 196,
+      "vertices": 123,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_FrontCraftwork",
+      "triangles": 4096,
+      "vertices": 2232,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_Header",
+      "triangles": 2938,
+      "vertices": 1636,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_HerbalBanner",
+      "triangles": 528,
+      "vertices": 278,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_JambDetail",
+      "triangles": 2592,
+      "vertices": 1456,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_LimewashRepair",
+      "triangles": 4,
+      "vertices": 6,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_PreparationRecords",
+      "triangles": 3046,
+      "vertices": 1564,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_PrepTableCraft",
+      "triangles": 2384,
+      "vertices": 1224,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_ShelfCarving",
+      "triangles": 5744,
+      "vertices": 3136,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_WindowConsole",
+      "triangles": 2184,
+      "vertices": 1248,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_WorkingCollection1",
+      "triangles": 12606,
+      "vertices": 6716,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_WorkingCollection3",
+      "triangles": 12302,
+      "vertices": 6556,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_IL04_WovenMat",
+      "triangles": 723,
+      "vertices": 437,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "units": "METRIC",
+  "scaleLength": 1.0
+}

@@ -1,0 +1,23 @@
+{
+  "sign": "Mounted The Crooked Mortar painted crest",
+  "originalSignMaterial": "Assets/BlightBloom/Art/Architecture/CrookedMortar/StyledProof06/Materials/CM06_ApothecarySign.mat",
+  "originalPlaster": "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Plaster.mat",
+  "changed": [
+    "Front entrance 2.0 jamb A",
+    "Front entrance 2.0 jamb B",
+    "Front entrance 2.0 lintel 2.75m clear",
+    "Kitchen to storage 1.8 jamb A",
+    "Kitchen to storage 1.8 jamb B",
+    "Kitchen to storage 1.8 lintel 2.75m clear",
+    "Shop to kitchen 1.8 jamb A",
+    "Shop to kitchen 1.8 jamb B",
+    "Shop to kitchen 1.8 lintel 2.75m clear",
+    "Shop to treatment 2.0 jamb A",
+    "Shop to treatment 2.0 jamb B",
+    "Shop to treatment 2.0 lintel 2.75m clear",
+    "Treatment to wing",
+    "West shop front",
+    "Wing east ground",
+    "Wing front ground"
+  ]
+}
