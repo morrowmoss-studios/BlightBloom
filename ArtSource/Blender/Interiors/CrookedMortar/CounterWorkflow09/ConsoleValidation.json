@@ -1,0 +1,24 @@
+{
+  "entries": [],
+  "cursor": 347,
+  "session": "bea63641c5664e95acdec08c5620daef",
+  "returned": 0,
+  "dropped": false,
+  "reset": false,
+  "counts": {
+    "error": 32,
+    "warn": 82,
+    "log": 233
+  },
+  "groundTruth": {
+    "sampledUtc": "2026-10-25T16:21:08.396916Z",
+    "ageMs": 122,
+    "compilationFailed": false,
+    "compiling": false,
+    "consoleErrors": 0,
+    "consoleWarnings": 2,
+    "consoleLogs": 0,
+    "seeded": true
+  },
+  "note": "Cursor 347 and session unchanged from task start: no new captured messages. Two pre-existing Editor warnings retained."
+}

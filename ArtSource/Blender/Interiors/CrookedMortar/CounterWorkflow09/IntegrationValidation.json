@@ -1,0 +1,21 @@
+{
+  "newModels": [
+    {
+      "name": "CM_CW09_HeroCounter",
+      "vertexCount": 48170,
+      "triangles": 77390,
+      "uvs": 48170,
+      "normals": 48170
+    }
+  ],
+  "candidateTriangles": 77390,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 1
+}

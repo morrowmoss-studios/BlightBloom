@@ -1,0 +1,35 @@
+{
+  "newModels": [
+    {
+      "name": "CM_CW07_FormOnlyComparison",
+      "vertexCount": 8028,
+      "triangles": 12206,
+      "uvs": 8028,
+      "normals": 8028
+    },
+    {
+      "name": "CM_CW08_FormOnly",
+      "vertexCount": 28080,
+      "triangles": 45040,
+      "uvs": 28080,
+      "normals": 28080
+    },
+    {
+      "name": "CM_CW08_HeroCounter",
+      "vertexCount": 39666,
+      "triangles": 67808,
+      "uvs": 39666,
+      "normals": 39666
+    }
+  ],
+  "candidateTriangles": 67808,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 1
+}

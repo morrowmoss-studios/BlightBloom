@@ -1,0 +1,278 @@
+{
+  "paths": [
+    {
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+      "sha256": "6d95798968f0183df7c713eaa4c5f37ccf4e98ed78832b543d8088b391b1ff7f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/AssetReport.json",
+      "sha256": "9b895b9a392e5db0d245e2ab678f040cef6a7175574e378c9e97a15fbee9a21e"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/BuildForm07.py",
+      "sha256": "84e29848b8d2b479ea365dfd6765db1860ccbcdc1ba50037ded96d143707d53e"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/CM_CounterWorkflow08.blend",
+      "sha256": "df688abe54e6520d17b7e1a2d0c90c838b6bd0dcfda73bc150436e249f032e3b"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/CaptureComparison.cs",
+      "sha256": "10aa6758027f8150a0d4a1ea52001b06af48331869eb1fc1e6750a055322921a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/CaptureDone.json",
+      "sha256": "2e838f1bc90d3296ade5a578d2af8040dfb67a2eaaf0067666fd067e64847794"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ClearanceValidation.json",
+      "sha256": "9fd541e5284c9254eef6479313370b60ededa437744c6003dc930fe822f7eb2f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/CompareViews.py",
+      "sha256": "a1d4d00fc7669d9c03f1dc1ae7bccae76fa9012ebddab1b0768f459f5e8e2b79"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ConsoleValidation.json",
+      "sha256": "0cd7ef38d0324d31f9c92d3c2caa850769236f745897fc8b72a7027ac08388f4"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/CreateReview.cs",
+      "sha256": "1e90898129fc6afb6deff0e0e4ba6604ae45528f9757e65480edae5e1e0b9f16"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/IntegrationValidation.json",
+      "sha256": "bbc9874354cda6bc0e064a25881fbf0a27b7614329a28cf92194629e88ba98d4"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/AngledBare.png",
+      "sha256": "4ccbd56f9d0b43ea1510b054189f1f39ef07911f84aa33c851b095b841dd54bb"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/CarvingClose.png",
+      "sha256": "13ded7063e5cfb81a71004fa928acc4276336d274ddc9b7346c501789d1d15b8"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/ClayBare.png",
+      "sha256": "e3f2a87781dc969891ec3cc9dfda519eb91dda15002fb5135e8400b281046466"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/FrontBare.png",
+      "sha256": "d9a8af4590bf1c2117054865fbf8397da3809d3ebbcc187162271a078fdb16a2"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/FrontDressed.png",
+      "sha256": "3e1fe5d91da4ecae09a780928543de4d668909d171169499bfea8512df8e17bd"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/GameplayDressed.png",
+      "sha256": "d2760e76aaab55bc25e515376d8b69c4ffde760105bde94156586eeae365153d"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Candidate/SilhouetteBare.png",
+      "sha256": "67dcf494504cfd1174a2d3a48d8ca8e172876125331ac63e1568428367f6b9b0"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/AngledBare.jpg",
+      "sha256": "3e18a03d5ee7b3455fd0045590926a2130a8c408b915754989fea815ac350621"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/CarvingClose.jpg",
+      "sha256": "2fc6c6f7a1c2c6e08b4b22a1335bd38a1d9c0ab41b3f60ab7aa108957e607f7c"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/ClayBare.jpg",
+      "sha256": "e41d7478511c0b167507a4a8bdef58f47b794cc06181acb024d470e38fbf5ada"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/FrontBare.jpg",
+      "sha256": "230d9592b5e4c4395d2f57267967008d91c2e3335130fe22de463720de21d1ae"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/FrontDressed.jpg",
+      "sha256": "6ef1b338cf8cc65334277cc2be15062275effb4e61071d356befdcc6a54dfa0d"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/GameplayDressed.jpg",
+      "sha256": "7debe90ff9d860276439ede9300f58ae0e271036f11379235cb7ee3de2d4577f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Comparison/SilhouetteBare.jpg",
+      "sha256": "9468c1f68bebb193c8bb77e7b8428bb41f6cd7cbc300e6b33e9fb7f5fbdcba72"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/AngledBare.png",
+      "sha256": "14aecd6c557ae43f4e78943a4f39c6a025d9b39492a49878037bda67b2f7fb75"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/CarvingClose.png",
+      "sha256": "7d6fdf50b45d7f20a61e4478d89317fd282f8fe57a0ac4dd1be8741bab263dae"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/ClayBare.png",
+      "sha256": "ac41d5bbe6b8ecc38f652c0658a7baee6b0643bbc599629ad0b47a5fcfb2404a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/FrontBare.png",
+      "sha256": "19ec65e86716f72c4cef1b21432c7179fc10c021c41a9b2874bc0f3991c7a4f8"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/FrontDressed.png",
+      "sha256": "aa165272507dd62f5abc3c24786af41f0a68a0c6b2bdb05b9cdb8985a4530047"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/GameplayDressed.png",
+      "sha256": "f401ced7d1e1d96941a5d1bfdb219fa025a0c36e1f004940fe2e5be839b33bfa"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Previews/Existing/SilhouetteBare.png",
+      "sha256": "0d7fea0e3572a9fa364a05a671bf4ae0e943b02dff49d4272457848fc008a8e6"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/Prompts.md",
+      "sha256": "3f78043c555d8ad05eb6a1f7d24ea2af4f5e6c9b06eb3b482ab0b8f164f48bf6"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ProtectedBaseline.json",
+      "sha256": "71dda7920fbd6ac2bd6a19616e103c960fb1fd8047d2a21a62dd0b8f374ea1fb"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ProtectionValidation.json",
+      "sha256": "6731fdb6a7c2ba856c71701d5ec3db4c2f6a62682316593efd93fbddb8bc661c"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/README.md",
+      "sha256": "6dacc4bbafecb8cb923902fed805babbb500641ce11867c6a35ec4476858732d"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/SourceValidation.json",
+      "sha256": "78b61f62a8f623f9423aab6e4b3844b8d800c46d5ab9fc047f986a927f31c2e8"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ValidateClearance.cs",
+      "sha256": "a40d7cfec24c2d21aeb67dc443377a8ff5bb17a24ba567b55c8cfe15aa3887c1"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ValidateIntegration.cs",
+      "sha256": "5a2970ff3e738956f2950576713ab57f21640f8c38a5ebf9a7c3e11d7cf014d9"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ValidateSource.py",
+      "sha256": "f4046e34e81f4dd8338a21f173e1161a4eb1e6caf247552ad1b63624f159ae7c"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/WalnutPaint.png",
+      "sha256": "30872295a51c1aa9eb1b85de82e5aeccbd9873a67c8f0eddb90383261cf42a08"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/build_counter08.py",
+      "sha256": "65aa13c4a188f283d0c98966c2ad5ad4e3ad4eb1c48f19a92a7ae6386420ecf2"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_CarvedWalnut.mat",
+      "sha256": "857b9166e748ffb44ed8e0a8d07f02466dba03338d4055e670a16045bc37a2ff"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_CarvedWalnut.mat.meta",
+      "sha256": "fa74317b74c00c46dcca9ffd59dc3df010ff34e2d6298bfc9884c9553b9c7db9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_Iron.mat",
+      "sha256": "5c31733ddf9521b011d57f642827c1e708dc46b7556aecbab04f20ceee702f0b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_Iron.mat.meta",
+      "sha256": "f5fe3d19dc13f0081de072673d144ed0937ff4e2f4f19a68853421279fcbffd0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_Walnut.mat",
+      "sha256": "980b6d631eb095e3eecb775fcceef2c019a54482c943c2e0e0d8a90db3431ca6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials/CM_CW08_Walnut.mat.meta",
+      "sha256": "6da6c72c8fa6730c77103eb4c36f679b4dd03467ef3e3a391b1c8881858fdcda"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Materials.meta",
+      "sha256": "55c74b0ba67cb544d003dfbcd969d01cf5ad7039a9d10775cb1a5a3beda06d5f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW07_FormOnlyComparison.fbx",
+      "sha256": "9438eff7d13b25594c1805a8cbf5daed75f7469d103e8de4eec40ce911dcf773"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW07_FormOnlyComparison.fbx.meta",
+      "sha256": "e7e1bc93bcad0a6c346b543fed27d44453d842d0b42ff04d2a0516c030835733"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW08_FormOnly.fbx",
+      "sha256": "b50afc184572e670583024bd5550506c1f6cb674794ff080f46bab1deb251ecf"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW08_FormOnly.fbx.meta",
+      "sha256": "e30422e16ebce07453e8e6eb4fe99741e764cc54f0d6f92cd7cd15993499c638"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW08_HeroCounter.fbx",
+      "sha256": "c587103d0a178b792770294c30e092ab51df5392131a065c304edc651f4e8fe8"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models/CM_CW08_HeroCounter.fbx.meta",
+      "sha256": "80aa16e27aebdda2f311c2f60848b8de6cc8b34d578162614171354f06cdb682"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Models.meta",
+      "sha256": "7a1465658f4a7dbb1df2543eaa99cb3563a5492328ca3e282b6c3de2183aaba6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Prefabs/CM_CW08_HeroCounter.prefab",
+      "sha256": "b2152ffae1fb9e63dc77f36d9e030ff5bc62fd809270d29cd8e570ec330c9301"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Prefabs/CM_CW08_HeroCounter.prefab.meta",
+      "sha256": "2f34e391bb3c3d2e918fc5f9ef04be8801bb030720542c2fd89aef44a31d6041"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Prefabs.meta",
+      "sha256": "dc0364e1e85cf3213c722a37edb08edbbe4e92a054bcaff90d0fe04c8ae882a0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Textures/CM_CW08_CarvedWalnut.png",
+      "sha256": "b92adddd3ce49a1781cc74072ec25bc325b051907400628872ca24583fcd5b12"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Textures/CM_CW08_CarvedWalnut.png.meta",
+      "sha256": "92b1ba5fad62ee521170e3b5443b9b91f8f70140759be821f54ec5bec0480ef4"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Textures/CM_CW08_Walnut.png",
+      "sha256": "30872295a51c1aa9eb1b85de82e5aeccbd9873a67c8f0eddb90383261cf42a08"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Textures/CM_CW08_Walnut.png.meta",
+      "sha256": "3df8ba202ab16765f415bb922f9e813662d980930ae561be38dbdad3e2a7f50d"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08/Textures.meta",
+      "sha256": "80bd0b4c2dbfd4c2690d32800146c1c30a0fc8ea72c7d3210b05bc2a0cf7afa2"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow08.meta",
+      "sha256": "1ac1db6bd94642c91dce6b3133835e4117a3a854ded78c6418104bb5e8e5ce33"
+    },
+    {
+      "path": "Assets/Scenes/CM_CounterWorkflow08_Review.unity",
+      "sha256": "c74ee57732b270200cceb458ec0c4faf0be793041b36da00912af5be7e70a708"
+    },
+    {
+      "path": "Assets/Scenes/CM_CounterWorkflow08_Review.unity.meta",
+      "sha256": "6a83039150c2dae7f9ff32b5c77befe0986735ecc4c8527c4e46b14e1f91c8c4"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow08/ChangedFiles.json",
+      "sha256": null
+    }
+  ],
+  "onlyModifiedPreExistingFile": "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+  "noCommitOrPush": true
+}

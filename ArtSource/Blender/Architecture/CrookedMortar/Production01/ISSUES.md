@@ -146,3 +146,19 @@ Sources, matching Game-view comparisons and validation distinctions: `../../../I
 | CM02-ART-007 | Repeated primitive-derived construction/shared atlas sampling did not reach the illustrated target. Tested bespoke profile construction, continuous stencil-led sculpt fields and dedicated painted walnut/carving maps on one replacement counter. | Separate `CM_CounterWorkflow07_Review` scene only; Production02 unchanged. Substantially richer carving at tested gameplay distance; manual artistic approval pending. Remaining rectilinear carcass, map/geometry registration, small-edge cleanup and LOD/bake budget documented. No wider rollout. |
 
 Evidence: `../../../Interiors/CrookedMortar/CounterWorkflow07/README.md`. The interrupted Reconstruction06 scene installation was restored before this experiment; its unapproved sources remain recoverable. Existing functional counter, approved kits, scripts and all 116 colliders preserved. No additional loose props or commits.
+
+## Expressive counter form experiment — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-008 | Workflow07's ornament improved but rectangular structure remained dominant. Workflow08 reconstructs the worktop, four shaped supports, bowed fields and scalloped open base; reserves carving for the central board; fixes sculpt paint registration with continuous UVs and a mesh-derived colour bake. | Isolated `CM_CounterWorkflow08_Review` only. Clear silhouette improvement in matched relief-free clay views. Artistic approval pending: rounded supports may feel too formal, close carving remains softer than Workflow07's painted imagery, and surrounding shelves/props need a separately approved future style assessment. Production02 and Workflow07 untouched. |
+
+Evidence/method/limitations: `../../../Interiors/CrookedMortar/CounterWorkflow08/README.md`. Existing 116 colliders, station markers and gameplay systems retained; 43 door poses and 190 static capsule clearance samples pass. Play-mode comparison captures are not a fresh live-input traversal or manual camera-comfort test. No added loose props, commits or wider rollout.
+
+## Focused counter workflow validation — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-009 | Workflow08 supports felt overly smooth/formal and the carving remained soft. Workflow09 directly refines its editable source with chamfered pegged timber posts/bearing knees, a higher-detail central relief and restrained existing-paint colour tuning. | Separate `CM_CounterWorkflow09_Review` only; artistic review pending. Clear joinery improvement, incremental carving/material improvement. Fine sculpt cleanup, repeated grain and LOD budget remain. Production02 and Workflow07/08 protected. |
+
+Evidence and targeted validation: `../../../Interiors/CrookedMortar/CounterWorkflow09/README.md`. Existing colliders/markers/systems retained; static door sweep and nearby capsule-route probes pass. Captures are actual Play-mode comparisons, not fresh live-input traversal testing. No clutter or room changes; no commits.
