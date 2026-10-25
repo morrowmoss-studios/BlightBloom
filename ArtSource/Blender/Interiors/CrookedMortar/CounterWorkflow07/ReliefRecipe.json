@@ -1,0 +1,10 @@
+{
+  "input": "CounterStencil.png",
+  "method": "Silhouette closing separates leaf volumes from shallow incised vein masks; iterative interior distance, rounded inflation and numerical surface fairing. Never use albedo luminance as height.",
+  "maxReliefMetres": 0.03779037669301033,
+  "samplesPerPanel": [
+    384,
+    384
+  ],
+  "threshold": 140
+}

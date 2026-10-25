@@ -1,0 +1,14 @@
+{
+  "name": "CM_CW07_HeroCounter",
+  "triangles": 91588,
+  "vertices": 45932,
+  "sourceSculptVertices": 442368,
+  "materials": [
+    "CM_CW07_Walnut",
+    "CM_CW07_CarvedWalnut",
+    "CM_CW07_Iron"
+  ],
+  "workSurfaceMetres": 1.0525,
+  "axes": "Unity +Y up +Z front",
+  "workflow": "Bespoke Bezier profile construction; binary artwork stencils to rounded distance-field sculpt; curvature-adaptive gameplay reduction; registered unique gouache albedo. Not displacement from albedo brightness."
+}

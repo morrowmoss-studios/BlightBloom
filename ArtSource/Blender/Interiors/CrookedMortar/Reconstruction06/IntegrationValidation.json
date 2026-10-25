@@ -1,0 +1,56 @@
+{
+  "newModels": [
+    {
+      "name": "CM_R06_EntranceMasonry",
+      "vertexCount": 4327,
+      "triangles": 6920,
+      "uvs": 4327,
+      "normals": 4327
+    },
+    {
+      "name": "CM_R06_EntrancePlaster",
+      "vertexCount": 691,
+      "triangles": 1196,
+      "uvs": 691,
+      "normals": 691
+    },
+    {
+      "name": "CM_R06_KitchenFrame",
+      "vertexCount": 524,
+      "triangles": 588,
+      "uvs": 524,
+      "normals": 524
+    },
+    {
+      "name": "CM_R06_MedicineShelving",
+      "vertexCount": 22872,
+      "triangles": 39212,
+      "uvs": 22872,
+      "normals": 22872
+    },
+    {
+      "name": "CM_R06_SalesCounter",
+      "vertexCount": 31352,
+      "triangles": 56752,
+      "uvs": 31352,
+      "normals": 31352
+    },
+    {
+      "name": "CM_R06_TreatmentFrame",
+      "vertexCount": 524,
+      "triangles": 588,
+      "uvs": 524,
+      "normals": 524
+    }
+  ],
+  "totalTriangles": 105256,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 6
+}

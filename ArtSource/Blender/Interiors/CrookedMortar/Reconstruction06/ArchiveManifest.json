@@ -1,0 +1,111 @@
+{
+  "source": "Assets/BlightBloom/Art/Interiors/CrookedMortar/Reconstruction06",
+  "destination": "ArtSource/Blender/Interiors/CrookedMortar/Reconstruction06/AbortedUnityOutputs",
+  "verified": true,
+  "files": [
+    {
+      "file": "Prefabs.meta",
+      "sha256": "ab4615bfd9f6437e7c53a44ad71316d83712633b720e255435f577623bbfad66"
+    },
+    {
+      "file": "Models.meta",
+      "sha256": "597b1ee3a944143614640cf3a13f3a678ff2140dc76d3e2b7ba5bcb5694b454a"
+    },
+    {
+      "file": "Prefabs/CM_R06_EntrancePlaster.prefab",
+      "sha256": "2a763f970d096a077f1d258619530f6bd7c10cd9bdb93c0ccdea6d9455bb2ef4"
+    },
+    {
+      "file": "Prefabs/CM_R06_SalesCounter.prefab",
+      "sha256": "2f3557918cf15563a31acc9f8d5a85b4ef0d24e9b89a5c42375fb628a2be7656"
+    },
+    {
+      "file": "Prefabs/CM_R06_MedicineShelving.prefab.meta",
+      "sha256": "d9c32be524dd958afc731e04f7e83a198a3b8dd975fd7ab44be280797af69496"
+    },
+    {
+      "file": "Prefabs/CM_R06_SalesCounter.prefab.meta",
+      "sha256": "9ee88627b859d180195c07749ca9bc5243e79f6b2bf2278f49114029d3131c83"
+    },
+    {
+      "file": "Prefabs/CM_R06_EntranceMasonry.prefab",
+      "sha256": "eac518d05ca0e38c3205cc11c7c4c0d7d95e307413de3a6f57019cd406428be4"
+    },
+    {
+      "file": "Prefabs/CM_R06_KitchenFrame.prefab.meta",
+      "sha256": "64c064c6b8c24438ec768e1e436df5e2cf6ae9292779744aa3c760553a405502"
+    },
+    {
+      "file": "Prefabs/CM_R06_EntranceMasonry.prefab.meta",
+      "sha256": "d401e1ed066e54b19a77b7b9673d8dc98cc07dc2c043e2a1110575194dff4d30"
+    },
+    {
+      "file": "Prefabs/CM_R06_TreatmentFrame.prefab",
+      "sha256": "a92dc2bf861c0220e1db25afec1ba9180b3347d0da2ef3f3c5350feed9eec7d4"
+    },
+    {
+      "file": "Prefabs/CM_R06_TreatmentFrame.prefab.meta",
+      "sha256": "ebb0c017c9d06e08844777a78d41c63b86d85015e04511c9ff57df89791ba648"
+    },
+    {
+      "file": "Prefabs/CM_R06_EntrancePlaster.prefab.meta",
+      "sha256": "9a5a19b4c562d77458678f4b8f2fe59c98c0084029cf4ded669e29958fede9c0"
+    },
+    {
+      "file": "Prefabs/CM_R06_KitchenFrame.prefab",
+      "sha256": "1d644dc1a13a4cf6c36c6516292e4a8c0fe56fa4b0d23348863d6cc9a692e5de"
+    },
+    {
+      "file": "Prefabs/CM_R06_MedicineShelving.prefab",
+      "sha256": "cb3105dab7760a99843ff6f7b001e2f0e0fceba95038e9c6f409423303b8ab73"
+    },
+    {
+      "file": "Models/CM_R06_TreatmentFrame.fbx",
+      "sha256": "9c4d1f2f81fa3db42e028fa297ce7e5a640970218937eb2d2bb994f50bc7da1a"
+    },
+    {
+      "file": "Models/CM_R06_TreatmentFrame.fbx.meta",
+      "sha256": "6750d1083f05ebc8e49d3c1471c3237fb46cefb525a7b993208e194c516c276e"
+    },
+    {
+      "file": "Models/CM_R06_KitchenFrame.fbx",
+      "sha256": "0fa50ac841e4f8608293769172114bfc67b33c19e040ee29cdb3dd9beda6b152"
+    },
+    {
+      "file": "Models/CM_R06_EntranceMasonry.fbx",
+      "sha256": "0e4154a224e07f09f7021a0e86c59cd03ec52022046f0d4d4ae6a5ec08a3c930"
+    },
+    {
+      "file": "Models/CM_R06_EntrancePlaster.fbx.meta",
+      "sha256": "e5d566cabffb7c47ddbb2dd565bbc692a0a603e5fef60b7b34fe97ffbabd1406"
+    },
+    {
+      "file": "Models/CM_R06_KitchenFrame.fbx.meta",
+      "sha256": "0fb8d934a5c3bb3ca128e80570ac85c0484afb151a66dcadabfe1bf0dc3e996c"
+    },
+    {
+      "file": "Models/CM_R06_EntrancePlaster.fbx",
+      "sha256": "3875a99fa94f03f49468e86cc69220fcbd3e6bf627196e7b3d082391c2d1a624"
+    },
+    {
+      "file": "Models/CM_R06_SalesCounter.fbx.meta",
+      "sha256": "725de2467a55f61199a15b2bbb65f7fe9c112a359059ca7c79c45b6b1fda4487"
+    },
+    {
+      "file": "Models/CM_R06_MedicineShelving.fbx.meta",
+      "sha256": "d8ef75f7cd4491641d2c401d34f2c922241972c2f6dee0b71e8068abac84b5e2"
+    },
+    {
+      "file": "Models/CM_R06_SalesCounter.fbx",
+      "sha256": "792b605f79488c14033c54138aa445e42fee2f93094fb086a997e588efb09602"
+    },
+    {
+      "file": "Models/CM_R06_MedicineShelving.fbx",
+      "sha256": "f3b6a73612b9316db976dc0f828211adf0d2e01369a36bfbaf269bfee49c3fd7"
+    },
+    {
+      "file": "Models/CM_R06_EntranceMasonry.fbx.meta",
+      "sha256": "7d879e22e0fb0e69d37e25c1cc5fdf8d8155bd787ace5641bbf70944285dea7e"
+    }
+  ]
+}

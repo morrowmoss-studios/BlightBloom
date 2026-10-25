@@ -1,0 +1,12 @@
+{
+  "originalProduction02ByteIdenticalToHEAD": true,
+  "baseline": "2dd2625d0f563b14d7cc4906bd89757c77437122",
+  "production02SHA256": "8a78b5f909c2ee6ef1b0e38cfaf29019cbdc4f1ff1e6ead0d7d3da95830ac98b",
+  "existingScriptsSettingsKitsChanged": false,
+  "reviewScene": "Assets/Scenes/CM_CounterWorkflow07_Review.unity",
+  "colliderChanges": 0,
+  "additionalLooseProps": 0,
+  "committed": false,
+  "pushed": false,
+  "validation": "Source/import/reference checks; 190 static capsule samples; 43 door-sweep poses; runtime visual captures. No fresh live-input route/E-key smoke test."
+}

@@ -138,3 +138,11 @@ CM02-ARCH-005: Close Game-view review revealed rectangular-to-arched corner gaps
 | CM02-ARCH-005 | Existing rectangular-to-arched entrance reveal corner voids were visible. | Fitted plaster returns installed outside the door leaf; 43 full-swing samples clear the new geometry. Close-view confirmation included in this pass. |
 
 Sources, matching Game-view comparisons and validation distinctions: `../../../Interiors/CrookedMortar/Craftsmanship05/README.md`. All 116 colliders remain unchanged. The 190-sample static player-volume clearance probe passes entry, both counter sides and connected stair/kitchen routes; this is not live-input playtesting. No additional loose props, new shutters, room redesign, shared gameplay/settings edits or commits.
+
+## Counter-only art pipeline experiment — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-007 | Repeated primitive-derived construction/shared atlas sampling did not reach the illustrated target. Tested bespoke profile construction, continuous stencil-led sculpt fields and dedicated painted walnut/carving maps on one replacement counter. | Separate `CM_CounterWorkflow07_Review` scene only; Production02 unchanged. Substantially richer carving at tested gameplay distance; manual artistic approval pending. Remaining rectilinear carcass, map/geometry registration, small-edge cleanup and LOD/bake budget documented. No wider rollout. |
+
+Evidence: `../../../Interiors/CrookedMortar/CounterWorkflow07/README.md`. The interrupted Reconstruction06 scene installation was restored before this experiment; its unapproved sources remain recoverable. Existing functional counter, approved kits, scripts and all 116 colliders preserved. No additional loose props or commits.

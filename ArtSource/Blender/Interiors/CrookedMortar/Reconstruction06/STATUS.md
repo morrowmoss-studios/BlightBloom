@@ -1,0 +1,1 @@
+Superseded by the user-requested counter-only pipeline experiment before completion. Scene installation restored to existing Git checkpoint 2dd2625. Generated meshes and sources retained for recovery; not approved. Initial masonry UV mapping was invalid and must not be reused without correction. No commit made.

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "method": "Dense 0.10m capsule-volume probes against the new visible meshes, using the unchanged CharacterController dimensions. Static geometry clearance, not a live player-input or camera-comfort test.",
+  "samples": 190,
+  "routes": [
+    "Entry",
+    "Counter customer",
+    "Staff counter aisle",
+    "Stair connection",
+    "Kitchen connection"
+  ],
+  "height": 2.0,
+  "radius": 0.4,
+  "conflicts": []
+}

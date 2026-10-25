@@ -1,0 +1,244 @@
+{
+  "modules": [
+    {
+      "name": "CM_R06_SalesCounter",
+      "collider": null,
+      "sockets": [
+        [
+          "WorkSurface",
+          [
+            0,
+            1.0525,
+            0
+          ]
+        ],
+        [
+          "Customer",
+          [
+            0,
+            0,
+            1.2
+          ]
+        ],
+        [
+          "Shopkeeper",
+          [
+            0,
+            0,
+            -1.1
+          ]
+        ]
+      ],
+      "triangles": 56752,
+      "vertices": 28486,
+      "bounds": [
+        [
+          -1.1399999856948853,
+          -0.38999998569488525,
+          0.04500000178813934
+        ],
+        [
+          1.1399999856948853,
+          0.38999998569488525,
+          1.0525000095367432
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_R06_MedicineShelving",
+      "collider": null,
+      "sockets": [
+        [
+          "WallFix",
+          [
+            0,
+            1.7,
+            -0.17
+          ]
+        ],
+        [
+          "Shelf1",
+          [
+            0,
+            0.53,
+            0.015
+          ]
+        ],
+        [
+          "Shelf2",
+          [
+            0,
+            0.99,
+            0.015
+          ]
+        ],
+        [
+          "Shelf3",
+          [
+            0,
+            1.45,
+            0.015
+          ]
+        ],
+        [
+          "Shelf4",
+          [
+            0,
+            1.91,
+            0.015
+          ]
+        ]
+      ],
+      "triangles": 39212,
+      "vertices": 19718,
+      "bounds": [
+        [
+          -0.9160000085830688,
+          -0.1809999942779541,
+          0.0
+        ],
+        [
+          0.9160000085830688,
+          0.2557199001312256,
+          2.452455520629883
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Sage",
+        "CM_AF01_Walnut",
+        "CM_AF01_Iron"
+      ]
+    },
+    {
+      "name": "CM_R06_EntranceMasonry",
+      "collider": null,
+      "sockets": [],
+      "triangles": 6920,
+      "vertices": 3508,
+      "bounds": [
+        [
+          -1.2740000486373901,
+          -0.04899999871850014,
+          0.0051204729825258255
+        ],
+        [
+          1.2740000486373901,
+          0.23999999463558197,
+          2.9800000190734863
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_R06_EntrancePlaster",
+      "collider": null,
+      "sockets": [],
+      "triangles": 1196,
+      "vertices": 600,
+      "bounds": [
+        [
+          2.700000047683716,
+          -0.20000000298023224,
+          2.1809794902801514
+        ],
+        [
+          4.699999809265137,
+          0.0,
+          3.299999952316284
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_R06_TreatmentFrame",
+      "collider": null,
+      "sockets": [
+        [
+          "ClearOpening",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 588,
+      "vertices": 308,
+      "bounds": [
+        [
+          -1.1549999713897705,
+          -0.14800000190734863,
+          0.0
+        ],
+        [
+          1.1549999713897705,
+          0.14800000190734863,
+          2.9100000858306885
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_R06_KitchenFrame",
+      "collider": null,
+      "sockets": [
+        [
+          "ClearOpening",
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "triangles": 588,
+      "vertices": 308,
+      "bounds": [
+        [
+          -1.0549999475479126,
+          -0.14800000190734863,
+          0.0
+        ],
+        [
+          1.0549999475479126,
+          0.14800000190734863,
+          2.9100000858306885
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    }
+  ],
+  "axes": "Unity +Y up / +Z exterior",
+  "scaleMetres": 1
+}

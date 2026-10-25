@@ -1,0 +1,12 @@
+{
+  "cursor": 347,
+  "session": "bea63641c5664e95acdec08c5620daef",
+  "compiling": false,
+  "compilationFailed": false,
+  "currentConsoleErrors": 0,
+  "currentConsoleWarnings": 2,
+  "newGameplayOrImportErrors": 0,
+  "newCapturedEntriesAfterInitialReviewCreationTimeout": 0,
+  "automationIssue": "One Pipeline main-thread timeout while creating review; operation completed. Brief connection loss on Play reload recovered without restart.",
+  "manualInputSmokeTestPerformed": false
+}
