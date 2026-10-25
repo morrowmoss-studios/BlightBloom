@@ -127,4 +127,14 @@ Current scope, sources and comparisons: `../../../Interiors/CrookedMortar/LivedI
 
 Evidence and remaining limitations: `../../../Interiors/CrookedMortar/Illustrated04/README.md`. The first sequential live-input test waited for focus and timed out while the Mac was locked; no final live room/door/stair/locomotion pass is claimed. Waiting test was cancelled. All 116 baseline colliders remain unchanged and 43 outward door-sweep samples clear the new art. Nothing committed or pushed.
 
-CM02-ARCH-005: Close Game-view review reveals small visible gaps around the existing entrance surround. Confirmed visually; original surround untouched in Illustrated04. Deferred architectural fit investigation. The stair-side order parcel was relocated to the records shelf with verified surface contact.
+CM02-ARCH-005: Close Game-view review revealed rectangular-to-arched corner gaps around the existing entrance surround. Originally deferred in Illustrated04; fitted plaster returns now close these corner voids in Craftsmanship05, with door-sweep clearance verified. The stair-side order parcel was relocated to the records shelf with verified surface contact.
+
+
+## Production02 structural craftsmanship benchmark — 2026-10-24
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-005 | Printed ornament and simple construction did not provide enough intrinsic craft. Replaced the counter visual body and scoped portal/front/ceiling timber profiles with sculptural derivatives; retained existing loose props and all functional systems. | Saved for controlled artistic review; not approved for wider propagation. Plaster/eave changes are quieter; approved window assets remain unchanged. |
+| CM02-ARCH-005 | Existing rectangular-to-arched entrance reveal corner voids were visible. | Fitted plaster returns installed outside the door leaf; 43 full-swing samples clear the new geometry. Close-view confirmation included in this pass. |
+
+Sources, matching Game-view comparisons and validation distinctions: `../../../Interiors/CrookedMortar/Craftsmanship05/README.md`. All 116 colliders remain unchanged. The 190-sample static player-volume clearance probe passes entry, both counter sides and connected stair/kitchen routes; this is not live-input playtesting. No additional loose props, new shutters, room redesign, shared gameplay/settings edits or commits.

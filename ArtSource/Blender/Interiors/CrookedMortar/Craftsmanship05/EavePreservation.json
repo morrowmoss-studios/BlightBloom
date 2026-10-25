@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "protectedVertices": 6456,
+  "unmatched": 0,
+  "toleranceMetres": 0.0002,
+  "scope": "Every original eave vertex outside the two authored front cove bands, including fitted junction/end zones"
+}

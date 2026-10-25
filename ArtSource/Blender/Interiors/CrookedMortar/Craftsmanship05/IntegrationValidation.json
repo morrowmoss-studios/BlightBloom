@@ -1,0 +1,84 @@
+{
+  "newModels": [
+    {
+      "name": "CM_C05_EaveTimber",
+      "vertexCount": 13156,
+      "triangles": 14228,
+      "uvs": 13156,
+      "normals": 13156
+    },
+    {
+      "name": "CM_C05_EntrancePortal",
+      "vertexCount": 8595,
+      "triangles": 15736,
+      "uvs": 8595,
+      "normals": 8595
+    },
+    {
+      "name": "CM_C05_EntranceReturns",
+      "vertexCount": 263,
+      "triangles": 440,
+      "uvs": 263,
+      "normals": 263
+    },
+    {
+      "name": "CM_C05_FrontTimber",
+      "vertexCount": 4540,
+      "triangles": 7880,
+      "uvs": 4540,
+      "normals": 4540
+    },
+    {
+      "name": "CM_C05_Plaster_0",
+      "vertexCount": 3386,
+      "triangles": 5328,
+      "uvs": 3386,
+      "normals": 3386
+    },
+    {
+      "name": "CM_C05_Plaster_1",
+      "vertexCount": 2490,
+      "triangles": 3888,
+      "uvs": 2490,
+      "normals": 2490
+    },
+    {
+      "name": "CM_C05_Plaster_2",
+      "vertexCount": 3422,
+      "triangles": 5328,
+      "uvs": 3422,
+      "normals": 3422
+    },
+    {
+      "name": "CM_C05_SalesCounter",
+      "vertexCount": 8610,
+      "triangles": 10148,
+      "uvs": 8610,
+      "normals": 8610
+    },
+    {
+      "name": "CM_C05_ShopBeam",
+      "vertexCount": 2018,
+      "triangles": 3660,
+      "uvs": 2018,
+      "normals": 2018
+    },
+    {
+      "name": "CM_C05_StoneSurround",
+      "vertexCount": 14040,
+      "triangles": 23220,
+      "uvs": 14040,
+      "normals": 14040
+    }
+  ],
+  "totalTriangles": 89856,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 4
+}

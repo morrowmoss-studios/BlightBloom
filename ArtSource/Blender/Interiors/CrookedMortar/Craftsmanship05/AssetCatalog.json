@@ -1,0 +1,259 @@
+{
+  "modules": [
+    {
+      "name": "CM_C05_SalesCounter",
+      "collider": null,
+      "sockets": [],
+      "triangles": 10148,
+      "vertices": 5356,
+      "bounds": [
+        [
+          -1.1399999856948853,
+          -0.38999998569488525,
+          0.02500000037252903
+        ],
+        [
+          1.1399999856948853,
+          0.42899924516677856,
+          1.0525000095367432
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut",
+        "CM_AF01_Sage",
+        "CM_AF01_Brass"
+      ]
+    },
+    {
+      "name": "CM_C05_EntrancePortal",
+      "collider": null,
+      "sockets": [],
+      "triangles": 15736,
+      "vertices": 7912,
+      "bounds": [
+        [
+          -1.215000033378601,
+          -0.10499999672174454,
+          0.019999999552965164
+        ],
+        [
+          1.215000033378601,
+          0.11690150946378708,
+          3.0
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_C05_FrontTimber",
+      "collider": null,
+      "sockets": [],
+      "triangles": 7880,
+      "vertices": 3960,
+      "bounds": [
+        [
+          -0.19998598098754883,
+          -0.3840000033378601,
+          0.20000000298023224
+        ],
+        [
+          5.60133695602417,
+          0.029999999329447746,
+          6.85014009475708
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_C05_ShopBeam",
+      "collider": null,
+      "sockets": [],
+      "triangles": 3660,
+      "vertices": 1840,
+      "bounds": [
+        [
+          -2.700000047683716,
+          -0.10999999940395355,
+          -0.3199999928474426
+        ],
+        [
+          2.700000047683716,
+          0.10999999940395355,
+          0.08140131831169128
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_C05_Plaster_0",
+      "collider": null,
+      "sockets": [],
+      "triangles": 5328,
+      "vertices": 2662,
+      "bounds": [
+        [
+          -0.2000000774860382,
+          -0.20500122010707855,
+          0.20000004768371582
+        ],
+        [
+          2.700000047683716,
+          2.9746178853429228e-08,
+          3.299999952316284
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_C05_Plaster_1",
+      "collider": null,
+      "sockets": [],
+      "triangles": 3888,
+      "vertices": 1946,
+      "bounds": [
+        [
+          4.699999809265137,
+          -0.20562541484832764,
+          0.20000004768371582
+        ],
+        [
+          5.59999942779541,
+          -7.101331789272081e-07,
+          3.299999952316284
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_C05_Plaster_2",
+      "collider": null,
+      "sockets": [],
+      "triangles": 5328,
+      "vertices": 2662,
+      "bounds": [
+        [
+          -0.1999998390674591,
+          -0.2043360024690628,
+          3.59999942779541
+        ],
+        [
+          5.599999904632568,
+          2.974614332629244e-08,
+          6.699999809265137
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_C05_StoneSurround",
+      "collider": null,
+      "sockets": [],
+      "triangles": 23220,
+      "vertices": 11648,
+      "bounds": [
+        [
+          -1.275784969329834,
+          -0.007182570174336433,
+          -0.06553904712200165
+        ],
+        [
+          1.275784969329834,
+          0.2500001788139343,
+          3.038961887359619
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    },
+    {
+      "name": "CM_C05_EaveTimber",
+      "collider": null,
+      "sockets": [],
+      "triangles": 14228,
+      "vertices": 6091,
+      "bounds": [
+        [
+          -2.6049997806549072,
+          -2.95500111579895,
+          2.9800000190734863
+        ],
+        [
+          9.605001449584961,
+          9.605000495910645,
+          11.425000190734863
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Walnut"
+      ]
+    },
+    {
+      "name": "CM_C05_EntranceReturns",
+      "collider": null,
+      "sockets": [],
+      "triangles": 440,
+      "vertices": 224,
+      "bounds": [
+        [
+          2.680000066757202,
+          -0.19900000095367432,
+          2.7306902408599854
+        ],
+        [
+          4.71999979019165,
+          -0.014999999664723873,
+          2.9700000286102295
+        ]
+      ],
+      "boundaryEdges": 0,
+      "degenerateFaces": 0,
+      "uvLayers": 1,
+      "materials": [
+        "CM_AF01_Linen"
+      ]
+    }
+  ],
+  "axes": "Unity +Y up / +Z front",
+  "scaleMetres": 1,
+  "notes": "Only two benchmarks: existing front architecture and shop counter. No loose objects added. Existing colliders and markers preserved."
+}
