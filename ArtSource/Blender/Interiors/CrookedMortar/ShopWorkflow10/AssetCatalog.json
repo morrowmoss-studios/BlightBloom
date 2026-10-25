@@ -1,0 +1,48 @@
+{
+  "modules": [
+    {
+      "name": "CM_SW10_MedicineCabinet",
+      "triangles": 9940,
+      "vertices": 5032,
+      "materials": [
+        "CM_CW09_Walnut",
+        "CM_SW10_PaintedSage"
+      ]
+    },
+    {
+      "name": "CM_SW10_RecordsCabinet",
+      "triangles": 3740,
+      "vertices": 1888,
+      "materials": [
+        "CM_CW09_Walnut",
+        "CM_SW10_PaintedSage"
+      ]
+    },
+    {
+      "name": "CM_SW10_ShopBeam",
+      "triangles": 580,
+      "vertices": 296,
+      "materials": [
+        "CM_CW09_Walnut"
+      ]
+    },
+    {
+      "name": "CM_SW10_RoomJoinery",
+      "triangles": 3852,
+      "vertices": 1960,
+      "materials": [
+        "CM_CW09_Walnut"
+      ]
+    },
+    {
+      "name": "CM_SW10_FlagstoneFloor",
+      "triangles": 12600,
+      "vertices": 6384,
+      "materials": [
+        "CM_SW10_PaintedStone"
+      ]
+    }
+  ],
+  "newTriangles": 30712,
+  "counter": "Unmodified Workflow09 prefab reused, not regenerated"
+}

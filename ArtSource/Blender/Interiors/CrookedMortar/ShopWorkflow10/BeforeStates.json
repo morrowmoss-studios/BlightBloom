@@ -1,0 +1,3382 @@
+[
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Site / garden - 30m",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Player capsule visual",
+    "enabled": false
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/BB_PlagueDoctor01/Body",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/BB_PlagueDoctor01/Hat",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/BB_PlagueDoctor01/Head",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/BB_PlagueDoctor01/Torso",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/BB_PlagueDoctor01/Underskirt",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/ArmL visual joint/ArmL",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/ArmR visual joint/ArmR",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/LegL visual joint/LegL",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/LegR visual joint/LegR",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/CoatL visual joint/CoatL",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/Plague Doctor Avatar/Visual body/CoatR visual joint/CoatR",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/BB_PlagueDoctor01_Rigged02/BB_PlagueDoctor01_Rigged02/DoctorSkin",
+    "enabled": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player/BB_PlagueDoctor_Locomotion03/BB_PlagueDoctor_Locomotion03/DoctorSkin",
+    "enabled": true
+  },
+  {
+    "path": "08 Front door - E toggle outward into reserved pocket/Approved EntranceBay01 leaf - fitted visual adapter",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Bedroom bed 1.6 x 2.1",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Bedroom east",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Bedroom full floor",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Bedroom wardrobe .5 x 1.2",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Bedroom west partition",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Centre stair guard",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/ChimneyCrown",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/ChimneyStack",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Examination bed .9 x 2.0",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/FlueA",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/FlueB",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_GardenStore_A",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_GardenStore_B",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_Hero_A",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_Hero_B",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_RearCross_A",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_RearCross_B",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_StairNook_A",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_StairNook_B",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_SubordinateWing_A",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Gable_Roof_SubordinateWing_B",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Garden step",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Intermediate landing 3.2 x 1.5",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Kitchen east workbench .65 x 3.4",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Kitchen front preparation 1.5 x .65",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Kitchen to storage 1.8 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Kitchen to storage 1.8 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Kitchen to storage 1.8 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Landing nook ceiling",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Landing to bedroom 2.0 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Landing to bedroom 2.0 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Landing to bedroom 2.0 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living bench 2 x .8",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living ceiling",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living low table 1.2 x .65",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living to study 1.8 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living to study 1.8 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Living to study 1.8 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lobby south return",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 1",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 2",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 3",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 4",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 5",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 6",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 7",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 8",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 9",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Porch flush approach",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Rear bedroom and stair ceiling",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Rear body floor",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Rear body north",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Rear landing guard",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop counter 2.2 x .75",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop floor 5.4 x 4.4",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop shelf .35 deep",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Stair lobby floor 2.0 x 2.4",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage ceiling",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage east shelf .45",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage garden exit 1.8 jamb A",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage garden exit 1.8 jamb B",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage garden exit 1.8 lintel 2.75m clear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Storage west shelf .45",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study ceiling",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study east",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study east desk .7 x 1.8",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study front",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study full floor",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study rear",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Study rear bookcase 1.9 x .35",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Treatment cabinet .40 deep",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Treatment to wing",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Treatment west partition",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper east stairwell guard",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper front",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper landing west return",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper living and open landing",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper nook south",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper shop west front",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 1",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 2",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 3",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 4",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 5",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 6",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 7",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 8",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 9",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/West lobby and stair",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/West shop front",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Wing east ground",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Wing floor",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Wing front ground",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Fitted_EaveVergeNetwork_Slate",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Fitted_EaveVergeNetwork_Timber",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Fitted_RidgeNetwork_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Fitted_ValleyNetwork_Slate",
+    "enabled": false
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_DeepEntryFold_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_DeepEntryFold_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_GardenStore_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_GardenStore_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_Hero_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_Hero_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_LeftShopFold_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_LeftShopFold_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_RearCross_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_RearCross_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_StairNook_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_StairNook_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_SubordinateWing_Slate",
+    "enabled": true
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedRoof/CM02_Roof_SubordinateWing_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_ArchedHood_Optional/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_Shutter_L/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_Shutter_R/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_PlanterBrackets/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_FlowerBox/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/CM_PairedWindowBay02_PlanterDressing",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Sage",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/HeroPair - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Iron",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_ArchedHood_Optional/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Shutter_L/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Shutter_R/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_PlanterBrackets/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_FlowerBox/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_PlanterDressing",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/CM_FacadeBay01_WindowOpening_3m_Benchmark/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/01_Plaster_Wall_3m_ThroughOpening",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Centre_Mullion",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_CurvedArch_Frame",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Deep_Projecting_Sill",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Spring_Transom",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Diagonal_Knee_Brace",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Left_Structural_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Lower_Storey_Rail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Right_Edge_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Upper_Tie_Beam",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Back",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Base",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Front",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Recessed_Soil",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Fascia",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Solid_Roof_Boarding",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyFront - approved insert only/Fitted matte amber glazing - consistent with front pair",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/CM_FacadeBay01_WindowOpening_3m_Benchmark/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/01_Plaster_Wall_3m_ThroughOpening",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Centre_Mullion",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_CurvedArch_Frame",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Deep_Projecting_Sill",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Spring_Transom",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Diagonal_Knee_Brace",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Left_Structural_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Lower_Storey_Rail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Right_Edge_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Upper_Tie_Beam",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Back",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Base",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Front",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Recessed_Soil",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Fascia",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Solid_Roof_Boarding",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/KitchenEast - approved insert only/Fitted matte amber glazing - consistent with front pair",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/CM_FacadeBay01_WindowOpening_3m_Benchmark/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/01_Plaster_Wall_3m_ThroughOpening",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Centre_Mullion",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_CurvedArch_Frame",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Deep_Projecting_Sill",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Spring_Transom",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Diagonal_Knee_Brace",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Left_Structural_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Lower_Storey_Rail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Right_Edge_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Upper_Tie_Beam",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Back",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Base",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Front",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Recessed_Soil",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Fascia",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Solid_Roof_Boarding",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/StudyEast - approved insert only/Fitted matte amber glazing - consistent with front pair",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_ArchedHood_Optional/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_Shutter_L/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_Shutter_R/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_PlanterBrackets/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_FlowerBox/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/CM_PairedWindowBay02_PlanterDressing",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Sage",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/BedroomRear - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Iron",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_ArchedHood_Optional/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_Shutter_L/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_Shutter_R/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_PlanterBrackets/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_FlowerBox/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/CM_PairedWindowBay02_PlanterDressing",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Sage",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/TreatmentRear - approved insert only/Rectangular folding shutters - scene fit/CM02_EntryShop_Iron",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/CM_FacadeBay01_WindowOpening_3m_Benchmark/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/01_Plaster_Wall_3m_ThroughOpening",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Centre_Mullion",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_CurvedArch_Frame",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Deep_Projecting_Sill",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Fan_Tracery_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Jamb_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/02_Window_Spring_Transom",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_CrossRail.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_HingeStrap.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_L_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/03_Shutter_R_Plank_02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Diagonal_Knee_Brace",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Joinery_Wooden_Peg.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Left_Structural_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Lower_Storey_Rail",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Right_Edge_Post",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/04_Upper_Tie_Beam",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Back",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Base",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_End_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Front",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Recessed_Soil",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_-1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/05_Planter_Support_1",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Fascia",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.001",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.002",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Rafter.003",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Eave_Solid_Roof_Boarding",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course00_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course01_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course02_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile00",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile01",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile02",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile03",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile04",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile05",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile06",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile07",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/ApprovedWindow_InsertOnly_SourcePrefabUnchanged/06_Slate_Course03_Tile08",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/LivingWest - approved insert only/Fitted matte amber glazing - consistent with front pair",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": false
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Brace45_R/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/01_Post_L",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/01_Post_R",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/02_BaseShoe_L",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/02_BaseShoe_R",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/03_PostCap_L",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/03_PostCap_R",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/04_ContinuousOuterArch",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/05_ContinuousInnerTrim",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/06_ConcealedTenon_L",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/06_ConcealedTenon_R",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/07_JoineryPeg_L",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD0_CraftedParts/07_JoineryPeg_R",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/Geometry/LOD1_Distance/90_DistanceMesh",
+    "enabled": false
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_EntryPortal02 - seated canopy bearing/CM_C05_EntrancePortal/CM_C05_EntrancePortal",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Warm amber entry lantern",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern crown",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern foot",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern curl bracket",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Warm amber entry lantern",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern cage rib",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern crown",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Lantern foot",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Sign wall support",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Swan-neck sign hanger",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Sign crest suspension",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Sign crest suspension",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted Sign crest yoke",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted The Crooked Mortar entry crest backing",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Mounted The Crooked Mortar painted crest",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/CM_FacadeBay01_Beam_3m/Geometry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 0/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 0/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 0/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 0/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 1/LOD0/CM_BotanicalPlanterKit01_Hanging_Sage_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 1/LOD0/CM_BotanicalPlanterKit01_Hanging_Sage_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 1/LOD1/CM_BotanicalPlanterKit01_Hanging_Sage_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 1/LOD1/CM_BotanicalPlanterKit01_Hanging_Sage_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 2/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 2/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 2/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Tied drying herbs 2/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted EntryBay01 stone surround - seated to floor and outboard hinge",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted approved arched door stops - sealed reveal",
+    "enabled": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted closed-leaf rebate - genuine arched opening",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - HeroPair/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - HeroPair/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - ShopDisplay/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - ShopDisplay/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - StudyFront/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - StudyFront/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - KitchenEast/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - KitchenEast/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - StudyEast/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - StudyEast/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - BedroomRear/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - BedroomRear/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - TreatmentRear/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - TreatmentRear/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - LivingWest/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Window planting - LivingWest/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Clay",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Soil",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Clay",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Soil",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Clay",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Soil",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Garden_HerbBed_A/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Garden_HerbBed_A/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Garden_HerbBed_B/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/CM_BotanicalPlanterKit01_Garden_HerbBed_B/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_ConformedValleyLiners_Slate",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_Fitted_EaveVergeNetwork_Slate",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_Fitted_EaveVergeNetwork_Timber",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_Fitted_ValleyNetwork_Slate",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_FittedWingJunctionReturn_Slate",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/CM02_FittedWingJunctionReturn_Underlay",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_CentreGuardCap",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_GuardEnd_CentreEnd",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_GuardEnd_RearLeft",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_GuardEnd_RearRight",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_GuardEnd_UpperEntry",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_HerbRail",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_HerbRailSuspension",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_HerbRailSuspension.001",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_LanternMountPlate",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_LanternMountPlate.001",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_RearLandingFootJoint",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_RearLandingGuardCap",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Finish_UpperGuardCap",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_GardenStore_B",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_Hero_A",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_Hero_B",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_RearCross_A",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_RearCross_B",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_StairNook_A",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_StairNook_B",
+    "enabled": true
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_SubordinateWing_A",
+    "enabled": false
+  },
+  {
+    "path": "14 Production02 architectural finishing/Gable_Roof_SubordinateWing_B",
+    "enabled": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/CM02_Stair_Balusters",
+    "enabled": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/CM02_Stair_Handrails",
+    "enabled": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/CM02_Stair_LandingFloor",
+    "enabled": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/CM02_Stair_Newels",
+    "enabled": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/CM02_Stair_Stringers",
+    "enabled": true
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Iron",
+    "enabled": false
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Plaster",
+    "enabled": true
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Sage",
+    "enabled": false
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Walnut",
+    "enabled": false
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Shop-side plinth termination",
+    "enabled": true
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Entrance right plinth termination",
+    "enabled": true
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Retained shop header shoulder - no shutter rails",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_HR02_CounterCraft/Visual - painted craftsmanship",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_HR02_RecordsCluster/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_IL04_CounterCarving/CM_IL04_CounterCarving",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_IL04_CounterRunner/CM_IL04_CounterRunner",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_C05_SalesCounter/CM_C05_SalesCounter",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_BalanceScales/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_OpenLedger/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_CeramicJar/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_CeramicJar/CM_HR02_CounterJar/CM_HR02_CounterJar",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_ShelvingCraft/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse1/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse2/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse3/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse4/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_ShelfCarving/CM_IL04_ShelfCarving",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection1/CM_IL04_WorkingCollection1",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection3/CM_IL04_WorkingCollection3",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineRowA/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineRowB/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineRowA/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineRowB/Visual",
+    "enabled": false
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_AF01_DryingRack/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_ExaminationCouch/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_SupplyCabinet/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_PhysicianStool/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_Washstand/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_InstrumentStation/CM_AF01_InstrumentStand/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_InstrumentStation/CM_AF01_InstrumentTray/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_InstrumentStation/CM_AF01_LinenRolls/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_PreparationBench/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_PreparationBench/CM_LI03_WorkSurfaceStory/CM_LI03_WorkSurfaceStory",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_PreparationBench/CM_LI03_FieldNotebook/CM_LI03_FieldNotebook",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_PreparationBench/CM_LI03_WorkbenchJoinery/CM_LI03_WorkbenchJoinery",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_MortarPestle/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_MeasuringTools/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_MedicineRowB/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_LinenRolls/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_BalanceScales/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_SideWorktable/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_SideWorktable/CM_IL04_PrepTableCraft/CM_IL04_PrepTableCraft",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_SideWorktable/CM_IL04_PreparationRecords/CM_IL04_PreparationRecords",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_MedicineRowA/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_TinctureBottle/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_AF01_DryingRack/Visual",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Clay",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Pot_Medium/LOD0/CM_BotanicalPlanterKit01_Pot_Medium_Soil",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_BotanicalPlanterKit01_Potted_Sage/CM_BotanicalPlanterKit01_Plant_Sage_A/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_PortalJoinery/Visual - painted craftsmanship",
+    "enabled": false
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_PracticePlaque/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_LimeRepair/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_StoopFace/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/Ivy - selective canopy seam/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/Ivy - selective canopy seam/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_HR02_HerbariumBoard/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_LI03_RecordShelf",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_HR02_Parcel/Visual - painted craftsmanship",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ReagentCabinet/CM_LI03_ReagentCabinet",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ToolRail/CM_LI03_ToolRail",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/CM_LI03_ShopBeam",
+    "enabled": false
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/CM_C05_ShopBeam/CM_C05_ShopBeam",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_PrepBeam/CM_LI03_PrepBeam",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_FormularyBoard/CM_LI03_FormularyBoard",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "enabled": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_HerbalBanner/CM_IL04_HerbalBanner",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WovenMat/CM_IL04_WovenMat",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WovenMat/CM_IL04_WovenMat",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_FrontCraftwork/CM_IL04_FrontCraftwork",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_HerbalBanner/CM_IL04_HerbalBanner",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_ArchedWindowLining/CM_IL04_ArchedWindowLining",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WindowConsole/CM_IL04_WindowConsole",
+    "enabled": true
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WindowConsole/CM_IL04_WindowConsole",
+    "enabled": true
+  },
+  {
+    "path": "21 Structural craftsmanship benchmark 05/CM_C05_FrontTimber/CM_C05_FrontTimber",
+    "enabled": true
+  },
+  {
+    "path": "21 Structural craftsmanship benchmark 05/CM_C05_EntranceReturns",
+    "enabled": true
+  }
+]

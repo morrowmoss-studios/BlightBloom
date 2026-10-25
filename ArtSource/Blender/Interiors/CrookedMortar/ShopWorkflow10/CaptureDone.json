@@ -1,0 +1,67 @@
+{
+  "complete": true,
+  "viewsPerVariant": 5,
+  "poses": [
+    {
+      "variant": "Before",
+      "view": "CounterArrival",
+      "camera": "(5.17, 2.26, 0.40)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "WorkingSide",
+      "camera": "(-1.28, 2.71, 5.33)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "RoomConnections",
+      "camera": "(4.55, 2.27, 0.17)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "CabinetClose",
+      "camera": "(1.50, 2.00, 2.40)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "RoomClay",
+      "camera": "(3.80, 2.20, 3.50)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "CounterArrival",
+      "camera": "(5.17, 2.26, 0.40)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "WorkingSide",
+      "camera": "(-1.28, 2.71, 5.33)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "RoomConnections",
+      "camera": "(4.55, 2.27, 0.17)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "CabinetClose",
+      "camera": "(1.50, 2.00, 2.40)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "RoomClay",
+      "camera": "(3.80, 2.20, 3.50)",
+      "fov": 65.0
+    }
+  ],
+  "lightChange": "One local fill changed intentionally; exposure/global lights identical. Clay uses original fill for both."
+}

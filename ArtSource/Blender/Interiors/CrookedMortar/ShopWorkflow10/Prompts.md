@@ -1,0 +1,9 @@
+# Painting provenance
+
+One built-in imagegen output; no external API/service or new image-to-mesh pipeline. Original: `exec-e605b727-a048-418d-aefa-9de096b576b8.png`, copied to `PlasterStonePaint.png` and the new Unity texture folder. Existing Workflow09 wood/iron were reused.
+
+Prompt:
+
+> Use case: stylized-concept. Asset type: a single square material colour atlas for a hand-painted medieval storybook apothecary room in Unity. Split the canvas exactly down the middle into two equally wide plain rectangular surface samples, flush meeting edge no border: LEFT HALF warm aged ivory lime plaster, RIGHT HALF warm muted greige/taupe sandstone. This is flat unlit albedo, edge-to-edge painterly gouache brushwork, traditional illustrated animation background surface artistry. Large intentional soft-edged colour shapes, faint broad bristle strokes, subtle age, clear warm midtones. Plaster cream/offwhite with soft ochre/warm grey tonal patches, not brown grunge. Sandstone muted grey-beige/earth with broad variation, no individual masonry block lines, no grout, no tiles drawn, no wall drawing. The actual stone shapes will be modeled in 3D. Restrained depthless pigment marks, no photographic grain, no fine procedural noise, no black crevices, no glossy or realistic PBR, no lighting gradient, no shadows, no perspective. No objects, plants, icons, labels, writing, grid or border. Compatible with warm walnut and muted sage-green medieval timber furniture. The colour should be richly illustrated and matte without blur or pastel washing.
+
+Atlas UVs isolate left/right fields; it is not an automatically generated full-room UV painting. Selected areas receive consistent physical-scale projection. The palette is useful, but repeated projection and lack of individually painted object wear remain limitations.

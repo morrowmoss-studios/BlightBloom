@@ -162,3 +162,11 @@ Evidence/method/limitations: `../../../Interiors/CrookedMortar/CounterWorkflow08
 | CM02-ART-009 | Workflow08 supports felt overly smooth/formal and the carving remained soft. Workflow09 directly refines its editable source with chamfered pegged timber posts/bearing knees, a higher-detail central relief and restrained existing-paint colour tuning. | Separate `CM_CounterWorkflow09_Review` only; artistic review pending. Clear joinery improvement, incremental carving/material improvement. Fine sculpt cleanup, repeated grain and LOD budget remain. Production02 and Workflow07/08 protected. |
 
 Evidence and targeted validation: `../../../Interiors/CrookedMortar/CounterWorkflow09/README.md`. Existing colliders/markers/systems retained; static door sweep and nearby capsule-route probes pass. Captures are actual Play-mode comparisons, not fresh live-input traversal testing. No clutter or room changes; no commits.
+
+## Shop room-scale art test — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-010 | Counter detail outpaced room construction/material consistency. Isolated ShopWorkflow10 reuses Counter09 and reconstructs medicine/records cabinets, inside joinery and coordinated finishes, retaining original stock and room layout. | Manual artistic review pending; partial success. Better construction/cohesion, but still below illustrated-reference richness. Flat glazing, repetitive forms, simple props and insufficient individually authored surface history remain. No Production02 rollout. |
+
+Sources, comparisons, costs and validation distinctions: `../../../Interiors/CrookedMortar/ShopWorkflow10/README.md`. All 116 colliders unchanged, static full door sweep and nearby capsule probes pass. No fresh live-input interaction/stair test or manual camera approval. Counter LOD/quiet-panel reduction and floor bevel budget are documented opportunities, not completed optimizations. No added loose clutter or commits.

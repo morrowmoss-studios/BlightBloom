@@ -1,0 +1,33 @@
+{
+  "entries": [],
+  "cursor": 354,
+  "session": "bea63641c5664e95acdec08c5620daef",
+  "returned": 0,
+  "dropped": false,
+  "reset": false,
+  "counts": {
+    "error": 35,
+    "warn": 82,
+    "log": 237
+  },
+  "groundTruth": {
+    "sampledUtc": "2026-10-25T17:14:49.610783Z",
+    "ageMs": 176,
+    "compilationFailed": false,
+    "compiling": false,
+    "consoleErrors": 0,
+    "consoleWarnings": 2,
+    "consoleLogs": 0,
+    "seeded": true
+  },
+  "assessment": {
+    "compilation": "No failure",
+    "currentErrors": 0,
+    "preExistingWarnings": 2,
+    "transientAutomationDiagnostics": [
+      "Main-thread Pipeline timeouts during a read-only light query, initial monolithic installation and baseline closing.",
+      "Four duplicate AudioListener notices while an additive read-only baseline remained loaded after a failed scope audit. Baseline closed; corrected audit uses finally; final capture and saved review contain one scene and one enabled AudioListener."
+    ],
+    "finalCapture": "No subsequent captured entries after cursor 354; no fresh input-route tests claimed."
+  }
+}

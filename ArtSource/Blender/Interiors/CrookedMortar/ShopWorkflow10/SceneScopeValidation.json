@@ -1,0 +1,24 @@
+{
+  "originalRendererChanges": [
+    {
+      "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_C05_SalesCounter/CM_C05_SalesCounter",
+      "kind": "Visual replacement: original renderer disabled"
+    },
+    {
+      "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_ShelvingCraft/Visual - painted craftsmanship",
+      "kind": "Visual replacement: original renderer disabled"
+    },
+    {
+      "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_ShelfCarving/CM_IL04_ShelfCarving",
+      "kind": "Visual replacement: original renderer disabled"
+    },
+    {
+      "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_LI03_RecordShelf",
+      "kind": "Visual replacement: original renderer disabled"
+    },
+    {
+      "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/CM_C05_ShopBeam/CM_C05_ShopBeam",
+      "kind": "Visual replacement: original renderer disabled"
+    }
+  ]
+}

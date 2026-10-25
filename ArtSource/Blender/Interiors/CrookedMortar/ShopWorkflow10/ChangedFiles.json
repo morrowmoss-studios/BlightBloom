@@ -1,0 +1,462 @@
+{
+  "files": [
+    {
+      "path": "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+      "sha256": "69b6dd35bf8e1dd9c79cab31e1cb61777e678d15dcf6728538748a0e523ef165"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/AssetCatalog.json",
+      "sha256": "a6cf01ddbd8a7856f95cf84db0fee7bebaf523f234f1b1f7feceb361854de415"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/BatchPlaster.cs",
+      "sha256": "e357bb53d0c027ea0d721f843967c32704ee33bd000584980d7bd1e03ccca416"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/BeforeStates.json",
+      "sha256": "6432666cc3d3ef52ad840be80a5d2379420e37590e0a2ad1da4a0dc055aea5f2"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/CM_ShopWorkflow10.blend",
+      "sha256": "34bde8651b605e020c4f41d93a94450323a66e248f7c9ee42e2f7b9e3df08970"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/CaptureDone.json",
+      "sha256": "679d8286de51b3b42683d6333a257fd957991c6da9f8cec5cd104274703d5278"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/CaptureRoom.cs",
+      "sha256": "72ae0057236c8ec75f9a3f88779b5ade00e105a6a2a10f11fba3bac4eaf119af"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ClearanceValidation.json",
+      "sha256": "9fd541e5284c9254eef6479313370b60ededa437744c6003dc930fe822f7eb2f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ColliderBaseline.json",
+      "sha256": "21af49c771f80774d01f089bcff52027c90565699c6971dae9b1315445e78c89"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/CompareViews.py",
+      "sha256": "0a1380386bf6055b791bcb6938db68ebe4b0af109481a9ba1b9cbc0b8e98c22a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ConsoleValidation.json",
+      "sha256": "b27c23ead05cf1496429b78d07dc00a8812e291a1106f46cc676d9eb75f459e3"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/FinalState.json",
+      "sha256": "3ec8e9705efcc8106125fa05a467fcb5934b6836e91624b10d44bd1f536568ab"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/FinishAssets.py",
+      "sha256": "59c732fbb51749499f51b566a063fcb3b9569a4e880fb02ed3486b062982cd62"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/FinishFurniture.cs",
+      "sha256": "0ccb0a495193c5fcc430a2658bd23bd8ea42b31b5cc4be91357d6bbfabcfdbc0"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/FinishLighting.cs",
+      "sha256": "847453edd8dfc8fc67d6f4ebf56bcad880940900783c23e892777ccd91168d11"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/FitSurfaces.cs",
+      "sha256": "f81067415b8700f7fcdc37076e4eb9eb2615f3484852b7e6f7fe86ec25f93b54"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/InstallReview_Superseded.cs.txt",
+      "sha256": "5dbdd9496ebe72f2a5927be0345dbcf9cac8469cda06b7732741ec1d767b2884"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Installed.json",
+      "sha256": "db79493d9bbc755566f4603977e3e9c6e18064d295fe42bbe1e81a2840f4bbc8"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/IntegrationValidation.json",
+      "sha256": "3150af20376cc47340e2ad29c34f862949583db52a969f45730af110ac81de9b"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/PlasterStonePaint.png",
+      "sha256": "ff50de2c140f115c470c0266905e06b0db5c49e97a3aa680d0dad5cb56f83b31"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/PresentationStates.json",
+      "sha256": "16520004aabe1a7c48f4d42a8639ef2c428b4b4466618a8eac769fee26f03fa8"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/After/CabinetClose.png",
+      "sha256": "e9f386845c6cdec0d2bcdf2523d3c549d7f3cd4fbf65490ff97fe5342ee23e00"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/After/CounterArrival.png",
+      "sha256": "d38014146c2f5261acd93b27040e4112a98496871fb14bd86698c4678cab205d"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/After/RoomClay.png",
+      "sha256": "3cdef527351f575185cd9d1976c9c70cdec06df260cda595bd9473d4ede9e0a5"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/After/RoomConnections.png",
+      "sha256": "bd872f711bd00c25c5d84eb960ea7040d86831cd01071ea8770a0f01ccf5c375"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/After/WorkingSide.png",
+      "sha256": "8812842b7711ec44aab96ffd6dc507303ce03f1105789c21d2e13edcb28fb0be"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Before/CabinetClose.png",
+      "sha256": "f073b992f2c440cd772e108eb469d205f4b9a7f523b742609ad1cc2325ad99bd"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Before/CounterArrival.png",
+      "sha256": "5b05480fffb622409fd6a7c5de0a59af83642df57ae0e24a0da03184cd04f252"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Before/RoomClay.png",
+      "sha256": "f604dd25e40e6b07149fe28d06f6e43c0fa0bdf01e3dcadaf0e153d701573bd0"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Before/RoomConnections.png",
+      "sha256": "18005f94aad16841e7e4a1408e3588ed3de74885b6a6391a316441013f243599"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Before/WorkingSide.png",
+      "sha256": "52bfe4d2959139f1ee2c727c4633e4c2a46b2ff5ea9977cd250fd5a7033bec05"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Comparison/CabinetClose.jpg",
+      "sha256": "0144ee79819fe9cd8b366d670c1b6c5168650ca6780ed47ac1f2488f97d62524"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Comparison/CounterArrival.jpg",
+      "sha256": "bf23d7ce3c70e668c6f9edd7f25382e111b19ea583b5d69e0f56054bd89d8cf5"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Comparison/RoomClay.jpg",
+      "sha256": "b9fca8b0b60fbdb49edb830cb85115478fca202e3d7721dde33425da24175418"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Comparison/RoomConnections.jpg",
+      "sha256": "5fa14120991ff491f897e1fe7e3b846726466544c20ad730bc8d97f5e40e0bd4"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Previews/Comparison/WorkingSide.jpg",
+      "sha256": "4d645e2558010efe35247b9eda2d0c3e1452c7ed08f19a28f79be0d1ef64e05a"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/Prompts.md",
+      "sha256": "6be267dc4b0b69d83a1698bd0f5a589967059819087f691317dc2b17674766de"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ProtectedBaseline.json",
+      "sha256": "ceabc43f902d943663a03b2aebf64894c10795db2c41cbece2af5c5f50ff8930"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ProtectionValidation.json",
+      "sha256": "e4842bfaac6e246969a6a7fc08d81a86e6a99a5098311b8ee5237a5964718c2c"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/README.md",
+      "sha256": "d1b758a77794adee426613625a3072f7e6f417617c6299eaf81593a909fd6d2b"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/RepairRecordExtraction.cs",
+      "sha256": "14fa51fa7503dc160b6465c9f881878b4b173187031751032eb45f4b571b1b09"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/SceneScopeValidation.json",
+      "sha256": "14c3fcdc9d3b1821509a7c2998aa44a51fddd073e4103949d5cbd2cd0f5689ae"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ShopBaseline.json",
+      "sha256": "862ea782264ae52b0fa9a3b011a497ab04da8ce4fc51592ada73678ee91913ac"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/SourceValidation.json",
+      "sha256": "997efe63a5173d4f15b16e2a82712c3981d737da7a9950359953954ac5520b55"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ValidateClearance.cs",
+      "sha256": "81b857e78b7842646a09c469cbce1f890a664f62b482c977e65949bdc9b871d1"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ValidateIntegration.cs",
+      "sha256": "215bc33703d3475d469aa55c0d959c64fc6e9e378cf6837e537dfbb2906cb3af"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ValidateScope.cs",
+      "sha256": "6b39d10ecc9b786aef2fb35fa9778cb9c7c974bd8151ec3746d6d24472c22906"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ValidateSource.py",
+      "sha256": "5e59c758ec4b29c395df193a2249acb1837d74c1151305eee6dd6a91de21412f"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/build_shop10.py",
+      "sha256": "321da83c0beaaaa03431fd68be4fdbedac38401398cf122c9b52dfb17a4d3377"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Ceiling.asset",
+      "sha256": "2fccf1f2db6356fddd54a0e07afabb890f5899b67d016685ea60c07568d4cd15"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Ceiling.asset.meta",
+      "sha256": "beffaaa782ad2ac15921f6e8f9883962ad08a7b3d760effc8ad8581a0c6d8d1f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_InsideWest.asset",
+      "sha256": "1e602edec14580e474ac2e6c0af945c4c3c49b34e81c4aa6add74656f58dd7d6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_InsideWest.asset.meta",
+      "sha256": "daac07b151bfbf09c32864f16085f31f5c090d185b53e8a28c80c36cb2f1708f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_jamb_A.asset",
+      "sha256": "f08d5fae0e1e08b38817712cd46304b74e04ff75f8ad2fc9dbde29647e8d5f5e"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_jamb_A.asset.meta",
+      "sha256": "d01b5217eddadb80b22afbf4cc1ff51b102c853ec3ac0b2a7f0e26ef42d812bf"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_jamb_B.asset",
+      "sha256": "62a1d2751f7473b8bda23983780ea67f761cbfd5d3038fee5d5e6e392016b96b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_jamb_B.asset.meta",
+      "sha256": "730f916a14372fca08d8b96a8643728475dc302cdd2fe7af9adbb73bbe7af2b6"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_lintel_2.75m_clear.asset",
+      "sha256": "59dcbaae581036d528dfc613c07e927a4fb991d70ce83507a22634b73da748e2"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Front_entrance_2.0_lintel_2.75m_clear.asset.meta",
+      "sha256": "55f0f823396d0eb6194d286fd3da4e5a95d004d2d71b23b8816ef06c3069376b"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_jamb_A.asset",
+      "sha256": "085f12e3694968bc4fa3ab6d0c38149b2bb893e0e3092faedf661e62f61f812c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_jamb_A.asset.meta",
+      "sha256": "9d32e282efe225ad02f5c2fe892f8af88194f740877bba966fefb105350a3925"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_jamb_B.asset",
+      "sha256": "4389a6347bcff579ae4fb50afbab6170a7339e350d4d2a9bb551b85cc2143c19"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_jamb_B.asset.meta",
+      "sha256": "3a6573c19979a8ee936ff6d1583d31c11c9ed9451c70fa3885ceec8368fb6ec7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_lintel_2.75m_clear.asset",
+      "sha256": "8808f25a9dcee6c8c42a090a8399d3710bc4f595a88d12824cd3ba6d90609b5c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_kitchen_1.8_lintel_2.75m_clear.asset.meta",
+      "sha256": "4dd0b2822cad5b6183a31bfd58db9167c1cf6e85fdc17dbbc592c399810b8e88"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_jamb_A.asset",
+      "sha256": "bdf7466da87a450b4e7813cd5ed5979d5cdc2ecbddfad28e98906557d3ecfd63"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_jamb_A.asset.meta",
+      "sha256": "77039346d815d0b8ff8cca737d1be92d8cd48348991b1e204a48785a60813d06"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_jamb_B.asset",
+      "sha256": "e95b7afed7f57f04fa36377be6672085bc645dbf381ce140131e6b3990bf822f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_jamb_B.asset.meta",
+      "sha256": "9c165ae0744f7633e6b4f7f094943bccd48815cc802a5aef78a36948d6f2b9a9"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_lintel_2.75m_clear.asset",
+      "sha256": "a0a1353b818dd613a7c5d35f1ff14fdf25f749f148261bacaa69131d5e0cfe64"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_Inside_Shop_to_treatment_2.0_lintel_2.75m_clear.asset.meta",
+      "sha256": "286282f9aae58ca1808de314ac921c03934ef8622ea504aa1bdf6a875b7baabe"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_InteriorPlasterBatch.asset",
+      "sha256": "6f993db90fe896189c3cfd7daecd7e824f899481968a697a6529d8537b11d0bb"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_InteriorPlasterBatch.asset.meta",
+      "sha256": "2e2d8e4e516c93f5a86d5765440c48345da2626882b205d5451c5eb102e49b73"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_PreservedRobertRecords.asset",
+      "sha256": "069f8717491b232890a43991a0cab0476c9cb8c47b5d27904b13399c1b1ce430"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes/CM_SW10_PreservedRobertRecords.asset.meta",
+      "sha256": "644f168a02592f3e7d9d2556853e52e07337aa5dcb4fc77ea9577b74162d31bc"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/FittedMeshes.meta",
+      "sha256": "9e0e00dc5d2e6a94045c981942010358f6333f1235874c64033681f9f3fea06a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_CeilingWalnut.mat",
+      "sha256": "13fdc02cd4e71bcaa33730d0d764a786b6161b303a4a7a66d340e71e4ebeaaae"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_CeilingWalnut.mat.meta",
+      "sha256": "458ea88efe0fbf3889a659d5fa7f2aa4339cb10d45ea0bb794e8793303356431"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedPlaster.mat",
+      "sha256": "a873467db9e910af4db03be9c33c41d40f6ce93a1e8d4fff45bbee473470d919"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedPlaster.mat.meta",
+      "sha256": "4c54c829deb7db5229dd180dc799f55b49d7cd74b8b0e9318f41ab4bca71616a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedSage.mat",
+      "sha256": "f421b849caf9b2e26efb4011b9c1f7384fd49fe90e238b68dcfe761888b4fbb1"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedSage.mat.meta",
+      "sha256": "b331f63014b4a005e362a18b447ba4fac9bac92a5c0a2c0bb86bd32cbf182078"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedStone.mat",
+      "sha256": "39ad0c7f6d0d55b590eb730192fe3b09f9d8755b76414c8a3c827dac8c1e62a3"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedStone.mat.meta",
+      "sha256": "ba0353a44d0ea541cb50973dc4950aa314007368d72eea7f8b50c01d24ac468f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials.meta",
+      "sha256": "0879916937fbf825f7435541706d33ec78f206ebb240547279349c1733b06561"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_FlagstoneFloor.fbx",
+      "sha256": "0c55e0f8a838a29975458f6336dcfe4eb6b5f8ceaf4e1970d3be395adc78bd68"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_FlagstoneFloor.fbx.meta",
+      "sha256": "2caf790e607575d0f93d509cfe5ee56114b4a86277551818b7c3cf0d7868cf4a"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_MedicineCabinet.fbx",
+      "sha256": "46cf75614e2e53fee424d5bc922c1121567dd563d708ce31ae24d79b4df7a20f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_MedicineCabinet.fbx.meta",
+      "sha256": "77ae0752eb9b5e67b322e5797be95d0c37244ef2810998bc8753ecafe205e76c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_RecordsCabinet.fbx",
+      "sha256": "c164eedaa605269a61a530a8c547c560380e5d5e871ee68ffe0f4231643fca5c"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_RecordsCabinet.fbx.meta",
+      "sha256": "57f80cc3362ab2f8040431f3ab997339d8059a0f5572f6edaf0b0c11d25537cb"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_RoomJoinery.fbx",
+      "sha256": "83c7fdab8ae3caa76b3b0fcea0de7f729519e0f2fb22452a524b1df760ce9eaa"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_RoomJoinery.fbx.meta",
+      "sha256": "ecdc2b824d1168b737f779f319bc9d072e6e6e2bcd3f870bedd36afff1057a7f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_ShopBeam.fbx",
+      "sha256": "921d07ba9ad745f6c2925d69b88588a4791f120f9f4895514e24fa330ef09882"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models/CM_SW10_ShopBeam.fbx.meta",
+      "sha256": "24d70f9949769e7c28babd30450cff735a20d8df43d12772a1037a6b50308ac7"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Models.meta",
+      "sha256": "d8ad492ae1a45ec8b2f5e4afaf07e93ae89e0bda2b2b6562cad8574a496efb56"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_FlagstoneFloor.prefab",
+      "sha256": "85bc63c04e175e875c5ee3943b0105b952e5cfdc08a580486157cfffff6586e1"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_FlagstoneFloor.prefab.meta",
+      "sha256": "ad65c149b0732bc9869473815037f041c13b2bbd05b584c5b78347d30c5d5e05"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_MedicineCabinet.prefab",
+      "sha256": "957ab241ccf911d461e855daee8da28440a7df0a09421918e77939337402cfab"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_MedicineCabinet.prefab.meta",
+      "sha256": "4c513f3f05de134bff4a85c1e14093c0ad871897d482f4bbfd05eb634a8f8921"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_RecordsCabinet.prefab",
+      "sha256": "f0e589656d03237d2f6308ef502bec0dd58b8af1f9b90dafee36222b642c4757"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_RecordsCabinet.prefab.meta",
+      "sha256": "bac20d46b54f459e7e63b8a0b4d98f4df642815a6d357710f3b7018e467b6ad8"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_RoomJoinery.prefab",
+      "sha256": "8722497d547991c7a15938011ff0a0c245e690880697fc23846e3bc94b0a89c8"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_RoomJoinery.prefab.meta",
+      "sha256": "8574408b16d1ce786b954e8cda2601e32c7a3245ee978b3c8aa4ea80c410ec94"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_ShopBeam.prefab",
+      "sha256": "a62ca0f0367c218a8855703375d0300ce9725fe9efd87b0c6f1515e67ba8fe0f"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs/CM_SW10_ShopBeam.prefab.meta",
+      "sha256": "f58fba89b2201f8464dce9fd401dfbc217b313cbac280ffabaaeb2df4db21dd0"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Prefabs.meta",
+      "sha256": "2ed844b24365f8cbb5c7691808c28841ea5f442a2f77878b89cfdf0df568f8da"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Textures/CM_SW10_PlasterStone.png",
+      "sha256": "ff50de2c140f115c470c0266905e06b0db5c49e97a3aa680d0dad5cb56f83b31"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Textures/CM_SW10_PlasterStone.png.meta",
+      "sha256": "93ed05cfe88b42055bbb98fd4ae3f8777a525cfc9f0216af57258e48c681a9cc"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Textures.meta",
+      "sha256": "61d9b0d19ee200bfc4394baaddcf3f782334ee75163ae1bfca43f101cd5b392d"
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10.meta",
+      "sha256": "4aff59ec1cbbed2df213f3f345423e6bbc1e084794b3ff9b002b4a160f81e08d"
+    },
+    {
+      "path": "Assets/Scenes/CM_CrookedMortar_ShopWorkflow10_Review.unity",
+      "sha256": "eb6db6748152ad7e8c2eb555aec2a00419e5fde0fdbf8445ed283b5c05df1d71"
+    },
+    {
+      "path": "Assets/Scenes/CM_CrookedMortar_ShopWorkflow10_Review.unity.meta",
+      "sha256": "77e870564ad60e7513dcb4a9bc2e898318079221f8a9e2b557cb80dc3e1be60b"
+    },
+    {
+      "path": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow10/ChangedFiles.json",
+      "sha256": null
+    }
+  ],
+  "onlyModifiedPreExistingFile": "ArtSource/Blender/Architecture/CrookedMortar/Production01/ISSUES.md",
+  "noCommitOrPushPerformed": true
+}

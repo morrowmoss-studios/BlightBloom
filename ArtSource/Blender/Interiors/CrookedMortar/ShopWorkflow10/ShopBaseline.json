@@ -1,0 +1,2310 @@
+[
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb A",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      2.9,
+      3.1,
+      0.205001429
+    ],
+    "center": [
+      1.25,
+      1.75,
+      -0.102500655
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_Plaster_0",
+    "triangles": 5328
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb B",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.8999996,
+      3.1,
+      0.205624774
+    ],
+    "center": [
+      5.14999962,
+      1.75,
+      -0.1028138
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_Plaster_1",
+    "triangles": 3888
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 lintel 2.75m clear",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      2.0,
+      0.3499999,
+      0.200000316
+    ],
+    "center": [
+      3.69999981,
+      3.125,
+      -0.10000056
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Front entrance 2.0 lintel 2.75m clear",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop floor 5.4 x 4.4",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      5.8,
+      0.2,
+      4.80000067
+    ],
+    "center": [
+      2.70000029,
+      0.1,
+      2.19999957
+    ],
+    "materials": [
+      "CM_SlateRoofKit01_PaintedWalnut"
+    ],
+    "mesh": "Shop floor 5.4 x 4.4",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb A",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.200000286,
+      3.1,
+      2.10000014
+    ],
+    "center": [
+      5.5,
+      1.75,
+      1.04999912
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to kitchen 1.8 jamb A",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb B",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.199999809,
+      3.1,
+      0.5
+    ],
+    "center": [
+      5.50000048,
+      1.75,
+      4.149999
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to kitchen 1.8 jamb B",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 lintel 2.75m clear",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.199999809,
+      0.3499999,
+      1.80000043
+    ],
+    "center": [
+      5.50000048,
+      3.125,
+      2.999999
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to kitchen 1.8 lintel 2.75m clear",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb A",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.8000002,
+      3.1,
+      0.199999809
+    ],
+    "center": [
+      2.20000052,
+      1.75,
+      4.49999952
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to treatment 2.0 jamb A",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb B",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.8000002,
+      3.1,
+      0.200000286
+    ],
+    "center": [
+      5.00000048,
+      1.75,
+      4.499999
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to treatment 2.0 jamb B",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 lintel 2.75m clear",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      1.99999976,
+      0.3499999,
+      0.199999809
+    ],
+    "center": [
+      3.60000038,
+      3.125,
+      4.49999952
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Shop to treatment 2.0 lintel 2.75m clear",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper living and open landing",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      5.8,
+      0.3000002,
+      4.80000067
+    ],
+    "center": [
+      2.70000029,
+      3.44999981,
+      2.19999957
+    ],
+    "materials": [
+      "CM_SlateRoofKit01_PaintedWalnut"
+    ],
+    "mesh": "Upper living and open landing",
+    "triangles": 108
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/West shop front",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.200000331,
+      3.1,
+      2.2
+    ],
+    "center": [
+      -0.09999984,
+      1.75,
+      1.1
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "West shop front",
+    "triangles": 108
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "pos": [
+      2.7,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      5.44,
+      0.22,
+      0.4200009
+    ],
+    "center": [
+      2.7,
+      0.31,
+      -0.169999987
+    ],
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber",
+    "triangles": 108
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "pos": [
+      5.5,
+      0.2,
+      1.77
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.1815001,
+      3.39999986,
+      0.420000046
+    ],
+    "center": [
+      5.49925,
+      1.9,
+      1.83999991
+    ],
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Post_3p24m_Timber",
+    "triangles": 180
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted EntryBay01 stone surround - seated to floor and outboard hinge",
+    "pos": [
+      3.7,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      2.55157,
+      3.104501,
+      0.257182747
+    ],
+    "center": [
+      3.7,
+      1.68671143,
+      -0.07859135
+    ],
+    "materials": [
+      "CM_Entrance_Painted_Stone"
+    ],
+    "mesh": "CM_C05_StoneSurround",
+    "triangles": 23220
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted approved arched door stops - sealed reveal",
+    "pos": [
+      3.7,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      1.95502913,
+      2.64463878,
+      0.142100275
+    ],
+    "center": [
+      3.69942164,
+      1.51165545,
+      -0.0241315812
+    ],
+    "materials": [
+      "CM_Entrance_Painted_Timber"
+    ],
+    "mesh": "CM02_FittedApprovedDoorStops",
+    "triangles": 1164
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted closed-leaf rebate - genuine arched opening",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      2.032868,
+      2.82543564,
+      0.263
+    ],
+    "center": [
+      3.69633842,
+      1.51277232,
+      -0.1135
+    ],
+    "materials": [
+      "CM_Production01_Walnut"
+    ],
+    "mesh": "CM02_ArchedDoorRebate",
+    "triangles": 456
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD0",
+    "pos": [
+      5.35,
+      0.5,
+      -0.175
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.463734955,
+      1.37522912,
+      0.08286665
+    ],
+    "center": [
+      5.44088745,
+      1.094711,
+      -0.234680951
+    ],
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_B_Foliage",
+    "triangles": 420
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD1",
+    "pos": [
+      5.35,
+      0.5,
+      -0.175
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.36481905,
+      1.37522912,
+      0.07507742
+    ],
+    "center": [
+      5.39142942,
+      1.094711,
+      -0.23499091
+    ],
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_B_Foliage",
+    "triangles": 228
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Plaster",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      1.84500015,
+      1.69999993,
+      0.200000271
+    ],
+    "center": [
+      1.30000007,
+      2.115,
+      -0.100000195
+    ],
+    "materials": [
+      "CM_Production01_Plaster"
+    ],
+    "mesh": "CM02_EntryShop_Plaster",
+    "triangles": 216
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Shop-side plinth termination",
+    "pos": [
+      1.21,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      2.42,
+      0.22,
+      0.420000643
+    ],
+    "center": [
+      1.21,
+      0.31,
+      -0.169999987
+    ],
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber",
+    "triangles": 108
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Entrance right plinth termination",
+    "pos": [
+      5.19,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.420000017,
+      0.22,
+      0.420000464
+    ],
+    "center": [
+      5.19,
+      0.31,
+      -0.169999987
+    ],
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber",
+    "triangles": 108
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Retained shop header shoulder - no shutter rails",
+    "pos": [
+      1.3,
+      2.945,
+      -0.213333368
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      1.9,
+      0.1,
+      0.19
+    ],
+    "center": [
+      1.3,
+      2.995,
+      -0.245
+    ],
+    "materials": [
+      "CM_SlateRoofKit01_PaintedWalnut"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber",
+    "triangles": 108
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_HR02_RecordsCluster/Visual - painted craftsmanship",
+    "pos": [
+      1.79,
+      1.255,
+      1.35
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.320000142,
+      0.389382929,
+      0.471917421
+    ],
+    "center": [
+      1.79000008,
+      1.44969141,
+      1.40304136
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_AF01_Sage",
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_HR02_RecordsCluster",
+    "triangles": 1484
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_IL04_CounterRunner/CM_IL04_CounterRunner",
+    "pos": [
+      1.95,
+      0.2,
+      1.4
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.657789946,
+      0.419239163,
+      0.420000225
+    ],
+    "center": [
+      2.05889487,
+      1.04938042,
+      0.9199999
+    ],
+    "materials": [
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_IL04_CounterRunner",
+    "triangles": 196
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_C05_SalesCounter/CM_C05_SalesCounter",
+    "pos": [
+      1.95,
+      0.2,
+      1.4
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.8189998,
+      1.0275,
+      2.28000021
+    ],
+    "center": [
+      1.96949959,
+      0.73875,
+      1.4
+    ],
+    "materials": [
+      "CM_AF01_Walnut",
+      "CM_AF01_Sage",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_C05_SalesCounter",
+    "triangles": 10148
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_BalanceScales/Visual",
+    "pos": [
+      1.92,
+      1.255,
+      0.71
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.2800001,
+      0.48,
+      0.5800001
+    ],
+    "center": [
+      1.92,
+      1.495,
+      0.7099999
+    ],
+    "materials": [
+      "CM_AF01_Walnut",
+      "CM_AF01_Brass",
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_AF01_BalanceScales",
+    "triangles": 1280
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_OpenLedger/Visual",
+    "pos": [
+      1.8900001,
+      1.255,
+      1.88
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.320000172,
+      0.0525,
+      0.450000137
+    ],
+    "center": [
+      1.8900001,
+      1.28374994,
+      1.88
+    ],
+    "materials": [
+      "CM_AF01_Sage",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_AF01_OpenLedger",
+    "triangles": 248
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_CeramicJar/CM_HR02_CounterJar/CM_HR02_CounterJar",
+    "pos": [
+      2.13,
+      1.255,
+      1.3
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.170100033,
+      0.28,
+      0.168000028
+    ],
+    "center": [
+      2.13105,
+      1.395,
+      1.3
+    ],
+    "materials": [
+      "CM_AF01_Ceramic",
+      "CM_HR02_PaintedWalnut",
+      "CM_HR02_InkArtwork"
+    ],
+    "mesh": "CM_HR02_CounterJar",
+    "triangles": 498
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_ShelvingCraft/Visual - painted craftsmanship",
+    "pos": [
+      0.23,
+      0.2,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.4700005,
+      2.45,
+      1.82500029
+    ],
+    "center": [
+      0.265,
+      1.42500007,
+      1.15
+    ],
+    "materials": [
+      "CM_AF01_Sage",
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_HR02_ShelvingCraft",
+    "triangles": 7656
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse2/Visual - painted craftsmanship",
+    "pos": [
+      0.245,
+      1.19,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.202375114,
+      0.35,
+      1.445
+    ],
+    "center": [
+      0.256187558,
+      1.365,
+      1.14249992
+    ],
+    "materials": [
+      "CM_AF01_Glass",
+      "CM_HR02_PaintedWalnut",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Sage",
+      "CM_AF01_Ceramic"
+    ],
+    "mesh": "CM_HR02_StockCourse2",
+    "triangles": 2802
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse4/Visual - painted craftsmanship",
+    "pos": [
+      0.245,
+      2.11,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.23100023,
+      0.34,
+      1.4200002
+    ],
+    "center": [
+      0.245499954,
+      2.28,
+      1.12
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Glass",
+      "CM_AF01_Sage",
+      "CM_AF01_Ceramic"
+    ],
+    "mesh": "CM_HR02_StockCourse4",
+    "triangles": 2028
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_ShelfCarving/CM_IL04_ShelfCarving",
+    "pos": [
+      0.23,
+      0.2,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0400004871,
+      1.87899017,
+      1.86000037
+    ],
+    "center": [
+      0.430000037,
+      1.36441088,
+      1.15
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut"
+    ],
+    "mesh": "CM_IL04_ShelfCarving",
+    "triangles": 5744
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection1/CM_IL04_WorkingCollection1",
+    "pos": [
+      0.25,
+      0.729999959,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.2320003,
+      0.355,
+      1.43350017
+    ],
+    "center": [
+      0.266000032,
+      0.905,
+      1.14175
+    ],
+    "materials": [
+      "CM_AF01_Linen",
+      "CM_AF01_Sage",
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass",
+      "CM_AF01_Glass",
+      "CM_HR02_InkArtwork"
+    ],
+    "mesh": "CM_IL04_WorkingCollection1",
+    "triangles": 12606
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection3/CM_IL04_WorkingCollection3",
+    "pos": [
+      0.25,
+      1.6500001,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.247000188,
+      0.355,
+      1.44900012
+    ],
+    "center": [
+      0.253500044,
+      1.825,
+      1.0995
+    ],
+    "materials": [
+      "CM_AF01_Sage",
+      "CM_AF01_Linen",
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass",
+      "CM_AF01_Glass",
+      "CM_HR02_InkArtwork"
+    ],
+    "mesh": "CM_IL04_WorkingCollection3",
+    "triangles": 12302
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_AF01_DryingRack/Visual",
+    "pos": [
+      0.14,
+      2.5,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.405000418,
+      0.339924365,
+      1.1900003
+    ],
+    "center": [
+      0.202500015,
+      2.93503785,
+      1.15
+    ],
+    "materials": [
+      "CM_AF01_Walnut",
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_AF01_DryingRack",
+    "triangles": 720
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "pos": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.226418376,
+      0.358769029,
+      0.217338026
+    ],
+    "center": [
+      0.3767243,
+      2.78531742,
+      1.558266
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "triangles": 1460
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "pos": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0507244356,
+      0.152165145,
+      0.08670932
+    ],
+    "center": [
+      0.3692755,
+      2.96626258,
+      1.55880821
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "pos": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.226418376,
+      0.358769029,
+      0.217338026
+    ],
+    "center": [
+      0.3767243,
+      2.78531742,
+      1.558266
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "triangles": 980
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "pos": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0507244356,
+      0.152165145,
+      0.08670932
+    ],
+    "center": [
+      0.3692755,
+      2.96626258,
+      1.55880821
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "pos": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.206073657,
+      0.2905652,
+      0.193845
+    ],
+    "center": [
+      0.357925415,
+      2.817631,
+      1.14352167
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "triangles": 1590
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "pos": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0519925468,
+      0.155969262,
+      0.08887705
+    ],
+    "center": [
+      0.369257361,
+      2.96441936,
+      1.15082848
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "pos": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.206073657,
+      0.2905652,
+      0.193845
+    ],
+    "center": [
+      0.357925415,
+      2.817631,
+      1.14352167
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "triangles": 1038
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "pos": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0519925468,
+      0.155969262,
+      0.08887705
+    ],
+    "center": [
+      0.369257361,
+      2.96441936,
+      1.15082848
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "pos": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.164265767,
+      0.325598419,
+      0.172343463
+    ],
+    "center": [
+      0.3800194,
+      2.80376244,
+      0.7399924
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "triangles": 500
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "pos": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0494563244,
+      0.148361,
+      0.08454159
+    ],
+    "center": [
+      0.369293571,
+      2.968106,
+      0.742787957
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "pos": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.164265767,
+      0.324169874,
+      0.172343463
+    ],
+    "center": [
+      0.3800194,
+      2.80447674,
+      0.7399924
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "triangles": 380
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "pos": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "size": [
+      0.0494563244,
+      0.148361,
+      0.08454159
+    ],
+    "center": [
+      0.369293571,
+      2.968106,
+      0.742787957
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_LimeRepair/Visual - painted craftsmanship",
+    "pos": [
+      5.21,
+      0.76,
+      -0.206
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.299914,
+      0.287954,
+      0.00360007142
+    ],
+    "center": [
+      5.210043,
+      0.754023,
+      -0.206
+    ],
+    "materials": [
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_HR02_LimeRepair",
+    "triangles": 268
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_HR02_HerbariumBoard/Visual - painted craftsmanship",
+    "pos": [
+      5.377,
+      2.08,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.058000192,
+      0.9,
+      0.7200001
+    ],
+    "center": [
+      5.368,
+      2.08,
+      1.1
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_HR02_HerbariumBoard",
+    "triangles": 262
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_LI03_RecordShelf",
+    "pos": [
+      5.397,
+      0.78,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.290500343,
+      0.795,
+      1.29000008
+    ],
+    "center": [
+      5.25175,
+      1.1775,
+      1.1
+    ],
+    "materials": [
+      "CM_AF01_Sage",
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_HR02_InkArtwork",
+      "CM_AF01_Glass",
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_LI03_RecordShelf",
+    "triangles": 6174
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_HR02_Parcel/Visual - painted craftsmanship",
+    "pos": [
+      5.257,
+      1.20499992,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.206000075,
+      0.118,
+      0.2500001
+    ],
+    "center": [
+      5.257,
+      1.26399994,
+      1.1
+    ],
+    "materials": [
+      "CM_AF01_Linen",
+      "CM_HR02_PaintedWalnut",
+      "CM_HR02_InkArtwork"
+    ],
+    "mesh": "CM_HR02_Parcel",
+    "triangles": 358
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/CM_C05_ShopBeam/CM_C05_ShopBeam",
+    "pos": [
+      2.7,
+      3.21,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      5.4,
+      0.4014013,
+      0.2200008
+    ],
+    "center": [
+      2.7,
+      3.09070063,
+      1.9
+    ],
+    "materials": [
+      "CM_AF01_Walnut"
+    ],
+    "mesh": "CM_C05_ShopBeam",
+    "triangles": 3660
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "pos": [
+      1.05,
+      3.13,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.0539571866,
+      0.1239412,
+      0.044
+    ],
+    "center": [
+      1.05497849,
+      3.09602952,
+      1.9
+    ],
+    "materials": [
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_LI03_BeamHook",
+    "triangles": 200
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "pos": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "size": [
+      0.307944268,
+      0.318913,
+      0.292455941
+    ],
+    "center": [
+      1.05386031,
+      2.80493665,
+      1.884811
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "triangles": 1590
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "pos": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "size": [
+      0.126779482,
+      0.171185777,
+      0.0897355154
+    ],
+    "center": [
+      1.04873061,
+      2.96604562,
+      1.89955533
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "pos": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "size": [
+      0.307944268,
+      0.318913,
+      0.292455941
+    ],
+    "center": [
+      1.05386031,
+      2.80493665,
+      1.884811
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "triangles": 1038
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "pos": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "size": [
+      0.126779482,
+      0.171185777,
+      0.0897355154
+    ],
+    "center": [
+      1.04873061,
+      2.96604562,
+      1.89955533
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "pos": [
+      1.66,
+      3.13,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      0.0539571866,
+      0.1239412,
+      0.044
+    ],
+    "center": [
+      1.6649785,
+      3.09602952,
+      1.9
+    ],
+    "materials": [
+      "CM_AF01_Iron"
+    ],
+    "mesh": "CM_LI03_BeamHook",
+    "triangles": 200
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "pos": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "size": [
+      0.216212988,
+      0.3422958,
+      0.246538326
+    ],
+    "center": [
+      1.66970468,
+      2.80064774,
+      1.89521134
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "triangles": 500
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "pos": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "size": [
+      0.07418112,
+      0.155969262,
+      0.1135771
+    ],
+    "center": [
+      1.65949559,
+      2.97341943,
+      1.90111673
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "pos": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "size": [
+      0.216212988,
+      0.340793967,
+      0.246538326
+    ],
+    "center": [
+      1.66970468,
+      2.80139875,
+      1.89521134
+    ],
+    "materials": [
+      "CM_Botanical01_FoliageDry"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "triangles": 380
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "pos": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "size": [
+      0.07418112,
+      0.155969262,
+      0.1135771
+    ],
+    "center": [
+      1.65949559,
+      2.97341943,
+      1.90111673
+    ],
+    "materials": [
+      "CM_Botanical01_Twine"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "triangles": 102
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "pos": [
+      2.19,
+      1.98,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.6232,
+      0.7925,
+      0.07100015
+    ],
+    "center": [
+      2.19,
+      2.04625,
+      4.3675
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_BotanicalArchive",
+    "triangles": 728
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "pos": [
+      5.0,
+      1.98,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.6232,
+      0.7925,
+      0.07100015
+    ],
+    "center": [
+      5.0,
+      2.04625,
+      4.3675
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_BotanicalArchive",
+    "triangles": 728
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "pos": [
+      5.397,
+      2.03,
+      0.31
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.0710001439,
+      0.6023,
+      0.342000037
+    ],
+    "center": [
+      5.3675,
+      2.08035,
+      0.31
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_BotanicalArchive",
+    "triangles": 728
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "pos": [
+      5.397,
+      2.03,
+      1.89
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.0710001439,
+      0.6023,
+      0.342000037
+    ],
+    "center": [
+      5.3675,
+      2.08035,
+      1.89
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_BotanicalArchive",
+    "triangles": 728
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "pos": [
+      2.47,
+      0.2,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.26189363,
+      2.74,
+      0.120000057
+    ],
+    "center": [
+      2.4140532,
+      1.57,
+      4.337
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_JambDetail",
+    "triangles": 2592
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "pos": [
+      4.73,
+      0.2,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.26189363,
+      2.74,
+      0.120000057
+    ],
+    "center": [
+      4.674053,
+      1.57,
+      4.337
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_JambDetail",
+    "triangles": 2592
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "pos": [
+      3.6,
+      3.12,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      1.92,
+      0.159,
+      0.09800034
+    ],
+    "center": [
+      3.6,
+      3.12,
+      4.348
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass",
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_Header",
+    "triangles": 2938
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "pos": [
+      5.397,
+      0.2,
+      1.96
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.120000079,
+      2.74,
+      0.26189366
+    ],
+    "center": [
+      5.337,
+      1.57,
+      2.01594687
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_JambDetail",
+    "triangles": 2592
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "pos": [
+      5.397,
+      0.2,
+      4.04
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.120000079,
+      2.74,
+      0.26189366
+    ],
+    "center": [
+      5.337,
+      1.57,
+      4.095947
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_JambDetail",
+    "triangles": 2592
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "pos": [
+      5.397,
+      3.12,
+      3.0
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.0980004147,
+      0.159,
+      1.9200002
+    ],
+    "center": [
+      5.348,
+      3.12,
+      3.0
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Brass",
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_Header",
+    "triangles": 2938
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WovenMat/CM_IL04_WovenMat",
+    "pos": [
+      3.6,
+      0.201,
+      1.3
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      1.32999992,
+      0.00399999972,
+      2.08000016
+    ],
+    "center": [
+      3.605,
+      0.205,
+      1.3
+    ],
+    "materials": [
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_IL04_WovenMat",
+    "triangles": 723
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "pos": [
+      5.12,
+      2.0,
+      -0.203
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.396,
+      0.427000016,
+      1.34270934E-07
+    ],
+    "center": [
+      5.126,
+      1.9965,
+      -0.206
+    ],
+    "materials": [
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_LimewashRepair",
+    "triangles": 4
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "pos": [
+      -0.203,
+      2.4,
+      1.35
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      1.78329657E-07,
+      0.61,
+      0.66
+    ],
+    "center": [
+      -0.206,
+      2.395,
+      1.34
+    ],
+    "materials": [
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_LimewashRepair",
+    "triangles": 4
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_HerbalBanner/CM_IL04_HerbalBanner",
+    "pos": [
+      -0.203,
+      1.9,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "size": [
+      0.0570002124,
+      1.496,
+      0.864000142
+    ],
+    "center": [
+      -0.2265,
+      1.96799994,
+      1.15
+    ],
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Iron",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_HerbalBanner",
+    "triangles": 528
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "pos": [
+      0.1,
+      1.25,
+      -0.18
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.358888268,
+      1.79046881,
+      0.05400589
+    ],
+    "center": [
+      0.0868786946,
+      2.036687,
+      -0.220919326
+    ],
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_A_Foliage",
+    "triangles": 468
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "pos": [
+      0.1,
+      1.25,
+      -0.18
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "size": [
+      0.271285951,
+      1.79046881,
+      0.0540058836
+    ],
+    "center": [
+      0.0430775322,
+      2.036687,
+      -0.220919326
+    ],
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_A_Foliage",
+    "triangles": 252
+  },
+  {
+    "path": "21 Structural craftsmanship benchmark 05/CM_C05_EntranceReturns",
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "size": [
+      2.03999972,
+      0.239309788,
+      0.184000313
+    ],
+    "center": [
+      3.69999981,
+      2.85034513,
+      -0.10700056
+    ],
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_EntranceReturns",
+    "triangles": 440
+  }
+]
