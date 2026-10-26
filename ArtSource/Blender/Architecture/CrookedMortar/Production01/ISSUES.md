@@ -170,3 +170,11 @@ Evidence and targeted validation: `../../../Interiors/CrookedMortar/CounterWorkf
 | CM02-ART-010 | Counter detail outpaced room construction/material consistency. Isolated ShopWorkflow10 reuses Counter09 and reconstructs medicine/records cabinets, inside joinery and coordinated finishes, retaining original stock and room layout. | Manual artistic review pending; partial success. Better construction/cohesion, but still below illustrated-reference richness. Flat glazing, repetitive forms, simple props and insufficient individually authored surface history remain. No Production02 rollout. |
 
 Sources, comparisons, costs and validation distinctions: `../../../Interiors/CrookedMortar/ShopWorkflow10/README.md`. All 116 colliders unchanged, static full door sweep and nearby capsule probes pass. No fresh live-input interaction/stair test or manual camera approval. Counter LOD/quiet-panel reduction and floor bevel budget are documented opportunities, not completed optimizations. No added loose clutter or commits.
+
+## Entrance architecture test — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-011 | Entrance inner stone ring and lime/timber connections lacked fitted construction. Workflow11 adds coursed radial masonry with mortar backing, fitted lime spandrels, selected chips, housed timber/scarf joinery and dedicated illustrated stone paint. | Separate EntranceWorkflow11 review only. Construction improves; gameplay-distance artistic improvement is restrained and still below illustrated-reference richness. Manual artistic review pending; no production rollout. |
+
+Evidence: `../../../Interiors/CrookedMortar/EntranceWorkflow11/README.md`. 17,644 new triangles, all 116 colliders unchanged; 43 static door poses/190 capsule samples pass; matched painted and clay Play-mode captures. No fresh live-input traversal/camera-comfort test. Straight frame character, repeated wood and individually authored surface history remain limitations. Production02/prior workflows protected; no commits.

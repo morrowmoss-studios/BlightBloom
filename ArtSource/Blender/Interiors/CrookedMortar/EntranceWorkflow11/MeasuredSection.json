@@ -1,0 +1,273 @@
+[
+  {
+    "path": "08 Front door - E toggle outward into reserved pocket/Approved EntranceBay01 leaf - fitted visual adapter",
+    "pos": "(4.68, 0.20, -0.31)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 1.55, -0.31), Extents: (0.98, 1.35, 0.05)",
+    "materials": [
+      "CM_Entrance_Painted_Timber",
+      "CM_Entrance_Painted_Iron",
+      "CM_Entrance_Painted_Sage"
+    ],
+    "mesh": "CM02_RightHingedEntranceLeaf"
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb A",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (1.25, 1.75, -0.10), Extents: (1.45, 1.55, 0.10)",
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_Plaster_0"
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb B",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (5.15, 1.75, -0.10), Extents: (0.45, 1.55, 0.10)",
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_Plaster_1"
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 lintel 2.75m clear",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 3.13, -0.10), Extents: (1.00, 0.18, 0.10)",
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "Front entrance 2.0 lintel 2.75m clear"
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "pos": "(1.30, 0.20, -0.20)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.80, 1.00, 1.00)",
+    "bounds": "Center: (1.30, 2.17, -0.27), Extents: (0.82, 0.90, 0.12)",
+    "materials": [
+      "CM_PairedWindowBay02_SharedPainted"
+    ],
+    "mesh": "CM_PairedWindowBay02_FixedFrame_Geometry"
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "pos": "(1.94, 1.36, -0.29)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.80, 1.00, 1.00)",
+    "bounds": "Center: (1.69, 2.11, -0.31), Extents: (0.27, 0.77, 0.06)",
+    "materials": [
+      "CM_PairedWindowBay02_SharedPainted",
+      "CM02_MatteAmberGlazing"
+    ],
+    "mesh": "CM02_Casement_L_ConsistentGlazing"
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "pos": "(0.66, 1.36, -0.29)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.80, 1.00, 1.00)",
+    "bounds": "Center: (0.91, 2.11, -0.31), Extents: (0.27, 0.77, 0.06)",
+    "materials": [
+      "CM_PairedWindowBay02_SharedPainted",
+      "CM02_MatteAmberGlazing"
+    ],
+    "mesh": "CM02_Casement_R_ConsistentGlazing"
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "pos": "(1.30, 0.20, -0.20)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.80, 1.00, 1.00)",
+    "bounds": "Center: (1.30, 1.23, -0.33), Extents: (0.82, 0.07, 0.26)",
+    "materials": [
+      "CM_PairedWindowBay02_SharedPainted"
+    ],
+    "mesh": "CM_PairedWindowBay02_Sill_Geometry"
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "pos": "(2.70, 0.20, -0.24)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(1.93, 1.00, 1.00)",
+    "bounds": "Center: (2.70, 0.31, -0.17), Extents: (2.72, 0.11, 0.21)",
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber"
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted EntryBay01 stone surround - seated to floor and outboard hinge",
+    "pos": "(3.70, 0.20, -0.20)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 1.69, -0.08), Extents: (1.28, 1.55, 0.13)",
+    "materials": [
+      "CM_Entrance_Painted_Stone"
+    ],
+    "mesh": "CM_C05_StoneSurround"
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted approved arched door stops - sealed reveal",
+    "pos": "(3.70, 0.20, -0.20)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 1.51, -0.02), Extents: (0.98, 1.32, 0.07)",
+    "materials": [
+      "CM_Entrance_Painted_Timber"
+    ],
+    "mesh": "CM02_FittedApprovedDoorStops"
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted closed-leaf rebate - genuine arched opening",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 1.51, -0.11), Extents: (1.02, 1.41, 0.13)",
+    "materials": [
+      "CM_Production01_Walnut"
+    ],
+    "mesh": "CM02_ArchedDoorRebate"
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD0",
+    "pos": "(5.35, 0.50, -0.18)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (5.44, 1.09, -0.23), Extents: (0.23, 0.69, 0.04)",
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_B_Foliage"
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD1",
+    "pos": "(5.35, 0.50, -0.18)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (5.39, 1.09, -0.23), Extents: (0.18, 0.69, 0.04)",
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_B_Foliage"
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Plaster",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (1.30, 2.12, -0.10), Extents: (0.92, 0.85, 0.10)",
+    "materials": [
+      "CM_Production01_Plaster"
+    ],
+    "mesh": "CM02_EntryShop_Plaster"
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Shop-side plinth termination",
+    "pos": "(1.21, 0.20, -0.24)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.86, 1.00, 1.00)",
+    "bounds": "Center: (1.21, 0.31, -0.17), Extents: (1.21, 0.11, 0.21)",
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber"
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Entrance right plinth termination",
+    "pos": "(5.19, 0.20, -0.24)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.15, 1.00, 1.00)",
+    "bounds": "Center: (5.19, 0.31, -0.17), Extents: (0.21, 0.11, 0.21)",
+    "materials": [
+      "CM_FacadeBay01_SharedPainted"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber"
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Retained shop header shoulder - no shutter rails",
+    "pos": "(1.30, 2.95, -0.21)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(0.67, 0.45, 0.45)",
+    "bounds": "Center: (1.30, 3.00, -0.25), Extents: (0.95, 0.05, 0.10)",
+    "materials": [
+      "CM_SlateRoofKit01_PaintedWalnut"
+    ],
+    "mesh": "CM_FacadeBay01_Beam_3m_Timber"
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_LimeRepair/Visual - painted craftsmanship",
+    "pos": "(5.21, 0.76, -0.21)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.60, 0.60, 0.60)",
+    "bounds": "Center: (5.21, 0.75, -0.21), Extents: (0.15, 0.14, 0.00)",
+    "materials": [
+      "CM_AF01_Linen"
+    ],
+    "mesh": "CM_HR02_LimeRepair"
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "pos": "(5.40, 2.03, 0.31)",
+    "rot": "(0.00, 270.00, 0.00)",
+    "scale": "(0.45, 0.76, 1.00)",
+    "bounds": "Center: (5.37, 2.08, 0.31), Extents: (0.04, 0.30, 0.17)",
+    "materials": [
+      "CM_HR02_PaintedWalnut",
+      "CM_AF01_Linen",
+      "CM_IL04_PaintedArtwork",
+      "CM_AF01_Brass"
+    ],
+    "mesh": "CM_IL04_BotanicalArchive"
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "pos": "(5.12, 2.00, -0.20)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.60, 0.70, 1.00)",
+    "bounds": "Center: (5.13, 2.00, -0.21), Extents: (0.20, 0.21, 0.00)",
+    "materials": [
+      "CM_IL04_PaintedArtwork"
+    ],
+    "mesh": "CM_IL04_LimewashRepair"
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "pos": "(0.10, 1.25, -0.18)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.75, 1.20, 0.80)",
+    "bounds": "Center: (0.09, 2.04, -0.22), Extents: (0.18, 0.90, 0.03)",
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_A_Foliage"
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "pos": "(0.10, 1.25, -0.18)",
+    "rot": "(0.00, 180.00, 0.00)",
+    "scale": "(0.75, 1.20, 0.80)",
+    "bounds": "Center: (0.04, 2.04, -0.22), Extents: (0.14, 0.90, 0.03)",
+    "materials": [
+      "CM_Botanical01_Foliage"
+    ],
+    "mesh": "CM_BotanicalPlanterKit01_Ivy_Wall_A_Foliage"
+  },
+  {
+    "path": "21 Structural craftsmanship benchmark 05/CM_C05_EntranceReturns",
+    "pos": "(0.00, 0.00, 0.00)",
+    "rot": "(0.00, 0.00, 0.00)",
+    "scale": "(1.00, 1.00, 1.00)",
+    "bounds": "Center: (3.70, 2.85, -0.11), Extents: (1.02, 0.12, 0.09)",
+    "materials": [
+      "CM_IL04_QuietPaintedPlaster"
+    ],
+    "mesh": "CM_C05_EntranceReturns"
+  }
+]

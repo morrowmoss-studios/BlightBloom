@@ -1,0 +1,35 @@
+{
+  "newModels": [
+    {
+      "name": "CM_EW11_FittedTimber",
+      "vertexCount": 4266,
+      "triangles": 4120,
+      "uvs": 4266,
+      "normals": 4266
+    },
+    {
+      "name": "CM_EW11_InnerMasonry",
+      "vertexCount": 7549,
+      "triangles": 10568,
+      "uvs": 7549,
+      "normals": 7549
+    },
+    {
+      "name": "CM_EW11_LimeReturns",
+      "vertexCount": 1661,
+      "triangles": 2956,
+      "uvs": 1661,
+      "normals": 1661
+    }
+  ],
+  "newShopModelTriangles": 17644,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 1
+}

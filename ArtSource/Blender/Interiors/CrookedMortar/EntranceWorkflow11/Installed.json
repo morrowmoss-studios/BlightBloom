@@ -1,0 +1,28 @@
+{
+  "scenePath": "Assets/Scenes/CM_CrookedMortar_EntranceWorkflow11_Review.unity",
+  "originalRenderers": [
+    "12 Entrance portal sign lanterns and herbs/Fitted EntryBay01 stone surround - seated to floor and outboard hinge",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_InteriorPlasterBatch"
+  ],
+  "replacementRegion": {
+    "xMin": 2.23,
+    "xMax": 5.4,
+    "yMin": 0.2,
+    "yMax": 3.3,
+    "zMin": -0.03,
+    "zMax": 0.03
+  },
+  "outerStoneKeep": "z <= -0.035m; original exterior faces retained exactly",
+  "derived": [
+    {
+      "name": "CM_EW11_PreservedOuterStone",
+      "triangles": 14874
+    },
+    {
+      "name": "CM_EW11_PreservedOtherPlaster",
+      "triangles": 925
+    }
+  ],
+  "lightsChanged": 0,
+  "collidersChanged": 0
+}

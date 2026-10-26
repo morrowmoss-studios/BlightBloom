@@ -1,0 +1,40 @@
+{
+  "modules": [
+    {
+      "name": "CM_EW11_InnerMasonry",
+      "triangles": 10568,
+      "vertices": 5336,
+      "materials": [
+        "CM_EW11_Mortar",
+        "CM_EW11_DressedSandstone"
+      ]
+    },
+    {
+      "name": "CM_EW11_LimeReturns",
+      "triangles": 2956,
+      "vertices": 1484,
+      "materials": [
+        "CM_EW11_AgedLime",
+        "CM_EW11_RenewedLime"
+      ]
+    },
+    {
+      "name": "CM_EW11_FittedTimber",
+      "triangles": 4120,
+      "vertices": 2080,
+      "materials": [
+        "CM_CW09_Walnut"
+      ]
+    }
+  ],
+  "triangles": 17644,
+  "opening": {
+    "centerX": 3.7,
+    "width": 2.0,
+    "springY": 1.92,
+    "peakY": 2.92,
+    "floorY": 0.2
+  },
+  "method": "Dressed radial and coursed masonry; continuous bedding; curved fitted lime spandrels; broad timber arrises, short housed knees, real two-part scarf. No dense displacement.",
+  "refinement": "Four selected chisel chips, broad low-density trowel relief, dedicated gouache stone paint with per-face UVs; timber and original outline unchanged."
+}

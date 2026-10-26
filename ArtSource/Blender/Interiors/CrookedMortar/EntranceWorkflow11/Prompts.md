@@ -1,0 +1,7 @@
+# Stone paint provenance
+
+Created with the built-in image generation tool for this isolated test. No external paid service or package installation. Source bitmap: PaintedStone.png; the identical Unity copy is Textures/CM_EW11_PaintedStone.png.
+
+Prompt:
+
+Use case: stylized-concept. Asset type: actual painted sandstone albedo texture for a handcrafted late-medieval apothecary doorway in a mature illustrated storybook RPG. One square edge-to-edge flat colour surface, no objects and no perspective. Hand-painted gouache traditional animated-background material: warm oatmeal limestone/sandstone with ochre and muted warm grey pigment groups, subtly chalky ivory dry-brushed strokes, a few broad mineral washes and restrained slate-grey age marks. Deliberate medium-size brush shapes with softly uneven edges, visible bristle artistry without fine photographic grain. Quiet warm midtones and restrained contrast, legible at gameplay distance; no tiny speckles, no realistic rock photograph, no procedural noise, no black cracks or painted block outlines. The actual stone courses, curved voussoirs, chipped edges and mortar joints are modeled separately in 3D. Do not draw bricks, tiles, wall, joints, carving, symbols, leaves, moss, text, border or vignette. No directional lighting, cast shadows, bevel shading, shine or realistic PBR. Do not make it washed out or pastel. This is pigmented illustrated stone colour, not a beauty render. Cohesive with walnut timber, ivory lime plaster, muted sage and warm medieval interiors.

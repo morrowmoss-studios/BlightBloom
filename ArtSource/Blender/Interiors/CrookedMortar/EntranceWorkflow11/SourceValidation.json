@@ -1,0 +1,847 @@
+{
+  "passed": true,
+  "modules": [
+    {
+      "name": "CM_EW11_FittedTimber",
+      "triangles": 4120,
+      "vertices": 2080,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_EW11_InnerMasonry",
+      "triangles": 10568,
+      "vertices": 5336,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "CM_EW11_LimeReturns",
+      "triangles": 2956,
+      "vertices": 1484,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Continuous jamb bedding",
+      "triangles": 188,
+      "vertices": 96,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Continuous jamb bedding.001",
+      "triangles": 188,
+      "vertices": 96,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Corner bearing post",
+      "triangles": 700,
+      "vertices": 352,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Drawbored oak fixing",
+      "triangles": 316,
+      "vertices": 160,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Drawbored oak fixing.001",
+      "triangles": 316,
+      "vertices": 160,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Drawbored oak fixing.002",
+      "triangles": 412,
+      "vertices": 208,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Drawbored oak fixing.003",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course -1 0",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course -1 1",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course -1 2",
+      "triangles": 378,
+      "vertices": 191,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course -1 3",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course 1 0",
+      "triangles": 390,
+      "vertices": 197,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course 1 1",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course 1 2",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Dressed jamb course 1 3",
+      "triangles": 380,
+      "vertices": 192,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Fitted keystone",
+      "triangles": 368,
+      "vertices": 186,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 0",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 1",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 10",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 11",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 12",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 2",
+      "triangles": 368,
+      "vertices": 186,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 3",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 4",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 5",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 7",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 8",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-dressed voussoir 9",
+      "triangles": 348,
+      "vertices": 176,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Hand-planed window-side joint post",
+      "triangles": 700,
+      "vertices": 352,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Housed short bearing knee",
+      "triangles": 428,
+      "vertices": 216,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Housed short bearing knee.001",
+      "triangles": 428,
+      "vertices": 216,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Left hand-trowelled spandrel",
+      "triangles": 1256,
+      "vertices": 630,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Lime-bedded arch substrate",
+      "triangles": 2204,
+      "vertices": 1104,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Repaired lime base coat",
+      "triangles": 444,
+      "vertices": 224,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Right hand-trowelled pier and spandrel",
+      "triangles": 1256,
+      "vertices": 630,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Right pier lower return",
+      "triangles": 188,
+      "vertices": 96,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Right pier upper return",
+      "triangles": 188,
+      "vertices": 96,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Scarfed wall plate A",
+      "triangles": 236,
+      "vertices": 120,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Scarfed wall plate B",
+      "triangles": 236,
+      "vertices": 120,
+      "uvCount": 1,
+      "badUV": 0,
+      "badCoordinates": 0,
+      "badNormals": 0,
+      "degenerateTriangles": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "pivot": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "units": "METRIC",
+  "scaleLength": 1.0
+}
