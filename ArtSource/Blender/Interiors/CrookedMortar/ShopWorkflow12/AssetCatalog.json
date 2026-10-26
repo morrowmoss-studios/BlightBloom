@@ -1,0 +1,40 @@
+{
+  "modules": [
+    {
+      "name": "CM_SW12_MedicineCabinet",
+      "triangles": 13324,
+      "vertices": 6734,
+      "materials": [
+        "CM_CW09_Walnut",
+        "CM_SW12_WornSage"
+      ]
+    },
+    {
+      "name": "CM_SW12_RecordsCabinet",
+      "triangles": 5384,
+      "vertices": 2712,
+      "materials": [
+        "CM_CW09_Walnut",
+        "CM_SW12_WornSage"
+      ]
+    },
+    {
+      "name": "CM_SW12_FittedPaneling",
+      "triangles": 3968,
+      "vertices": 2024,
+      "materials": [
+        "CM_SW12_WornSage",
+        "CM_CW09_Walnut"
+      ]
+    },
+    {
+      "name": "CM_SW12_FittedJoinery",
+      "triangles": 2756,
+      "vertices": 1392,
+      "materials": [
+        "CM_CW09_Walnut"
+      ]
+    }
+  ],
+  "triangles": 25432
+}

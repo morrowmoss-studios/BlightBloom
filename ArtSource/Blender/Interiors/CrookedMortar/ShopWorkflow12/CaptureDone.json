@@ -1,0 +1,62 @@
+{
+  "complete": true,
+  "lighting": "One existing local fill adjustment in colour comparisons; unchanged global rendering; clay uses same original fill",
+  "views": [
+    {
+      "variant": "Before",
+      "view": "EntranceWide",
+      "camera": "(3.70, 2.43, 5.54)",
+      "rotation": "(0.00000, 0.99619, -0.08716, 0.00000)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "CounterGameplay",
+      "camera": "(5.17, 2.11, 0.40)",
+      "rotation": "(-0.06163, 0.70442, -0.06163, -0.70442)",
+      "fov": 65.0
+    },
+    {
+      "variant": "Before",
+      "view": "CabinetClose",
+      "camera": "(1.50, 2.00, 2.40)",
+      "rotation": "(-0.04766, 0.91531, -0.11379, -0.38340)",
+      "fov": 60.0
+    },
+    {
+      "variant": "Before",
+      "view": "RoomClay",
+      "camera": "(3.80, 2.20, 3.50)",
+      "rotation": "(-0.04236, 0.89516, -0.08715, -0.43508)",
+      "fov": 60.0
+    },
+    {
+      "variant": "After",
+      "view": "EntranceWide",
+      "camera": "(3.70, 2.43, 5.54)",
+      "rotation": "(0.00000, 0.99619, -0.08716, 0.00000)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "CounterGameplay",
+      "camera": "(5.17, 2.11, 0.40)",
+      "rotation": "(-0.06163, 0.70442, -0.06163, -0.70442)",
+      "fov": 65.0
+    },
+    {
+      "variant": "After",
+      "view": "CabinetClose",
+      "camera": "(1.50, 2.00, 2.40)",
+      "rotation": "(-0.04766, 0.91531, -0.11379, -0.38340)",
+      "fov": 60.0
+    },
+    {
+      "variant": "After",
+      "view": "RoomClay",
+      "camera": "(3.80, 2.20, 3.50)",
+      "rotation": "(-0.04236, 0.89516, -0.08715, -0.43508)",
+      "fov": 60.0
+    }
+  ]
+}

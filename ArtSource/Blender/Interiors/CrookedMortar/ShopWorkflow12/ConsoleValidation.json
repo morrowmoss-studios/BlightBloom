@@ -1,0 +1,14 @@
+{
+  "compilationFailed": false,
+  "currentConsoleErrors": 0,
+  "currentConsoleWarnings": 2,
+  "newPipelineEntries": [
+    {
+      "seq": 356,
+      "kind": "read-only inspection timeout",
+      "message": "Main thread operation timed out after 20000ms"
+    }
+  ],
+  "newGameplayOrImportExceptionsObserved": false,
+  "historyCleared": false
+}

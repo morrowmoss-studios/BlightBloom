@@ -1,0 +1,42 @@
+{
+  "newModels": [
+    {
+      "name": "CM_SW12_FittedJoinery",
+      "vertexCount": 2020,
+      "triangles": 2756,
+      "uvs": 2020,
+      "normals": 2020
+    },
+    {
+      "name": "CM_SW12_FittedPaneling",
+      "vertexCount": 3304,
+      "triangles": 3968,
+      "uvs": 3304,
+      "normals": 3304
+    },
+    {
+      "name": "CM_SW12_MedicineCabinet",
+      "vertexCount": 9642,
+      "triangles": 13324,
+      "uvs": 9642,
+      "normals": 9642
+    },
+    {
+      "name": "CM_SW12_RecordsCabinet",
+      "vertexCount": 3744,
+      "triangles": 5384,
+      "uvs": 3744,
+      "normals": 3744
+    }
+  ],
+  "newShopModelTriangles": 25432,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 4
+}

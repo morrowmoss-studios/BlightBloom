@@ -178,3 +178,11 @@ Sources, comparisons, costs and validation distinctions: `../../../Interiors/Cro
 | CM02-ART-011 | Entrance inner stone ring and lime/timber connections lacked fitted construction. Workflow11 adds coursed radial masonry with mortar backing, fitted lime spandrels, selected chips, housed timber/scarf joinery and dedicated illustrated stone paint. | Separate EntranceWorkflow11 review only. Construction improves; gameplay-distance artistic improvement is restrained and still below illustrated-reference richness. Manual artistic review pending; no production rollout. |
 
 Evidence: `../../../Interiors/CrookedMortar/EntranceWorkflow11/README.md`. 17,644 new triangles, all 116 colliders unchanged; 43 static door poses/190 capsule samples pass; matched painted and clay Play-mode captures. No fresh live-input traversal/camera-comfort test. Straight frame character, repeated wood and individually authored surface history remain limitations. Production02/prior workflows protected; no commits.
+
+## Crafted shop room test — 2026-10-25
+
+| ID | Finding / action | Status |
+| --- | --- | --- |
+| CM02-ART-012 | Workflow11 entrance still sat within a sparse, regular shop composition. Workflow12 reshapes the medicine/records cabinets, adds fitted window apron paneling and curved timber bearings, and uses dedicated limewash paint plus one existing local fill adjustment. Existing stock/counter/layout retained. | Isolated `CM_CrookedMortar_ShopWorkflow12_Review`; manual artistic approval pending. More coherent/warm and readable, still below reference richness. Flat glazing, simple stock and repeated grain remain. No Production02 rollout. |
+
+Evidence: `../../../Interiors/CrookedMortar/ShopWorkflow12/README.md`. Four new modules,25,432 triangles; old cabinet visuals replaced only in review. All116 colliders unchanged,43 static door poses/190 capsule samples pass. Live existing-controller route passes E-key opening, both threshold directions, customer/staff/records approaches and kitchen doorway. Full stairs regression not repeated for this local art pass. Nothing committed or pushed.

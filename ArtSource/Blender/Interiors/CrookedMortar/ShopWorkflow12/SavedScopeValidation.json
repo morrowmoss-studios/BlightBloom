@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "changedOriginalRecords": [
+    {
+      "fileID": "18092552",
+      "classID": 23
+    },
+    {
+      "fileID": "378084161",
+      "classID": 4
+    },
+    {
+      "fileID": "378084162",
+      "classID": 108
+    },
+    {
+      "fileID": "479448791",
+      "classID": 1001
+    },
+    {
+      "fileID": "660489862",
+      "classID": 1001
+    },
+    {
+      "fileID": "1427061938",
+      "classID": 1001
+    },
+    {
+      "fileID": "9223372036854775807",
+      "classID": 1660057539
+    }
+  ],
+  "changedScriptsCameraOrColliders": [],
+  "addedRecords": 10
+}

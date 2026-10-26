@@ -1,0 +1,53 @@
+{
+  "baseline": "Assets/Scenes/CM_CrookedMortar_EntranceWorkflow11_Review.unity",
+  "disabledPaths": [
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_MedicineCabinet",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_RecordsCabinet"
+  ],
+  "materialOverrides": [
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_LimeReturns",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_AgedLime.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_RenewedLime.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_PreservedOtherPlaster",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedPlaster.mat"
+      ]
+    }
+  ],
+  "lightsChanged": 1,
+  "root": "24 ShopWorkflow12 - crafted room test",
+  "lightBefore": {
+    "position": [
+      1.55,
+      2.78,
+      1.15
+    ],
+    "color": [
+      1.0,
+      0.88,
+      0.73
+    ],
+    "intensity": 1.15,
+    "range": 4.6
+  },
+  "lightAfter": {
+    "position": [
+      1.85,
+      2.55,
+      0.55
+    ],
+    "color": [
+      1.0,
+      0.86,
+      0.66
+    ],
+    "intensity": 1.65,
+    "range": 4.6
+  },
+  "lightPath": "09 Neutral interior fill - no shadows/Room fill"
+}
