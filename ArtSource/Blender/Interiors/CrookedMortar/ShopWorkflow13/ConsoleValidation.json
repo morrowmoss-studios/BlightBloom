@@ -1,0 +1,13 @@
+{
+  "compilationFailed": false,
+  "currentConsoleErrors": 0,
+  "pipelineRetainedWarningCounters": 2,
+  "nativeLogEntryCount": 0,
+  "newCapturedConsoleWarnings": 0,
+  "recentShaderCompileShadowLogMatches": 0,
+  "automationDiagnostics": [
+    "Capture snippet initially omitted the z argument to Quaternion.Euler; corrected before capture.",
+    "Focused route cancelled without starting; fallback E-key opening passed but movement timed out because TraversalInput clears input while unfocused."
+  ],
+  "historyCleared": false
+}

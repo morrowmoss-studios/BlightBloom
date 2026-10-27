@@ -1,0 +1,49 @@
+{
+  "newModels": [
+    {
+      "name": "CM_SW13_FittedApothecaryCabinet",
+      "vertexCount": 12335,
+      "triangles": 14944,
+      "uvs": 12335,
+      "normals": 12335
+    },
+    {
+      "name": "CM_SW13_RecordsCase",
+      "vertexCount": 3499,
+      "triangles": 5084,
+      "uvs": 3499,
+      "normals": 3499
+    },
+    {
+      "name": "CM_SW13_RemedyDisplay",
+      "vertexCount": 10140,
+      "triangles": 11056,
+      "uvs": 10140,
+      "normals": 10140
+    },
+    {
+      "name": "CM_SW13_ServiceCounter",
+      "vertexCount": 18373,
+      "triangles": 29040,
+      "uvs": 18373,
+      "normals": 18373
+    },
+    {
+      "name": "CM_SW13_StructuralJoinery",
+      "vertexCount": 4548,
+      "triangles": 5712,
+      "uvs": 4548,
+      "normals": 4548
+    }
+  ],
+  "newShopModelTriangles": 65836,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 5
+}

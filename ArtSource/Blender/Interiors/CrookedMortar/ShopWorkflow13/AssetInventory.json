@@ -1,0 +1,66 @@
+{
+  "models": [
+    {
+      "name": "CM_SW13_FittedApothecaryCabinet",
+      "triangles": 14944,
+      "vertices": 7608,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage",
+        "CM_SW13_AgedBrass"
+      ]
+    },
+    {
+      "name": "CM_SW13_RemedyDisplay",
+      "triangles": 11056,
+      "vertices": 5872,
+      "materials": [
+        "CM_SW13_IvoryCeramic",
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_HerbLabels",
+        "CM_SW13_AmberVessel",
+        "CM_SW13_SageVessel",
+        "CM_SW13_Sage"
+      ]
+    },
+    {
+      "name": "CM_SW13_RecordsCase",
+      "triangles": 5084,
+      "vertices": 2560,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage"
+      ]
+    },
+    {
+      "name": "CM_SW13_StructuralJoinery",
+      "triangles": 5712,
+      "vertices": 2904,
+      "materials": [
+        "CM_SW13_PaintedWalnut"
+      ]
+    },
+    {
+      "name": "CM_SW13_ServiceCounter",
+      "triangles": 29040,
+      "vertices": 14598,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage",
+        "CM_SW13_RegisteredCarving"
+      ]
+    }
+  ],
+  "newTriangles": 65836,
+  "editableSource": "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow13/CM_ShopWorkflow13.blend",
+  "paintSources": [
+    "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow13/PaintedWalnut.png",
+    "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow13/PaintedVesselAtlas.png",
+    "ArtSource/Blender/Interiors/CrookedMortar/ShopWorkflow13/HerbLabels.png"
+  ],
+  "shader": "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Shaders/CM_SW13_PaintedInterior.shader",
+  "reviewScene": "Assets/Scenes/CM_CrookedMortar_ShopWorkflow13_Review.unity",
+  "reusedSculpt": "ArtSource/Blender/Interiors/CrookedMortar/CounterWorkflow07/SculptFields.npy",
+  "reusedCarvingPaint": "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow07/Textures/CM_CW07_CarvedWalnut.png",
+  "priorAssetsModified": false
+}

@@ -1,0 +1,83 @@
+{
+  "passed": true,
+  "changedOriginalRecords": [
+    {
+      "fileID": "18092552",
+      "classID": 23
+    },
+    {
+      "fileID": "147409528",
+      "classID": 1001
+    },
+    {
+      "fileID": "378084162",
+      "classID": 108
+    },
+    {
+      "fileID": "434848645",
+      "classID": 1001
+    },
+    {
+      "fileID": "479448791",
+      "classID": 1001
+    },
+    {
+      "fileID": "555822761",
+      "classID": 23
+    },
+    {
+      "fileID": "618610341",
+      "classID": 1001
+    },
+    {
+      "fileID": "928278429",
+      "classID": 1001
+    },
+    {
+      "fileID": "1031455168",
+      "classID": 1001
+    },
+    {
+      "fileID": "1134905680",
+      "classID": 1001
+    },
+    {
+      "fileID": "1138254116",
+      "classID": 1001
+    },
+    {
+      "fileID": "1407831936",
+      "classID": 1001
+    },
+    {
+      "fileID": "1464747665",
+      "classID": 1001
+    },
+    {
+      "fileID": "1768087819",
+      "classID": 1001
+    },
+    {
+      "fileID": "1818926727",
+      "classID": 1001
+    },
+    {
+      "fileID": "1874065100",
+      "classID": 1001
+    },
+    {
+      "fileID": "2048412039",
+      "classID": 1001
+    },
+    {
+      "fileID": "2114902013",
+      "classID": 1001
+    },
+    {
+      "fileID": "9223372036854775807",
+      "classID": 1660057539
+    }
+  ],
+  "changedScriptsCameraOrColliders": [],
+  "addedRecords": 16
+}

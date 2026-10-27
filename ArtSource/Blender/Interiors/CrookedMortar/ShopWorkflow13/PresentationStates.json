@@ -1,0 +1,98 @@
+{
+  "baseline": "Assets/Scenes/CM_CrookedMortar_ShopWorkflow12_Review.unity",
+  "root": "25 ShopWorkflow13 - reference reconstructed shop",
+  "disabledPaths": [
+    "24 ShopWorkflow12 - crafted room test/CM_SW12_MedicineCabinet",
+    "24 ShopWorkflow12 - crafted room test/CM_SW12_RecordsCabinet",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse1/Visual - painted craftsmanship",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse2/Visual - painted craftsmanship",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse3/Visual - painted craftsmanship",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse4/Visual - painted craftsmanship",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection1/CM_IL04_WorkingCollection1",
+    "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection3/CM_IL04_WorkingCollection3",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_ShopBeam",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_RoomJoinery",
+    "24 ShopWorkflow12 - crafted room test/CM_SW12_FittedJoinery",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_CW09_HeroCounter/CM_CW09_HeroCounter"
+  ],
+  "materialOverrides": [
+    {
+      "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_CW09_HeroCounter/CM_CW09_HeroCounter",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Iron.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_CarvedWalnut.mat"
+      ]
+    },
+    {
+      "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_Ceiling",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_CeilingWalnut.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_InnerMasonry",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_Mortar.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_DressedSandstone.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_LimeReturns",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_FittedTimber",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_PreservedOtherPlaster",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat"
+      ]
+    },
+    {
+      "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_FittedPaneling",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_WornSage.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+      ]
+    },
+    {
+      "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat",
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_MatteAmberGlazing.mat"
+      ]
+    },
+    {
+      "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat",
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_MatteAmberGlazing.mat"
+      ]
+    }
+  ],
+  "lightBefore": {
+    "path": "09 Neutral interior fill - no shadows/Room fill",
+    "position": [
+      1.85,
+      2.55,
+      0.55
+    ],
+    "color": [
+      1.0,
+      0.86,
+      0.66
+    ],
+    "intensity": 1.65,
+    "range": 4.6
+  },
+  "lightsAdded": 1,
+  "collidersChanged": 0
+}

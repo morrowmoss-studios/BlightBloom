@@ -1,0 +1,1785 @@
+[
+  {
+    "path": "08 Front door - E toggle outward into reserved pocket/Approved EntranceBay01 leaf - fitted visual adapter",
+    "position": [
+      4.68,
+      0.2,
+      -0.31
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(3.70, 1.55, -0.31)",
+    "size": "(1.96, 2.70, 0.10)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Timber.mat",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Iron.mat",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Sage.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb A",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(1.25, 1.75, -0.10)",
+    "size": "(2.90, 3.10, 0.21)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 jamb B",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(5.15, 1.75, -0.10)",
+    "size": "(0.90, 3.10, 0.21)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Front entrance 2.0 lintel 2.75m clear",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.70, 3.13, -0.10)",
+    "size": "(2.00, 0.35, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop floor 5.4 x 4.4",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 0.10, 2.20)",
+    "size": "(5.80, 0.20, 4.80)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb A",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(5.50, 1.75, 1.05)",
+    "size": "(0.20, 3.10, 2.10)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb B",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(5.50, 1.75, 4.15)",
+    "size": "(0.20, 3.10, 0.50)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 lintel 2.75m clear",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(5.50, 3.13, 3.00)",
+    "size": "(0.20, 0.35, 1.80)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb A",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.20, 1.75, 4.50)",
+    "size": "(0.80, 3.10, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb B",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(5.00, 1.75, 4.50)",
+    "size": "(0.80, 3.10, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 lintel 2.75m clear",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.60, 3.13, 4.50)",
+    "size": "(2.00, 0.35, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper living and open landing",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 3.45, 2.20)",
+    "size": "(5.80, 0.30, 4.80)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+    ]
+  },
+  {
+    "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/West shop front",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(-0.10, 1.75, 1.10)",
+    "size": "(0.20, 3.10, 2.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_FixedFrame/Geometry",
+    "position": [
+      1.3,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(1.30, 2.17, -0.27)",
+    "size": "(1.63, 1.80, 0.24)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_L/Geometry",
+    "position": [
+      1.944,
+      1.36,
+      -0.290000081
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(1.69, 2.11, -0.31)",
+    "size": "(0.55, 1.54, 0.12)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_MatteAmberGlazing.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Casement_R/Geometry",
+    "position": [
+      0.655999959,
+      1.36,
+      -0.289999962
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(0.91, 2.11, -0.31)",
+    "size": "(0.55, 1.54, 0.12)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat",
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production02/Materials/CM02_MatteAmberGlazing.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_Sill/Geometry",
+    "position": [
+      1.3,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(1.30, 1.23, -0.33)",
+    "size": "(1.63, 0.14, 0.51)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/ShopDisplay - approved insert only/CM_PairedWindowBay02_PlanterBrackets/Geometry",
+    "position": [
+      1.3,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(1.30, 0.72, -0.46)",
+    "size": "(1.06, 0.26, 0.46)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/PairedWindowBay02/Materials/CM_PairedWindowBay02_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Beam_3m/Geometry",
+    "position": [
+      2.7,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(2.70, 0.31, -0.17)",
+    "size": "(5.44, 0.22, 0.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "11 Approved modular facade and windows/Shared FacadeBay01 timber - no duplicate bay walls/CM_FacadeBay01_Post_3p24m/Geometry",
+    "position": [
+      5.5,
+      0.2,
+      1.77
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.50, 1.90, 1.84)",
+    "size": "(0.18, 3.40, 0.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted approved arched door stops - sealed reveal",
+    "position": [
+      3.7,
+      0.2,
+      -0.2
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.70, 1.51, -0.02)",
+    "size": "(1.96, 2.64, 0.14)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Timber.mat"
+    ]
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Fitted closed-leaf rebate - genuine arched opening",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.70, 1.51, -0.11)",
+    "size": "(2.03, 2.83, 0.26)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Walnut.mat"
+    ]
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD0",
+    "position": [
+      5.35,
+      0.5,
+      -0.175
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.44, 1.09, -0.23)",
+    "size": "(0.46, 1.38, 0.08)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Foliage.mat"
+    ]
+  },
+  {
+    "path": "13 Restrained replaceable botanicals/Attached facade ivy - clear of door/LOD1",
+    "position": [
+      5.35,
+      0.5,
+      -0.175
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.39, 1.09, -0.23)",
+    "size": "(0.36, 1.38, 0.08)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Foliage.mat"
+    ]
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/CM02_EntryShopComposition05/CM02_EntryShop_Plaster",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(1.30, 2.12, -0.10)",
+    "size": "(1.85, 1.70, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Plaster.mat"
+    ]
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Shop-side plinth termination",
+    "position": [
+      1.21,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(1.21, 0.31, -0.17)",
+    "size": "(2.42, 0.22, 0.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Entrance right plinth termination",
+    "position": [
+      5.19,
+      0.2,
+      -0.24
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.19, 0.31, -0.17)",
+    "size": "(0.42, 0.22, 0.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/FacadeBay01/Materials/CM_FacadeBay01_SharedPainted.mat"
+    ]
+  },
+  {
+    "path": "16 Fitted entrance and shop composition/Retained shop header shoulder - no shutter rails",
+    "position": [
+      1.3,
+      2.945,
+      -0.213333368
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(1.30, 3.00, -0.25)",
+    "size": "(1.90, 0.10, 0.19)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_HR02_RecordsCluster/Visual - painted craftsmanship",
+    "position": [
+      1.79,
+      1.255,
+      1.35
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(1.79, 1.45, 1.40)",
+    "size": "(0.32, 0.39, 0.47)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter/CM_IL04_CounterRunner/CM_IL04_CounterRunner",
+    "position": [
+      1.95,
+      0.2,
+      1.4
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(2.06, 1.05, 0.92)",
+    "size": "(0.66, 0.42, 0.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_BalanceScales/Visual",
+    "position": [
+      1.92,
+      1.255,
+      0.71
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(1.92, 1.50, 0.71)",
+    "size": "(0.28, 0.48, 0.58)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Walnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_OpenLedger/Visual",
+    "position": [
+      1.8900001,
+      1.255,
+      1.88
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(1.89, 1.28, 1.88)",
+    "size": "(0.32, 0.05, 0.45)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_CeramicJar/CM_HR02_CounterJar/CM_HR02_CounterJar",
+    "position": [
+      2.13,
+      1.255,
+      1.3
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(2.13, 1.40, 1.30)",
+    "size": "(0.17, 0.28, 0.17)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Ceramic.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse2/Visual - painted craftsmanship",
+    "position": [
+      0.245,
+      1.19,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.26, 1.37, 1.14)",
+    "size": "(0.20, 0.35, 1.45)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Glass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Ceramic.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_HR02_StockCourse4/Visual - painted craftsmanship",
+    "position": [
+      0.245,
+      2.11,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.25, 2.28, 1.12)",
+    "size": "(0.23, 0.34, 1.42)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Glass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Ceramic.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection1/CM_IL04_WorkingCollection1",
+    "position": [
+      0.25,
+      0.729999959,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.27, 0.91, 1.14)",
+    "size": "(0.23, 0.36, 1.43)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Glass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving/CM_IL04_WorkingCollection3/CM_IL04_WorkingCollection3",
+    "position": [
+      0.25,
+      1.6500001,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.25, 1.83, 1.10)",
+    "size": "(0.25, 0.36, 1.45)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Glass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_AF01_DryingRack/Visual",
+    "position": [
+      0.14,
+      2.5,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.20, 2.94, 1.15)",
+    "size": "(0.41, 0.34, 1.19)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Walnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "position": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.38, 2.79, 1.56)",
+    "size": "(0.23, 0.36, 0.22)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD0/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "position": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.97, 1.56)",
+    "size": "(0.05, 0.15, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_FoliageDry",
+    "position": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.38, 2.79, 1.56)",
+    "size": "(0.23, 0.36, 0.22)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Lavender/LOD1/CM_BotanicalPlanterKit01_Hanging_Lavender_Twine",
+    "position": [
+      0.3700001,
+      3.04,
+      1.55800009
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.97, 1.56)",
+    "size": "(0.05, 0.15, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "position": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.36, 2.82, 1.14)",
+    "size": "(0.21, 0.29, 0.19)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "position": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.96, 1.15)",
+    "size": "(0.05, 0.16, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "position": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.36, 2.82, 1.14)",
+    "size": "(0.21, 0.29, 0.19)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "position": [
+      0.370000035,
+      3.04,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.96, 1.15)",
+    "size": "(0.05, 0.16, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "position": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.38, 2.80, 0.74)",
+    "size": "(0.16, 0.33, 0.17)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "position": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.97, 0.74)",
+    "size": "(0.05, 0.15, 0.08)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "position": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.38, 2.80, 0.74)",
+    "size": "(0.16, 0.32, 0.17)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_HerbDryingStation/CM_BotanicalPlanterKit01_Hanging_Rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "position": [
+      0.369999975,
+      3.04,
+      0.741999865
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.37, 2.97, 0.74)",
+    "size": "(0.05, 0.15, 0.08)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "18 Shop and entrance - artistic refinement 02/CM_HR02_LimeRepair/Visual - painted craftsmanship",
+    "position": [
+      5.21,
+      0.76,
+      -0.206
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.21, 0.75, -0.21)",
+    "size": "(0.30, 0.29, 0.00)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_HR02_HerbariumBoard/Visual - painted craftsmanship",
+    "position": [
+      5.377,
+      2.08,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.37, 2.08, 1.10)",
+    "size": "(0.06, 0.90, 0.72)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf/CM_HR02_Parcel/Visual - painted craftsmanship",
+    "position": [
+      5.257,
+      1.20499992,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.26, 1.26, 1.10)",
+    "size": "(0.21, 0.12, 0.25)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "position": [
+      1.05,
+      3.13,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(1.05, 3.10, 1.90)",
+    "size": "(0.05, 0.12, 0.04)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "position": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "center": "(1.05, 2.80, 1.88)",
+    "size": "(0.31, 0.32, 0.29)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD0/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "position": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "center": "(1.05, 2.97, 1.90)",
+    "size": "(0.13, 0.17, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_FoliageDry",
+    "position": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "center": "(1.05, 2.80, 1.88)",
+    "size": "(0.31, 0.32, 0.29)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - mixed/LOD1/CM_BotanicalPlanterKit01_Hanging_Mixed_Twine",
+    "position": [
+      1.05,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      18.0,
+      0.0
+    ],
+    "center": "(1.05, 2.97, 1.90)",
+    "size": "(0.13, 0.17, 0.09)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_BeamHook/CM_LI03_BeamHook",
+    "position": [
+      1.66,
+      3.13,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(1.66, 3.10, 1.90)",
+    "size": "(0.05, 0.12, 0.04)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "position": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "center": "(1.67, 2.80, 1.90)",
+    "size": "(0.22, 0.34, 0.25)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD0/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "position": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "center": "(1.66, 2.97, 1.90)",
+    "size": "(0.07, 0.16, 0.11)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_FoliageDry",
+    "position": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "center": "(1.67, 2.80, 1.90)",
+    "size": "(0.22, 0.34, 0.25)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_FoliageDry.mat"
+    ]
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/Ceiling herbs - rosemary/LOD1/CM_BotanicalPlanterKit01_Hanging_Rosemary_Twine",
+    "position": [
+      1.66,
+      3.049,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      103.0,
+      0.0
+    ],
+    "center": "(1.66, 2.97, 1.90)",
+    "size": "(0.07, 0.16, 0.11)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Twine.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "position": [
+      2.19,
+      1.98,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(2.19, 2.05, 4.37)",
+    "size": "(0.62, 0.79, 0.07)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "position": [
+      5.0,
+      1.98,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.00, 2.05, 4.37)",
+    "size": "(0.62, 0.79, 0.07)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "position": [
+      5.397,
+      2.03,
+      0.31
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.37, 2.08, 0.31)",
+    "size": "(0.07, 0.60, 0.34)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_BotanicalArchive/CM_IL04_BotanicalArchive",
+    "position": [
+      5.397,
+      2.03,
+      1.89
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.37, 2.08, 1.89)",
+    "size": "(0.07, 0.60, 0.34)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "position": [
+      2.47,
+      0.2,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(2.41, 1.57, 4.34)",
+    "size": "(0.26, 2.74, 0.12)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "position": [
+      4.73,
+      0.2,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(4.67, 1.57, 4.34)",
+    "size": "(0.26, 2.74, 0.12)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "position": [
+      3.6,
+      3.12,
+      4.397
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(3.60, 3.12, 4.35)",
+    "size": "(1.92, 0.16, 0.10)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "position": [
+      5.397,
+      0.2,
+      1.96
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.34, 1.57, 2.02)",
+    "size": "(0.12, 2.74, 0.26)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_JambDetail/CM_IL04_JambDetail",
+    "position": [
+      5.397,
+      0.2,
+      4.04
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.34, 1.57, 4.10)",
+    "size": "(0.12, 2.74, 0.26)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_Header/CM_IL04_Header",
+    "position": [
+      5.397,
+      3.12,
+      3.0
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.35, 3.12, 3.00)",
+    "size": "(0.10, 0.16, 1.92)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Brass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_WovenMat/CM_IL04_WovenMat",
+    "position": [
+      3.6,
+      0.201,
+      1.3
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.61, 0.21, 1.30)",
+    "size": "(1.33, 0.00, 2.08)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "position": [
+      5.12,
+      2.0,
+      -0.203
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(5.13, 2.00, -0.21)",
+    "size": "(0.40, 0.43, 0.00)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_LimewashRepair/CM_IL04_LimewashRepair",
+    "position": [
+      -0.203,
+      2.4,
+      1.35
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(-0.21, 2.40, 1.34)",
+    "size": "(0.00, 0.61, 0.66)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/CM_IL04_HerbalBanner/CM_IL04_HerbalBanner",
+    "position": [
+      -0.203,
+      1.9,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(-0.23, 1.97, 1.15)",
+    "size": "(0.06, 1.50, 0.86)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_PaintedArtwork.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD0",
+    "position": [
+      0.1,
+      1.25,
+      -0.18
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(0.09, 2.04, -0.22)",
+    "size": "(0.36, 1.79, 0.05)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Foliage.mat"
+    ]
+  },
+  {
+    "path": "20 Illustrated apothecary composition 04/Attached botanical trail 04/LOD1",
+    "position": [
+      0.1,
+      1.25,
+      -0.18
+    ],
+    "euler": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "center": "(0.04, 2.04, -0.22)",
+    "size": "(0.27, 1.79, 0.05)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/BotanicalPlanterKit01/Materials/CM_Botanical01_Foliage.mat"
+    ]
+  },
+  {
+    "path": "21 Structural craftsmanship benchmark 05/CM_C05_EntranceReturns",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.70, 2.85, -0.11)",
+    "size": "(2.04, 0.24, 0.18)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_CW09_HeroCounter/CM_CW09_HeroCounter",
+    "position": [
+      1.95,
+      0.2,
+      1.4
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(1.95, 0.73, 1.40)",
+    "size": "(0.78, 1.05, 2.28)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Iron.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_CarvedWalnut.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_Ceiling",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 3.30, 2.20)",
+    "size": "(5.40, 0.00, 4.40)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_CeilingWalnut.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_ShopBeam",
+    "position": [
+      2.7,
+      3.21,
+      1.9
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 3.07, 1.90)",
+    "size": "(5.40, 0.32, 0.22)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_RoomJoinery",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.72, 1.75, 2.24)",
+    "size": "(5.39, 3.10, 4.33)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_FlagstoneFloor",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 0.19, 2.20)",
+    "size": "(5.38, 0.03, 4.38)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow10/Materials/CM_SW10_PaintedStone.mat"
+    ]
+  },
+  {
+    "path": "22 ShopWorkflow10 - isolated artistic reconstruction/Robert records - original contents retained",
+    "position": [
+      5.397,
+      0.78,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.25, 1.18, 1.10)",
+    "size": "(0.29, 0.80, 1.29)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Sage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_PaintedWalnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Linen.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/HeroRefinement02/Materials/CM_HR02_InkArtwork.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Glass.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ApothecaryFurnishings01/Materials/CM_AF01_Iron.mat"
+    ]
+  },
+  {
+    "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_InnerMasonry",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.85, 1.70, 0.06)",
+    "size": "(2.81, 2.99, 0.20)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_Mortar.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/EntranceWorkflow11/Materials/CM_EW11_DressedSandstone.mat"
+    ]
+  },
+  {
+    "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_LimeReturns",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.82, 1.70, 0.02)",
+    "size": "(3.17, 3.01, 0.06)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat"
+    ]
+  },
+  {
+    "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_FittedTimber",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.80, 1.75, 0.10)",
+    "size": "(3.20, 3.10, 0.16)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+    ]
+  },
+  {
+    "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_PreservedOuterStone",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(3.70, 1.69, -0.12)",
+    "size": "(2.55, 3.10, 0.17)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/CrookedMortar/EntranceBay01/Materials/CM_Entrance_Painted_Stone.mat"
+    ]
+  },
+  {
+    "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_PreservedOtherPlaster",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.70, 1.75, 2.20)",
+    "size": "(5.80, 3.10, 4.40)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_PaintedLimewash.mat"
+    ]
+  },
+  {
+    "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_MedicineCabinet",
+    "position": [
+      0.23,
+      0.2,
+      1.15
+    ],
+    "euler": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "center": "(0.23, 1.47, 1.15)",
+    "size": "(0.38, 2.53, 1.86)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_WornSage.mat"
+    ]
+  },
+  {
+    "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_RecordsCabinet",
+    "position": [
+      5.397,
+      0.78,
+      1.1
+    ],
+    "euler": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "center": "(5.26, 1.24, 1.10)",
+    "size": "(0.28, 0.96, 1.34)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_WornSage.mat"
+    ]
+  },
+  {
+    "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_FittedPaneling",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.76, 0.67, 0.90)",
+    "size": "(5.24, 0.91, 1.76)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow12/Materials/CM_SW12_WornSage.mat",
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+    ]
+  },
+  {
+    "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_FittedJoinery",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "euler": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "center": "(2.64, 2.19, 0.98)",
+    "size": "(5.28, 2.06, 1.99)",
+    "materials": [
+      "Assets/BlightBloom/Art/Interiors/CrookedMortar/CounterWorkflow09/Materials/CM_CW09_Walnut.mat"
+    ]
+  }
+]

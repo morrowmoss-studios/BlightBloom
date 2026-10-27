@@ -1,0 +1,57 @@
+{
+  "modules": [
+    {
+      "name": "CM_SW13_FittedApothecaryCabinet",
+      "triangles": 14944,
+      "vertices": 7608,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage",
+        "CM_SW13_AgedBrass"
+      ]
+    },
+    {
+      "name": "CM_SW13_RemedyDisplay",
+      "triangles": 11056,
+      "vertices": 5872,
+      "materials": [
+        "CM_SW13_IvoryCeramic",
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_HerbLabels",
+        "CM_SW13_AmberVessel",
+        "CM_SW13_SageVessel",
+        "CM_SW13_Sage"
+      ]
+    },
+    {
+      "name": "CM_SW13_RecordsCase",
+      "triangles": 5084,
+      "vertices": 2560,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage"
+      ]
+    },
+    {
+      "name": "CM_SW13_StructuralJoinery",
+      "triangles": 5712,
+      "vertices": 2904,
+      "materials": [
+        "CM_SW13_PaintedWalnut"
+      ]
+    },
+    {
+      "name": "CM_SW13_ServiceCounter",
+      "triangles": 29040,
+      "vertices": 14598,
+      "materials": [
+        "CM_SW13_PaintedWalnut",
+        "CM_SW13_Sage",
+        "CM_SW13_RegisteredCarving"
+      ]
+    }
+  ],
+  "triangles": 65836,
+  "originalStockCoursesReplaced": 4,
+  "medicineVessels": 20
+}

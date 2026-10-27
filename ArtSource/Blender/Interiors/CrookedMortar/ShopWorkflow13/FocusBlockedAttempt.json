@@ -1,0 +1,14 @@
+{
+  "passed": false,
+  "error": "Cancelled waiting for unavailable application focus; using isolated transient input test",
+  "doorOpened": false,
+  "method": "Temporary Gamepad left-stick state events through existing Player/Move -> TraversalInput -> normal ThirdPersonMotor.Update. Actual camera LateUpdate remains enabled. One initial pose setup; no route teleports or CharacterController.Move calls from the test. Steering compensates for the rendered camera yaw to follow world waypoints; this is repeatable input-path validation, not a substitute for manual feel acceptance.",
+  "elapsed": 780.75739620893728,
+  "emergencyCorrections": 0,
+  "reached": [],
+  "samples": [],
+  "systemsEnabled": true,
+  "height": 2.0,
+  "radius": 0.4,
+  "stepOffset": 0.3
+}
