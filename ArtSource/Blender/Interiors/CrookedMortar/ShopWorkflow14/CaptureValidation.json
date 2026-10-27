@@ -1,0 +1,132 @@
+{
+  "complete": true,
+  "method": "Actual Unity camera render in Play mode. Identical fixed gameplay-distance poses and FOV before/after; avatar temporarily posed for gameplay-context view. No paintover or reference backdrop. Clay pair uses identical light intensity. Controllers restored.",
+  "views": [
+    {
+      "variant": 0,
+      "view": "Entrance",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "Shop",
+      "camera": "(4.60, 1.80, 3.40)",
+      "target": "(0.90, 1.45, 1.10)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "EntranceOpen",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "StairBottom",
+      "camera": "(-1.25, 1.75, 3.10)",
+      "target": "(-1.25, 1.80, 6.50)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "StairTurn",
+      "camera": "(0.75, 3.35, 8.65)",
+      "target": "(0.30, 3.35, 5.20)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "EntranceClay",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": true,
+      "avatar": false
+    },
+    {
+      "variant": 0,
+      "view": "Gameplay",
+      "camera": "(3.95, 2.05, 3.60)",
+      "target": "(2.10, 1.40, 1.25)",
+      "fov": 65,
+      "clay": false,
+      "avatar": true
+    },
+    {
+      "variant": 1,
+      "view": "Entrance",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "Shop",
+      "camera": "(4.60, 1.80, 3.40)",
+      "target": "(0.90, 1.45, 1.10)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "EntranceOpen",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "StairBottom",
+      "camera": "(-1.25, 1.75, 3.10)",
+      "target": "(-1.25, 1.80, 6.50)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "StairTurn",
+      "camera": "(0.75, 3.35, 8.65)",
+      "target": "(0.30, 3.35, 5.20)",
+      "fov": 65,
+      "clay": false,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "EntranceClay",
+      "camera": "(3.90, 1.75, 3.50)",
+      "target": "(2.70, 1.65, 0.00)",
+      "fov": 65,
+      "clay": true,
+      "avatar": false
+    },
+    {
+      "variant": 1,
+      "view": "Gameplay",
+      "camera": "(3.95, 2.05, 3.60)",
+      "target": "(2.10, 1.40, 1.25)",
+      "fov": 65,
+      "clay": false,
+      "avatar": true
+    }
+  ]
+}

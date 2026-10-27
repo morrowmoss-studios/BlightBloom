@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "changedOriginalRecords": [
+    {
+      "fileID": "18092552",
+      "classID": 23
+    },
+    {
+      "fileID": "413207185",
+      "classID": 1001
+    },
+    {
+      "fileID": "434848645",
+      "classID": 1001
+    },
+    {
+      "fileID": "479448791",
+      "classID": 1001
+    },
+    {
+      "fileID": "555822761",
+      "classID": 23
+    },
+    {
+      "fileID": "772550613",
+      "classID": 1001
+    },
+    {
+      "fileID": "964035793",
+      "classID": 1001
+    },
+    {
+      "fileID": "1189952227",
+      "classID": 1001
+    },
+    {
+      "fileID": "1435891135",
+      "classID": 1001
+    },
+    {
+      "fileID": "1504364371",
+      "classID": 1001
+    },
+    {
+      "fileID": "2036123602",
+      "classID": 1001
+    },
+    {
+      "fileID": "2068889498",
+      "classID": 108
+    },
+    {
+      "fileID": "2141081629",
+      "classID": 1001
+    },
+    {
+      "fileID": "9223372036854775807",
+      "classID": 1660057539
+    }
+  ],
+  "changedScriptsCameraOrColliders": [],
+  "addedRecords": 12
+}

@@ -1,0 +1,172 @@
+{
+  "root": "26 ShopWorkflow14 - fixed-layout reference elements",
+  "disabledPaths": [
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 1",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 2",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 3",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 4",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 5",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 6",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 7",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 8",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 9",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 1",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 2",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 3",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 4",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 5",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 6",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 7",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 8",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 9",
+    "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_FlagstoneFloor",
+    "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_InnerMasonry",
+    "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_LimeReturns",
+    "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_PreservedOtherPlaster"
+  ],
+  "materialOverrides": [
+    {
+      "path": "15 Production02 open timber staircase/CM02_Stair_Balusters",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "15 Production02 open timber staircase/CM02_Stair_Handrails",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "15 Production02 open timber staircase/CM02_Stair_LandingFloor",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "15 Production02 open timber staircase/CM02_Stair_Newels",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "15 Production02 open timber staircase/CM02_Stair_Stringers",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/SlateRoofKit01/Materials/CM_SlateRoofKit01_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "22 ShopWorkflow10 - isolated artistic reconstruction/CM_SW10_Ceiling",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "23 EntranceWorkflow11 - fitted architectural test/CM_EW11_EntranceSection/CM_EW11_FittedTimber",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "24 ShopWorkflow12 - crafted room test/CM_SW12_FittedPaneling",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_Sage.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/CM_SW13_FittedApothecaryCabinet",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_Sage.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_AgedBrass.mat"
+      ]
+    },
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/CM_SW13_RemedyDisplay",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_IvoryCeramic.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_HerbLabels.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_AmberVessel.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_SageVessel.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_Sage.mat"
+      ]
+    },
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/CM_SW13_RecordsCase",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_Sage.mat"
+      ]
+    },
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/CM_SW13_StructuralJoinery",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat"
+      ]
+    },
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/CM_SW13_ServiceCounter",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_PaintedWalnut.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_Sage.mat",
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/ShopWorkflow13/Materials/CM_SW13_RegisteredCarving.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb A",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 jamb B",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to kitchen 1.8 lintel 2.75m clear",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb A",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 jamb B",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Shop to treatment 2.0 lintel 2.75m clear",
+      "before": [
+        "Assets/BlightBloom/Art/Interiors/CrookedMortar/Illustrated04/Materials/CM_IL04_QuietPaintedPlaster.mat"
+      ]
+    },
+    {
+      "path": "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lobby south return",
+      "before": [
+        "Assets/BlightBloom/Art/Architecture/CrookedMortar/Production01/Materials/CM_Production01_Plaster.mat"
+      ]
+    }
+  ],
+  "lightsBefore": [
+    {
+      "path": "25 ShopWorkflow13 - reference reconstructed shop/Local window daylight - no global lighting change",
+      "intensity": 3.6,
+      "color": [
+        1.0,
+        0.91,
+        0.74
+      ],
+      "shadows": 2
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+[
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Front entrance 2.0 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.90000\t0.00000\t0.00000\t1.25000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t-0.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Front entrance 2.0 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.90000\t0.00000\t0.00000\t5.15000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t-0.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Front entrance 2.0 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t3.70000\n0.00000\t0.35000\t0.00000\t3.12500\n0.00000\t0.00000\t0.20000\t-0.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/West shop front",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t-0.10000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t2.20000\t1.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Lobby south return",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.20000\t0.00000\t0.00000\t-1.10000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t2.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/West lobby and stair",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t-2.10000\n0.00000\t6.50000\t0.00000\t3.45000\n0.00000\t0.00000\t7.00000\t5.70000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Rear body north",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "7.80000\t0.00000\t0.00000\t1.70000\n0.00000\t6.50000\t0.00000\t3.45000\n0.00000\t0.00000\t0.20000\t9.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to kitchen 1.8 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t2.10000\t1.05000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to kitchen 1.8 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.50000\t4.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to kitchen 1.8 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t0.35000\t0.00000\t3.12500\n0.00000\t0.00000\t1.80000\t3.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to treatment 2.0 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.80000\t0.00000\t0.00000\t2.20000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to treatment 2.0 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.80000\t0.00000\t0.00000\t5.00000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Shop to treatment 2.0 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t3.60000\n0.00000\t0.35000\t0.00000\t3.12500\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Treatment west partition",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t1.70000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t4.40000\t6.80000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Treatment to wing",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t4.40000\t6.80000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Wing front ground",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t1.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Wing east ground",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t9.10000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t7.00000\t5.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Kitchen to storage 1.8 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.20000\t0.00000\t0.00000\t6.20000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t6.30000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Kitchen to storage 1.8 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.40000\t0.00000\t0.00000\t8.80000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t6.30000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Kitchen to storage 1.8 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.80000\t0.00000\t0.00000\t7.70000\n0.00000\t0.35000\t0.00000\t3.12500\n0.00000\t0.00000\t0.20000\t6.30000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Storage garden exit 1.8 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.20000\t0.00000\t0.00000\t6.20000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t8.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Storage garden exit 1.8 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.40000\t0.00000\t0.00000\t8.80000\n0.00000\t3.10000\t0.00000\t1.75000\n0.00000\t0.00000\t0.20000\t8.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Storage garden exit 1.8 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.80000\t0.00000\t0.00000\t7.70000\n0.00000\t0.35000\t0.00000\t3.12500\n0.00000\t0.00000\t0.20000\t8.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Upper front",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "5.80000\t0.00000\t0.00000\t2.70000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t-0.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Upper shop west front",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t-0.10000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t2.20000\t1.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Upper nook south",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.20000\t0.00000\t0.00000\t-1.10000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t2.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Living to study 1.8 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t2.10000\t1.05000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Living to study 1.8 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.50000\t4.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Living to study 1.8 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t0.35000\t0.00000\t6.52500\n0.00000\t0.00000\t1.80000\t3.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Landing to bedroom 2.0 jamb A",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.80000\t0.00000\t0.00000\t2.20000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Landing to bedroom 2.0 jamb B",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.80000\t0.00000\t0.00000\t5.00000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Landing to bedroom 2.0 lintel 2.75m clear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t3.60000\n0.00000\t0.35000\t0.00000\t6.52500\n0.00000\t0.00000\t0.20000\t4.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Bedroom west partition",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t1.70000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t4.40000\t6.80000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Bedroom east",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t5.50000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t4.40000\t6.80000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Study front",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t1.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Study east",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t9.10000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t4.40000\t4.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/01 Wall shell - clear dimensions in metres/Study rear",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t3.10000\t0.00000\t5.15000\n0.00000\t0.00000\t0.20000\t6.30000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Site / garden - 30m",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "30.00000\t0.00000\t0.00000\t5.00000\n0.00000\t0.25000\t0.00000\t-0.12500\n0.00000\t0.00000\t26.00000\t5.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Shop floor 5.4 x 4.4",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "5.80000\t0.00000\t0.00000\t2.70000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t4.80000\t2.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Rear body floor",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "7.80000\t0.00000\t0.00000\t1.70000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t4.60000\t6.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Stair lobby floor 2.0 x 2.4",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.20000\t0.00000\t0.00000\t-1.10000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t2.40000\t3.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Wing floor",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t7.20000\t5.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Upper living and open landing",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "5.80000\t0.00000\t0.00000\t2.70000\n0.00000\t0.30000\t0.00000\t3.45000\n0.00000\t0.00000\t4.80000\t2.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Upper landing west return",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t-1.20000\n0.00000\t0.30000\t0.00000\t3.45000\n0.00000\t0.00000\t2.40000\t3.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Bedroom full floor",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "4.20000\t0.00000\t0.00000\t3.50000\n0.00000\t0.30000\t0.00000\t3.45000\n0.00000\t0.00000\t4.60000\t6.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Study full floor",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t0.30000\t0.00000\t3.45000\n0.00000\t0.00000\t4.60000\t4.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Living ceiling",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "5.80000\t0.00000\t0.00000\t2.70000\n0.00000\t0.15000\t0.00000\t6.77500\n0.00000\t0.00000\t4.80000\t2.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Landing nook ceiling",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t-1.20000\n0.00000\t0.15000\t0.00000\t6.77500\n0.00000\t0.00000\t2.40000\t3.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Rear bedroom and stair ceiling",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "7.80000\t0.00000\t0.00000\t1.70000\n0.00000\t0.15000\t0.00000\t6.77500\n0.00000\t0.00000\t4.60000\t6.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Study ceiling",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t0.15000\t0.00000\t6.77500\n0.00000\t0.00000\t4.60000\t4.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Storage ceiling",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.60000\t0.00000\t0.00000\t7.40000\n0.00000\t0.15000\t0.00000\t3.37500\n0.00000\t0.00000\t2.60000\t7.70000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Porch flush approach",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "4.50000\t0.00000\t0.00000\t3.75000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t2.80000\t-1.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/02 Continuous floors and ceilings/Garden step",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.40000\t0.00000\t0.00000\t7.70000\n0.00000\t0.20000\t0.00000\t0.10000\n0.00000\t0.00000\t1.00000\t9.50000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 1",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t0.18889\t0.00000\t0.29444\n0.00000\t0.00000\t0.30000\t4.75000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 2",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t0.37778\t0.00000\t0.38889\n0.00000\t0.00000\t0.30000\t5.05000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 3",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t0.56667\t0.00000\t0.48333\n0.00000\t0.00000\t0.30000\t5.35000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 4",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t0.75556\t0.00000\t0.57778\n0.00000\t0.00000\t0.30000\t5.65000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 5",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t0.94444\t0.00000\t0.67222\n0.00000\t0.00000\t0.30000\t5.95000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 6",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t1.13333\t0.00000\t0.76667\n0.00000\t0.00000\t0.30000\t6.25000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 7",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t1.32222\t0.00000\t0.86111\n0.00000\t0.00000\t0.30000\t6.55000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 8",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t1.51111\t0.00000\t0.95556\n0.00000\t0.00000\t0.30000\t6.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Lower tread 9",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t-1.25000\n0.00000\t1.70000\t0.00000\t1.05000\n0.00000\t0.00000\t0.30000\t7.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Intermediate landing 3.2 x 1.5",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.20000\t0.00000\t0.00000\t-0.40000\n0.00000\t0.20000\t0.00000\t1.80000\n0.00000\t0.00000\t1.70000\t8.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 1",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t1.98889\n0.00000\t0.00000\t0.30000\t7.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 2",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t2.17778\n0.00000\t0.00000\t0.30000\t6.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 3",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t2.36667\n0.00000\t0.00000\t0.30000\t6.55000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 4",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t2.55556\n0.00000\t0.00000\t0.30000\t6.25000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 5",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t2.74445\n0.00000\t0.00000\t0.30000\t5.95000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 6",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t2.93333\n0.00000\t0.00000\t0.30000\t5.65000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 7",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t3.12222\n0.00000\t0.00000\t0.30000\t5.35000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 8",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t3.31111\n0.00000\t0.00000\t0.30000\t5.05000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper tread 9",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t0.45000\n0.00000\t0.20000\t0.00000\t3.50000\n0.00000\t0.00000\t0.30000\t4.75000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Centre stair guard",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":false,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t-0.40000\n0.00000\t1.40000\t0.00000\t2.60000\n0.00000\t0.00000\t2.70000\t5.95000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Upper east stairwell guard",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":false,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.20000\t0.00000\t0.00000\t1.30000\n0.00000\t1.10000\t0.00000\t4.15000\n0.00000\t0.00000\t4.10000\t6.65000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/03 U stair - 18 risers 1.5m flights/Rear landing guard",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":false,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "3.20000\t0.00000\t0.00000\t-0.40000\n0.00000\t1.10000\t0.00000\t2.45000\n0.00000\t0.00000\t0.10000\t8.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Shop counter 2.2 x .75",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.20000\t0.00000\t0.00000\t1.10000\n0.00000\t1.00000\t0.00000\t0.70000\n0.00000\t0.00000\t0.75000\t1.25000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Shop shelf .35 deep",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.35000\t0.00000\t0.00000\t0.18000\n0.00000\t1.80000\t0.00000\t1.10000\n0.00000\t0.00000\t1.40000\t2.25000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Examination bed .9 x 2.0",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.90000\t0.00000\t0.00000\t4.75000\n0.00000\t0.90000\t0.00000\t0.65000\n0.00000\t0.00000\t2.00000\t7.60000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Treatment cabinet .40 deep",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.40000\t0.00000\t0.00000\t2.05000\n0.00000\t1.80000\t0.00000\t1.10000\n0.00000\t0.00000\t1.50000\t8.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Kitchen east workbench .65 x 3.4",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.65000\t0.00000\t0.00000\t8.67500\n0.00000\t1.00000\t0.00000\t0.70000\n0.00000\t0.00000\t3.40000\t4.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Kitchen front preparation 1.5 x .65",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.50000\t0.00000\t0.00000\t7.10000\n0.00000\t1.00000\t0.00000\t0.70000\n0.00000\t0.00000\t0.65000\t2.32500\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": false
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Storage west shelf .45",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.45000\t0.00000\t0.00000\t5.82500\n0.00000\t1.80000\t0.00000\t1.10000\n0.00000\t0.00000\t1.80000\t7.60000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Storage east shelf .45",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.45000\t0.00000\t0.00000\t8.77500\n0.00000\t1.80000\t0.00000\t1.10000\n0.00000\t0.00000\t1.80000\t7.60000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Bedroom bed 1.6 x 2.1",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.60000\t0.00000\t0.00000\t3.60000\n0.00000\t0.70000\t0.00000\t3.95000\n0.00000\t0.00000\t2.10000\t7.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Bedroom wardrobe .5 x 1.2",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.50000\t0.00000\t0.00000\t2.05000\n0.00000\t2.00000\t0.00000\t4.60000\n0.00000\t0.00000\t1.20000\t5.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Study east desk .7 x 1.8",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "0.70000\t0.00000\t0.00000\t8.65000\n0.00000\t1.00000\t0.00000\t4.10000\n0.00000\t0.00000\t1.80000\t4.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Study rear bookcase 1.9 x .35",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.90000\t0.00000\t0.00000\t7.25000\n0.00000\t2.00000\t0.00000\t4.60000\n0.00000\t0.00000\t0.35000\t6.02500\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Living bench 2 x .8",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "2.00000\t0.00000\t0.00000\t1.10000\n0.00000\t0.90000\t0.00000\t4.05000\n0.00000\t0.00000\t0.80000\t0.60000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "00 Functional collision - unchanged expanded layout/04 Representative furniture - solid footprints/Living low table 1.2 x .65",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.20000\t0.00000\t0.00000\t2.90000\n0.00000\t0.60000\t0.00000\t3.90000\n0.00000\t0.00000\t0.65000\t1.20000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "07 Existing unchanged third-person traversal/Crooked Mortar Player",
+    "type": "CharacterController",
+    "json": "{\"CharacterController\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Height\":2.0,\"m_Radius\":0.4000000059604645,\"m_SlopeLimit\":45.0,\"m_StepOffset\":0.30000001192092898,\"m_SkinWidth\":0.03999999910593033,\"m_MinMoveDistance\":0.0,\"m_Center\":{\"x\":0.0,\"y\":1.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t4.00000\n0.00000\t1.00000\t0.00000\t0.24000\n0.00000\t0.00000\t1.00000\t-3.80000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "08 Front door - E toggle outward into reserved pocket/Door leaf - 1.96m",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.0,\"y\":1.0,\"z\":1.0},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "-1.96000\t0.00000\t0.00000\t3.70000\n0.00000\t2.70000\t0.00000\t1.55000\n0.00000\t0.00000\t-0.10000\t-0.31000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Left fitted doorway return collision",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":false,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.20000000298023225,\"y\":3.0999999046325685,\"z\":0.6399999856948853},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t2.60000\n0.00000\t1.00000\t0.00000\t1.75000\n0.00000\t0.00000\t1.00000\t-0.32000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "12 Entrance portal sign lanterns and herbs/Right fitted doorway return collision",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":false,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.20000000298023225,\"y\":3.0999999046325685,\"z\":0.6399999856948853},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t4.80000\n0.00000\t1.00000\t0.00000\t1.75000\n0.00000\t0.00000\t1.00000\t-0.32000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/Upper floor lower-flight opening safety guard",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.649999976158142,\"y\":1.059999942779541,\"z\":0.11999999731779099},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t-1.17000\n0.00000\t1.00000\t0.00000\t4.12000\n0.00000\t0.00000\t1.00000\t4.55000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/Centre sloped continuous safety guard",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.11999999731779099,\"y\":1.25,\"z\":3.1906113624572756},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t-0.40000\n0.00000\t0.84623\t-0.53281\t3.25000\n0.00000\t0.53281\t0.84623\t5.95000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/CM02_Stair_Balusters physical timber",
+    "type": "MeshCollider",
+    "json": "{\"MeshCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"5\",\"m_Convex\":false,\"m_CookingOptions\":30,\"m_Mesh\":{\"fileID\":270993488368491512,\"guid\":\"71c043fd624b344da889710db45c953e\",\"type\":3}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/CM02_Stair_Handrails physical timber",
+    "type": "MeshCollider",
+    "json": "{\"MeshCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"5\",\"m_Convex\":false,\"m_CookingOptions\":30,\"m_Mesh\":{\"fileID\":300411256893227620,\"guid\":\"71c043fd624b344da889710db45c953e\",\"type\":3}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/CM02_Stair_Newels physical timber",
+    "type": "MeshCollider",
+    "json": "{\"MeshCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"5\",\"m_Convex\":false,\"m_CookingOptions\":30,\"m_Mesh\":{\"fileID\":-4627797567041696137,\"guid\":\"71c043fd624b344da889710db45c953e\",\"type\":3}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "15 Production02 open timber staircase/New balustrade safety and timber colliders/CM02_Stair_Stringers physical timber",
+    "type": "MeshCollider",
+    "json": "{\"MeshCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"5\",\"m_Convex\":false,\"m_CookingOptions\":30,\"m_Mesh\":{\"fileID\":3656542824322799204,\"guid\":\"71c043fd624b344da889710db45c953e\",\"type\":3}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t0.00000\n0.00000\t1.00000\t0.00000\t0.00000\n0.00000\t0.00000\t1.00000\t0.00000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_SalesStation/CM_AF01_SalesCounter",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":2.200000047683716,\"y\":1.0,\"z\":0.699999988079071},\"m_Center\":{\"x\":0.0,\"y\":0.5,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t1.00000\t1.95000\n0.00000\t1.00000\t0.00000\t0.20000\n-1.00000\t0.00000\t0.00000\t1.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Shop - public display and separate staff aisle/CM_AF01_StockedShelving/CM_AF01_MedicineShelving",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.7999999523162842,\"y\":2.200000047683716,\"z\":0.3400000035762787},\"m_Center\":{\"x\":0.0,\"y\":1.100000023841858,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t1.00000\t0.23000\n0.00000\t1.00000\t0.00000\t0.20000\n-1.00000\t0.00000\t0.00000\t1.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_ExaminationCouch",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.9399999976158142,\"y\":0.7799999713897705,\"z\":2.0},\"m_Center\":{\"x\":0.0,\"y\":0.38999998569488528,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t4.65000\n0.00000\t1.00000\t0.00000\t0.20000\n0.00000\t0.00000\t1.00000\t7.55000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_SupplyCabinet",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.4500000476837159,\"y\":1.840000033378601,\"z\":0.4000000059604645},\"m_Center\":{\"x\":0.0,\"y\":0.9200000166893005,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t1.00000\t2.15000\n0.00000\t1.00000\t0.00000\t0.20000\n-1.00000\t0.00000\t0.00000\t8.05000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_PhysicianStool",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.4300000071525574,\"y\":0.5,\"z\":0.4300000071525574},\"m_Center\":{\"x\":0.0,\"y\":0.25,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t3.05000\n0.00000\t1.00000\t0.00000\t0.20000\n0.00000\t0.00000\t1.00000\t8.70000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_Washstand",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.7799999713897705,\"y\":0.8600000143051148,\"z\":0.5600000023841858},\"m_Center\":{\"x\":0.0,\"y\":0.4300000071525574,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t1.00000\t2.15000\n0.00000\t1.00000\t0.00000\t0.20000\n-1.00000\t0.00000\t0.00000\t5.70000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Treatment - patient and clinician access/CM_AF01_InstrumentStation/CM_AF01_InstrumentStand",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.6499999761581421,\"y\":0.699999988079071,\"z\":0.46000000834465029},\"m_Center\":{\"x\":0.0,\"y\":0.3499999940395355,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t-1.00000\t4.95000\n0.00000\t1.00000\t0.00000\t0.20000\n1.00000\t0.00000\t0.00000\t5.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_CraftingStation/CM_AF01_PreparationBench",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":3.200000047683716,\"y\":0.9200000166893005,\"z\":0.6499999761581421},\"m_Center\":{\"x\":0.0,\"y\":0.46000000834465029,\"z\":0.0}}}",
+    "matrix": "0.00000\t0.00000\t-1.00000\t8.63000\n0.00000\t1.00000\t0.00000\t0.20000\n1.00000\t0.00000\t0.00000\t4.15000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "17 Apothecary furnishings - production family 01/Preparation - clear central crafting surface/CM_AF01_IngredientStation/CM_AF01_SideWorktable",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.5,\"y\":0.9200000166893005,\"z\":0.6499999761581421},\"m_Center\":{\"x\":0.0,\"y\":0.46000000834465029,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t7.10000\n0.00000\t1.00000\t0.00000\t0.20000\n0.00000\t0.00000\t1.00000\t2.34000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_RecordShelf",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.2799999713897706,\"y\":0.7599999904632568,\"z\":0.2800000011920929},\"m_Center\":{\"x\":0.0,\"y\":0.3799999952316284,\"z\":0.14000000059604646}}}",
+    "matrix": "0.00000\t0.00000\t-1.00000\t5.39700\n0.00000\t1.00000\t0.00000\t0.78000\n1.00000\t0.00000\t0.00000\t1.10000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ReagentCabinet",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":1.1799999475479127,\"y\":1.399999976158142,\"z\":0.3199999928474426},\"m_Center\":{\"x\":0.0,\"y\":0.699999988079071,\"z\":0.1599999964237213}}}",
+    "matrix": "0.00000\t0.00000\t1.00000\t5.60300\n0.00000\t0.80000\t0.00000\t0.26000\n-1.00000\t0.00000\t0.00000\t5.40000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":5.400000095367432,\"y\":0.1599999964237213,\"z\":0.17000000178813935},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t2.70000\n0.00000\t1.00000\t0.00000\t3.21000\n0.00000\t0.00000\t1.00000\t1.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/Bearing pad - physical timber",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.10000000149011612,\"y\":0.4000000059604645,\"z\":0.23999999463558198},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t0.06000\n0.00000\t1.00000\t0.00000\t3.08000\n0.00000\t0.00000\t1.00000\t1.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_ShopBeam/Bearing pad - physical timber",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.10000000149011612,\"y\":0.4000000059604645,\"z\":0.23999999463558198},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t5.34000\n0.00000\t1.00000\t0.00000\t3.08000\n0.00000\t0.00000\t1.00000\t1.90000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_PrepBeam",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":3.4000000953674318,\"y\":0.1599999964237213,\"z\":0.17000000178813935},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t7.30000\n0.00000\t1.00000\t0.00000\t3.21000\n0.00000\t0.00000\t1.00000\t5.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_PrepBeam/Bearing pad - physical timber",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.10000000149011612,\"y\":0.4000000059604645,\"z\":0.23999999463558198},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t5.66000\n0.00000\t1.00000\t0.00000\t3.08000\n0.00000\t0.00000\t1.00000\t5.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  },
+  {
+    "path": "19 Lived-in shop and preparation 03/CM_LI03_PrepBeam/Bearing pad - physical timber",
+    "type": "BoxCollider",
+    "json": "{\"BoxCollider\":{\"m_Material\":{\"instanceID\":0},\"m_IncludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_ExcludeLayers\":{\"serializedVersion\":\"2\",\"m_Bits\":0},\"m_LayerOverridePriority\":0,\"m_IsTrigger\":false,\"m_ProvidesContacts\":false,\"m_Enabled\":true,\"serializedVersion\":\"3\",\"m_Size\":{\"x\":0.10000000149011612,\"y\":0.4000000059604645,\"z\":0.23999999463558198},\"m_Center\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+    "matrix": "1.00000\t0.00000\t0.00000\t8.94000\n0.00000\t1.00000\t0.00000\t3.08000\n0.00000\t0.00000\t1.00000\t5.85000\n0.00000\t0.00000\t0.00000\t1.00000\n",
+    "active": true
+  }
+]

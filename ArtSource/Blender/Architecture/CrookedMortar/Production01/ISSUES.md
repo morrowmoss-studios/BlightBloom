@@ -195,3 +195,13 @@ Evidence: `../../../Interiors/CrookedMortar/ShopWorkflow12/README.md`. Four new 
 | CM02-QA-013 | Focused input traversal could not start. A temporary cloned-input-settings test confirmed E-key/full opening but movement was correctly blocked by TraversalInput's explicit Application.isFocused guard. | Fresh focused walking smoke test remains outstanding. Original settings restored; no shared gameplay changes. Static full door sweep and local capsule clearances pass. |
 
 Evidence: `../../../Interiors/CrookedMortar/ShopWorkflow13/README.md`. Five new modules total65,836 triangles; all116 colliders and earlier scene/source hashes preserved. Corrected cabinet fitting and counter backing/outward normals inspected in actual Unity views. No missing mesh/material/script references or shader compilation errors. No commits/pushes.
+
+## Workflow14 fixed-layout reference elements — 2026-10-27
+
+| ID | Finding / action | Status |
+|---|---|---|
+| CM02-ART-014 | Actual shop layout mapped before translating the new illustrations. Isolated14 adds individually dressed entry masonry, seated stair tread/nose/riser visuals, fitted window leads, new walnut/lime/stone paint and corrected stone-floor UVs. Counter/case construction and all functional datums retained. | Candidate only; manual artistic review pending. Better material read and fitted construction, still below the illustrations' individuality and light/shadow hierarchy. Repeating grain, regular stock and retained adjoining surfaces remain limitations. No Production02 rollout. |
+| CM02-QA-014 | Live existing-controller route covers E/opening, shop aisles/kitchen passage and U-stair ascent/turn/descent, with unchanged116 colliders. | Passed23 targets; zero camera overlap samples.1 camera emergency correction; automated visibility is not manual comfort acceptance. No gameplay/camera tuning in this pass. |
+| CM02-OBS-014 | Upper stair inspection reveals a green background/opening region and ceiling seams in BOTH committed13 and14 matched views. Exact object/cause not confirmed. | Pre-existing observation, not repaired in this localized art pass. Targeted upper-landing construction inspection recommended separately; do not infer a newly introduced floor/collision failure from this image alone. |
+
+Evidence: `../../../Interiors/CrookedMortar/ShopWorkflow14/README.md`, ReferenceElementMap.md and matched Previews/Comparison. New module triangles50,069 (includes retained floor/lime surface geometry). Production02 and all previous assets/sources remain unchanged; no commits/pushes.

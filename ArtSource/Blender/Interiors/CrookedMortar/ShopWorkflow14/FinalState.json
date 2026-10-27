@@ -1,0 +1,13 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_ShopWorkflow14_Review.unity",
+  "saved": true,
+  "playing": false,
+  "sceneCount": 1,
+  "rootEnabled": true,
+  "playerController": true,
+  "input": true,
+  "motor": true,
+  "orbit": true,
+  "door": true,
+  "temporaryDevices": []
+}

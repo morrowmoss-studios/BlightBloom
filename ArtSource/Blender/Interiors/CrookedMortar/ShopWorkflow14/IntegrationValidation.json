@@ -1,0 +1,49 @@
+{
+  "newModels": [
+    {
+      "name": "CM_SW14_DressedEntrance",
+      "vertexCount": 15936,
+      "triangles": 13344,
+      "uvs": 15936,
+      "normals": 15936
+    },
+    {
+      "name": "CM_SW14_FittedWindowLeads",
+      "vertexCount": 1376,
+      "triangles": 1632,
+      "uvs": 1376,
+      "normals": 1376
+    },
+    {
+      "name": "CM_SW14_FlagstoneFinish",
+      "vertexCount": 9877,
+      "triangles": 12600,
+      "uvs": 9877,
+      "normals": 9877
+    },
+    {
+      "name": "CM_SW14_RegisteredLime",
+      "vertexCount": 3043,
+      "triangles": 3881,
+      "uvs": 3043,
+      "normals": 3043
+    },
+    {
+      "name": "CM_SW14_StairTreads",
+      "vertexCount": 15482,
+      "triangles": 18612,
+      "uvs": 15482,
+      "normals": 15482
+    }
+  ],
+  "newShopModelTriangles": 50069,
+  "originalColliders": 116,
+  "colliderChanges": [],
+  "missingScripts": [],
+  "missingMaterials": [],
+  "newColliderCount": 0,
+  "sweepPoses": 43,
+  "sweepNewArtHits": [],
+  "doorAngles": "180 closed / 75 open: 105 degree outward swing",
+  "newPrefabs": 5
+}

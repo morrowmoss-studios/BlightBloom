@@ -1,0 +1,8 @@
+# Painted surface provenance
+
+Generated using the built-in imagegen tool on2026-10-27. Original full-resolution outputs retained here; no external paid API or package. The two user-supplied medieval apothecary interiors informed the material direction through visual analysis; these maps contain no pasted reference pixels and are not scene backdrops.
+
+1. `PaintedTimberLime.png` (generated output exec-b2b8e216-ab5a-4e6a-b076-7748ebd72dd7.png): square flat orthographic albedo sheet, equal vertical halves. Left: warm aged walnut structural timber, vertical broad gouache chestnut/umber grain, restrained honey worn arrises, several subtle knot flows and short tool facets. Right: warm ivory medieval lime plaster, broad cream/ochre trowelled washes, faint fine hairline wear and pale maintained lime patches. No blocks/props, carving, directional lighting, photographic noise, gloss or labels. Separate halves cropped and resampled to1024×2048 for physical UV scale; original preserved unedited. No blur or colour post-processing.
+2. `PaintedStone.png` (generated output exec-97fc63d8-6ea5-409e-962a-c9b16c725b12.png): one continuous flat neutral limestone/sandstone gouache surface, no blocks/mortar lines/borders; broad honey-buff/ivory/olive-grey groups, selective chisel scumbles, soft mineral washes and quiet fine fissures. No photographic grain/procedural noise, perspective, carving, cast light or text. Copied unchanged to the runtime albedo.
+
+Runtime surface scale, subtle per-stone vertex tint and local lighting perform the integration. Carving artwork remains the existing registered Workflow07 atlas, untouched. New surfaces are matte; no metallic/gloss layer or photo normal maps.

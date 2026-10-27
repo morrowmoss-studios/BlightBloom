@@ -1,0 +1,66 @@
+{
+  "modules": [
+    {
+      "name": "CM_SW14_DressedEntrance",
+      "triangles": 13344,
+      "vertices": 6724,
+      "materials": [
+        "CM_SW14_LimeBedding",
+        "CM_SW14_DressedStone"
+      ]
+    },
+    {
+      "name": "CM_SW14_StairTreads",
+      "triangles": 18612,
+      "vertices": 9504,
+      "materials": [
+        "CM_SW14_WorkedWalnut"
+      ]
+    },
+    {
+      "name": "CM_SW14_FlagstoneFinish",
+      "triangles": 12600,
+      "vertices": 6384,
+      "materials": [
+        "CM_SW14_DressedStone"
+      ]
+    },
+    {
+      "name": "CM_SW14_RegisteredLime",
+      "triangles": 3881,
+      "vertices": 2117,
+      "materials": [
+        "CM_SW14_LayeredLime"
+      ]
+    },
+    {
+      "name": "CM_SW14_FittedWindowLeads",
+      "triangles": 1632,
+      "vertices": 832,
+      "materials": [
+        "CM_SW14_DullLead"
+      ]
+    }
+  ],
+  "triangles": 50069,
+  "replacedVisualSteps": [
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 1",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 2",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 3",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 4",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 5",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 6",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 7",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 8",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Lower tread 9",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 1",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 2",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 3",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 4",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 5",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 6",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 7",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 8",
+    "10 Production02 fitted architectural assembly/CM02_FittedArchitecture/Upper tread 9"
+  ]
+}
