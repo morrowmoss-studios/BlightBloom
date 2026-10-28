@@ -1,0 +1,16 @@
+{
+  "method": "Virtual coincident-coordinate grouping and neighbourhood Laplacian, only a new point attribute saved. No weld, vertex displacement, face or UV edits.",
+  "attribute": "BB_WoodPigmentConvexity",
+  "raw_convexity_percentiles_m": [
+    -0.01043712041980545,
+    -0.00016781472435854338,
+    0.00010017640761622693,
+    0.0004630225166699084,
+    0.000968236889174716,
+    0.0014872689447182202,
+    0.010590967293448673
+  ],
+  "positive_glaze_vertex_fraction": 0.5661361013335443,
+  "max_color_mix": 0.62,
+  "wood_only": true
+}

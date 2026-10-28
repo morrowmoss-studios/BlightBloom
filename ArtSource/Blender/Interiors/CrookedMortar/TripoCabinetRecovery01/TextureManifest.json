@@ -1,0 +1,14 @@
+{
+  "rustic_wooden_cabinet_3d_model_basecolor.jpg": {
+    "sha256": "6ffd2a1296724ea3372b5ab0c9c248979d0a7b2197a4c1040377843dc29b0b91",
+    "bytes": 4895234
+  },
+  "rustic_wooden_cabinet_3d_model_rm.jpg": {
+    "sha256": "712e70d1389f97dc39fa77eee3097d8cc918bac225393be63593c7e6cc7277a6",
+    "bytes": 2437900
+  },
+  "rustic_wooden_cabinet_3d_model_normal.png": {
+    "sha256": "3404f725d624c817d3d531843f29f0ceb9591aa927cab843093280e24fb55642",
+    "bytes": 4251033
+  }
+}

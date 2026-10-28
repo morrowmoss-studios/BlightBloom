@@ -1,0 +1,254 @@
+[
+  {
+    "path": "CabinetA/CabinetA.blend",
+    "bytes": 51928051
+  },
+  {
+    "path": "CabinetA/CabinetA.blend1",
+    "bytes": 51928044
+  },
+  {
+    "path": "CabinetA/Exports/CabinetA_Optimized.glb",
+    "bytes": 23499900
+  },
+  {
+    "path": "CabinetA/Previews/High_CrownDetail.png",
+    "bytes": 1468898
+  },
+  {
+    "path": "CabinetA/Previews/High_DrawerDetail.png",
+    "bytes": 1514649
+  },
+  {
+    "path": "CabinetA/Previews/High_Front.png",
+    "bytes": 1637545
+  },
+  {
+    "path": "CabinetA/Previews/High_Gameplay.png",
+    "bytes": 1404333
+  },
+  {
+    "path": "CabinetA/Previews/High_Side.png",
+    "bytes": 1190613
+  },
+  {
+    "path": "CabinetA/Previews/High_ThreeQuarter.png",
+    "bytes": 1617008
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_CrownDetail.png",
+    "bytes": 1465365
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_DrawerDetail.png",
+    "bytes": 1502500
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_Front.png",
+    "bytes": 1636846
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_Gameplay.png",
+    "bytes": 1404255
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_Side.png",
+    "bytes": 1190155
+  },
+  {
+    "path": "CabinetA/Previews/Optimized_ThreeQuarter.png",
+    "bytes": 1615543
+  },
+  {
+    "path": "CabinetB/CabinetB.blend",
+    "bytes": 61248566
+  },
+  {
+    "path": "CabinetB/CabinetB.blend1",
+    "bytes": 61248625
+  },
+  {
+    "path": "CabinetB/Exports/CabinetB_Optimized.glb",
+    "bytes": 26335244
+  },
+  {
+    "path": "CabinetB/Previews/High_CrownDetail.png",
+    "bytes": 1541051
+  },
+  {
+    "path": "CabinetB/Previews/High_DrawerDetail.png",
+    "bytes": 1519715
+  },
+  {
+    "path": "CabinetB/Previews/High_Front.png",
+    "bytes": 1705604
+  },
+  {
+    "path": "CabinetB/Previews/High_Gameplay.png",
+    "bytes": 1452940
+  },
+  {
+    "path": "CabinetB/Previews/High_Side.png",
+    "bytes": 1204020
+  },
+  {
+    "path": "CabinetB/Previews/High_ThreeQuarter.png",
+    "bytes": 1698010
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_CrownDetail.png",
+    "bytes": 1538923
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_DrawerDetail.png",
+    "bytes": 1521039
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_Front.png",
+    "bytes": 1705806
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_Gameplay.png",
+    "bytes": 1452897
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_Side.png",
+    "bytes": 1205195
+  },
+  {
+    "path": "CabinetB/Previews/Optimized_ThreeQuarter.png",
+    "bytes": 1697901
+  },
+  {
+    "path": "Comparisons/CabinetA_CrownDetail_Comparison.jpg",
+    "bytes": 408887
+  },
+  {
+    "path": "Comparisons/CabinetA_DrawerDetail_Comparison.jpg",
+    "bytes": 449288
+  },
+  {
+    "path": "Comparisons/CabinetA_Front_Comparison.jpg",
+    "bytes": 512995
+  },
+  {
+    "path": "Comparisons/CabinetA_Gameplay_Comparison.jpg",
+    "bytes": 347701
+  },
+  {
+    "path": "Comparisons/CabinetA_Side_Comparison.jpg",
+    "bytes": 201087
+  },
+  {
+    "path": "Comparisons/CabinetA_ThreeQuarter_Comparison.jpg",
+    "bytes": 471893
+  },
+  {
+    "path": "Comparisons/CabinetB_CrownDetail_Comparison.jpg",
+    "bytes": 441643
+  },
+  {
+    "path": "Comparisons/CabinetB_DrawerDetail_Comparison.jpg",
+    "bytes": 457396
+  },
+  {
+    "path": "Comparisons/CabinetB_Front_Comparison.jpg",
+    "bytes": 568472
+  },
+  {
+    "path": "Comparisons/CabinetB_Gameplay_Comparison.jpg",
+    "bytes": 384650
+  },
+  {
+    "path": "Comparisons/CabinetB_Side_Comparison.jpg",
+    "bytes": 205013
+  },
+  {
+    "path": "Comparisons/CabinetB_ThreeQuarter_Comparison.jpg",
+    "bytes": 533669
+  },
+  {
+    "path": "ExportMaterialAudit.json",
+    "bytes": 2481
+  },
+  {
+    "path": "ImageComparisonMetrics.json",
+    "bytes": 1680
+  },
+  {
+    "path": "ImportedIslands.blend",
+    "bytes": 75091489
+  },
+  {
+    "path": "ImportedIslands.blend1",
+    "bytes": 75098833
+  },
+  {
+    "path": "Inspection.json",
+    "bytes": 844488
+  },
+  {
+    "path": "InspectionOverview.png",
+    "bytes": 1571731
+  },
+  {
+    "path": "README.md",
+    "bytes": 8687
+  },
+  {
+    "path": "RecoveryReport.json",
+    "bytes": 80584
+  },
+  {
+    "path": "SurfaceDetails.json",
+    "bytes": 1175
+  },
+  {
+    "path": "TextureManifest.json",
+    "bytes": 472
+  },
+  {
+    "path": "Textures/rustic_wooden_cabinet_3d_model_basecolor.jpg",
+    "bytes": 4895234
+  },
+  {
+    "path": "Textures/rustic_wooden_cabinet_3d_model_normal.png",
+    "bytes": 4251033
+  },
+  {
+    "path": "Textures/rustic_wooden_cabinet_3d_model_rm.jpg",
+    "bytes": 2437900
+  },
+  {
+    "path": "Validation.json",
+    "bytes": 3705
+  },
+  {
+    "path": "extract_original_textures.py",
+    "bytes": 686
+  },
+  {
+    "path": "inspect_source.py",
+    "bytes": 2429
+  },
+  {
+    "path": "make_comparisons.py",
+    "bytes": 1220
+  },
+  {
+    "path": "recover.py",
+    "bytes": 3562
+  },
+  {
+    "path": "render_comparisons.py",
+    "bytes": 2151
+  },
+  {
+    "path": "validate_recovery.py",
+    "bytes": 3882
+  },
+  {
+    "path": "validate_surface_details.py",
+    "bytes": 1233
+  }
+]

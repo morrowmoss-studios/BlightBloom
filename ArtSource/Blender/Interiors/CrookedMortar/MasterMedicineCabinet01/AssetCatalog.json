@@ -1,0 +1,118 @@
+{
+  "name": "CM_MasterMedicineCabinet01",
+  "groups": [
+    {
+      "group": "01_MainStructure",
+      "objects": 43,
+      "triangles": 10618,
+      "materials": [
+        "CM_MMC01_CutWalnut",
+        "CM_MMC01_Walnut"
+      ]
+    },
+    {
+      "group": "02_Backing",
+      "objects": 13,
+      "triangles": 1404,
+      "materials": [
+        "CM_MMC01_SageBacking",
+        "CM_MMC01_Walnut"
+      ]
+    },
+    {
+      "group": "03_Shelves",
+      "objects": 9,
+      "triangles": 2596,
+      "materials": [
+        "CM_MMC01_Walnut"
+      ]
+    },
+    {
+      "group": "04_Drawers",
+      "objects": 72,
+      "triangles": 13984,
+      "materials": [
+        "CM_MMC01_CutWalnut",
+        "CM_MMC01_Walnut"
+      ]
+    },
+    {
+      "group": "05_Hardware",
+      "objects": 56,
+      "triangles": 12672,
+      "materials": [
+        "CM_MMC01_AgedBrass",
+        "CM_MMC01_Parchment"
+      ]
+    },
+    {
+      "group": "06_TrailingVines",
+      "objects": 246,
+      "triangles": 10308,
+      "materials": [
+        "CM_MMC01_PaintedIvy",
+        "CM_MMC01_VineStem"
+      ]
+    },
+    {
+      "group": "07_Moss",
+      "objects": 11,
+      "triangles": 3972,
+      "materials": [
+        "CM_MMC01_PaintedMoss"
+      ]
+    },
+    {
+      "group": "08_HangingPlanter",
+      "objects": 55,
+      "triangles": 4834,
+      "materials": [
+        "CM_MMC01_ForgedIron",
+        "CM_MMC01_PaintedIvy",
+        "CM_MMC01_Rope",
+        "CM_MMC01_SageCeramic",
+        "CM_MMC01_Soil",
+        "CM_MMC01_VineStem"
+      ]
+    }
+  ],
+  "triangles": 60388,
+  "boundsUnity": {
+    "min": [
+      -0.9570683836936951,
+      0.006000000052154064,
+      -0.24263620376586914
+    ],
+    "max": [
+      0.9272319674491882,
+      1.9464002847671509,
+      0.4907822906970978
+    ]
+  },
+  "leafCount": 139,
+  "coreTargetMetres": [
+    1.8,
+    1.93,
+    0.45
+  ],
+  "materials": [
+    "CM_MMC01_Walnut",
+    "CM_MMC01_CutWalnut",
+    "CM_MMC01_SageBacking",
+    "CM_MMC01_AgedBrass",
+    "CM_MMC01_Parchment",
+    "CM_MMC01_VineStem",
+    "CM_MMC01_Rope",
+    "CM_MMC01_ForgedIron",
+    "CM_MMC01_PaintedIvy",
+    "CM_MMC01_PaintedMoss",
+    "CM_MMC01_SageCeramic",
+    "CM_MMC01_Soil"
+  ],
+  "shelfTopY": [
+    0.726,
+    1.0797,
+    1.4334
+  ],
+  "drawers": 8
+}

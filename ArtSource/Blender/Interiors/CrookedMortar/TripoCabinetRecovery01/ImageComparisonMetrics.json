@@ -1,0 +1,54 @@
+{
+  "CabinetA": {
+    "Front": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 1.1098257575757575,
+      "p99_channel_difference": 15.0
+    },
+    "ThreeQuarter": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.8833630303030303,
+      "p99_channel_difference": 12.0
+    },
+    "Side": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.21693969696969698,
+      "p99_channel_difference": 5.0
+    },
+    "CrownDetail": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 1.7352781818181817,
+      "p99_channel_difference": 21.0
+    },
+    "DrawerDetail": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 2.896469090909091,
+      "p99_channel_difference": 28.0
+    },
+    "Gameplay": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.5055354545454546,
+      "p99_channel_difference": 9.0
+    }
+  },
+  "CabinetB": {
+    "Front": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 1.0016427272727273,
+      "p99_channel_difference": 13.0
+    },
+    "ThreeQuarter": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.8391278787878788,
+      "p99_channel_difference": 11.0
+    },
+    "Side": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.20801636363636364,
+      "p99_channel_difference": 4.0
+    },
+    "CrownDetail": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 1.6009133333333334,
+      "p99_channel_difference": 18.0
+    },
+    "DrawerDetail": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 2.3881218181818182,
+      "p99_channel_difference": 28.0
+    },
+    "Gameplay": {
+      "full_frame_mean_absolute_RGB_difference_0_255": 0.47387,
+      "p99_channel_difference": 8.0
+    }
+  }
+}

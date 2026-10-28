@@ -1,0 +1,224 @@
+[
+  {
+    "name": "CM_MMC01_AgedBrass",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.3799999952316284,
+      0.2199999988079071,
+      0.054999999701976776,
+      1.0
+    ],
+    "roughness": 0.4699999988079071,
+    "metallic": 0.6499999761581421,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_CutWalnut",
+    "albedoFile": "Textures/CM_MMC01_CabinetPaint.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      0.7200000286102295,
+      0.6499999761581421,
+      0.5199999809265137,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_ForgedIron",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.09000000357627869,
+      0.07500000298023224,
+      0.052000001072883606,
+      1.0
+    ],
+    "roughness": 0.75,
+    "metallic": 0.30000001192092896,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_PaintedIvy",
+    "albedoFile": "Textures/CM_MMC01_LivingBotany.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      0.4300000071525574,
+      0.550000011920929,
+      0.30000001192092896,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "MASK",
+    "cutoff": 0.4,
+    "doubleSided": true,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_PaintedMoss",
+    "albedoFile": "Textures/CM_MMC01_LivingBotany.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      0.4300000071525574,
+      0.550000011920929,
+      0.30000001192092896,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "MASK",
+    "cutoff": 0.4,
+    "doubleSided": true,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_Parchment",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.6000000238418579,
+      0.49000000953674316,
+      0.28999999165534973,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_Rope",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.36000001430511475,
+      0.27000001072883606,
+      0.12999999523162842,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_SageBacking",
+    "albedoFile": "Textures/CM_MMC01_CabinetPaint.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      0.5799999833106995,
+      0.6600000262260437,
+      0.49000000953674316,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_SageCeramic",
+    "albedoFile": "Textures/CM_MMC01_ReusedCeramicPaint.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_Soil",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.054999999701976776,
+      0.03999999910593033,
+      0.02199999988079071,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_VineStem",
+    "albedoFile": null,
+    "albedoSize": null,
+    "tintLinear": [
+      0.12999999523162842,
+      0.1599999964237213,
+      0.04500000178813934,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  },
+  {
+    "name": "CM_MMC01_Walnut",
+    "albedoFile": "Textures/CM_MMC01_CabinetPaint.png",
+    "albedoSize": [
+      1254,
+      1254
+    ],
+    "tintLinear": [
+      0.6200000047683716,
+      0.550000011920929,
+      0.4399999976158142,
+      1.0
+    ],
+    "roughness": 0.8999999761581421,
+    "metallic": 0.0,
+    "alphaMode": "OPAQUE",
+    "cutoff": null,
+    "doubleSided": false,
+    "unityRecommendation": "URP/Lit; BaseMap and BaseColor from manifest; Smoothness=1-roughness, Metallic as listed. Alpha clipping/cull off only for ivy/moss."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "existingMeasuredBayMetres": {
+    "width": 1.846,
+    "height": 2.926,
+    "maxVisualDepth": 0.759
+  },
+  "woodAndHardwareDimensionsMetres": {
+    "width": 1.8000404834747314,
+    "height": 1.9404002847149968,
+    "depth": 0.4866362065076828
+  },
+  "wholeAssetDimensionsMetres": {
+    "width": 1.8843003511428833,
+    "height": 1.9404002847149968,
+    "depth": 0.7334184944629669
+  },
+  "footBearingOffsetFromOriginMetres": 0.006000000052154064,
+  "installation": "Not installed. Core fits measured width/height. Leaf tips slightly exceed measured cabinet width; removable/repositionable vegetation must be checked against actual beam/window returns before any integration. No claim of scene collision validation."
+}

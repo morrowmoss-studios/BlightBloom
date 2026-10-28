@@ -1,0 +1,171 @@
+{
+  "CabinetA": {
+    "high": {
+      "finite_positions": true,
+      "finite_uvs": true,
+      "zero_uv_triangles": 82042,
+      "triangles": 707864
+    },
+    "optimized": {
+      "finite_positions": true,
+      "finite_uvs": true,
+      "zero_uv_triangles": 21871,
+      "triangles": 389324
+    },
+    "geometric_components_rounded_1micrometre": 1,
+    "largest_component_vertex_fraction": 1.0,
+    "sampled_surface_error_metres": {
+      "max": 0.00021373768686316907,
+      "p95": 7.583329061162658e-05,
+      "mean": 2.5355925449859196e-05
+    },
+    "materials": [
+      "tripo_material_d2f6c83b-bf0f-4a9c-b24b-70343766c63b"
+    ],
+    "images": [
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      }
+    ],
+    "export_roundtrip": {
+      "mesh_count": 1,
+      "triangles": 389324,
+      "dimensions_m": [
+        [
+          2.227287769317627,
+          0.5432686805725098,
+          1.939950942993164
+        ]
+      ],
+      "images": [
+        {
+          "name": "rustic_wooden_cabinet_3d_model_basecolor",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "rustic_wooden_cabinet_3d_model_normal",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "rustic_wooden_cabinet_3d_model_rm",
+          "size": [
+            4096,
+            4096
+          ]
+        }
+      ]
+    }
+  },
+  "CabinetB": {
+    "high": {
+      "finite_positions": true,
+      "finite_uvs": true,
+      "zero_uv_triangles": 31351,
+      "triangles": 870208
+    },
+    "optimized": {
+      "finite_positions": true,
+      "finite_uvs": true,
+      "zero_uv_triangles": 9032,
+      "triangles": 478613
+    },
+    "geometric_components_rounded_1micrometre": 1,
+    "largest_component_vertex_fraction": 1.0,
+    "sampled_surface_error_metres": {
+      "max": 0.00019071811402682215,
+      "p95": 8.069813338806853e-05,
+      "mean": 2.7381548741207693e-05
+    },
+    "materials": [
+      "tripo_material_d2f6c83b-bf0f-4a9c-b24b-70343766c63b"
+    ],
+    "images": [
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      }
+    ],
+    "export_roundtrip": {
+      "mesh_count": 1,
+      "triangles": 478613,
+      "dimensions_m": [
+        [
+          2.192723274230957,
+          0.6082422733306885,
+          1.9399099349975586
+        ]
+      ],
+      "images": [
+        {
+          "name": "rustic_wooden_cabinet_3d_model_basecolor",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "rustic_wooden_cabinet_3d_model_normal",
+          "size": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "name": "rustic_wooden_cabinet_3d_model_rm",
+          "size": [
+            4096,
+            4096
+          ]
+        }
+      ]
+    }
+  },
+  "original_sha256_unchanged": true
+}

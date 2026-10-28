@@ -1,0 +1,89 @@
+{
+  "baseline_unchanged": true,
+  "before": {
+    "coordinates_sha256": "ef5c697a68268975953986f8e9a9e494b6fb9fa8f2f77122093992da0b432264",
+    "uv_sha256": "d142d031a34e3853ff2473c458b96a028e8c4bb33f18d5de1f194f0b3c14efa2",
+    "triangles": 478613,
+    "dimensions_m": [
+      2.192723274230957,
+      0.6082422733306885,
+      1.9399099349975586
+    ],
+    "finite_geometry": true,
+    "finite_uv": true
+  },
+  "styled": {
+    "coordinates_sha256": "ef5c697a68268975953986f8e9a9e494b6fb9fa8f2f77122093992da0b432264",
+    "uv_sha256": "d142d031a34e3853ff2473c458b96a028e8c4bb33f18d5de1f194f0b3c14efa2",
+    "triangles": 478613,
+    "dimensions_m": [
+      2.192723274230957,
+      0.6082422733306885,
+      1.9399099349975586
+    ],
+    "finite_geometry": true,
+    "finite_uv": true
+  },
+  "geometry_identical": true,
+  "uvs_identical": true,
+  "glb": {
+    "meshes": 1,
+    "triangles": 478613,
+    "dimensions_m": [
+      [
+        2.192723274230957,
+        0.6082422733306885,
+        1.9399099349975586
+      ]
+    ],
+    "materials": [
+      "CM_Cabinet_Style02_MattePaint"
+    ],
+    "images": [
+      {
+        "name": "CM_Cabinet_Original_Normal",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "CM_Cabinet_Style02_BaseColor",
+        "size": [
+          4096,
+          4096
+        ]
+      }
+    ]
+  },
+  "fbx": {
+    "meshes": 1,
+    "triangles": 478613,
+    "dimensions_m": [
+      [
+        2.192723274230957,
+        1.9399099349975586,
+        0.6082422733306885
+      ]
+    ],
+    "materials": [
+      "CM_Cabinet_Style02_MattePaint"
+    ],
+    "images": [
+      {
+        "name": "CM_Cabinet_Style02_BaseColor",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png",
+        "size": [
+          4096,
+          4096
+        ]
+      }
+    ]
+  }
+}

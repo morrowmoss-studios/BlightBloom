@@ -1,0 +1,95 @@
+{
+  "warning": "Pixel differences indicate change, not artistic quality or reference matching. Foreground mask derived from original frame against constant neutral background.",
+  "views": {
+    "ThreeQuarter": {
+      "Original_vs_Style02": {
+        "foreground_mean_absolute_RGB_difference_0_255": 7.8705973625183105,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.12382012682124013
+      },
+      "Style02_vs_PrototypeA": {
+        "foreground_mean_absolute_RGB_difference_0_255": 17.83604621887207,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.4106491117672685
+      },
+      "Style02_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 20.082963943481445,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.5259596301853914
+      },
+      "PrototypeA_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 11.196087837219238,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.2576342836858835
+      }
+    },
+    "CrownWood": {
+      "Original_vs_Style02": {
+        "foreground_mean_absolute_RGB_difference_0_255": 7.556814193725586,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.12821937968718197
+      },
+      "Style02_vs_PrototypeA": {
+        "foreground_mean_absolute_RGB_difference_0_255": 17.331357955932617,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.41443169304796645
+      },
+      "Style02_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 19.946216583251953,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.5337124829734935
+      },
+      "PrototypeA_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 10.086749076843262,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.20554189955796318
+      }
+    },
+    "FoliagePlanter": {
+      "Original_vs_Style02": {
+        "foreground_mean_absolute_RGB_difference_0_255": 6.341458320617676,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.08129369351651666
+      },
+      "Style02_vs_PrototypeA": {
+        "foreground_mean_absolute_RGB_difference_0_255": 17.652944564819336,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.4226323279865735
+      },
+      "Style02_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 20.776065826416016,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.5522249226954473
+      },
+      "PrototypeA_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 9.428156852722168,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.19220031280604563
+      }
+    },
+    "ContentsBrass": {
+      "Original_vs_Style02": {
+        "foreground_mean_absolute_RGB_difference_0_255": 7.015287399291992,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.12503512273800443
+      },
+      "Style02_vs_PrototypeA": {
+        "foreground_mean_absolute_RGB_difference_0_255": 15.290203094482422,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.35167165987322974
+      },
+      "Style02_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 18.095714569091797,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.4758355562529421
+      },
+      "PrototypeA_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 9.392950057983398,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.20808625779542328
+      }
+    },
+    "Gameplay": {
+      "Original_vs_Style02": {
+        "foreground_mean_absolute_RGB_difference_0_255": 7.464284420013428,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.12615414579516612
+      },
+      "Style02_vs_PrototypeA": {
+        "foreground_mean_absolute_RGB_difference_0_255": 16.726064682006836,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.385331012361609
+      },
+      "Style02_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 19.138015747070312,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.504774831252777
+      },
+      "PrototypeA_vs_PrototypeB": {
+        "foreground_mean_absolute_RGB_difference_0_255": 10.13038158416748,
+        "foreground_fraction_mean_RGB_difference_over_15": 0.22561914558213989
+      }
+    }
+  }
+}

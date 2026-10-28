@@ -1,0 +1,138 @@
+[
+  {
+    "path": "BuildReport.json",
+    "bytes": 593
+  },
+  {
+    "path": "CM_BotanicalCabinet_Style02.blend",
+    "bytes": 62636452
+  },
+  {
+    "path": "CM_BotanicalCabinet_Style02.blend1",
+    "bytes": 62638540
+  },
+  {
+    "path": "CM_Cabinet_Style02_RenderReview.blend",
+    "bytes": 74230432
+  },
+  {
+    "path": "CM_Cabinet_Style02_RenderReview.blend1",
+    "bytes": 74230398
+  },
+  {
+    "path": "Comparisons/FinishDetail_Comparison.jpg",
+    "bytes": 540734
+  },
+  {
+    "path": "Comparisons/Front_Comparison.jpg",
+    "bytes": 638184
+  },
+  {
+    "path": "Comparisons/Gameplay_Comparison.jpg",
+    "bytes": 509665
+  },
+  {
+    "path": "Comparisons/Side_Comparison.jpg",
+    "bytes": 248222
+  },
+  {
+    "path": "Comparisons/ThreeQuarter_Comparison.jpg",
+    "bytes": 451961
+  },
+  {
+    "path": "Exports/CM_BotanicalCabinet_Style02.fbx",
+    "bytes": 42547356
+  },
+  {
+    "path": "Exports/CM_BotanicalCabinet_Style02.glb",
+    "bytes": 41814464
+  },
+  {
+    "path": "ImageGenerationPrompt.md",
+    "bytes": 1853
+  },
+  {
+    "path": "Previews/Before_FinishDetail.png",
+    "bytes": 1859959
+  },
+  {
+    "path": "Previews/Before_Front.png",
+    "bytes": 2037374
+  },
+  {
+    "path": "Previews/Before_Gameplay.png",
+    "bytes": 1886039
+  },
+  {
+    "path": "Previews/Before_Side.png",
+    "bytes": 1465720
+  },
+  {
+    "path": "Previews/Before_ThreeQuarter.png",
+    "bytes": 1824403
+  },
+  {
+    "path": "Previews/Style02_FinishDetail.png",
+    "bytes": 1776369
+  },
+  {
+    "path": "Previews/Style02_Front.png",
+    "bytes": 1955111
+  },
+  {
+    "path": "Previews/Style02_Gameplay.png",
+    "bytes": 1818520
+  },
+  {
+    "path": "Previews/Style02_Side.png",
+    "bytes": 1444726
+  },
+  {
+    "path": "Previews/Style02_ThreeQuarter.png",
+    "bytes": 1764554
+  },
+  {
+    "path": "README.md",
+    "bytes": 7864
+  },
+  {
+    "path": "ReviewLighting.json",
+    "bytes": 825
+  },
+  {
+    "path": "Textures/CM_Cabinet_Original_Normal.png",
+    "bytes": 4251033
+  },
+  {
+    "path": "Textures/CM_Cabinet_Style02_BaseColor.png",
+    "bytes": 22812370
+  },
+  {
+    "path": "Textures/CM_Cabinet_Style02_GrainUV.png",
+    "bytes": 7922539
+  },
+  {
+    "path": "Textures/Walnut_Painted_Source.png",
+    "bytes": 1852404
+  },
+  {
+    "path": "Validation.json",
+    "bytes": 1892
+  },
+  {
+    "path": "make_comparisons.py",
+    "bytes": 823
+  },
+  {
+    "path": "prepare_style.py",
+    "bytes": 8210
+  },
+  {
+    "path": "render_review.py",
+    "bytes": 3951
+  },
+  {
+    "path": "validate_export.py",
+    "bytes": 3226
+  }
+]

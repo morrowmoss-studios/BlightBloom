@@ -1,0 +1,30 @@
+{
+  "A": {
+    "material": "COMPARE_03_PrototypeA",
+    "wood_uses_old_albedo": false,
+    "material_roles": 8,
+    "wood_normal_strength": 0.22,
+    "wood_roughness": 0.66,
+    "glass_roughness": 0.24,
+    "brass_metallic": 0.72,
+    "brass_roughness": 0.5,
+    "geometry_changed": false,
+    "original_uv_changed": false,
+    "source_artwork_retained_for": "Stock imagery, labels, botanical picture, bone; hue/saturation used for mask selection, not wood illumination",
+    "limitation": "Glass is tinted opaque reflective finish, not reconstructed hollow/transmissive bottles; semantic masks are soft spatial and source-hue approximations."
+  },
+  "B": {
+    "material": "COMPARE_04_PrototypeB",
+    "wood_uses_old_albedo": false,
+    "material_roles": 8,
+    "wood_normal_strength": 0.1,
+    "wood_roughness": 0.73,
+    "glass_roughness": 0.3,
+    "brass_metallic": 0.72,
+    "brass_roughness": 0.6,
+    "geometry_changed": false,
+    "original_uv_changed": false,
+    "source_artwork_retained_for": "Stock imagery, labels, botanical picture, bone; hue/saturation used for mask selection, not wood illumination",
+    "limitation": "Glass is tinted opaque reflective finish, not reconstructed hollow/transmissive bottles; semantic masks are soft spatial and source-hue approximations."
+  }
+}

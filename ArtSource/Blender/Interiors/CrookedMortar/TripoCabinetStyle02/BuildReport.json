@@ -1,0 +1,20 @@
+{
+  "base_source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Interiors/CrookedMortar/TripoCabinetRecovery01/CabinetB/CabinetB.blend",
+  "base_sha256": "78edecf9248d3b07bed60be32ec656e92310835c224b38db9fc5cf4700663112",
+  "triangles": 478613,
+  "dimensions_m": [
+    2.192723274230957,
+    0.6082422733306885,
+    1.9399099349975586
+  ],
+  "geometry_changed": false,
+  "uvs_changed": false,
+  "normal_strength": 0.32,
+  "roughness": 0.82,
+  "metallic": 0.08,
+  "texture_size": [
+    4096,
+    4096
+  ],
+  "working_material": "CM_Cabinet_WalnutPaint_Style02_Working"
+}

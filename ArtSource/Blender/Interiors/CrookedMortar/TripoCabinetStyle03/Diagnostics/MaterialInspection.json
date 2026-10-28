@@ -1,0 +1,106 @@
+{
+  "source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Interiors/CrookedMortar/TripoCabinetStyle02/CM_BotanicalCabinet_Style02.blend",
+  "source_sha256": "ffada076390cd57eb1bc154825d002503120a08fd6d74d23028ea8a83bbcff31",
+  "vertices": 278131,
+  "triangles": 478613,
+  "dimensions_m": [
+    2.192723274230957,
+    0.6082422733306885,
+    1.9399099349975586
+  ],
+  "mesh_position_hash": "ef5c697a68268975953986f8e9a9e494b6fb9fa8f2f77122093992da0b432264",
+  "uv_hash": "d142d031a34e3853ff2473c458b96a028e8c4bb33f18d5de1f194f0b3c14efa2",
+  "uv_layers": [
+    "UVMap"
+  ],
+  "collapsed_uv_triangles": 8994,
+  "duplicate_nonzero_uv_triangle_occurrences_beyond_first": 28,
+  "shared_uv_triangles_with_surface_centres_over_1mm_apart": 26,
+  "triangles_uv_area_below_half_4k_texel": 19067,
+  "material_slots": [
+    "CM_Cabinet_Style02_MattePaint"
+  ],
+  "images": [
+    {
+      "name": "CM_Cabinet_Style02_BaseColor",
+      "size": [
+        4096,
+        4096
+      ],
+      "color_space": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "CM_Cabinet_Style02_GrainUV",
+      "size": [
+        4096,
+        4096
+      ],
+      "color_space": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg",
+      "size": [
+        4096,
+        4096
+      ],
+      "color_space": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "rustic_wooden_cabinet_3d_model_normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "color_space": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "rustic_wooden_cabinet_3d_model_rm.jpg",
+      "size": [
+        4096,
+        4096
+      ],
+      "color_space": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "Walnut_Painted_Source.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "color_space": "sRGB",
+      "packed": true
+    }
+  ],
+  "active_material_nodes": [
+    {
+      "type": "BSDF_PRINCIPLED",
+      "name": "Principled BSDF",
+      "label": ""
+    },
+    {
+      "type": "OUTPUT_MATERIAL",
+      "name": "Material Output",
+      "label": ""
+    },
+    {
+      "type": "TEX_IMAGE",
+      "name": "Image Texture",
+      "label": ""
+    },
+    {
+      "type": "TEX_IMAGE",
+      "name": "Image Texture.001",
+      "label": ""
+    },
+    {
+      "type": "NORMAL_MAP",
+      "name": "Normal Map",
+      "label": ""
+    }
+  ]
+}

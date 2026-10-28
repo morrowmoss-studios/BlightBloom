@@ -1,0 +1,198 @@
+[
+  {
+    "path": "ASSESSMENT.md",
+    "bytes": 4326
+  },
+  {
+    "path": "BuildReport.json",
+    "bytes": 1294
+  },
+  {
+    "path": "CabinetB_Style03_PrototypeA.blend",
+    "bytes": 74343476
+  },
+  {
+    "path": "CabinetB_Style03_PrototypeA.blend1",
+    "bytes": 74339327
+  },
+  {
+    "path": "CabinetB_Style03_PrototypeB.blend",
+    "bytes": 74956661
+  },
+  {
+    "path": "CabinetB_Style03_PrototypeB.blend1",
+    "bytes": 74956888
+  },
+  {
+    "path": "Comparisons/ContentsBrass_FourWay.png",
+    "bytes": 4766534
+  },
+  {
+    "path": "Comparisons/CrownWood_FourWay.png",
+    "bytes": 4128692
+  },
+  {
+    "path": "Comparisons/FoliagePlanter_FourWay.png",
+    "bytes": 4363787
+  },
+  {
+    "path": "Comparisons/Gameplay_FourWay.png",
+    "bytes": 2843703
+  },
+  {
+    "path": "Comparisons/ThreeQuarter_FourWay.png",
+    "bytes": 2864451
+  },
+  {
+    "path": "CurvaturePigment.json",
+    "bytes": 539
+  },
+  {
+    "path": "Diagnostics/Geometry_Only.png",
+    "bytes": 1178782
+  },
+  {
+    "path": "Diagnostics/MaterialInspection.json",
+    "bytes": 2396
+  },
+  {
+    "path": "Diagnostics/Original_BaseColor_Emission.png",
+    "bytes": 1685862
+  },
+  {
+    "path": "Diagnostics/Wicket_ReferenceFrame.png",
+    "bytes": 31424
+  },
+  {
+    "path": "FourWay_Neutral_Review.blend",
+    "bytes": 74959715
+  },
+  {
+    "path": "FourWay_Neutral_Review.blend1",
+    "bytes": 74466747
+  },
+  {
+    "path": "ImageDifferenceEvidence.json",
+    "bytes": 4277
+  },
+  {
+    "path": "Previews/Original_ContentsBrass.png",
+    "bytes": 1693626
+  },
+  {
+    "path": "Previews/Original_CrownWood.png",
+    "bytes": 1603163
+  },
+  {
+    "path": "Previews/Original_FoliagePlanter.png",
+    "bytes": 1658998
+  },
+  {
+    "path": "Previews/Original_Gameplay.png",
+    "bytes": 1419604
+  },
+  {
+    "path": "Previews/Original_ThreeQuarter.png",
+    "bytes": 1442678
+  },
+  {
+    "path": "Previews/PrototypeA_ContentsBrass.png",
+    "bytes": 1554617
+  },
+  {
+    "path": "Previews/PrototypeA_CrownWood.png",
+    "bytes": 1524890
+  },
+  {
+    "path": "Previews/PrototypeA_FoliagePlanter.png",
+    "bytes": 1604907
+  },
+  {
+    "path": "Previews/PrototypeA_Gameplay.png",
+    "bytes": 1321830
+  },
+  {
+    "path": "Previews/PrototypeA_ThreeQuarter.png",
+    "bytes": 1345429
+  },
+  {
+    "path": "Previews/PrototypeB_ContentsBrass.png",
+    "bytes": 1565371
+  },
+  {
+    "path": "Previews/PrototypeB_CrownWood.png",
+    "bytes": 1527142
+  },
+  {
+    "path": "Previews/PrototypeB_FoliagePlanter.png",
+    "bytes": 1623204
+  },
+  {
+    "path": "Previews/PrototypeB_Gameplay.png",
+    "bytes": 1352382
+  },
+  {
+    "path": "Previews/PrototypeB_ThreeQuarter.png",
+    "bytes": 1376134
+  },
+  {
+    "path": "Previews/Style02_ContentsBrass.png",
+    "bytes": 1620610
+  },
+  {
+    "path": "Previews/Style02_CrownWood.png",
+    "bytes": 1543750
+  },
+  {
+    "path": "Previews/Style02_FoliagePlanter.png",
+    "bytes": 1624493
+  },
+  {
+    "path": "Previews/Style02_Gameplay.png",
+    "bytes": 1372225
+  },
+  {
+    "path": "Previews/Style02_ThreeQuarter.png",
+    "bytes": 1394350
+  },
+  {
+    "path": "README.md",
+    "bytes": 5762
+  },
+  {
+    "path": "RenderConditions.json",
+    "bytes": 1462
+  },
+  {
+    "path": "Textures/Walnut_Painted_Source_Reused.png",
+    "bytes": 1852404
+  },
+  {
+    "path": "Validation.json",
+    "bytes": 4074
+  },
+  {
+    "path": "add_expressive_glaze.py",
+    "bytes": 2992
+  },
+  {
+    "path": "build_prototypes.py",
+    "bytes": 13184
+  },
+  {
+    "path": "inspect_materials.py",
+    "bytes": 4216
+  },
+  {
+    "path": "make_comparisons.py",
+    "bytes": 1670
+  },
+  {
+    "path": "render_fourway.py",
+    "bytes": 3418
+  },
+  {
+    "path": "validate_prototypes.py",
+    "bytes": 1954
+  }
+]

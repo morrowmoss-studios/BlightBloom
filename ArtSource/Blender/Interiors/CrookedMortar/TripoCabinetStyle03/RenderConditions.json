@@ -1,0 +1,122 @@
+{
+  "all_versions_same_geometry": true,
+  "all_versions_same_rig": true,
+  "lens_mm": 55,
+  "samples": 24,
+  "seed": 41,
+  "resolution": [
+    1000,
+    1100
+  ],
+  "view_transform": "AgX Medium High Contrast",
+  "exposure": 0,
+  "gamma": 1,
+  "white_lights": true,
+  "world_color": [
+    0.16,
+    0.16,
+    0.16
+  ],
+  "world_strength": 0.55,
+  "lights": [
+    [
+      "key",
+      [
+        -3,
+        -4,
+        4
+      ],
+      500,
+      3
+    ],
+    [
+      "fill",
+      [
+        3,
+        -2,
+        2.5
+      ],
+      280,
+      3
+    ],
+    [
+      "rim",
+      [
+        1,
+        2,
+        3
+      ],
+      300,
+      2.5
+    ]
+  ],
+  "views": [
+    [
+      "ThreeQuarter",
+      [
+        3,
+        -4.5,
+        2.4
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      "CrownWood",
+      [
+        0.55,
+        -1.8,
+        2.05
+      ],
+      [
+        0.15,
+        0,
+        1.66
+      ]
+    ],
+    [
+      "FoliagePlanter",
+      [
+        -1.65,
+        -1.6,
+        1.55
+      ],
+      [
+        -0.8,
+        -0.08,
+        1.38
+      ]
+    ],
+    [
+      "ContentsBrass",
+      [
+        0.25,
+        -1.9,
+        1.05
+      ],
+      [
+        0.1,
+        0,
+        0.69
+      ]
+    ],
+    [
+      "Gameplay",
+      [
+        1.1,
+        -5.5,
+        1.65
+      ],
+      [
+        0,
+        0,
+        0.95
+      ]
+    ]
+  ],
+  "no_bloom_fog_blur_dof": true,
+  "denoising": "sampling noise only"
+}

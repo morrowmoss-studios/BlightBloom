@@ -1,0 +1,20 @@
+{
+  "method": "Cycles CPU neutral studio, actual asset geometry and materials; no reference backdrop. Studio not saved to asset/source/export.",
+  "views": [
+    {
+      "view": "Back",
+      "cameraUnity": [
+        2.8,
+        2.25,
+        -4.0
+      ],
+      "targetUnity": [
+        0,
+        1.05,
+        0
+      ],
+      "orthoScale": 2.6,
+      "clay": false
+    }
+  ]
+}

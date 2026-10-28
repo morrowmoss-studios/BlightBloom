@@ -1,0 +1,69 @@
+{
+  "matching_before_after": true,
+  "views": [
+    [
+      "ThreeQuarter",
+      [
+        3,
+        -4.5,
+        2.4
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      "PERSP",
+      55
+    ],
+    [
+      "Front",
+      [
+        0,
+        -4.8,
+        1.05
+      ],
+      [
+        0,
+        0,
+        0.97
+      ],
+      "ORTHO",
+      2.7
+    ],
+    [
+      "Side",
+      [
+        4.8,
+        0,
+        1.05
+      ],
+      [
+        0,
+        0,
+        0.97
+      ],
+      "ORTHO",
+      2.7
+    ],
+    [
+      "Gameplay",
+      [
+        1.1,
+        -4.4,
+        1.65
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      "PERSP",
+      50
+    ]
+  ],
+  "engine": "Cycles CPU 32samples, denoised only for sampling noise",
+  "exposure": 0,
+  "bloom": false,
+  "depth_of_field": false
+}

@@ -1,0 +1,188 @@
+{
+  "A": {
+    "mesh_count": 1,
+    "vertices": 278131,
+    "triangles": 478613,
+    "dimensions_m": [
+      2.192723274230957,
+      0.6082422733306885,
+      1.9399099349975586
+    ],
+    "coordinates_sha256": "ef5c697a68268975953986f8e9a9e494b6fb9fa8f2f77122093992da0b432264",
+    "uv_sha256": "d142d031a34e3853ff2473c458b96a028e8c4bb33f18d5de1f194f0b3c14efa2",
+    "finite_coordinates": true,
+    "finite_uvs": true,
+    "finite_normals": true,
+    "material": "COMPARE_03_PrototypeA",
+    "principled_nodes": 1,
+    "images": [
+      {
+        "name": "CM_Cabinet_Style02_BaseColor",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "CM_Cabinet_Style02_GrainUV",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "Walnut_Painted_Source.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "packed": true
+      }
+    ],
+    "same_geometry_and_uv_as_style02": true
+  },
+  "B": {
+    "mesh_count": 1,
+    "vertices": 278131,
+    "triangles": 478613,
+    "dimensions_m": [
+      2.192723274230957,
+      0.6082422733306885,
+      1.9399099349975586
+    ],
+    "coordinates_sha256": "ef5c697a68268975953986f8e9a9e494b6fb9fa8f2f77122093992da0b432264",
+    "uv_sha256": "d142d031a34e3853ff2473c458b96a028e8c4bb33f18d5de1f194f0b3c14efa2",
+    "finite_coordinates": true,
+    "finite_uvs": true,
+    "finite_normals": true,
+    "material": "COMPARE_04_PrototypeB",
+    "principled_nodes": 1,
+    "images": [
+      {
+        "name": "CM_Cabinet_Style02_BaseColor",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "CM_Cabinet_Style02_GrainUV",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor.jpg.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal.png.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm.jpg.001",
+        "size": [
+          4096,
+          4096
+        ],
+        "packed": true
+      },
+      {
+        "name": "Walnut_Painted_Source.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "packed": true
+      }
+    ],
+    "same_geometry_and_uv_as_style02": true
+  },
+  "Style02_source_unchanged": true,
+  "original_glb_unchanged": true
+}

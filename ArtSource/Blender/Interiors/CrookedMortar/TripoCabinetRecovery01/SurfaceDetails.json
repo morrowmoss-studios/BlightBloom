@@ -1,0 +1,34 @@
+{
+  "CabinetA": {
+    "CabinetA_HighDetail": {
+      "exact_or_numerically_collapsed_uv_triangles_lt_1e_20": 82042,
+      "subpixel_uv_triangles_lt_half_texel_at_4k": 82042,
+      "geometric_zero_area_triangles_lt_1e_16m2": 0,
+      "finite_vertex_normals": true,
+      "zero_vertex_normals": 0
+    },
+    "CabinetA_Optimized": {
+      "exact_or_numerically_collapsed_uv_triangles_lt_1e_20": 21727,
+      "subpixel_uv_triangles_lt_half_texel_at_4k": 47283,
+      "geometric_zero_area_triangles_lt_1e_16m2": 0,
+      "finite_vertex_normals": true,
+      "zero_vertex_normals": 0
+    }
+  },
+  "CabinetB": {
+    "CabinetB_HighDetail": {
+      "exact_or_numerically_collapsed_uv_triangles_lt_1e_20": 31351,
+      "subpixel_uv_triangles_lt_half_texel_at_4k": 31351,
+      "geometric_zero_area_triangles_lt_1e_16m2": 0,
+      "finite_vertex_normals": true,
+      "zero_vertex_normals": 0
+    },
+    "CabinetB_Optimized": {
+      "exact_or_numerically_collapsed_uv_triangles_lt_1e_20": 8994,
+      "subpixel_uv_triangles_lt_half_texel_at_4k": 19056,
+      "geometric_zero_area_triangles_lt_1e_16m2": 0,
+      "finite_vertex_normals": true,
+      "zero_vertex_normals": 0
+    }
+  }
+}

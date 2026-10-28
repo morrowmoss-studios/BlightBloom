@@ -1,0 +1,100 @@
+{
+  "CabinetA": {
+    "materials": [
+      {
+        "name": "tripo_material_d2f6c83b-bf0f-4a9c-b24b-70343766c63b",
+        "normalTexture": {
+          "index": 0
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "index": 1
+          },
+          "metallicRoughnessTexture": {
+            "index": 2
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal",
+        "sha256": "3404f725d624c817d3d531843f29f0ceb9591aa927cab843093280e24fb55642",
+        "bytes": 4251033
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor",
+        "sha256": "6ffd2a1296724ea3372b5ab0c9c248979d0a7b2197a4c1040377843dc29b0b91",
+        "bytes": 4895234
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm",
+        "sha256": "712e70d1389f97dc39fa77eee3097d8cc918bac225393be63593c7e6cc7277a6",
+        "bytes": 2437900
+      }
+    ],
+    "position_bounds": [
+      {
+        "min": [
+          -1.1136441230773926,
+          4.915053432341665e-05,
+          -0.271646648645401
+        ],
+        "max": [
+          1.113643765449524,
+          1.940000057220459,
+          0.27162206172943115
+        ]
+      }
+    ]
+  },
+  "CabinetB": {
+    "materials": [
+      {
+        "name": "tripo_material_d2f6c83b-bf0f-4a9c-b24b-70343766c63b",
+        "normalTexture": {
+          "index": 0
+        },
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "index": 1
+          },
+          "metallicRoughnessTexture": {
+            "index": 2
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "name": "rustic_wooden_cabinet_3d_model_normal",
+        "sha256": "3404f725d624c817d3d531843f29f0ceb9591aa927cab843093280e24fb55642",
+        "bytes": 4251033
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_basecolor",
+        "sha256": "6ffd2a1296724ea3372b5ab0c9c248979d0a7b2197a4c1040377843dc29b0b91",
+        "bytes": 4895234
+      },
+      {
+        "name": "rustic_wooden_cabinet_3d_model_rm",
+        "sha256": "712e70d1389f97dc39fa77eee3097d8cc918bac225393be63593c7e6cc7277a6",
+        "bytes": 2437900
+      }
+    ],
+    "position_bounds": [
+      {
+        "min": [
+          -1.096361756324768,
+          3.258620563428849e-05,
+          -0.3041255474090576
+        ],
+        "max": [
+          1.0963616371154785,
+          1.939942479133606,
+          0.30411672592163086
+        ]
+      }
+    ]
+  }
+}

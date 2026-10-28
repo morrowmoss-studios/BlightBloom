@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "FBX": {
+    "meshes": 8,
+    "triangles": 60388,
+    "minBlenderNative": [
+      -0.927232027053833,
+      -0.49078211188316345,
+      0.005999981891363859
+    ],
+    "maxBlenderNative": [
+      0.9570683240890503,
+      0.24263633787631989,
+      1.9464002847671509
+    ],
+    "dimensionsMetres": [
+      1.8843003511428833,
+      0.7334184497594833,
+      1.940400302875787
+    ],
+    "boundsMatchTransport": true,
+    "missingUVs": 0,
+    "emptyMaterialSlots": 0
+  },
+  "GLB": {
+    "meshes": 8,
+    "triangles": 60388,
+    "minBlenderNative": [
+      -0.927232027053833,
+      -0.4907822012901306,
+      0.006000000052154064
+    ],
+    "maxBlenderNative": [
+      0.9570683240890503,
+      0.24263633787631989,
+      1.9464002847671509
+    ],
+    "dimensionsMetres": [
+      1.8843003511428833,
+      0.7334185391664505,
+      1.9404002847149968
+    ],
+    "boundsMatchTransport": true,
+    "missingUVs": 0,
+    "emptyMaterialSlots": 0
+  },
+  "method": "Reimport both final exports into separate empty Blender states; compare actual world bounds to the documented Unity-axis transport and source triangle count. Not a Unity import or gameplay test.",
+  "materialCount": 12
+}
