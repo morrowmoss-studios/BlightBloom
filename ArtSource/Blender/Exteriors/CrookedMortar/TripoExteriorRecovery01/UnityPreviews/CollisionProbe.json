@@ -1,0 +1,40 @@
+{
+  "method": "Automated CharacterController.Move surface/collision probe, not keyboard input or manual comfort validation",
+  "results": [
+    {
+      "target": "(5.50, 0.00, -8.50)",
+      "reached": true,
+      "steps": 174,
+      "position": "(5.50, 0.04, -8.40)",
+      "grounded": true
+    },
+    {
+      "target": "(-5.50, 0.00, -8.50)",
+      "reached": true,
+      "steps": 109,
+      "position": "(-5.40, 0.04, -8.50)",
+      "grounded": true
+    },
+    {
+      "target": "(-5.50, 0.00, 9.00)",
+      "reached": true,
+      "steps": 174,
+      "position": "(-5.50, 0.04, 8.90)",
+      "grounded": true
+    },
+    {
+      "target": "(0.00, 0.00, 9.00)",
+      "reached": true,
+      "steps": 54,
+      "position": "(-0.10, 0.04, 9.00)",
+      "grounded": true
+    },
+    {
+      "target": "(0.00, 0.00, 4.65)",
+      "reached": true,
+      "steps": 89,
+      "position": "(0.04, 1.11, 4.76)",
+      "grounded": true
+    }
+  ]
+}

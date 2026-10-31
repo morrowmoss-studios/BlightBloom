@@ -1,0 +1,27 @@
+{
+  "original_glb_sha256_unchanged": true,
+  "original_embedded_textures_byte_exact": true,
+  "exported_images": [
+    {
+      "name": "Original_02",
+      "sha256": "0d1421753a299ed0e3a593a3211e047bf4c7349bc43dc84d39e667d6c45a3775"
+    },
+    {
+      "name": "Original_00",
+      "sha256": "5664119a4cd81d366d8d6741a3fae82510e46eb2092385955532f3240360e364"
+    },
+    {
+      "name": "Original_01",
+      "sha256": "77c96e8480f88e612d9f36b6ff2767e0786de8a74857fdf82b11bc4ea52b5b49"
+    },
+    {
+      "name": "Sign_ApprovedWalnut",
+      "sha256": "5ae6bcc6d5fc5b573780dfdfc4e2c20f46d1b97aa65a35920c40e2a212cc713d"
+    }
+  ],
+  "protected_scene_hashes_unchanged": {
+    "Assets/Scenes/CM_CrookedMortar_Production02.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_ShopWorkflow14_Review.unity": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Exterior_Dev01.unity",
+  "triangles": 527497,
+  "boundsMetres": [
+    -4.159872,
+    6.341934E-05,
+    -7.361219,
+    4.15965462,
+    9.738134,
+    7.36153555
+  ],
+  "renderers": 15,
+  "missingMaterials": 0,
+  "missingScripts": 0,
+  "controllers": [
+    {
+      "height": 2.0,
+      "radius": 0.4,
+      "step": 0.3
+    }
+  ],
+  "colliders": 9,
+  "textures": [
+    {
+      "name": "CM_Exterior_OriginalPainted",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": "House_BaseColor"
+    },
+    {
+      "name": "CM_Exterior_HangerIron",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": null
+    },
+    {
+      "name": "CM_Exterior_SignWalnut",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": "Sign_Walnut"
+    },
+    {
+      "name": "CM_Exterior_AgedIvoryLetters",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "repaired_body": {
+    "triangles": 1863954,
+    "vertices": 1008585,
+    "finite_positions": true,
+    "finite_normals": true,
+    "finite_uvs": true,
+    "geometric_zero_area": 0,
+    "collapsed_uv_triangles": 124294,
+    "bounds_native": [
+      [
+        -0.2772979736328125,
+        -0.4907684326171875,
+        0.0
+      ],
+      [
+        0.2772979736328125,
+        0.4907684326171875,
+        0.649200439453125
+      ]
+    ],
+    "materials": [
+      "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797"
+    ]
+  },
+  "optimized_body": {
+    "triangles": 521906,
+    "vertices": 260925,
+    "finite_positions": true,
+    "finite_normals": true,
+    "finite_uvs": true,
+    "geometric_zero_area": 0,
+    "collapsed_uv_triangles": 1137,
+    "bounds_native": [
+      [
+        -4.159654140472412,
+        -7.361535549163818,
+        -0.00023657824203837663
+      ],
+      [
+        4.159872055053711,
+        7.3612189292907715,
+        9.737834930419922
+      ]
+    ],
+    "materials": [
+      "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797"
+    ]
+  },
+  "sampled_bidirectional_surface_error_m": {
+    "samples": 20059,
+    "max": 0.001790030754646655,
+    "p95": 0.0006984647456145892,
+    "mean": 0.0002704982147181927,
+    "over_3cm": []
+  },
+  "repaired_evaluated_triangles": 1869545,
+  "glb_roundtrip": {
+    "meshes": 15,
+    "triangles": 527497,
+    "bounds_m": [
+      [
+        -4.159654140472412,
+        -7.361535549163818,
+        -0.00023657824203837663
+      ],
+      [
+        4.159872055053711,
+        7.3612189292907715,
+        9.737834930419922
+      ]
+    ],
+    "images": [
+      {
+        "name": "Original_00",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Original_01",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Original_02",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Sign_ApprovedWalnut",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "missing_material_slots": 0
+  },
+  "original_sha256_unchanged": true
+}

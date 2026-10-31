@@ -1,0 +1,73 @@
+{
+  "source": "ArtSource/Blender/Architecture/CrookedMortar/TripoImports/storybook cottage 3d model.glb",
+  "sha256": "c3e633f0956c15e2f13a9c825cd54352e03b75f4d575ce80393920263ca5fe60",
+  "bytes": 69200704,
+  "nodes": [
+    {
+      "name": "tripo_node_100da277-55e8-4c28-89ff-45a1f7782797",
+      "mesh": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "normalTexture": {
+        "index": 2
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "meshes[0]",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 3,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          }
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "source": {
+        "name": "storybook_cottage_3d_model_basecolor.jpg",
+        "bufferView": 0,
+        "mimeType": "image/jpeg"
+      },
+      "file": "Original_00.jpg",
+      "sha256": "5664119a4cd81d366d8d6741a3fae82510e46eb2092385955532f3240360e364"
+    },
+    {
+      "source": {
+        "name": "storybook_cottage_3d_model_rm.jpg",
+        "bufferView": 1,
+        "mimeType": "image/jpeg"
+      },
+      "file": "Original_01.jpg",
+      "sha256": "77c96e8480f88e612d9f36b6ff2767e0786de8a74857fdf82b11bc4ea52b5b49"
+    },
+    {
+      "source": {
+        "name": "storybook_cottage_3d_model_normal.png",
+        "bufferView": 2,
+        "mimeType": "image/png"
+      },
+      "file": "Original_02.png",
+      "sha256": "0d1421753a299ed0e3a593a3211e047bf4c7349bc43dc84d39e667d6c45a3775"
+    }
+  ]
+}

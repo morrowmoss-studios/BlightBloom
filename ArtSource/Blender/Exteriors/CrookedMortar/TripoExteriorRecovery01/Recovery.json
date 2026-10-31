@@ -1,0 +1,31 @@
+{
+  "exact_weld_vertices_before": 1008585,
+  "exact_weld_vertices_after": 931953,
+  "source_triangles": 1880780,
+  "removed_sign_inset_triangles": 10767,
+  "removed_orphan_iron_triangles": 6059,
+  "repaired_body_triangles": 1863954,
+  "optimized_body_triangles": 521906,
+  "optimized_total_triangles": 527497,
+  "scale_factor": 15.0,
+  "house_bounds_m": [
+    [
+      -4.1594696044921875,
+      -7.3615264892578125,
+      0.0
+    ],
+    [
+      4.1594696044921875,
+      7.3615264892578125,
+      9.738006591796875
+    ]
+  ],
+  "sign_text": "The Crooked Mortar",
+  "sign_editable": true,
+  "uv_bake": "Not attempted: invalid collapsed source UVs; original atlas retained",
+  "new_materials": [
+    "Sign_ApprovedPaintedWalnut",
+    "Sign_AgedIvoryLettering",
+    "Sign_WeatheredIron"
+  ]
+}
