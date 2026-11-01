@@ -1,0 +1,154 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Exterior_StandaloneTest01.unity",
+  "prefab": "Assets/BlightBloom/Art/Exteriors/CrookedMortar/Standalone01/Prefabs/CM_CrookedMortar_Standalone01.prefab",
+  "triangles": 503363,
+  "renderers": 15,
+  "materialCount": 5,
+  "missingMaterialSlots": 0,
+  "materials": [
+    {
+      "name": "CM_Exterior_OriginalPainted",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/House_BaseColor.jpg"
+    },
+    {
+      "name": "CM_Standalone_LocalFoundationReturns",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": "Assets/BlightBloom/Art/Exteriors/CrookedMortar/Standalone01/Textures/FoundationReturn_MatchedStone.png"
+    },
+    {
+      "name": "CM_Exterior_HangerIron",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": null
+    },
+    {
+      "name": "CM_Exterior_SignWalnut",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Sign_Walnut.png"
+    },
+    {
+      "name": "CM_Exterior_AgedIvoryLetters",
+      "shader": "Universal Render Pipeline/Lit",
+      "baseTexture": null
+    }
+  ],
+  "textures": [
+    {
+      "name": "House_BaseColor",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 44740272
+    },
+    {
+      "name": "House_Normal",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 44740272
+    },
+    {
+      "name": "House_MetallicSmoothness",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 44740272
+    },
+    {
+      "name": "FoundationReturn_MatchedStone",
+      "width": 768,
+      "height": 512,
+      "bytes": 4195272
+    },
+    {
+      "name": "FoundationReturn_Normal",
+      "width": 768,
+      "height": 512,
+      "bytes": 4195272
+    },
+    {
+      "name": "Sign_Walnut",
+      "width": 2048,
+      "height": 2048,
+      "bytes": 11185840
+    }
+  ],
+  "renderMeshBytes": 42948516,
+  "missingScripts": 0,
+  "nonfiniteVertices": 0,
+  "invalidOrZeroNormals": 0,
+  "meshUvCountMismatch": 0,
+  "collisionTriangles": 6508,
+  "boxColliders": 7,
+  "prefabContainsTerrain": false,
+  "prefabContainsApproachPath": false,
+  "independentMove": {
+    "translation": [
+      11,
+      0,
+      -9
+    ],
+    "yawDegrees": 25,
+    "maxVertexErrorMetres": 9.8302496098767733E-07,
+    "groundUnchanged": true,
+    "pathUnchanged": true,
+    "terrainHeightsUnchanged": true,
+    "originalPlacementRestored": true
+  },
+  "standingSurfaceSamples": [
+    {
+      "z": 8.0,
+      "found": true,
+      "y": 0.004999999,
+      "collider": "Independent_TemporaryApproachPath"
+    },
+    {
+      "z": 7.2,
+      "found": true,
+      "y": 0.004999999,
+      "collider": "Independent_TemporaryApproachPath"
+    },
+    {
+      "z": 6.8,
+      "found": true,
+      "y": 0.0,
+      "collider": "Independent_Adjustable_Terrain_45m"
+    },
+    {
+      "z": 6.3,
+      "found": true,
+      "y": 0.0,
+      "collider": "Independent_Adjustable_Terrain_45m"
+    },
+    {
+      "z": 5.8,
+      "found": true,
+      "y": 0.0,
+      "collider": "Independent_Adjustable_Terrain_45m"
+    },
+    {
+      "z": 5.3,
+      "found": true,
+      "y": 0.07867855,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    },
+    {
+      "z": 4.95,
+      "found": true,
+      "y": 0.2868942,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    }
+  ],
+  "offscreenCaptureMilliseconds": {
+    "FrontThreeQuarter": 1.868,
+    "Front": 1.8954000000000002,
+    "Rear": 1.4573,
+    "Side": 1.4396,
+    "PlayerHeight": 1.3467,
+    "FrontEntrance": 1.4517,
+    "RockIvyLeft": 1.336,
+    "RockIvyRight": 1.9874,
+    "RearPlatform": 1.338,
+    "Sign": 1.5208000000000002,
+    "Underside_GroundHiddenForInspection": 1.4358,
+    "MovedIndependently": 3.7955
+  },
+  "freeBytes": 11428294656
+}

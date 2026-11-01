@@ -1,0 +1,32 @@
+[
+  {
+    "name": "storybook_cottage_3d_model_basecolor.jpg",
+    "filepath": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_00.jpg",
+    "colorspace": "sRGB",
+    "size": [
+      4096,
+      4096
+    ],
+    "read_only_copy": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/SourceTextureReadOnlyCopy_storybook_cottage_3d_model_basecolor.jpg"
+  },
+  {
+    "name": "storybook_cottage_3d_model_rm.jpg",
+    "filepath": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_01.jpg",
+    "colorspace": "Non-Color",
+    "size": [
+      4096,
+      4096
+    ],
+    "read_only_copy": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/SourceTextureReadOnlyCopy_storybook_cottage_3d_model_rm.jpg"
+  },
+  {
+    "name": "storybook_cottage_3d_model_normal.png",
+    "filepath": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_02.png",
+    "colorspace": "Non-Color",
+    "size": [
+      4096,
+      4096
+    ],
+    "read_only_copy": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/SourceTextureReadOnlyCopy_storybook_cottage_3d_model_normal.png"
+  }
+]

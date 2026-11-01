@@ -1,0 +1,22 @@
+{
+  "context": "Unity Editor Play mode, single snapshot; includes Editor/passes/cached resources; not a standalone-player or per-building benchmark",
+  "render": {
+    "drawCalls": 105,
+    "setPassCalls": 21,
+    "submittedTriangles": 3021897
+  },
+  "memory": {
+    "totalAllocatedBytes": 1851911967,
+    "totalReservedBytes": 2666605784
+  },
+  "frameTiming": {
+    "cpuFrameTimeMs": 101.4215,
+    "gpuFrameTimeMs": 0,
+    "gpuTimingValid": false
+  },
+  "importAndTextureSetupSeconds": 4.4376136,
+  "renderMeshObjectBytes": 42948516,
+  "textureObjectBytes": 153797200,
+  "medianOffscreenCameraRenderCallMs": 1.4545,
+  "note": "Offscreen Camera.Render timings do not include GPU completion/readback/PNG cost and are not frame-rate certification. Approximately 100ms Editor frame interval was observed; no reliable GPU timing or shipping performance conclusion."
+}

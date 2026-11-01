@@ -1,0 +1,32 @@
+{
+  "protectedHashesMatch": {
+    "ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/CM_CrookedMortar_TerrainSeparated01.blend": true,
+    "Assets/Scenes/CM_WindowBay01_ArtReview.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_EntranceWorkflow11_Review.unity": true,
+    "Assets/Scenes/CM_EntryPortal02_ArtReview.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_ShopWorkflow10_Review.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_UsabilityBlockout01.unity": true,
+    "Assets/Scenes/CM_SlateRoofKit01_ArtReview.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_B_StyledDetails07.unity": true,
+    "Assets/Scenes/SampleScene.unity": true,
+    "Assets/Scenes/CM_CounterWorkflow09_Review.unity": true,
+    "Assets/Scenes/CM_PairedWindowBay02_ArtReview.unity": true,
+    "Assets/Scenes/CM_CounterWorkflow08_Review.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_Production02.unity": true,
+    "Assets/Scenes/CM_FacadeBay01_ArtReview.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_Exterior_Dev01.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_ShopWorkflow13_Review.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_ShopWorkflow14_Review.unity": true,
+    "Assets/Scenes/CM_CounterWorkflow07_Review.unity": true,
+    "Assets/Scenes/TraversalSandbox.unity": true,
+    "Assets/Scenes/CM_BotanicalPlanterKit01_ArtReview.unity": true,
+    "Assets/Scenes/CM_EntranceBay01_ArtReview.unity": true,
+    "Assets/Scenes/CM_CrookedMortar_ShopWorkflow12_Review.unity": true
+  },
+  "allProtectedHashesMatch": true,
+  "sourceSavedOrGeometryModified": false,
+  "existingSceneCountVerified": 21,
+  "freeBytesAtFinalCheck": 11234222080,
+  "noProductionIntegration": true,
+  "noCommitOrPush": true
+}

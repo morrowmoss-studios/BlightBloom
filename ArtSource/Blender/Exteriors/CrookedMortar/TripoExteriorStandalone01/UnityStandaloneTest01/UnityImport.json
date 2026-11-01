@@ -1,0 +1,115 @@
+{
+  "importAndTextureSetupSeconds": 4.4376136,
+  "freeBytesBefore": 11500920832,
+  "freeBytesAfter": 11460530176,
+  "fbxBytes": 16388732,
+  "meshCount": 15,
+  "triangles": 503363,
+  "meshes": [
+    {
+      "name": "House_Standalone01.001",
+      "vertices": 316690,
+      "submeshes": 2,
+      "uvs": 316690,
+      "normals": 316690
+    },
+    {
+      "name": "Standalone01_Fitted_PlasterReturn_AfterFusedBracketRemoval.002",
+      "vertices": 7,
+      "submeshes": 1,
+      "uvs": 7,
+      "normals": 7
+    },
+    {
+      "name": "Standalone01_Sign_ClosedDropLink.001",
+      "vertices": 295,
+      "submeshes": 1,
+      "uvs": 295,
+      "normals": 295
+    },
+    {
+      "name": "Standalone01_Sign_ClosedDropLink.004",
+      "vertices": 295,
+      "submeshes": 1,
+      "uvs": 295,
+      "normals": 295
+    },
+    {
+      "name": "Standalone01_Sign_FasciaMounted_Arm.002",
+      "vertices": 427,
+      "submeshes": 1,
+      "uvs": 427,
+      "normals": 427
+    },
+    {
+      "name": "Standalone01_Sign_Hanger_Brace.002",
+      "vertices": 295,
+      "submeshes": 1,
+      "uvs": 295,
+      "normals": 295
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank00.002",
+      "vertices": 384,
+      "submeshes": 1,
+      "uvs": 384,
+      "normals": 384
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank01.002",
+      "vertices": 384,
+      "submeshes": 1,
+      "uvs": 384,
+      "normals": 384
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank02.002",
+      "vertices": 384,
+      "submeshes": 1,
+      "uvs": 384,
+      "normals": 384
+    },
+    {
+      "name": "Standalone01_SignText_Crooked_Back.002",
+      "vertices": 621,
+      "submeshes": 1,
+      "uvs": 621,
+      "normals": 621
+    },
+    {
+      "name": "Standalone01_SignText_Crooked_Front.002",
+      "vertices": 621,
+      "submeshes": 1,
+      "uvs": 621,
+      "normals": 621
+    },
+    {
+      "name": "Standalone01_SignText_Mortar_Back.002",
+      "vertices": 531,
+      "submeshes": 1,
+      "uvs": 531,
+      "normals": 531
+    },
+    {
+      "name": "Standalone01_SignText_Mortar_Front.002",
+      "vertices": 531,
+      "submeshes": 1,
+      "uvs": 531,
+      "normals": 531
+    },
+    {
+      "name": "Standalone01_SignText_The_Back.002",
+      "vertices": 265,
+      "submeshes": 1,
+      "uvs": 265,
+      "normals": 265
+    },
+    {
+      "name": "Standalone01_SignText_The_Front.002",
+      "vertices": 265,
+      "submeshes": 1,
+      "uvs": 265,
+      "normals": 265
+    }
+  ]
+}

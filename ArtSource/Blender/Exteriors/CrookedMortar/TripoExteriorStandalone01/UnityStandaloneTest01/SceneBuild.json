@@ -1,0 +1,26 @@
+{
+  "scene": "Assets/Scenes/CM_CrookedMortar_Exterior_StandaloneTest01.unity",
+  "isDirty": false,
+  "rootScale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "bounds": [
+    -3.776637,
+    -0.467906,
+    -6.769826,
+    3.47706842,
+    9.157835,
+    6.985853
+  ],
+  "groundDatumSourceZ": 0.58,
+  "buildingInstancePosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "terrainIndependent": true,
+  "controllerHeight": 2.0,
+  "freeBytes": 11227787264
+}

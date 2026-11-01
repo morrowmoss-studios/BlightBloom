@@ -1,0 +1,159 @@
+{
+  "PorchLeft": [
+    {
+      "pixel": [
+        160,
+        373
+      ],
+      "surface_point": [
+        -2.8870949745178223,
+        -3.4946374893188477,
+        0.9019768238067627
+      ],
+      "face_index": 46048,
+      "object": "House_Optimized"
+    }
+  ],
+  "PorchRight": [
+    {
+      "pixel": [
+        390,
+        520
+      ],
+      "surface_point": [
+        1.7696266174316406,
+        -5.773314476013184,
+        0.5291106700897217
+      ],
+      "face_index": 331818,
+      "object": "House_Optimized"
+    },
+    {
+      "pixel": [
+        990,
+        450
+      ],
+      "surface_point": [
+        2.9064269065856934,
+        -3.3287858963012695,
+        0.5800824165344238
+      ],
+      "face_index": 511501,
+      "object": "House_Optimized"
+    }
+  ],
+  "RockIvyLeft": [
+    {
+      "pixel": [
+        730,
+        408
+      ],
+      "surface_point": [
+        -3.0011940002441406,
+        -3.3857882022857666,
+        0.9410563707351685
+      ],
+      "face_index": 41998,
+      "object": "House_Optimized"
+    }
+  ],
+  "RockIvyRight": [
+    {
+      "pixel": [
+        465,
+        477
+      ],
+      "surface_point": [
+        3.267165184020996,
+        -3.004685163497925,
+        0.6440000534057617
+      ],
+      "face_index": 495867,
+      "object": "House_Optimized"
+    },
+    {
+      "pixel": [
+        615,
+        531
+      ],
+      "surface_point": [
+        3.4828367233276367,
+        -2.3863766193389893,
+        0.4087482690811157
+      ],
+      "face_index": 491312,
+      "object": "House_Optimized"
+    },
+    {
+      "pixel": [
+        713,
+        513
+      ],
+      "surface_point": [
+        3.2641916275024414,
+        -1.8690435886383057,
+        0.4349457025527954
+      ],
+      "face_index": 505634,
+      "object": "House_Optimized"
+    }
+  ],
+  "PlanterLeft": [
+    {
+      "pixel": [
+        739,
+        519
+      ],
+      "surface_point": [
+        -3.2141571044921875,
+        2.61979079246521,
+        0.4995996952056885
+      ],
+      "face_index": 16207,
+      "object": "House_Optimized"
+    }
+  ],
+  "PlanterRight": [
+    {
+      "pixel": [
+        349,
+        518
+      ],
+      "surface_point": [
+        3.060225486755371,
+        2.5604889392852783,
+        0.49356651306152344
+      ],
+      "face_index": 512062,
+      "object": "House_Optimized"
+    }
+  ],
+  "Rear": [
+    {
+      "pixel": [
+        135,
+        500
+      ],
+      "surface_point": [
+        2.921818733215332,
+        6.722373008728027,
+        0.5097875595092773
+      ],
+      "face_index": 405269,
+      "object": "House_Optimized"
+    },
+    {
+      "pixel": [
+        995,
+        482
+      ],
+      "surface_point": [
+        -3.0455758571624756,
+        6.671894073486328,
+        0.5378139019012451
+      ],
+      "face_index": 9144,
+      "object": "House_Optimized"
+    }
+  ]
+}

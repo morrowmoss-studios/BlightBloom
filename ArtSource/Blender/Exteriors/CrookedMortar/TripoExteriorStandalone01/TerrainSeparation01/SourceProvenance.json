@@ -1,0 +1,18 @@
+{
+  "source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/BoundaryMapping02/CM_CrookedMortar_BoundaryMapping02_UNCUT.blend",
+  "sha256": "262f3707f791152128c155eff56609072347ea73d9a0baf6a31256124d0f7b1d",
+  "triangles": 521906,
+  "vertices": 260925,
+  "bounds": [
+    [
+      -4.159654140472412,
+      -7.361535549163818,
+      -0.00023657824203837663
+    ],
+    [
+      4.159872055053711,
+      7.3612189292907715,
+      9.737834930419922
+    ]
+  ]
+}

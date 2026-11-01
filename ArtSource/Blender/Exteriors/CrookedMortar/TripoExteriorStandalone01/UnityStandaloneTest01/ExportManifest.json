@@ -1,0 +1,741 @@
+{
+  "source": "ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/CM_CrookedMortar_TerrainSeparated01.blend",
+  "sourceSHA256": "9fe03634d4a5951bace2d65f022a449a5686eabc27f5b2ff39583d5f6f62fbbf",
+  "objects": [
+    {
+      "name": "House_Standalone01",
+      "sourceType": "MESH",
+      "triangles": 497772,
+      "vertices": 248862,
+      "uvLayers": [
+        "SourceUV_PRESERVED"
+      ],
+      "materials": [
+        "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797",
+        "CM_Standalone_LocalFoundationReturns"
+      ],
+      "worldMatrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Fitted_PlasterReturn_AfterFusedBracketRemoval.001",
+      "sourceType": "MESH",
+      "triangles": 5,
+      "vertices": 7,
+      "uvLayers": [
+        "SourcePlasterPatch"
+      ],
+      "materials": [
+        "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank00.001",
+      "sourceType": "MESH",
+      "triangles": 188,
+      "vertices": 96,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_ApprovedPaintedWalnut"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          -0.8400000333786011
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          -6.691499710083008
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          4.072499752044678
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank01.001",
+      "sourceType": "MESH",
+      "triangles": 188,
+      "vertices": 96,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_ApprovedPaintedWalnut"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          -0.8400000333786011
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          -6.375
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          4.072499752044678
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_ReplacementInset_Plank02.001",
+      "sourceType": "MESH",
+      "triangles": 188,
+      "vertices": 96,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_ApprovedPaintedWalnut"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          -0.8400000333786011
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          -6.058499813079834
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          4.072499752044678
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_The_Front.001",
+      "sourceType": "FONT",
+      "triangles": 261,
+      "vertices": 265,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -1.1689077155097038e-06,
+          1.1689077155097038e-06,
+          26.741491317749023,
+          -0.7484999895095825
+        ],
+        [
+          26.741491317749023,
+          5.1094585919002344e-14,
+          1.1689077155097038e-06,
+          -6.375
+        ],
+        [
+          0.0,
+          26.741491317749023,
+          -1.1689077155097038e-06,
+          4.394999980926514
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_Crooked_Front.001",
+      "sourceType": "FONT",
+      "triangles": 615,
+      "vertices": 621,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -9.662431921242387e-07,
+          9.662431921242387e-07,
+          22.10506820678711,
+          -0.7484999895095825
+        ],
+        [
+          22.10506820678711,
+          4.223583763003462e-14,
+          9.662431921242387e-07,
+          -6.375
+        ],
+        [
+          0.0,
+          22.10506820678711,
+          -9.662431921242387e-07,
+          4.087500095367432
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_Mortar_Front.001",
+      "sourceType": "FONT",
+      "triangles": 523,
+      "vertices": 531,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -1.0390291436124244e-06,
+          1.0390291436124244e-06,
+          23.77021598815918,
+          -0.7484999895095825
+        ],
+        [
+          23.77021598815918,
+          4.541741196453439e-14,
+          1.0390291436124244e-06,
+          -6.375
+        ],
+        [
+          0.0,
+          23.77021598815918,
+          -1.0390291436124244e-06,
+          3.7799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_The_Back.001",
+      "sourceType": "FONT",
+      "triangles": 261,
+      "vertices": 265,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -1.1689077155097038e-06,
+          -1.1689077155097038e-06,
+          -26.741491317749023,
+          -0.9315000176429749
+        ],
+        [
+          -26.741491317749023,
+          5.1094585919002344e-14,
+          1.1689077155097038e-06,
+          -6.375
+        ],
+        [
+          0.0,
+          26.741491317749023,
+          -1.1689077155097038e-06,
+          4.394999980926514
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_Crooked_Back.001",
+      "sourceType": "FONT",
+      "triangles": 615,
+      "vertices": 621,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -9.662431921242387e-07,
+          -9.662431921242387e-07,
+          -22.10506820678711,
+          -0.9315000176429749
+        ],
+        [
+          -22.10506820678711,
+          4.223583763003462e-14,
+          9.662431921242387e-07,
+          -6.375
+        ],
+        [
+          0.0,
+          22.10506820678711,
+          -9.662431921242387e-07,
+          4.087500095367432
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_SignText_Mortar_Back.001",
+      "sourceType": "FONT",
+      "triangles": 523,
+      "vertices": 531,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_AgedIvoryLettering"
+      ],
+      "worldMatrix": [
+        [
+          -1.0390291436124244e-06,
+          -1.0390291436124244e-06,
+          -23.77021598815918,
+          -0.9315000176429749
+        ],
+        [
+          -23.77021598815918,
+          4.541741196453439e-14,
+          1.0390291436124244e-06,
+          -6.375
+        ],
+        [
+          0.0,
+          23.77021598815918,
+          -1.0390291436124244e-06,
+          3.7799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_FasciaMounted_Arm.001",
+      "sourceType": "CURVE",
+      "triangles": 736,
+      "vertices": 390,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_WeatheredIron"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_Hanger_Brace.001",
+      "sourceType": "CURVE",
+      "triangles": 496,
+      "vertices": 270,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_WeatheredIron"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_ClosedDropLink.002",
+      "sourceType": "CURVE",
+      "triangles": 496,
+      "vertices": 270,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_WeatheredIron"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "Standalone01_Sign_ClosedDropLink.003",
+      "sourceType": "CURVE",
+      "triangles": 496,
+      "vertices": 270,
+      "uvLayers": [
+        "UVMap"
+      ],
+      "materials": [
+        "Sign_WeatheredIron"
+      ],
+      "worldMatrix": [
+        [
+          15.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          15.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          15.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "materials": {
+    "tripo_material_100da277-55e8-4c28-89ff-45a1f7782797": {
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "images": [
+        {
+          "name": "storybook_cottage_3d_model_basecolor.jpg",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_00.jpg",
+          "size": [
+            4096,
+            4096
+          ],
+          "colorSpace": "sRGB"
+        },
+        {
+          "name": "storybook_cottage_3d_model_rm.jpg",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_01.jpg",
+          "size": [
+            4096,
+            4096
+          ],
+          "colorSpace": "Non-Color"
+        },
+        {
+          "name": "storybook_cottage_3d_model_normal.png",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Original_02.png",
+          "size": [
+            4096,
+            4096
+          ],
+          "colorSpace": "Non-Color"
+        }
+      ],
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0
+    },
+    "CM_Standalone_LocalFoundationReturns": {
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "images": [
+        {
+          "name": "FoundationReturn_MatchedStone.png",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/FoundationReturn_MatchedStone.png",
+          "size": [
+            768,
+            512
+          ],
+          "colorSpace": "sRGB"
+        },
+        {
+          "name": "FoundationReturn_Normal.png",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorStandalone01/TerrainSeparation01/FoundationReturn_Normal.png",
+          "size": [
+            768,
+            512
+          ],
+          "colorSpace": "Non-Color"
+        }
+      ],
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8700000047683716,
+      "metallic": 0.0
+    },
+    "Sign_ApprovedPaintedWalnut": {
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "images": [
+        {
+          "name": "Sign_ApprovedWalnut.png",
+          "path": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/Textures/Sign_ApprovedWalnut.png",
+          "size": [
+            2048,
+            2048
+          ],
+          "colorSpace": "sRGB"
+        }
+      ],
+      "baseColor": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8399999737739563,
+      "metallic": 0.0
+    },
+    "Sign_AgedIvoryLettering": {
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "images": [],
+      "baseColor": [
+        0.7400000095367432,
+        0.6299999952316284,
+        0.38999998569488525,
+        1.0
+      ],
+      "roughness": 0.8500000238418579,
+      "metallic": 0.0
+    },
+    "Sign_WeatheredIron": {
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "images": [],
+      "baseColor": [
+        0.05999999865889549,
+        0.04500000178813934,
+        0.029999999329447746,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.20000000298023224
+    }
+  },
+  "triangles": 503363,
+  "boundsBlenderMetres": [
+    [
+      -3.4770684242248535,
+      -6.98585319519043,
+      0.11209408938884735
+    ],
+    [
+      3.776637077331543,
+      6.7698259353637695,
+      9.737834930419922
+    ]
+  ],
+  "exportSeconds": 3.4094039159826934,
+  "fbxBytes": 16388732,
+  "fbxSHA256": "8e0feb8113a984254e4422a977558cd90583883e1040f7b32b1d08faa2954390",
+  "freeBytesAfterExport": 11508498432,
+  "sourceHashUnchanged": true,
+  "sourceSaved": false,
+  "hiddenReferenceGeometryExported": false
+}

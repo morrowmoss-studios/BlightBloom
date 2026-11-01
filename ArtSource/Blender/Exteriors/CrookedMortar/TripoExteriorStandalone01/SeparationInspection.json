@@ -1,0 +1,101 @@
+{
+  "source": "/Users/zak/Desktop/MorrowMoss Studios/BlightBloom/ArtSource/Blender/Exteriors/CrookedMortar/TripoExteriorRecovery01/CrookedMortar_Optimized.blend",
+  "source_sha256": "ea306428a16932f86e3ed481aecb33a805ad657699d5e0f73d35a6e418d7e99a",
+  "body_vertices": 260925,
+  "body_triangles": 521906,
+  "visible_mesh_objects": [
+    {
+      "name": "House_Optimized",
+      "triangles": 521906,
+      "uv_layers": [
+        "SourceUV_PRESERVED"
+      ]
+    },
+    {
+      "name": "Fitted_PlasterReturn_AfterFusedBracketRemoval.001",
+      "triangles": 5,
+      "uv_layers": [
+        "SourcePlasterPatch"
+      ]
+    },
+    {
+      "name": "Sign_ReplacementInset_Plank00.001",
+      "triangles": 188,
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "Sign_ReplacementInset_Plank01.001",
+      "triangles": 188,
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "Sign_ReplacementInset_Plank02.001",
+      "triangles": 188,
+      "uv_layers": [
+        "UVMap"
+      ]
+    }
+  ],
+  "body_components": [
+    {
+      "root": 255328,
+      "triangles": 521771,
+      "vertices": 260837,
+      "min": [
+        -4.159654140472412,
+        -7.361535549163818,
+        -0.00023657824203837663
+      ],
+      "max": [
+        4.159872055053711,
+        7.3612189292907715,
+        9.737834930419922
+      ]
+    },
+    {
+      "root": 77274,
+      "triangles": 135,
+      "vertices": 88,
+      "min": [
+        -2.046694755554199,
+        -5.570755481719971,
+        5.407921314239502
+      ],
+      "max": [
+        -1.8951406478881836,
+        -5.383072376251221,
+        5.541572570800781
+      ]
+    }
+  ],
+  "height_threshold_diagnostics_NOT_DELETION_RULES": {
+    "0.1": {
+      "triangles_crossing": 861,
+      "vertices_below": 1241
+    },
+    "0.25": {
+      "triangles_crossing": 969,
+      "vertices_below": 6092
+    },
+    "0.4": {
+      "triangles_crossing": 994,
+      "vertices_below": 9974
+    },
+    "0.6": {
+      "triangles_crossing": 2712,
+      "vertices_below": 18209
+    },
+    "0.9": {
+      "triangles_crossing": 2582,
+      "vertices_below": 28519
+    },
+    "1.15": {
+      "triangles_crossing": 3448,
+      "vertices_below": 39132
+    }
+  }
+}

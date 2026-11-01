@@ -1,0 +1,18 @@
+{
+  "playMode": true,
+  "scene": "Assets/Scenes/CM_CrookedMortar_Exterior_StandaloneTest01.unity",
+  "mainCameraPosition": [
+    4.60000038,
+    3.25745249,
+    15.1984625
+  ],
+  "playerPosition": [
+    4.6,
+    0.04000001,
+    10.5
+  ],
+  "controllerEnabled": true,
+  "motorEnabled": true,
+  "orbitEnabled": true,
+  "freeBytes": 11427815424
+}

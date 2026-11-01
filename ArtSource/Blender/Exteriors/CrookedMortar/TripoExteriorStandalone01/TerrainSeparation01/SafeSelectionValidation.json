@@ -1,0 +1,10 @@
+{
+  "stage": 5,
+  "removed_faces_cumulative": 25096,
+  "kept_body_triangles": 496810,
+  "source_mesh_hash_unchanged": true,
+  "source_hash": "5076e350b93c76d19f3f875c6bc8b196202155577dcca2d654e31ec97755b3d9",
+  "retained_vertex_coordinates_exact": true,
+  "retained_uvs_exact": true,
+  "other_assets_edited": false
+}

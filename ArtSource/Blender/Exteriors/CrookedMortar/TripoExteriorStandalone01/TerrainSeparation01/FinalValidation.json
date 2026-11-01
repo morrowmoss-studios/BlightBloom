@@ -1,0 +1,116 @@
+{
+  "original_total_triangles": 527497,
+  "original_body_triangles": 521906,
+  "removed_original_body_triangles": 25324,
+  "retained_source_body_triangles": 496582,
+  "new_closure_triangles": 1190,
+  "final_body_triangles": 497772,
+  "other_render_triangles": 5591,
+  "final_total_triangles": 503363,
+  "original_mesh_hashes_unchanged": true,
+  "retained_coordinates_exact": true,
+  "retained_corner_uvs_exact": true,
+  "retained_material_assignments_exact": true,
+  "retained_corner_normals_restored": true,
+  "all_source_faces_above_0_9m_retained": true,
+  "removed_face_max_z": 0.805819034576416,
+  "original_underside_inspection_faces_remaining": 309,
+  "new_open_boundary_edges": 0,
+  "new_open_edges": [],
+  "inherited_open_edges": 472,
+  "inherited_nonmanifold_edges_source": 6,
+  "new_degenerate_closure_triangles": 0,
+  "retained_source_bounds": [
+    [
+      -3.4770684242248535,
+      -6.98585319519043,
+      0.11209408938884735
+    ],
+    [
+      3.776637077331543,
+      6.7698259353637695,
+      9.737834930419922
+    ]
+  ],
+  "explicit_exclusion_seed_status": {
+    "PorchLeft": [
+      {
+        "source_face": 46048,
+        "retained": true
+      }
+    ],
+    "PorchRight": [
+      {
+        "source_face": 331818,
+        "retained": false
+      },
+      {
+        "source_face": 511501,
+        "retained": true
+      }
+    ],
+    "RockIvyLeft": [
+      {
+        "source_face": 41998,
+        "retained": true
+      }
+    ],
+    "RockIvyRight": [
+      {
+        "source_face": 495867,
+        "retained": true
+      },
+      {
+        "source_face": 491312,
+        "retained": true
+      },
+      {
+        "source_face": 505634,
+        "retained": true
+      }
+    ],
+    "PlanterLeft": [
+      {
+        "source_face": 16207,
+        "retained": true
+      }
+    ],
+    "PlanterRight": [
+      {
+        "source_face": 512062,
+        "retained": false
+      }
+    ],
+    "Rear": [
+      {
+        "source_face": 405269,
+        "retained": false
+      },
+      {
+        "source_face": 9144,
+        "retained": true
+      }
+    ]
+  },
+  "remaining_obstructions": [
+    "Left porch/window-bay boulder: original contact cluster restored after rejecting visually inadequate reconstruction.",
+    "Right porch/window-bay rock/ivy root cluster: original lower growth and rock contacts retained after rejecting reconstruction.",
+    "Small left herb-bed toe / rear corner contacts retained where fused to protected elements; review close-ups.",
+    "Original front toe-pebble contact and its small fused collar restored rather than forcing a defective cut."
+  ],
+  "no_unity_files_changed": true,
+  "no_export": true,
+  "no_commit": true,
+  "restored_front_toe_contact_triangles": 313,
+  "final_edges_with_more_than_two_faces": 6,
+  "retained_normal_max_error": 0.0018920302391052246,
+  "retained_normal_max_angle_deg": 0.1297215074300766,
+  "normal_note": "Transferred source corner normals; Blender custom-normal encoding introduces sub-degree quantization.",
+  "source_mapping02_file_hash_unchanged": true,
+  "source_preservation_verified_after_last_patch": true,
+  "canonical_source_geometry_and_stored_transforms_exact": true,
+  "original_material_nodes_exact": true,
+  "hidden_reference_note": "Canonical comparison uses stored local and parent-inverse transforms; excluded hidden objects can have unevaluated cached world matrices after file reload.",
+  "final_blend_sha256": "9fe03634d4a5951bace2d65f022a449a5686eabc27f5b2ff39583d5f6f62fbbf",
+  "final_camera_only_capture_complete": true
+}

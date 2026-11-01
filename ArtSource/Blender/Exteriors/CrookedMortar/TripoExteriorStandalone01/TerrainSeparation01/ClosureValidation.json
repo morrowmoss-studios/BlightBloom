@@ -1,0 +1,393 @@
+{
+  "new_cap_triangles": 1077,
+  "closed_loops": 18,
+  "local_return_strips": [],
+  "remaining_new_boundary_edges": 9,
+  "remaining_edges_source_ids": [
+    [
+      196480,
+      197759
+    ],
+    [
+      196480,
+      197268
+    ],
+    [
+      221489,
+      225084
+    ],
+    [
+      197268,
+      197759
+    ],
+    [
+      5701,
+      6267
+    ],
+    [
+      5701,
+      6756
+    ],
+    [
+      6267,
+      6756
+    ],
+    [
+      216783,
+      221489
+    ],
+    [
+      216783,
+      225084
+    ]
+  ],
+  "source_mesh_hash_unchanged": true,
+  "retained_coordinates_exact": true,
+  "retained_corner_uvs_exact": true,
+  "retained_corner_normals_restored": true,
+  "patches": [
+    {
+      "index": 0,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.9403412342071533,
+          4.893372058868408,
+          0.46683523058891296
+        ],
+        [
+          -2.9125044345855713,
+          5.0894646644592285,
+          0.47995638847351074
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 29881,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 1,
+      "vertices": 3,
+      "bounds": [
+        [
+          -3.0456674098968506,
+          6.645956039428711,
+          0.5303230285644531
+        ],
+        [
+          -3.01885724067688,
+          6.686153888702393,
+          0.5342580676078796
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 9146,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 2,
+      "vertices": 3,
+      "bounds": [
+        [
+          -2.972318172454834,
+          6.680877208709717,
+          0.5080073475837708
+        ],
+        [
+          -2.933473587036133,
+          6.710896968841553,
+          0.5354982614517212
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 9089,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 3,
+      "vertices": 3,
+      "bounds": [
+        [
+          1.9249978065490723,
+          6.626408100128174,
+          0.46716761589050293
+        ],
+        [
+          2.0307066440582275,
+          6.639252185821533,
+          0.4710778594017029
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 339914,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 4,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.1869277954101562,
+          6.619590759277344,
+          0.47185036540031433
+        ],
+        [
+          2.225733518600464,
+          6.623541355133057,
+          0.4927448332309723
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 364111,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 5,
+      "vertices": 5,
+      "bounds": [
+        [
+          2.575578212738037,
+          6.5983567237854,
+          0.4850068688392639
+        ],
+        [
+          2.5867691040039062,
+          6.617503643035889,
+          0.5672272443771362
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481598,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 6,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.733853816986084,
+          5.899443626403809,
+          0.4893653988838196
+        ],
+        [
+          2.786618947982788,
+          5.911134243011475,
+          0.5140571594238281
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 504822,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 7,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.971529960632324,
+          2.7994539737701416,
+          0.4322880208492279
+        ],
+        [
+          3.0104827880859375,
+          2.8390772342681885,
+          0.4374285936355591
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 513546,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 8,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.00966739654541,
+          2.797398328781128,
+          0.43052786588668823
+        ],
+        [
+          3.029650926589966,
+          2.8392956256866455,
+          0.43897294998168945
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 515233,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 9,
+      "vertices": 3,
+      "bounds": [
+        [
+          3.0141115188598633,
+          2.8358004093170166,
+          0.43189308047294617
+        ],
+        [
+          3.021714687347412,
+          2.9025487899780273,
+          0.43647101521492004
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 515238,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 10,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.688544988632202,
+          0.9900568723678589,
+          0.48616501688957214
+        ],
+        [
+          2.729184865951538,
+          1.1477309465408325,
+          0.49892789125442505
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 498490,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 11,
+      "vertices": 28,
+      "bounds": [
+        [
+          1.5785351991653442,
+          -5.79478120803833,
+          0.5026249885559082
+        ],
+        [
+          1.847993016242981,
+          -5.501996040344238,
+          0.5699537992477417
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 332076,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 12,
+      "vertices": 961,
+      "bounds": [
+        [
+          -3.2518296241760254,
+          -5.5486907958984375,
+          0.11209408938884735
+        ],
+        [
+          3.776637077331543,
+          6.7698259353637695,
+          0.805819034576416
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 371352,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 13,
+      "vertices": 16,
+      "bounds": [
+        [
+          -0.28043225407600403,
+          -7.080183982849121,
+          0.6180312037467957
+        ],
+        [
+          0.024656008929014206,
+          -6.710234642028809,
+          0.6604139804840088
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 245652,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 14,
+      "vertices": 51,
+      "bounds": [
+        [
+          1.8755910396575928,
+          -4.193944454193115,
+          0.08110346645116806
+        ],
+        [
+          3.787231683731079,
+          -1.6391712427139282,
+          0.23790369927883148
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 516636,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 15,
+      "vertices": 8,
+      "bounds": [
+        [
+          3.1013388633728027,
+          6.257858753204346,
+          0.48630931973457336
+        ],
+        [
+          3.127440929412842,
+          6.300806522369385,
+          0.4950568974018097
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 516430,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 16,
+      "vertices": 7,
+      "bounds": [
+        [
+          -3.336182117462158,
+          6.274337291717529,
+          0.4733271896839142
+        ],
+        [
+          -3.3115322589874268,
+          6.317883491516113,
+          0.4805215299129486
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 13441,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 17,
+      "vertices": 3,
+      "bounds": [
+        [
+          1.9897422790527344,
+          -5.380459785461426,
+          0.5781193375587463
+        ],
+        [
+          2.0215260982513428,
+          -5.372402667999268,
+          0.6073660850524902
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 310679,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    }
+  ],
+  "uv_limitation": "New lower returns reuse neighboring atlas samples. Original visible surfaces/UVs unchanged; new cap texture scale requires visual review."
+}

@@ -1,0 +1,25 @@
+{
+  "source_mapping_sha256": "b525c7fe6951f19b1ea04c182067fc46c1d6cbf24f64cad020327d90434d9462",
+  "source_mapping_unchanged": true,
+  "original_meshes_unchanged": true,
+  "original_material_nodes_unchanged": true,
+  "original_mesh_count": 11,
+  "new_building_meshes": 0,
+  "geometry_cut_or_reconstructed": false,
+  "unity_files_changed": false,
+  "mesh_hashes": {
+    "Fitted_PlasterReturn_AfterFusedBracketRemoval": "de1423ebeb18454ed15867f2c8c88a6dbeaef024e2ade8ca4451ac12cff5a731",
+    "Fitted_PlasterReturn_AfterFusedBracketRemoval.001": "321573be16e0de5f987fdcfaa54cceb0e7e6cac95b4f1c563c9748d631c84363",
+    "House_Optimized": "5076e350b93c76d19f3f875c6bc8b196202155577dcca2d654e31ec97755b3d9",
+    "House_RepairedHigh": "6aa6c3282b5f069110e9f0d59ba852a4674d4c1f3a7f709922d48532f08cc498",
+    "Original_Tripo_1880780tri_UNMODIFIED": "c0ecc61f82267dca2dc4b4432dda17ab4ade3ba2b1f2221db586d3e39f33fdbc",
+    "Sign_ReplacementInset_Plank00": "341c53afde8edbea4f2e9c88b7ad3900b37c27bb53408d1c649aeca0f6b6b8d8",
+    "Sign_ReplacementInset_Plank00.001": "77788b065a35e7e5f37d055346000e7fa7ee9e3c26be1618fefac274a0f54245",
+    "Sign_ReplacementInset_Plank01": "341c53afde8edbea4f2e9c88b7ad3900b37c27bb53408d1c649aeca0f6b6b8d8",
+    "Sign_ReplacementInset_Plank01.001": "a28b9ff86f0f902ff3b2cf7b13dff393030ae147abc55715a783f32fe7c7ae22",
+    "Sign_ReplacementInset_Plank02": "341c53afde8edbea4f2e9c88b7ad3900b37c27bb53408d1c649aeca0f6b6b8d8",
+    "Sign_ReplacementInset_Plank02.001": "4a85f027183501c6923410dfdd72fe4ea697319395bcc86d73b8a5021db798ac"
+  },
+  "post_refinement_original_mesh_hashes_match": true,
+  "red_crosses_are_annotation_curves_only": true
+}

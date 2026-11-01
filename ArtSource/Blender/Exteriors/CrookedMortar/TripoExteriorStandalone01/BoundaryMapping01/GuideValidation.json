@@ -1,0 +1,8 @@
+{
+  "closed_proposal": true,
+  "strict_xy_self_intersections": [],
+  "guide_segments": 45,
+  "review_segments": 30,
+  "proposed_segments": 15,
+  "guide_is_not_topology_edge_selection": true
+}

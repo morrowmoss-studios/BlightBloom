@@ -1,0 +1,3413 @@
+{
+  "new_cap_triangles": 1514,
+  "closed_loops": 175,
+  "local_return_strips": [
+    {
+      "name": "LeftRockReturn",
+      "source_edges": 63,
+      "new_vertices": 62,
+      "base_z": 0.53
+    },
+    {
+      "name": "RightRootReturn",
+      "source_edges": 76,
+      "new_vertices": 78,
+      "base_z": 0.52
+    }
+  ],
+  "remaining_new_boundary_edges": 15,
+  "remaining_edges_source_ids": [
+    [
+      205628,
+      208060
+    ],
+    [
+      205628,
+      206971
+    ],
+    [
+      5701,
+      6267
+    ],
+    [
+      5701,
+      6756
+    ],
+    [
+      235026,
+      237463
+    ],
+    [
+      235026,
+      238407
+    ],
+    [
+      236932,
+      237656
+    ],
+    [
+      237463,
+      238407
+    ],
+    [
+      6267,
+      6756
+    ],
+    [
+      216783,
+      221489
+    ],
+    [
+      216783,
+      225084
+    ],
+    [
+      221489,
+      225084
+    ],
+    [
+      236527,
+      237656
+    ],
+    [
+      236527,
+      236932
+    ],
+    [
+      206971,
+      208060
+    ]
+  ],
+  "source_mesh_hash_unchanged": true,
+  "retained_coordinates_exact": true,
+  "retained_corner_uvs_exact": true,
+  "retained_corner_normals_restored": true,
+  "patches": [
+    {
+      "index": 0,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.7215185165405273,
+          -3.2850658893585205,
+          0.5299999713897705
+        ],
+        [
+          -2.715839385986328,
+          -3.2620489597320557,
+          1.1871650218963623
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38826,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 1,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.7215185165405273,
+          -3.2620489597320557,
+          0.5299999713897705
+        ],
+        [
+          -2.7194714546203613,
+          -3.2080790996551514,
+          1.184098482131958
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38828,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 2,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.910637855529785,
+          -2.9607720375061035,
+          0.5299999713897705
+        ],
+        [
+          -2.875772714614868,
+          -2.906111240386963,
+          1.048701286315918
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38919,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 3,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.910637855529785,
+          -2.9703946113586426,
+          0.5299999713897705
+        ],
+        [
+          -2.8740525245666504,
+          -2.9607720375061035,
+          1.068861961364746
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38921,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 4,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8509511947631836,
+          -3.0780036449432373,
+          0.5299999713897705
+        ],
+        [
+          -2.8342864513397217,
+          -3.0756704807281494,
+          1.1413543224334717
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38946,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 5,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4479897022247314,
+          -3.6883232593536377,
+          0.5299999713897705
+        ],
+        [
+          -2.437933921813965,
+          -3.674523115158081,
+          0.892259418964386
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46216,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 6,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4479897022247314,
+          -3.731790065765381,
+          0.5299999713897705
+        ],
+        [
+          -2.438422679901123,
+          -3.6883232593536377,
+          0.8799135088920593
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46216,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 7,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.624495267868042,
+          -3.0994861125946045,
+          0.5299999713897705
+        ],
+        [
+          -2.6243698596954346,
+          -3.0850088596343994,
+          1.143133521080017
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57562,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 8,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.861477851867676,
+          -2.8060543537139893,
+          0.5299999713897705
+        ],
+        [
+          -2.8562161922454834,
+          -2.785369873046875,
+          0.9253345131874084
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 64390,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 9,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4907047748565674,
+          -3.549016237258911,
+          0.5299999713897705
+        ],
+        [
+          -2.409806728363037,
+          -3.5083014965057373,
+          1.093367576599121
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76459,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 10,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.873816967010498,
+          -2.8711495399475098,
+          0.5299999713897705
+        ],
+        [
+          -2.8714396953582764,
+          -2.832547187805176,
+          1.0077943801879883
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38908,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 11,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.878530502319336,
+          -3.038081645965576,
+          0.5299999713897705
+        ],
+        [
+          -2.8740525245666504,
+          -2.9703946113586426,
+          1.0884991884231567
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38925,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 12,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.878530502319336,
+          -3.038081645965576,
+          0.5299999713897705
+        ],
+        [
+          -2.8753561973571777,
+          -3.0014898777008057,
+          1.0884991884231567
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38925,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 13,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8731584548950195,
+          -3.0568597316741943,
+          0.5299999713897705
+        ],
+        [
+          -2.8652985095977783,
+          -3.0147128105163574,
+          1.1255885362625122
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38941,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 14,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.635143280029297,
+          -3.6469342708587646,
+          0.5299999713897705
+        ],
+        [
+          -2.5739762783050537,
+          -3.605583667755127,
+          1.0332372188568115
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46143,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 15,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4540116786956787,
+          -3.682298183441162,
+          0.5299999713897705
+        ],
+        [
+          -2.437933921813965,
+          -3.674523115158081,
+          0.892259418964386
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46219,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 16,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.457221031188965,
+          -3.829770565032959,
+          0.5299999713897705
+        ],
+        [
+          -2.425504446029663,
+          -3.8045578002929688,
+          0.8014329671859741
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46423,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 17,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8714396953582764,
+          -2.832547187805176,
+          0.5299999713897705
+        ],
+        [
+          -2.861477851867676,
+          -2.8060543537139893,
+          0.9594929218292236
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 64383,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 18,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8342864513397217,
+          -3.083599090576172,
+          0.5299999713897705
+        ],
+        [
+          -2.8168270587921143,
+          -3.0756704807281494,
+          1.1413724422454834
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 67898,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 19,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4727842807769775,
+          -3.7923731803894043,
+          0.5299999713897705
+        ],
+        [
+          -2.4630277156829834,
+          -3.791942834854126,
+          0.816841721534729
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76517,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 20,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4727842807769775,
+          -3.7923731803894043,
+          0.5299999713897705
+        ],
+        [
+          -2.4603381156921387,
+          -3.7672524452209473,
+          0.8352304100990295
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76517,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 21,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.818848133087158,
+          -3.2620489597320557,
+          0.5299999713897705
+        ],
+        [
+          -2.7215185165405273,
+          -3.1116602420806885,
+          1.184098482131958
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38834,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 22,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.818848133087158,
+          -3.1116602420806885,
+          0.5299999713897705
+        ],
+        [
+          -2.762570381164551,
+          -3.1038689613342285,
+          1.1301501989364624
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38835,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 23,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.818848133087158,
+          -3.2080790996551514,
+          0.5299999713897705
+        ],
+        [
+          -2.7194714546203613,
+          -3.1116602420806885,
+          1.1726317405700684
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38835,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 24,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8168270587921143,
+          -3.1013495922088623,
+          0.5299999713897705
+        ],
+        [
+          -2.816390037536621,
+          -3.083599090576172,
+          1.1413724422454834
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38838,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 25,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.673269271850586,
+          -3.0850088596343994,
+          0.5299999713897705
+        ],
+        [
+          -2.624495267868042,
+          -3.084821939468384,
+          1.143250584602356
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57563,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 26,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.7699649333953857,
+          -3.0875465869903564,
+          0.5299999713897705
+        ],
+        [
+          -2.673269271850586,
+          -3.084821939468384,
+          1.143250584602356
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57567,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 27,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.762570381164551,
+          -3.1038689613342285,
+          0.5299999713897705
+        ],
+        [
+          -2.7380425930023193,
+          -3.099050998687744,
+          1.132189393043518
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38832,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 28,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.875772714614868,
+          -2.906111240386963,
+          0.5299999713897705
+        ],
+        [
+          -2.873816967010498,
+          -2.8711495399475098,
+          1.0354527235031128
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38907,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 29,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8630433082580566,
+          -2.771286725997925,
+          0.5299999713897705
+        ],
+        [
+          -2.859710931777954,
+          -2.7652101516723633,
+          0.7480610609054565
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44764,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 30,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8630433082580566,
+          -2.774277448654175,
+          0.5299999713897705
+        ],
+        [
+          -2.861708879470825,
+          -2.7652101516723633,
+          0.7480610609054565
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44764,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 31,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8689534664154053,
+          -2.7612760066986084,
+          0.5299999713897705
+        ],
+        [
+          -2.8672468662261963,
+          -2.7471957206726074,
+          0.7398470640182495
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44901,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 32,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8689534664154053,
+          -2.7494547367095947,
+          0.5299999713897705
+        ],
+        [
+          -2.8675448894500732,
+          -2.7471957206726074,
+          0.7896278500556946
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44904,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 33,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.461184501647949,
+          -3.7370946407318115,
+          0.5299999713897705
+        ],
+        [
+          -2.438422679901123,
+          -3.731790065765381,
+          0.8799135088920593
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46224,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 34,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.461184501647949,
+          -3.7672524452209473,
+          0.5299999713897705
+        ],
+        [
+          -2.4603381156921387,
+          -3.7370946407318115,
+          0.8447631001472473
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46224,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 35,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.543743133544922,
+          -3.6891608238220215,
+          0.5299999713897705
+        ],
+        [
+          -2.503373384475708,
+          -3.688591480255127,
+          0.8989706635475159
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46229,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 36,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.4630277156829834,
+          -3.8045578002929688,
+          0.5299999713897705
+        ],
+        [
+          -2.457221031188965,
+          -3.791942834854126,
+          0.816841721534729
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46424,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 37,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.5414206981658936,
+          -3.4876978397369385,
+          0.5299999713897705
+        ],
+        [
+          -2.476769208908081,
+          -3.454347848892212,
+          1.161280632019043
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57525,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 38,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.715839385986328,
+          -3.3084592819213867,
+          0.5299999713897705
+        ],
+        [
+          -2.656571865081787,
+          -3.2850658893585205,
+          1.1911500692367554
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76443,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 39,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.7380425930023193,
+          -3.099050998687744,
+          0.5299999713897705
+        ],
+        [
+          -2.696181058883667,
+          -3.0978639125823975,
+          1.132189393043518
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38831,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 40,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8672468662261963,
+          -2.771286725997925,
+          0.5299999713897705
+        ],
+        [
+          -2.859710931777954,
+          -2.7612760066986084,
+          0.701938807964325
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44760,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 41,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.658432960510254,
+          -3.6469342708587646,
+          0.5299999713897705
+        ],
+        [
+          -2.635143280029297,
+          -3.6431500911712646,
+          0.9890928864479065
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46145,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 42,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.635124683380127,
+          -3.6891608238220215,
+          0.5299999713897705
+        ],
+        [
+          -2.543743133544922,
+          -3.6637885570526123,
+          0.8989706635475159
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46186,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 43,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.696181058883667,
+          -3.0994861125946045,
+          0.5299999713897705
+        ],
+        [
+          -2.6243698596954346,
+          -3.0978639125823975,
+          1.1310272216796875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57558,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 44,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.9050652980804443,
+          -3.2620489597320557,
+          0.5299999713897705
+        ],
+        [
+          -2.7215185165405273,
+          -3.124664783477783,
+          1.184098482131958
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38834,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 45,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.9050652980804443,
+          -3.124664783477783,
+          0.5299999713897705
+        ],
+        [
+          -2.818848133087158,
+          -3.1116602420806885,
+          1.1241426467895508
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38834,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 46,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.816390037536621,
+          -3.1013495922088623,
+          0.5299999713897705
+        ],
+        [
+          -2.7699649333953857,
+          -3.0875465869903564,
+          1.1415410041809082
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38838,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 47,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8709793090820312,
+          -2.780301094055176,
+          0.5299999713897705
+        ],
+        [
+          -2.8619658946990967,
+          -2.766144037246704,
+          0.8323555588722229
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 40929,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 48,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8624210357666016,
+          -2.78399395942688,
+          0.5299999713897705
+        ],
+        [
+          -2.861708879470825,
+          -2.774277448654175,
+          0.706329345703125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 40933,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 49,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8675448894500732,
+          -2.766144037246704,
+          0.5299999713897705
+        ],
+        [
+          -2.8619658946990967,
+          -2.7494547367095947,
+          0.796833872795105
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 44908,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 50,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.503373384475708,
+          -3.688591480255127,
+          0.5299999713897705
+        ],
+        [
+          -2.4540116786956787,
+          -3.682298183441162,
+          0.8871542811393738
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46226,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 51,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.883244752883911,
+          -2.8002991676330566,
+          0.5299999713897705
+        ],
+        [
+          -2.8562161922454834,
+          -2.785369873046875,
+          0.8804463744163513
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 64467,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 52,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.883244752883911,
+          -2.8002991676330566,
+          0.5299999713897705
+        ],
+        [
+          -2.8709793090820312,
+          -2.780301094055176,
+          0.8658069968223572
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 64467,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 53,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.656571865081787,
+          -3.381592273712158,
+          0.5299999713897705
+        ],
+        [
+          -2.5833017826080322,
+          -3.3084592819213867,
+          1.1911500692367554
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76445,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 54,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8753561973571777,
+          -3.0147128105163574,
+          0.5299999713897705
+        ],
+        [
+          -2.8731584548950195,
+          -3.0014898777008057,
+          1.1166107654571533
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38929,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 55,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.681074857711792,
+          -3.6637885570526123,
+          0.5299999713897705
+        ],
+        [
+          -2.635124683380127,
+          -3.640120029449463,
+          0.9606571197509766
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46184,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 56,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.681074857711792,
+          -3.6431500911712646,
+          0.5299999713897705
+        ],
+        [
+          -2.658432960510254,
+          -3.640120029449463,
+          0.9857180714607239
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46185,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 57,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.434053659439087,
+          -3.8428735733032227,
+          0.5299999713897705
+        ],
+        [
+          -2.430739641189575,
+          -3.840128183364868,
+          0.7165994048118591
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46432,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 58,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.476769208908081,
+          -3.5083014965057373,
+          0.5299999713897705
+        ],
+        [
+          -2.409806728363037,
+          -3.4876978397369385,
+          1.1290206909179688
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57520,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 59,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.5739762783050537,
+          -3.605583667755127,
+          0.5299999713897705
+        ],
+        [
+          -2.4907047748565674,
+          -3.549016237258911,
+          1.075575590133667
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 76458,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 60,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.8652985095977783,
+          -3.0780036449432373,
+          0.5299999713897705
+        ],
+        [
+          -2.8509511947631836,
+          -3.0568597316741943,
+          1.1286163330078125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 38944,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 61,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.430739641189575,
+          -3.840128183364868,
+          0.5299999713897705
+        ],
+        [
+          -2.425504446029663,
+          -3.829770565032959,
+          0.786659836769104
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 46430,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 62,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.5833017826080322,
+          -3.454347848892212,
+          0.5299999713897705
+        ],
+        [
+          -2.5414206981658936,
+          -3.381592273712158,
+          1.1792514324188232
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 57527,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 63,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5886495113372803,
+          -3.5553174018859863,
+          0.5199999809265137
+        ],
+        [
+          2.58979868888855,
+          -3.5497584342956543,
+          0.8541356325149536
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406153,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 64,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.4993538856506348,
+          -3.705561399459839,
+          0.5199999809265137
+        ],
+        [
+          2.5044007301330566,
+          -3.7036352157592773,
+          0.7622352838516235
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406257,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 65,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.465744972229004,
+          -3.7332916259765625,
+          0.5199999809265137
+        ],
+        [
+          2.472153663635254,
+          -3.726654052734375,
+          0.764923095703125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406284,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 66,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.465744972229004,
+          -3.7332916259765625,
+          0.5199999809265137
+        ],
+        [
+          2.4993538856506348,
+          -3.705561399459839,
+          0.7622352838516235
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406284,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 67,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.680893898010254,
+          -3.5163114070892334,
+          0.5199999809265137
+        ],
+        [
+          2.6934823989868164,
+          -3.511047124862671,
+          0.86151123046875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478447,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 68,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.58979868888855,
+          -3.5497584342956543,
+          0.5199999809265137
+        ],
+        [
+          2.6220948696136475,
+          -3.531506299972534,
+          0.8611013293266296
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481938,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 69,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7040109634399414,
+          -3.5112760066986084,
+          0.5199999809265137
+        ],
+        [
+          2.705155372619629,
+          -3.499145269393921,
+          0.827178955078125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481959,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 70,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7040109634399414,
+          -3.499145269393921,
+          0.5199999809265137
+        ],
+        [
+          2.715226173400879,
+          -3.4902188777923584,
+          0.838623046875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481964,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 71,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.71451997756958,
+          -3.49593186378479,
+          0.5199999809265137
+        ],
+        [
+          2.727979898452759,
+          -3.4701590538024902,
+          0.8643853068351746
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481971,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 72,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.830829381942749,
+          -3.3586559295654297,
+          0.5199999809265137
+        ],
+        [
+          2.858642339706421,
+          -3.3265905380249023,
+          0.7930886745452881
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 504928,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 73,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.3736023902893066,
+          -3.8207879066467285,
+          0.5199999809265137
+        ],
+        [
+          2.393876075744629,
+          -3.8175196647644043,
+          0.728302001953125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 405944,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 74,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5491626262664795,
+          -3.6735951900482178,
+          0.5199999809265137
+        ],
+        [
+          2.5641438961029053,
+          -3.661943197250366,
+          0.8111905455589294
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406184,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 75,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.449273109436035,
+          -3.739330291748047,
+          0.5199999809265137
+        ],
+        [
+          2.465744972229004,
+          -3.7332916259765625,
+          0.7759802937507629
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406299,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 76,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.409653902053833,
+          -3.7736010551452637,
+          0.5199999809265137
+        ],
+        [
+          2.424499034881592,
+          -3.752197504043579,
+          0.7765246629714966
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406307,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 77,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5044007301330566,
+          -3.7036352157592773,
+          0.5199999809265137
+        ],
+        [
+          2.5430052280426025,
+          -3.675450325012207,
+          0.7412267327308655
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406334,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 78,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6795156002044678,
+          -3.512420415878296,
+          0.5199999809265137
+        ],
+        [
+          2.679978370666504,
+          -3.5100371837615967,
+          0.83221435546875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481947,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 79,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6795156002044678,
+          -3.524670124053955,
+          0.5199999809265137
+        ],
+        [
+          2.6971352100372314,
+          -3.5100371837615967,
+          0.8403791785240173
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481950,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 80,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.1742732524871826,
+          -3.002854347229004,
+          0.5199999809265137
+        ],
+        [
+          3.1890342235565186,
+          -2.9456627368927,
+          0.725442111492157
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495827,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 81,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.574756145477295,
+          -3.6402926445007324,
+          0.5199999809265137
+        ],
+        [
+          2.577314615249634,
+          -3.616818428039551,
+          0.8173590302467346
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406182,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 82,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.568462371826172,
+          -3.646440267562866,
+          0.5199999809265137
+        ],
+        [
+          2.574756145477295,
+          -3.6402926445007324,
+          0.8293501734733582
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406182,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 83,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5641438961029053,
+          -3.661943197250366,
+          0.5199999809265137
+        ],
+        [
+          2.568462371826172,
+          -3.646440267562866,
+          0.8293501734733582
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406184,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 84,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5274417400360107,
+          -3.683407783508301,
+          0.5199999809265137
+        ],
+        [
+          2.554378032684326,
+          -3.6786155700683594,
+          0.7647377252578735
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406248,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 85,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5274417400360107,
+          -3.6839890480041504,
+          0.5199999809265137
+        ],
+        [
+          2.5469841957092285,
+          -3.6786155700683594,
+          0.7816787362098694
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406251,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 86,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.461167335510254,
+          -3.7332916259765625,
+          0.5199999809265137
+        ],
+        [
+          2.472153663635254,
+          -3.726654052734375,
+          0.766754150390625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406297,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 87,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.461167335510254,
+          -3.7332916259765625,
+          0.5199999809265137
+        ],
+        [
+          2.465744972229004,
+          -3.7332916259765625,
+          0.766754150390625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406299,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 88,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7193820476531982,
+          -3.4818954467773438,
+          0.5199999809265137
+        ],
+        [
+          2.729635000228882,
+          -3.4694879055023193,
+          0.8400837779045105
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481969,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 89,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7147107124328613,
+          -3.4874329566955566,
+          0.5199999809265137
+        ],
+        [
+          2.729635000228882,
+          -3.4694879055023193,
+          0.8249889612197876
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481969,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 90,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.767207145690918,
+          -3.402390956878662,
+          0.5199999809265137
+        ],
+        [
+          2.7831616401672363,
+          -3.3741135597229004,
+          0.8698166012763977
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481978,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 91,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.727979898452759,
+          -3.4701590538024902,
+          0.5199999809265137
+        ],
+        [
+          2.7427361011505127,
+          -3.444932222366333,
+          0.8643853068351746
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481987,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 92,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7831616401672363,
+          -3.3741135597229004,
+          0.5199999809265137
+        ],
+        [
+          2.830829381942749,
+          -3.3586559295654297,
+          0.8698166012763977
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 504925,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 93,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.858642339706421,
+          -3.3265905380249023,
+          0.5199999809265137
+        ],
+        [
+          2.891063690185547,
+          -3.267530679702759,
+          0.7310438752174377
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 504942,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 94,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.338651180267334,
+          -3.910048007965088,
+          0.5199999809265137
+        ],
+        [
+          2.342534303665161,
+          -3.837653398513794,
+          0.7035449147224426
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 405932,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 95,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6220948696136475,
+          -3.531506299972534,
+          0.5199999809265137
+        ],
+        [
+          2.648650884628296,
+          -3.522294044494629,
+          0.8611013293266296
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478436,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 96,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6934823989868164,
+          -3.511047124862671,
+          0.5199999809265137
+        ],
+        [
+          2.709275245666504,
+          -3.497771978378296,
+          0.86151123046875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478452,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 97,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6639628410339355,
+          -3.5210909843444824,
+          0.5199999809265137
+        ],
+        [
+          2.7026848793029785,
+          -3.504594087600708,
+          0.8051115274429321
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481944,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 98,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7026848793029785,
+          -3.504594087600708,
+          0.5199999809265137
+        ],
+        [
+          2.7147107124328613,
+          -3.4874329566955566,
+          0.8118979930877686
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481944,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 99,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.715226173400879,
+          -3.4902188777923584,
+          0.5199999809265137
+        ],
+        [
+          2.7193820476531982,
+          -3.4818954467773438,
+          0.8400837779045105
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481967,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 100,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.709275245666504,
+          -3.497771978378296,
+          0.5199999809265137
+        ],
+        [
+          2.71451997756958,
+          -3.49593186378479,
+          0.857391357421875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481971,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 101,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.7427361011505127,
+          -3.444932222366333,
+          0.5199999809265137
+        ],
+        [
+          2.767207145690918,
+          -3.402390956878662,
+          0.863212525844574
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481979,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 102,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.9706990718841553,
+          -3.203965187072754,
+          0.5199999809265137
+        ],
+        [
+          3.0643184185028076,
+          -3.1620991230010986,
+          0.7357897758483887
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495818,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 103,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.127234697341919,
+          -3.1496176719665527,
+          0.5199999809265137
+        ],
+        [
+          3.1482226848602295,
+          -3.100557804107666,
+          0.7519912123680115
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495822,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 104,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.127234697341919,
+          -3.100557804107666,
+          0.5199999809265137
+        ],
+        [
+          3.1742732524871826,
+          -3.002854347229004,
+          0.7519912123680115
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495826,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 105,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.1221580505371094,
+          -2.895132541656494,
+          0.5199999809265137
+        ],
+        [
+          3.1334481239318848,
+          -2.873797655105591,
+          0.7408478260040283
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495906,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 106,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.105419158935547,
+          -2.873797655105591,
+          0.5199999809265137
+        ],
+        [
+          3.1221580505371094,
+          -2.829317092895508,
+          0.7408478260040283
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495908,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 107,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5762948989868164,
+          -3.6094396114349365,
+          0.5199999809265137
+        ],
+        [
+          2.5785388946533203,
+          -3.6092374324798584,
+          0.809929370880127
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406214,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 108,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5762948989868164,
+          -3.6283655166625977,
+          0.5199999809265137
+        ],
+        [
+          2.5863006114959717,
+          -3.6092374324798584,
+          0.8001708984375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406217,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 109,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.648650884628296,
+          -3.522294044494629,
+          0.5199999809265137
+        ],
+        [
+          2.6639628410339355,
+          -3.5210909843444824,
+          0.8551732301712036
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481942,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 110,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6948556900024414,
+          -3.524670124053955,
+          0.5199999809265137
+        ],
+        [
+          2.6971352100372314,
+          -3.500976324081421,
+          0.8403791785240173
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481950,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 111,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.6948556900024414,
+          -3.5112760066986084,
+          0.5199999809265137
+        ],
+        [
+          2.705155372619629,
+          -3.500976324081421,
+          0.825347900390625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481959,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 112,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.893409252166748,
+          -3.2235517501831055,
+          0.5199999809265137
+        ],
+        [
+          2.9706990718841553,
+          -3.203965187072754,
+          0.7249916195869446
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495817,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 113,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.0643184185028076,
+          -3.1620991230010986,
+          0.5199999809265137
+        ],
+        [
+          3.1482226848602295,
+          -3.1496176719665527,
+          0.7357897758483887
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495822,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 114,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.1035068035125732,
+          -2.829317092895508,
+          0.5199999809265137
+        ],
+        [
+          3.105419158935547,
+          -2.7864317893981934,
+          0.7328690886497498
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495911,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 115,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.1035068035125732,
+          -2.7864317893981934,
+          0.5199999809265137
+        ],
+        [
+          3.1595797538757324,
+          -2.725482702255249,
+          0.7114601731300354
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495918,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 116,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.577314615249634,
+          -3.616818428039551,
+          0.5199999809265137
+        ],
+        [
+          2.5785388946533203,
+          -3.6094396114349365,
+          0.8173590302467346
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406213,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 117,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.519303321838379,
+          -3.6861419677734375,
+          0.5199999809265137
+        ],
+        [
+          2.5469841957092285,
+          -3.6839890480041504,
+          0.7816787362098694
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406251,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 118,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.519303321838379,
+          -3.6907196044921875,
+          0.5199999809265137
+        ],
+        [
+          2.520218849182129,
+          -3.6861419677734375,
+          0.78826904296875
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406256,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 119,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.670823097229004,
+          -3.5167691707611084,
+          0.5199999809265137
+        ],
+        [
+          2.680893898010254,
+          -3.5163114070892334,
+          0.8587646484375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478442,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 120,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.670823097229004,
+          -3.5167691707611084,
+          0.5199999809265137
+        ],
+        [
+          2.679978370666504,
+          -3.512420415878296,
+          0.84320068359375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481947,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 121,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5786502361297607,
+          -3.572033166885376,
+          0.5199999809265137
+        ],
+        [
+          2.5886495113372803,
+          -3.5553174018859863,
+          0.8287197351455688
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406153,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 122,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.544938087463379,
+          -3.6769866943359375,
+          0.5199999809265137
+        ],
+        [
+          2.556382179260254,
+          -3.6646270751953125,
+          0.755767822265625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406241,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 123,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.544938087463379,
+          -3.683407783508301,
+          0.5199999809265137
+        ],
+        [
+          2.554378032684326,
+          -3.6646270751953125,
+          0.7647377252578735
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406244,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 124,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.424499034881592,
+          -3.752197504043579,
+          0.5199999809265137
+        ],
+        [
+          2.449273109436035,
+          -3.739330291748047,
+          0.7765246629714966
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406302,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 125,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.402374505996704,
+          -3.8082590103149414,
+          0.5199999809265137
+        ],
+        [
+          2.409653902053833,
+          -3.7736010551452637,
+          0.7610207200050354
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406549,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 126,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5786502361297607,
+          -3.572033166885376,
+          0.5199999809265137
+        ],
+        [
+          2.5934159755706787,
+          -3.568058967590332,
+          0.7932063937187195
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478471,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 127,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.3404672145843506,
+          -3.837653398513794,
+          0.5199999809265137
+        ],
+        [
+          2.342534303665161,
+          -3.8275084495544434,
+          0.7136200070381165
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 405927,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 128,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.3404672145843506,
+          -3.8275084495544434,
+          0.5199999809265137
+        ],
+        [
+          2.3736023902893066,
+          -3.8207879066467285,
+          0.7178143262863159
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 405941,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 129,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5285379886627197,
+          -3.687014579772949,
+          0.5199999809265137
+        ],
+        [
+          2.5491626262664795,
+          -3.6735951900482178,
+          0.8111905455589294
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406075,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 130,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.571239471435547,
+          -3.644895315170288,
+          0.5199999809265137
+        ],
+        [
+          2.5863006114959717,
+          -3.6283655166625977,
+          0.7704363465309143
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406219,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 131,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5562689304351807,
+          -3.652642011642456,
+          0.5199999809265137
+        ],
+        [
+          2.571239471435547,
+          -3.644895315170288,
+          0.752939760684967
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406231,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 132,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5562689304351807,
+          -3.6769866943359375,
+          0.5199999809265137
+        ],
+        [
+          2.556382179260254,
+          -3.652642011642456,
+          0.755767822265625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406237,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 133,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.520218849182129,
+          -3.6907196044921875,
+          0.5199999809265137
+        ],
+        [
+          2.5285379886627197,
+          -3.687014579772949,
+          0.8009144067764282
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406254,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 134,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5609941482543945,
+          -3.6198267936706543,
+          0.5199999809265137
+        ],
+        [
+          2.5681254863739014,
+          -3.6097207069396973,
+          0.6897925734519958
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406370,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 135,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5609941482543945,
+          -3.6097207069396973,
+          0.5199999809265137
+        ],
+        [
+          2.5649025440216064,
+          -3.5922303199768066,
+          0.7321217060089111
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406376,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 136,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.393876075744629,
+          -3.8175196647644043,
+          0.5199999809265137
+        ],
+        [
+          2.402374505996704,
+          -3.8082590103149414,
+          0.7333790063858032
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 406553,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 137,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.5649025440216064,
+          -3.5922303199768066,
+          0.5199999809265137
+        ],
+        [
+          2.5934159755706787,
+          -3.568058967590332,
+          0.772041380405426
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 478475,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 138,
+      "vertices": 4,
+      "bounds": [
+        [
+          3.1334481239318848,
+          -2.9456627368927,
+          0.5199999809265137
+        ],
+        [
+          3.1890342235565186,
+          -2.895132541656494,
+          0.7398098707199097
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495890,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 139,
+      "vertices": 3,
+      "bounds": [
+        [
+          -3.2005467414855957,
+          3.3378360271453857,
+          0.43263617157936096
+        ],
+        [
+          -3.194732666015625,
+          3.357009172439575,
+          0.443115234375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 18261,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 140,
+      "vertices": 6,
+      "bounds": [
+        [
+          -3.1441733837127686,
+          2.9830069541931152,
+          0.41272562742233276
+        ],
+        [
+          -3.1292407512664795,
+          3.1167519092559814,
+          0.41892266273498535
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 16316,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 141,
+      "vertices": 4,
+      "bounds": [
+        [
+          -2.9403412342071533,
+          4.893372058868408,
+          0.46683523058891296
+        ],
+        [
+          -2.9125044345855713,
+          5.0894646644592285,
+          0.47995638847351074
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 29881,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 142,
+      "vertices": 3,
+      "bounds": [
+        [
+          -3.0456674098968506,
+          6.645956039428711,
+          0.5303230285644531
+        ],
+        [
+          -3.01885724067688,
+          6.686153888702393,
+          0.5342580676078796
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 9146,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 143,
+      "vertices": 3,
+      "bounds": [
+        [
+          -2.972318172454834,
+          6.680877208709717,
+          0.5080073475837708
+        ],
+        [
+          -2.933473587036133,
+          6.710896968841553,
+          0.5354982614517212
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 9089,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 144,
+      "vertices": 3,
+      "bounds": [
+        [
+          1.9249978065490723,
+          6.626408100128174,
+          0.46716761589050293
+        ],
+        [
+          2.0307066440582275,
+          6.639252185821533,
+          0.4710778594017029
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 339914,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 145,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.1869277954101562,
+          6.619590759277344,
+          0.47185036540031433
+        ],
+        [
+          2.225733518600464,
+          6.623541355133057,
+          0.4927448332309723
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 364111,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 146,
+      "vertices": 5,
+      "bounds": [
+        [
+          2.575578212738037,
+          6.5983567237854,
+          0.4850068688392639
+        ],
+        [
+          2.5867691040039062,
+          6.617503643035889,
+          0.5672272443771362
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 481598,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 147,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.733853816986084,
+          5.899443626403809,
+          0.4893653988838196
+        ],
+        [
+          2.786618947982788,
+          5.911134243011475,
+          0.5140571594238281
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 504822,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 148,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.672173500061035,
+          3.268429756164551,
+          0.4996369779109955
+        ],
+        [
+          2.6826021671295166,
+          3.7217047214508057,
+          0.5050802230834961
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 378969,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 149,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.685354232788086,
+          2.1575231552124023,
+          0.5187490582466125
+        ],
+        [
+          2.701894760131836,
+          2.17303204536438,
+          0.5274304747581482
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 416860,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 150,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.701894760131836,
+          2.150273084640503,
+          0.5126326680183411
+        ],
+        [
+          2.714456796646118,
+          2.214099168777466,
+          0.5187490582466125
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 416868,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 151,
+      "vertices": 10,
+      "bounds": [
+        [
+          2.714456796646118,
+          2.008725881576538,
+          0.5050786137580872
+        ],
+        [
+          2.760185718536377,
+          2.20569109916687,
+          0.5204082727432251
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 416910,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 152,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.688544988632202,
+          0.9900568723678589,
+          0.48616501688957214
+        ],
+        [
+          2.729184865951538,
+          1.1477309465408325,
+          0.49892789125442505
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 498490,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 154,
+      "vertices": 28,
+      "bounds": [
+        [
+          1.5785351991653442,
+          -5.79478120803833,
+          0.5026249885559082
+        ],
+        [
+          1.847993016242981,
+          -5.501996040344238,
+          0.5699537992477417
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 332076,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 155,
+      "vertices": 3,
+      "bounds": [
+        [
+          -2.4432766437530518,
+          -4.245650291442871,
+          0.7103452682495117
+        ],
+        [
+          -2.4315505027770996,
+          -4.078306674957275,
+          0.7232452034950256
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 141480,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 157,
+      "vertices": 1079,
+      "bounds": [
+        [
+          -3.2876033782958984,
+          -5.5486907958984375,
+          0.39072996377944946
+        ],
+        [
+          3.278550386428833,
+          6.7698259353637695,
+          0.805819034576416
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 371352,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 158,
+      "vertices": 16,
+      "bounds": [
+        [
+          -0.28043225407600403,
+          -7.080183982849121,
+          0.6180312037467957
+        ],
+        [
+          0.024656008929014206,
+          -6.710234642028809,
+          0.6604139804840088
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 245652,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 159,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.279189348220825,
+          1.471130132675171,
+          0.5108288526535034
+        ],
+        [
+          2.3039379119873047,
+          1.4995583295822144,
+          0.5214152336120605
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 416774,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 160,
+      "vertices": 7,
+      "bounds": [
+        [
+          2.447962760925293,
+          -4.341201305389404,
+          0.5958176851272583
+        ],
+        [
+          2.4854536056518555,
+          -4.269195556640625,
+          0.6115230917930603
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 418321,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 161,
+      "vertices": 9,
+      "bounds": [
+        [
+          2.972684621810913,
+          2.9926040172576904,
+          0.43641626834869385
+        ],
+        [
+          3.011479139328003,
+          3.042712926864624,
+          0.4488549530506134
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495079,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 162,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.9586052894592285,
+          3.0120081901550293,
+          0.43190038204193115
+        ],
+        [
+          2.9736328125,
+          3.053591728210449,
+          0.441741943359375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495105,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 163,
+      "vertices": 7,
+      "bounds": [
+        [
+          2.9677534103393555,
+          3.3903541564941406,
+          0.448150634765625
+        ],
+        [
+          3.0107345581054688,
+          3.430938959121704,
+          0.46215641498565674
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 512681,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 164,
+      "vertices": 10,
+      "bounds": [
+        [
+          2.954399585723877,
+          2.7914578914642334,
+          0.4565986692905426
+        ],
+        [
+          2.9957213401794434,
+          2.8301241397857666,
+          0.49625077843666077
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 513519,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 165,
+      "vertices": 11,
+      "bounds": [
+        [
+          2.9667913913726807,
+          2.8639986515045166,
+          0.4453563988208771
+        ],
+        [
+          3.0045969486236572,
+          2.889481544494629,
+          0.494229793548584
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 513585,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 166,
+      "vertices": 3,
+      "bounds": [
+        [
+          1.9897422790527344,
+          -5.380459785461426,
+          0.5781193375587463
+        ],
+        [
+          2.0215260982513428,
+          -5.372402667999268,
+          0.6073660850524902
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 310679,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 167,
+      "vertices": 5,
+      "bounds": [
+        [
+          2.7872142791748047,
+          2.176405191421509,
+          0.48532506823539734
+        ],
+        [
+          2.872039794921875,
+          2.217982292175293,
+          0.4973556399345398
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 488627,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 168,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.97088623046875,
+          2.930145502090454,
+          0.45867919921875
+        ],
+        [
+          2.985992431640625,
+          2.9422762393951416,
+          0.47067782282829285
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 495018,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 169,
+      "vertices": 7,
+      "bounds": [
+        [
+          -3.336182117462158,
+          6.274337291717529,
+          0.4733271896839142
+        ],
+        [
+          -3.3115322589874268,
+          6.317883491516113,
+          0.4805215299129486
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 13441,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 170,
+      "vertices": 3,
+      "bounds": [
+        [
+          -2.8947625160217285,
+          3.4701857566833496,
+          0.4892217814922333
+        ],
+        [
+          -2.8882598876953125,
+          3.643261432647705,
+          0.48960864543914795
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 28323,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 171,
+      "vertices": 6,
+      "bounds": [
+        [
+          2.9675607681274414,
+          3.315711736679077,
+          0.4485635459423065
+        ],
+        [
+          3.0020511150360107,
+          3.377314329147339,
+          0.4541015625
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 512656,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 172,
+      "vertices": 7,
+      "bounds": [
+        [
+          2.957129955291748,
+          2.752829074859619,
+          0.455474853515625
+        ],
+        [
+          2.981663703918457,
+          2.774963617324829,
+          0.4879252314567566
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 514551,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 173,
+      "vertices": 8,
+      "bounds": [
+        [
+          3.1013388633728027,
+          6.257858753204346,
+          0.48630931973457336
+        ],
+        [
+          3.127440929412842,
+          6.300806522369385,
+          0.4950568974018097
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 516430,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 174,
+      "vertices": 5,
+      "bounds": [
+        [
+          2.2843706607818604,
+          1.534447431564331,
+          0.5165943503379822
+        ],
+        [
+          2.3046624660491943,
+          1.5881316661834717,
+          0.5409373044967651
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 371255,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 175,
+      "vertices": 4,
+      "bounds": [
+        [
+          2.9661693572998047,
+          3.271914482116699,
+          0.4574858546257019
+        ],
+        [
+          2.97786021232605,
+          3.3020265102386475,
+          0.46875277161598206
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 512499,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    },
+    {
+      "index": 176,
+      "vertices": 3,
+      "bounds": [
+        [
+          2.927337884902954,
+          3.033348560333252,
+          0.4490993320941925
+        ],
+        [
+          2.9336512088775635,
+          3.040006160736084,
+          0.482025146484375
+        ]
+      ],
+      "material": 0,
+      "uv_source_face": 494921,
+      "kind": "fitted underside/lower return; no expanded footprint"
+    }
+  ],
+  "uv_limitation": "New lower returns reuse neighboring atlas samples. Original visible surfaces/UVs unchanged; new cap texture scale requires visual review."
+}

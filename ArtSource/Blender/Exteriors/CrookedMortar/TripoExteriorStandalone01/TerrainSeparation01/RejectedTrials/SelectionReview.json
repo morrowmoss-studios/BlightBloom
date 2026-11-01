@@ -1,0 +1,13 @@
+{
+  "method": "Existing-face selection along the individually traced local perimeter; underside normal-continuity inspection separately. No global height/box/Boolean cut. Candidate subject to per-section render review.",
+  "selected_faces": 29531,
+  "section_counts": {
+    "1": 9802,
+    "2": 7787,
+    "3": 1087,
+    "4": 3944,
+    "5": 6911
+  },
+  "removed_max_z": 1.1911500692367554,
+  "kept_body_faces": 492375
+}
