@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Prefabs/BW_Inn01.prefab",
+  "oldPlaceholderRetainedInactive": "02 Inn and tavern PLACEHOLDER",
+  "position": [
+    18.0,
+    5.941107,
+    16.0
+  ],
+  "yaw": 238.0,
+  "triangles": 31104,
+  "renderers": 14,
+  "materials": 10
+}

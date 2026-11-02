@@ -1,0 +1,13 @@
+{
+  "roofSamples": 45,
+  "roofMisses": 0,
+  "wrongUpNormals": 0,
+  "chimneyMarginSamples": 24,
+  "chimneyMarginMisses": 0,
+  "valleySamples": 5,
+  "valleyMisses": 0,
+  "porchStandingSamples": 49,
+  "porchStandingMisses": 0,
+  "lowerHearthContainedInWing": true,
+  "note": "Closed exterior doors; no interior floor, stairs or guest rooms constructed/tested. Roof covering is overlapping visual geometry over the collision deck."
+}

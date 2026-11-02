@@ -1,0 +1,137 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Road to sheltered main door -0.35",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.050000675
+    },
+    {
+      "name": "Road to sheltered main door -0.35",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499998666
+    },
+    {
+      "name": "Road to sheltered main door 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.050000675
+    },
+    {
+      "name": "Road to sheltered main door 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499998666
+    },
+    {
+      "name": "Road to sheltered main door 0.35",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.050000675
+    },
+    {
+      "name": "Road to sheltered main door 0.35",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499998666
+    },
+    {
+      "name": "Rear service approach -0.15",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000199
+    },
+    {
+      "name": "Rear service approach -0.15",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000199
+    },
+    {
+      "name": "Rear service approach 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500003733
+    },
+    {
+      "name": "Rear service approach 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500003733
+    },
+    {
+      "name": "Rear service approach 0.15",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499993637
+    },
+    {
+      "name": "Rear service approach 0.15",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499993637
+    },
+    {
+      "name": "Porch approach and turn",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0536708273
+    },
+    {
+      "name": "Porch approach and turn",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05230776
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500936471
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.050095737
+    },
+    {
+      "name": "Recessed wing frontage",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05034927
+    },
+    {
+      "name": "Recessed wing frontage",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0503503159
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

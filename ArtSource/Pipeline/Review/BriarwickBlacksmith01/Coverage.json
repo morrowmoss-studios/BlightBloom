@@ -1,0 +1,17 @@
+{
+  "roofRays": 30,
+  "roofMisses": 0,
+  "roofDown": 0,
+  "chimneySeamSamples": 22,
+  "chimneySeamMisses": 0,
+  "floorRays": 396,
+  "floorMisses": 0,
+  "horseEnvelope": [
+    1.2,
+    2.6,
+    2.8
+  ],
+  "horseSamples": 51,
+  "horseBlocks": 0,
+  "examples": []
+}

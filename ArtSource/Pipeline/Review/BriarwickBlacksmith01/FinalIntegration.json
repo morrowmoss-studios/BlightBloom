@@ -1,0 +1,24 @@
+{
+  "triangles": 33950,
+  "renderers": 12,
+  "materials": 10,
+  "min": [
+    -5.160001,
+    -0.2800002,
+    -4.239385
+  ],
+  "max": [
+    5.19500065,
+    6.58605146,
+    4.33388567
+  ],
+  "size": [
+    10.3550014,
+    6.86605167,
+    8.573271
+  ],
+  "colliderCount": 10,
+  "missingScripts": 0,
+  "dirty": false,
+  "play": false
+}

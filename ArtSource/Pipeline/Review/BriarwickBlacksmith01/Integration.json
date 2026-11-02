@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Prefabs/BW_Blacksmith01.prefab",
+  "placeholderPreservedInactive": "03 Blacksmith and forge PLACEHOLDER",
+  "position": [
+    -26.0,
+    5.499537,
+    -25.0
+  ],
+  "yaw": 70.0,
+  "triangles": 33914,
+  "renderers": 12,
+  "materials": 10
+}

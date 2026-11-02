@@ -1,0 +1,161 @@
+{
+  "mainBody": [
+    5.7,
+    9.2
+  ],
+  "wing": [
+    3.8,
+    8.1
+  ],
+  "bodyArea": 83.22,
+  "floorRise": 3.1,
+  "mainDoor": [
+    1.5,
+    2.5
+  ],
+  "serviceDoor": [
+    1.3,
+    2.3
+  ],
+  "chimneyHole": [
+    2.96,
+    3.72,
+    -0.32,
+    0.15
+  ],
+  "models": [
+    {
+      "group": "Plaster",
+      "name": "BW_Inn01_Plaster",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Plaster.fbx",
+      "triangles": 1088,
+      "materialOrder": [
+        "Plaster"
+      ]
+    },
+    {
+      "group": "Timber",
+      "name": "BW_Inn01_Timber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Timber.fbx",
+      "triangles": 3304,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Windows",
+      "name": "BW_Inn01_Windows",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Windows.fbx",
+      "triangles": 4160,
+      "materialOrder": [
+        "glass",
+        "wood2"
+      ]
+    },
+    {
+      "group": "MainDoor",
+      "name": "BW_Inn01_MainDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_MainDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "ServiceDoor",
+      "name": "BW_Inn01_ServiceDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_ServiceDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "Foundation",
+      "name": "BW_Inn01_Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Foundation.fbx",
+      "triangles": 108,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "EntranceStone",
+      "name": "BW_Inn01_EntranceStone",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_EntranceStone.fbx",
+      "triangles": 36,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "PorchTimber",
+      "name": "BW_Inn01_PorchTimber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_PorchTimber.fbx",
+      "triangles": 348,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "SignBracket",
+      "name": "BW_Inn01_SignBracket",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_SignBracket.fbx",
+      "triangles": 132,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Chimney",
+      "name": "BW_Inn01_Chimney",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Chimney.fbx",
+      "triangles": 804,
+      "materialOrder": [
+        "rock2",
+        "firewood",
+        "wood2"
+      ]
+    },
+    {
+      "group": "RoofTrim",
+      "name": "BW_Inn01_RoofTrim",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_RoofTrim.fbx",
+      "triangles": 528,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Shingles",
+      "name": "BW_Inn01_Shingles",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_Shingles.fbx",
+      "triangles": 11548,
+      "materialOrder": [
+        "Shingle"
+      ]
+    },
+    {
+      "group": "RoofDeck",
+      "name": "BW_Inn01_RoofDeck",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_RoofDeck.fbx",
+      "triangles": 100,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "RoofValley",
+      "name": "BW_Inn01_RoofValley",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Inn01/Models/BW_Inn01_RoofValley.fbx",
+      "triangles": 4,
+      "materialOrder": [
+        "DullMetal"
+      ]
+    }
+  ]
+}

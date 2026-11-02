@@ -1,0 +1,219 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 356,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 1088,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 3304,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 4160,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "MainDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 108,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "EntranceStone",
+      "triangles": 36,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "PorchTimber",
+      "triangles": 348,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "SignBracket",
+      "triangles": 132,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Chimney",
+      "triangles": 804,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofTrim",
+      "triangles": 528,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Shingles",
+      "triangles": 11548,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofDeck",
+      "triangles": 100,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofValley",
+      "triangles": 4,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Inn01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_firewood",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_Shingle",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Inn01_DullMetal",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Main entrance",
+      "width": 1.50000012,
+      "height": 2.50000143
+    },
+    {
+      "role": "Rear service entry",
+      "width": 1.3,
+      "height": 2.30000114
+    }
+  ],
+  "triangleCount": 31272,
+  "worldBoundsSize": [
+    14.9166412,
+    8.868816,
+    14.6313267
+  ],
+  "groundContacts": [
+    {
+      "x": -4.5,
+      "z": -1.7,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": -4.5,
+      "z": 3.0,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": -4.5,
+      "z": 7.5,
+      "terrainRelativeToFloor": -0.00180435181
+    },
+    {
+      "x": 0.0,
+      "z": -1.7,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": 0.0,
+      "z": 3.0,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": 0.0,
+      "z": 7.5,
+      "terrainRelativeToFloor": -0.003751278
+    },
+    {
+      "x": 5.0,
+      "z": -1.7,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": 5.0,
+      "z": 3.0,
+      "terrainRelativeToFloor": 0.00066185
+    },
+    {
+      "x": 5.0,
+      "z": 7.5,
+      "terrainRelativeToFloor": -0.00114250183
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}

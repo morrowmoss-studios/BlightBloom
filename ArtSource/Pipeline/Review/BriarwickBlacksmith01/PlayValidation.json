@@ -1,0 +1,165 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Wide workshop lane -0.6",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Wide workshop lane -0.6",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Wide workshop lane 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Wide workshop lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Wide workshop lane 0.6",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Wide workshop lane 0.6",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500010327
+    },
+    {
+      "name": "Human side service -0.15",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05162293
+    },
+    {
+      "name": "Human side service -0.15",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0517044067
+    },
+    {
+      "name": "Human side service 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05162293
+    },
+    {
+      "name": "Human side service 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0517044067
+    },
+    {
+      "name": "Human side service 0.15",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05162293
+    },
+    {
+      "name": "Human side service 0.15",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0517044067
+    },
+    {
+      "name": "Original road centre and apron",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06269432
+    },
+    {
+      "name": "Original road centre and apron",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0628404841
+    },
+    {
+      "name": "Workshop floor circulation",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05048872
+    },
+    {
+      "name": "Workshop floor circulation",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05016501
+    },
+    {
+      "name": "Forge work approach",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499992371
+    },
+    {
+      "name": "Forge work approach",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499992371
+    },
+    {
+      "name": "Future stations clear aisle",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05137678
+    },
+    {
+      "name": "Future stations clear aisle",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05356695
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0501159
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05011586
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

@@ -1,0 +1,143 @@
+{
+  "bodyFootprint": [
+    9.2,
+    7.4
+  ],
+  "enclosedWorkshop": [
+    9.2,
+    4.2
+  ],
+  "coveredFrontApron": [
+    9.2,
+    3.2
+  ],
+  "wideOpening": [
+    2.5,
+    2.65
+  ],
+  "serviceOpening": [
+    1.3,
+    2.3
+  ],
+  "ridgeHeight": 5.8,
+  "chimneyHeight": 6.59,
+  "chimneyHole": [
+    2.38,
+    3.12,
+    0.61,
+    1.06
+  ],
+  "models": [
+    {
+      "group": "Plaster",
+      "name": "BW_Blacksmith01_Plaster",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Plaster.fbx",
+      "triangles": 276,
+      "materialOrder": [
+        "Plaster"
+      ]
+    },
+    {
+      "group": "ForgeMasonry",
+      "name": "BW_Blacksmith01_ForgeMasonry",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_ForgeMasonry.fbx",
+      "triangles": 268,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "Timber",
+      "name": "BW_Blacksmith01_Timber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Timber.fbx",
+      "triangles": 1680,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "ServiceDoor",
+      "name": "BW_Blacksmith01_ServiceDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_ServiceDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "Windows",
+      "name": "BW_Blacksmith01_Windows",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Windows.fbx",
+      "triangles": 464,
+      "materialOrder": [
+        "glass",
+        "wood2"
+      ]
+    },
+    {
+      "group": "Foundation",
+      "name": "BW_Blacksmith01_Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Foundation.fbx",
+      "triangles": 96,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "Floor",
+      "name": "BW_Blacksmith01_Floor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Floor.fbx",
+      "triangles": 156,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "ForgeCore",
+      "name": "BW_Blacksmith01_ForgeCore",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_ForgeCore.fbx",
+      "triangles": 44,
+      "materialOrder": [
+        "Charcoal"
+      ]
+    },
+    {
+      "group": "Chimney",
+      "name": "BW_Blacksmith01_Chimney",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_Chimney.fbx",
+      "triangles": 230,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "UpperTimber",
+      "name": "BW_Blacksmith01_UpperTimber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_UpperTimber.fbx",
+      "triangles": 2728,
+      "materialOrder": [
+        "wood3"
+      ]
+    },
+    {
+      "group": "RoofDeck",
+      "name": "BW_Blacksmith01_RoofDeck",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_RoofDeck.fbx",
+      "triangles": 44,
+      "materialOrder": [
+        "interior_roof"
+      ]
+    },
+    {
+      "group": "ClayRoof",
+      "name": "BW_Blacksmith01_ClayRoof",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Blacksmith01/Models/BW_Blacksmith01_ClayRoof.fbx",
+      "triangles": 23408,
+      "materialOrder": [
+        "Clay"
+      ]
+    }
+  ]
+}

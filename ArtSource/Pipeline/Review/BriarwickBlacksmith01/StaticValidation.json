@@ -1,0 +1,210 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 336,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 276,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ForgeMasonry",
+      "triangles": 268,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1680,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 464,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 96,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Floor",
+      "triangles": 156,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ForgeCore",
+      "triangles": 44,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Chimney",
+      "triangles": 230,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "UpperTimber",
+      "triangles": 2728,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofDeck",
+      "triangles": 44,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ClayRoof",
+      "triangles": 23408,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Blacksmith01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_Charcoal",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_interior_roof",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Blacksmith01_Clay",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Wide workshop entry",
+      "width": 2.5,
+      "height": 2.65000033
+    },
+    {
+      "role": "Side human entry",
+      "width": 1.30000007,
+      "height": 2.3
+    }
+  ],
+  "triangleCount": 33950,
+  "worldBoundsSize": [
+    11.5790443,
+    6.86605072,
+    12.6398811
+  ],
+  "groundContacts": [
+    {
+      "x": -4.6,
+      "z": -3.7,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": -4.6,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": -4.6,
+      "z": 3.7,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": 0.0,
+      "z": -3.7,
+      "terrainRelativeToFloor": -0.000214099884
+    },
+    {
+      "x": 0.0,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": 0.0,
+      "z": 3.7,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": 4.6,
+      "z": -3.7,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": 4.6,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.00017786026
+    },
+    {
+      "x": 4.6,
+      "z": 3.7,
+      "terrainRelativeToFloor": -0.00017786026
+    }
+  ],
+  "serviceLeafFixedOpen": true,
+  "completeInterior": false
+}
