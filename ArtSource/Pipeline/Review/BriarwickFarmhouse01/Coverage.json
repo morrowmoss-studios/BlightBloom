@@ -1,0 +1,8 @@
+{
+  "roofRays": 25,
+  "roofMisses": 0,
+  "wrongUpNormals": 0,
+  "porchSamples": 12,
+  "porchMisses": 0,
+  "minimumPorchHeadroomAboveFloor": 2.49999952
+}

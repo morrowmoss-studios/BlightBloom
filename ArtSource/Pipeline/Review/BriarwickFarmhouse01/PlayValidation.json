@@ -1,0 +1,137 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Main doorway lane -0.25",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Main doorway lane -0.25",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0299987737
+    },
+    {
+      "name": "Main doorway lane 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Main doorway lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.03000246
+    },
+    {
+      "name": "Main doorway lane 0.25",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Main doorway lane 0.25",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.03000246
+    },
+    {
+      "name": "Rear service lane -0.2",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.03000246
+    },
+    {
+      "name": "Rear service lane -0.2",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07329036
+    },
+    {
+      "name": "Rear service lane 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0299987737
+    },
+    {
+      "name": "Rear service lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07328668
+    },
+    {
+      "name": "Rear service lane 0.2",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.03000246
+    },
+    {
+      "name": "Rear service lane 0.2",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07329036
+    },
+    {
+      "name": "Road connection",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Road connection",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.03000246
+    },
+    {
+      "name": "Front frontage",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499993078
+    },
+    {
+      "name": "Front frontage",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499993078
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05011172
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.050114233
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

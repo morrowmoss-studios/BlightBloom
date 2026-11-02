@@ -1,0 +1,158 @@
+{
+  "bodyFootprint": [
+    6.8,
+    6.4
+  ],
+  "floorDatum": 0.15,
+  "customerDoor": [
+    1.4,
+    2.4
+  ],
+  "deliveryDoor": [
+    1.6,
+    2.4
+  ],
+  "counterHeightAboveFloor": 1.0,
+  "counterWidth": 2.4,
+  "counterUsableDepth": 0.65,
+  "sellingHatch": [
+    2.3,
+    1.25
+  ],
+  "roofPitchNote": "Nominal main thatch slopes approximately 45 degrees; end hips slightly steeper.",
+  "models": [
+    {
+      "group": "Plaster",
+      "name": "BW_Merchant01_Plaster",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Plaster.fbx",
+      "triangles": 392,
+      "materialOrder": [
+        "Plaster"
+      ]
+    },
+    {
+      "group": "Timber",
+      "name": "BW_Merchant01_Timber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Timber.fbx",
+      "triangles": 1352,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Shopfront",
+      "name": "BW_Merchant01_Shopfront",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Shopfront.fbx",
+      "triangles": 132,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Counter",
+      "name": "BW_Merchant01_Counter",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Counter.fbx",
+      "triangles": 220,
+      "materialOrder": [
+        "wood3",
+        "wood2"
+      ]
+    },
+    {
+      "group": "ServingRecess",
+      "name": "BW_Merchant01_ServingRecess",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_ServingRecess.fbx",
+      "triangles": 220,
+      "materialOrder": [
+        "ServingLining"
+      ]
+    },
+    {
+      "group": "CustomerDoor",
+      "name": "BW_Merchant01_CustomerDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_CustomerDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "DeliveryDoors",
+      "name": "BW_Merchant01_DeliveryDoors",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_DeliveryDoors.fbx",
+      "triangles": 9112,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "Windows",
+      "name": "BW_Merchant01_Windows",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Windows.fbx",
+      "triangles": 684,
+      "materialOrder": [
+        "glass",
+        "wood2",
+        "wood3"
+      ]
+    },
+    {
+      "group": "Foundation",
+      "name": "BW_Merchant01_Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Foundation.fbx",
+      "triangles": 96,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "ApproachStone",
+      "name": "BW_Merchant01_ApproachStone",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_ApproachStone.fbx",
+      "triangles": 36,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "CanopyTimber",
+      "name": "BW_Merchant01_CanopyTimber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_CanopyTimber.fbx",
+      "triangles": 392,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "CanopyBoards",
+      "name": "BW_Merchant01_CanopyBoards",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_CanopyBoards.fbx",
+      "triangles": 528,
+      "materialOrder": [
+        "wood3"
+      ]
+    },
+    {
+      "group": "SignBracket",
+      "name": "BW_Merchant01_SignBracket",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_SignBracket.fbx",
+      "triangles": 88,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Thatch",
+      "name": "BW_Merchant01_Thatch",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Models/BW_Merchant01_Thatch.fbx",
+      "triangles": 3528,
+      "materialOrder": [
+        "Thatch"
+      ]
+    }
+  ]
+}

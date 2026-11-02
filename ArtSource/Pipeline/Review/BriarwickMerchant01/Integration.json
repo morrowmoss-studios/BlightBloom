@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/Merchant01/Prefabs/BW_Merchant01.prefab",
+  "placeholderRetainedInactive": "05 General merchant PLACEHOLDER",
+  "position": [
+    -19.0,
+    5.424128,
+    0.0
+  ],
+  "yaw": 90.0,
+  "triangles": 21292,
+  "renderers": 14,
+  "materials": 8
+}

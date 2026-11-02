@@ -1,0 +1,16 @@
+{
+  "roofRays": 25,
+  "roofMisses": 0,
+  "wrongUpNormals": 0,
+  "customerPavingSamples": 20,
+  "customerPavingMisses": 0,
+  "canopySamples": 12,
+  "canopyMisses": 0,
+  "minimumCanopyClearanceAboveApron": 2.41000152,
+  "counterTopLocalY": 1.15,
+  "counterHeightAboveShopFloor": 1.0,
+  "counterHeightAboveApron": 1.03,
+  "counterWidth": 2.4,
+  "counterDepth": 0.6556082,
+  "note": "Roof/awning and standing-surface checks only; closed leaf entry and complete shop interiors are not implemented."
+}

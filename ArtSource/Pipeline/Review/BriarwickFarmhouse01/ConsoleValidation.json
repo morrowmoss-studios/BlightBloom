@@ -1,0 +1,6 @@
+{
+  "compilationFailed": false,
+  "finalEditorErrors": 0,
+  "finalEditorWarnings": 0,
+  "note": "Pipeline produced an API/thread-abort automation error during Play-mode reload. Restarted existing Pipeline via UI; tests then completed. No new asset/gameplay errors or warnings observed. Final Console queried as0/0; not manually cleared."
+}

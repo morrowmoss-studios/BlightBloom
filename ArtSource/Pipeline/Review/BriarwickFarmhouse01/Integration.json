@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/Farmhouse01/Prefabs/BW_Farmhouse01.prefab",
+  "placeholderRetainedInactive": "07 Farmhouse and stable PLACEHOLDER",
+  "position": [
+    47.0,
+    5.669026,
+    -30.0
+  ],
+  "yaw": 255.0,
+  "triangles": 22556,
+  "renderers": 12,
+  "materials": 9
+}

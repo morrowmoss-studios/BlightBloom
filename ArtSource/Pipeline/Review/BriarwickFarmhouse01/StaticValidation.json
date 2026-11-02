@@ -1,0 +1,205 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 399,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 412,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1812,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Gables",
+      "triangles": 3200,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 1404,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "MainDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 96,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Steps",
+      "triangles": 36,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "PorchTimber",
+      "triangles": 392,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "PorchRoof",
+      "triangles": 440,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Chimney",
+      "triangles": 804,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Thatch",
+      "triangles": 4880,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Farmhouse01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_firewood",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Farmhouse01_Thatch",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Main doorway",
+      "width": 1.4,
+      "height": 2.39999938
+    },
+    {
+      "role": "Rear service doorway",
+      "width": 1.29999983,
+      "height": 2.29999924
+    }
+  ],
+  "triangleCount": 22588,
+  "worldBoundsSize": [
+    11.3218346,
+    6.901762,
+    11.5869942
+  ],
+  "groundContacts": [
+    {
+      "x": -4.5,
+      "z": -3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": -4.5,
+      "z": 0.0,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": -4.5,
+      "z": 3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 0.0,
+      "z": -3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 0.0,
+      "z": 0.0,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 0.0,
+      "z": 3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 4.5,
+      "z": -3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 4.5,
+      "z": 0.0,
+      "terrainRelativeToFloor": 0.0002655983
+    },
+    {
+      "x": 4.5,
+      "z": 3.6,
+      "terrainRelativeToFloor": 0.0002655983
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}

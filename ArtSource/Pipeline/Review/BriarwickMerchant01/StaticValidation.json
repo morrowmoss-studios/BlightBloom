@@ -1,0 +1,219 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 377,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 392,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1352,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Shopfront",
+      "triangles": 132,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Counter",
+      "triangles": 220,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServingRecess",
+      "triangles": 220,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "CustomerDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "DeliveryDoors",
+      "triangles": 9112,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 684,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 96,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ApproachStone",
+      "triangles": 36,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "CanopyTimber",
+      "triangles": 392,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "CanopyBoards",
+      "triangles": 528,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "SignBracket",
+      "triangles": 88,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Thatch",
+      "triangles": 3528,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Merchant01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_ServingLining",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Merchant01_Thatch",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Customer doorway",
+      "width": 1.39999986,
+      "height": 2.40000153
+    },
+    {
+      "role": "Rear delivery doorway",
+      "width": 1.60000014,
+      "height": 2.40000153
+    }
+  ],
+  "triangleCount": 21336,
+  "worldBoundsSize": [
+    8.143677,
+    6.78801632,
+    7.523918
+  ],
+  "groundContacts": [
+    {
+      "x": -3.4,
+      "z": -1.4,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": -3.4,
+      "z": 1.8,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": -3.4,
+      "z": 5.0,
+      "terrainRelativeToFloor": 0.00315618515
+    },
+    {
+      "x": 0.0,
+      "z": -1.4,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": 0.0,
+      "z": 1.8,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": 0.0,
+      "z": 5.0,
+      "terrainRelativeToFloor": 0.00315618515
+    },
+    {
+      "x": 3.4,
+      "z": -1.4,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": 3.4,
+      "z": 1.8,
+      "terrainRelativeToFloor": 0.000519275665
+    },
+    {
+      "x": 3.4,
+      "z": 5.0,
+      "terrainRelativeToFloor": 0.00227737427
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}
