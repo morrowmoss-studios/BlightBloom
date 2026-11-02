@@ -1,0 +1,119 @@
+{
+  "mainFootprint": [
+    6.6,
+    7.4
+  ],
+  "roofFootprint": [
+    7.5,
+    8.27
+  ],
+  "height": 6.4694,
+  "ridgeHeight": 4.76,
+  "frontDoor": [
+    1.4,
+    2.4
+  ],
+  "serviceDoor": [
+    1.3,
+    2.3
+  ],
+  "models": [
+    {
+      "name": "BW_Bakery01_Plaster",
+      "group": "Plaster",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Plaster.fbx",
+      "triangles": 968,
+      "materialOrder": [
+        "concrete"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_Timber",
+      "group": "Timber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Timber.fbx",
+      "triangles": 1488,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_Windows",
+      "group": "Windows",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Windows.fbx",
+      "triangles": 1408,
+      "materialOrder": [
+        "glass",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_CustomerDoor",
+      "group": "CustomerDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_CustomerDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_ServiceDoor",
+      "group": "ServiceDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_ServiceDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_Oven",
+      "group": "Oven",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Oven.fbx",
+      "triangles": 804,
+      "materialOrder": [
+        "rock2",
+        "firewood",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_Foundation",
+      "group": "Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Foundation.fbx",
+      "triangles": 96,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_Thresholds",
+      "group": "Thresholds",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_Thresholds.fbx",
+      "triangles": 24,
+      "materialOrder": [
+        "floor"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_RoofDeck",
+      "group": "RoofDeck",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_RoofDeck.fbx",
+      "triangles": 32,
+      "materialOrder": [
+        "interior_roof"
+      ]
+    },
+    {
+      "name": "BW_Bakery01_ClayRoof",
+      "group": "ClayRoof",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery01/Models/BW_Bakery01_ClayRoof.fbx",
+      "triangles": 77069,
+      "materialOrder": [
+        "Clay"
+      ]
+    }
+  ]
+}

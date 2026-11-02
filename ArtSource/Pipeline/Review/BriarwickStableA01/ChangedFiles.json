@@ -1,0 +1,290 @@
+[
+  {
+    "path": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+    "status": "modified"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/Capture.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/ConsoleValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/IntegrateStable.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/Integration.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/PlayValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/PreservationValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/ProbePlay.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/ProtectedBaseline.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/README.md",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/SceneAfter.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/SceneBefore.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_CaptureConditions.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_Cottage20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_CrookedMortar20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_Entrances.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_Front.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_GameplayApproach.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_LoftAndSide.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_Stable20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_ThreeQuarter.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StableA_VillageContext.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/StaticValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/ValidateStable.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/VillageStyleComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_PackedEarth_Routes.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_PackedEarth_Routes.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_doors.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_doors.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_interior_roof.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_interior_roof.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_metals.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_metals.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_rock2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_rock2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_roof.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_roof.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_wood2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_wood2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_wood3.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials/BW_StableA01_wood3.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Materials.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Floor.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Floor.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Foundation.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Foundation.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HorseDoorL.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HorseDoorL.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HorseDoorR.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HorseDoorR.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HumanDoor.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HumanDoor.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_LoftHatch.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_LoftHatch.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Roofs.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Roofs.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_SeparateApproach.asset",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_SeparateApproach.asset.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Shell.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Shell.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Structure.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Structure.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Prefabs/BW_StableA01.prefab",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Prefabs/BW_StableA01.prefab.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Prefabs.meta",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/StableA01/BW_StableA01.blend",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/StableA01/ModelCatalog.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/StableA01/README.md",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/StableA01/build_stable.py",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01.meta",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/BriarwickStableA01/ChangedFiles.json",
+    "status": "new"
+  }
+]

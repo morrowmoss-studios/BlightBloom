@@ -1,0 +1,169 @@
+{
+  "mainFootprint": [
+    8.4,
+    5.4
+  ],
+  "totalFootprint": [
+    10.7,
+    5.4
+  ],
+  "ridgeHeight": 4.875,
+  "openBayNominalWidth": 2.8,
+  "frontOverhang": 1.26,
+  "frontBearingBeamClearHeight": 3.23,
+  "humanOpening": [
+    1.3,
+    2.3
+  ],
+  "horseReferenceEnvelope": [
+    1.2,
+    2.6,
+    2.8
+  ],
+  "models": [
+    {
+      "name": "BW_StableA02_Shell",
+      "group": "Shell",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Shell.fbx",
+      "triangles": 5544,
+      "materialOrder": [
+        "wood3"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_Structure",
+      "group": "Structure",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Structure.fbx",
+      "triangles": 2400,
+      "materialOrder": [
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_Roofs",
+      "group": "Roofs",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Roofs.fbx",
+      "triangles": 296,
+      "materialOrder": [
+        "roof",
+        "wood2",
+        "wood3",
+        "interior_roof"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_LoftHatch",
+      "group": "LoftHatch",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_LoftHatch.fbx",
+      "triangles": 220,
+      "materialOrder": [
+        "wood3"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_Floor",
+      "group": "Floor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Floor.fbx",
+      "triangles": 24,
+      "materialOrder": [
+        "PackedEarth_Routes"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_Foundation",
+      "group": "Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Foundation.fbx",
+      "triangles": 156,
+      "materialOrder": [
+        "rock2"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_Partitions",
+      "group": "Partitions",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Partitions.fbx",
+      "triangles": 1760,
+      "materialOrder": [
+        "wood2",
+        "wood3"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA02_HumanDoor",
+      "group": "HumanDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HumanDoor.fbx",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          6.6,
+          0.02,
+          0.635
+        ],
+        "yaw": 165,
+        "width": 1.27,
+        "height": 2.27
+      }
+    }
+  ]
+}

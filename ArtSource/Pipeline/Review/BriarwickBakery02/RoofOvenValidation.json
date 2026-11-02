@@ -1,0 +1,20 @@
+{
+  "lowerOvenVertices": 1050,
+  "lowerOvenFullyWithinWalls": true,
+  "lowerOvenMin": [
+    0.321976572,
+    -0.0250000954,
+    -1.40000188
+  ],
+  "lowerOvenMax": [
+    2.17385626,
+    1.68799639,
+    0.05545613
+  ],
+  "roofSamples": 30,
+  "roofMisses": 0,
+  "wrongUpNormals": 0,
+  "chimneySeamSamples": 24,
+  "chimneySeamMisses": 0,
+  "note": "Roof deck and masonry coverage; flue centre intentionally excluded. Visual roof tile laps are overlapping open surfaces, not a watertight structural mesh."
+}

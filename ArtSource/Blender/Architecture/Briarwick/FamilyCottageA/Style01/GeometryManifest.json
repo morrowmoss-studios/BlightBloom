@@ -1,0 +1,145 @@
+[
+  {
+    "sourceMesh": "wall_wood_entry_1m_1.001",
+    "replacement": "BW_Cottage01_EntryFrame",
+    "triangles": 1790,
+    "vertices": 936,
+    "uvLoops": 5274,
+    "materials": [
+      "wood3",
+      "wood2",
+      "concrete",
+      "metals"
+    ],
+    "exportMaterialOrder": [
+      "wood3",
+      "wood2",
+      "concrete",
+      "metals"
+    ]
+  },
+  {
+    "sourceMesh": "wall_wood_door1.004",
+    "replacement": "BW_Cottage01_DoorLeaf",
+    "triangles": 6798,
+    "vertices": 3644,
+    "uvLoops": 20394,
+    "materials": [
+      "doors",
+      "metals",
+      "wood2"
+    ],
+    "exportMaterialOrder": [
+      "doors",
+      "metals",
+      "wood2"
+    ]
+  },
+  {
+    "sourceMesh": "steps2.002",
+    "replacement": "BW_Cottage01_EntranceSteps",
+    "triangles": 1328,
+    "vertices": 712,
+    "uvLoops": 3152,
+    "materials": [
+      "wood1"
+    ],
+    "exportMaterialOrder": [
+      "wood1"
+    ]
+  },
+  {
+    "sourceMesh": "wooden_post_column_size1.079",
+    "replacement": "BW_Cottage01_SoftenedPost",
+    "triangles": 300,
+    "vertices": 152,
+    "uvLoops": 708,
+    "materials": [
+      "wood2"
+    ],
+    "exportMaterialOrder": [
+      "wood2"
+    ]
+  },
+  {
+    "sourceMesh": "wooden_post_horizontal_long.100",
+    "replacement": "BW_Cottage01_SoftenedBeam",
+    "triangles": 300,
+    "vertices": 152,
+    "uvLoops": 708,
+    "materials": [
+      "wood2"
+    ],
+    "exportMaterialOrder": [
+      "wood2"
+    ]
+  },
+  {
+    "sourceMesh": "roof_wide1_end.005",
+    "replacement": "BW_Cottage01_GableEndNarrow",
+    "triangles": 600,
+    "vertices": 654,
+    "uvLoops": 1800,
+    "materials": [
+      "wood3",
+      "concrete"
+    ],
+    "exportMaterialOrder": [
+      "wood3",
+      "concrete"
+    ]
+  },
+  {
+    "sourceMesh": "roof_wide2_end.001",
+    "replacement": "BW_Cottage01_GableEndWide",
+    "triangles": 596,
+    "vertices": 648,
+    "uvLoops": 1788,
+    "materials": [
+      "wood3",
+      "concrete"
+    ],
+    "exportMaterialOrder": [
+      "wood3",
+      "concrete"
+    ]
+  },
+  {
+    "sourceMesh": "roof_wide1_3.002",
+    "replacement": "BW_Cottage01_EaveNarrow",
+    "triangles": 160,
+    "vertices": 120,
+    "uvLoops": 400,
+    "materials": [
+      "roof",
+      "wood2",
+      "wood3",
+      "interior_roof"
+    ],
+    "exportMaterialOrder": [
+      "wood2",
+      "wood3",
+      "interior_roof",
+      "roof"
+    ]
+  },
+  {
+    "sourceMesh": "roof_wide2_3.001",
+    "replacement": "BW_Cottage01_EaveWide",
+    "triangles": 138,
+    "vertices": 108,
+    "uvLoops": 342,
+    "materials": [
+      "roof",
+      "wood2",
+      "wood3",
+      "interior_roof"
+    ],
+    "exportMaterialOrder": [
+      "wood2",
+      "wood3",
+      "interior_roof",
+      "roof"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Customer approach -0.18",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Customer approach -0.18",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Service approach -0.18",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500011444
+    },
+    {
+      "name": "Service approach -0.18",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499992371
+    },
+    {
+      "name": "Customer approach 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Customer approach 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Service approach 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500011444
+    },
+    {
+      "name": "Service approach 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499992371
+    },
+    {
+      "name": "Customer approach 0.18",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Customer approach 0.18",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    },
+    {
+      "name": "Service approach 0.18",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0500011444
+    },
+    {
+      "name": "Service approach 0.18",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0499992371
+    },
+    {
+      "name": "Perimeter",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0501064919
+    },
+    {
+      "name": "Perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0501064919
+    },
+    {
+      "name": "Road connection",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0379231647
+    },
+    {
+      "name": "Road connection",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05000019
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

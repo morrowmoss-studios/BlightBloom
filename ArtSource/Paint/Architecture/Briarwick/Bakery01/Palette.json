@@ -1,0 +1,46 @@
+{
+  "swatches": [
+    [
+      133,
+      105,
+      88
+    ],
+    [
+      141,
+      113,
+      93
+    ],
+    [
+      128,
+      106,
+      94
+    ],
+    [
+      146,
+      117,
+      97
+    ],
+    [
+      138,
+      106,
+      85
+    ],
+    [
+      132,
+      112,
+      100
+    ],
+    [
+      143,
+      115,
+      98
+    ],
+    [
+      136,
+      109,
+      91
+    ]
+  ],
+  "layout": "4 columns x 2 rows; each physical tile gets one swatch",
+  "finish": "muted earthen clay, nonmetallic, smoothness .063; modeled curvature provides shading"
+}

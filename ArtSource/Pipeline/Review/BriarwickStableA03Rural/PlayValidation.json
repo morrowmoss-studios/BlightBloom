@@ -1,0 +1,247 @@
+{
+  "method": "Actual existing CharacterController.Move in Play mode, not keyboard/manual camera test",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "results": [
+    {
+      "name": "Open bay -2.8 lane -0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay -2.8 lane -0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay -2.8 lane 0",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.05000189
+    },
+    {
+      "name": "Open bay -2.8 lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay -2.8 lane 0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay -2.8 lane 0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 0 lane -0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999771
+    },
+    {
+      "name": "Open bay 0 lane -0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 0 lane 0",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 0 lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 0 lane 0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay 0 lane 0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 2.8 lane -0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay 2.8 lane -0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 2.8 lane 0",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay 2.8 lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Open bay 2.8 lane 0.35",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.04999796
+    },
+    {
+      "name": "Open bay 2.8 lane 0.35",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Side service entry",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0499997661
+    },
+    {
+      "name": "Side service entry",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.051865723
+    },
+    {
+      "name": "Tack connection and front cross aisle",
+      "direction": "forward",
+      "pass": true,
+      "reached": 7,
+      "total": 7,
+      "grounded": true,
+      "maxHorizontalError": 0.0641550049
+    },
+    {
+      "name": "Tack connection and front cross aisle",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 7,
+      "total": 7,
+      "grounded": true,
+      "maxHorizontalError": 0.06264917
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.0501260981
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.05013139
+    },
+    {
+      "name": "Farm approach spur",
+      "direction": "forward",
+      "pass": true,
+      "reached": 4,
+      "total": 4,
+      "grounded": true,
+      "maxHorizontalError": 0.0537814163
+    },
+    {
+      "name": "Farm approach spur",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 4,
+      "total": 4,
+      "grounded": true,
+      "maxHorizontalError": 0.07171284
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "path": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+    "status": "modified"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Capture.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/ConsoleValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/CrookedMortarComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/EditValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/EntranceComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/MaterialComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/OriginalVsRestored.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/PreservationValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/ProtectedBaseline.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/README.md",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restoration.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/RestorationValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/RestoreAppearance.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_CaptureConditions.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_Cottage20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_CrookedMortar20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_Entrance.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_Front.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_Materials.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Restored_ThreeQuarter.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/StructureAfter.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/StructureBefore.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/Style01RendererAssignments.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/UnrelatedAfter.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/UnrelatedBefore.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/ValidateEdit.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/ValidateRestoration.cs",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_concrete.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_concrete.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_doors.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_doors.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_firewood.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_firewood.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_floor.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_floor.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_glass.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_glass.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_interior_roof.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_interior_roof.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_metals.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_metals.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_rock2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_rock2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_roof.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_roof.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood1.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood1.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood3.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials/BW_CottageA_Original_wood3.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01/Materials.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/OriginalAppearance01.meta",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAOriginalAppearance01/ChangedFiles.json",
+    "status": "new"
+  }
+]

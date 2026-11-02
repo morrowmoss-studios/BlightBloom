@@ -1,0 +1,156 @@
+{
+  "method": "Existing CharacterController.Move in Play mode; no keyboard input or manual camera comfort test",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "closedDoorBlocks": true,
+  "doorTemporarilyExcludedForOpeningClearanceOnly": true,
+  "doorColliderRestored": true,
+  "normalMotorAndCameraRestored": true,
+  "results": [
+    {
+      "name": "Entrance lane -1.17",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.05999624,
+      "grounded": true,
+      "finalLocal": [
+        -1.1699996,
+        0.451332569,
+        0.340110064
+      ]
+    },
+    {
+      "name": "Entrance lane -1.17",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.0399984121,
+      "grounded": true,
+      "finalLocal": [
+        -1.16999888,
+        0.09765291,
+        3.36000061
+      ]
+    },
+    {
+      "name": "Entrance lane -1",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.060000103,
+      "grounded": true,
+      "finalLocal": [
+        -1.00000024,
+        0.451332569,
+        0.340112925
+      ]
+    },
+    {
+      "name": "Entrance lane -1",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.0400025733,
+      "grounded": true,
+      "finalLocal": [
+        -1.00000012,
+        0.09765291,
+        3.35999918
+      ]
+    },
+    {
+      "name": "Entrance lane -0.83",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.060000103,
+      "grounded": true,
+      "finalLocal": [
+        -0.830000043,
+        0.451332569,
+        0.34011215
+      ]
+    },
+    {
+      "name": "Entrance lane -0.83",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.0400025733,
+      "grounded": true,
+      "finalLocal": [
+        -0.8299996,
+        0.09765291,
+        3.35999846
+      ]
+    },
+    {
+      "name": "Local branch and approach",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.0299983229,
+      "grounded": true,
+      "finalLocal": [
+        -0.9999996,
+        0.09765291,
+        1.92999887
+      ]
+    },
+    {
+      "name": "Local branch and approach",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "maxError": 0.0499991067,
+      "grounded": true,
+      "finalLocal": [
+        -1.0000006,
+        0.09926224,
+        5.770002
+      ]
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "maxError": 0.0649143457,
+      "grounded": true,
+      "finalLocal": [
+        -0.93508637,
+        0.100990772,
+        5.69971275
+      ]
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "maxError": 0.0650000945,
+      "grounded": true,
+      "finalLocal": [
+        -1.03494668,
+        0.100610256,
+        5.69975
+      ]
+    }
+  ],
+  "allPass": true
+}

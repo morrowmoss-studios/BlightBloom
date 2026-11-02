@@ -1,0 +1,70 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "sameSceneLighting": true,
+  "sourceMaterialsUnmodified": true,
+  "comparisonCameraOffset": [
+    20,
+    9,
+    0
+  ],
+  "comparisonTargetHeight": 3.4,
+  "gizmos": false,
+  "captures": [
+    {
+      "name": "01_CompleteCottage",
+      "position": [
+        -29.0,
+        12.90587,
+        -4.0
+      ],
+      "target": [
+        -43.0,
+        8.705871,
+        -4.0
+      ],
+      "fov": 52.0
+    },
+    {
+      "name": "02_VillageContext",
+      "position": [
+        -12.0,
+        31.0,
+        -22.0
+      ],
+      "target": [
+        -32.0,
+        8.0,
+        11.0
+      ],
+      "fov": 62.0
+    },
+    {
+      "name": "03_Comparison_Cottage_20m",
+      "position": [
+        -23.0,
+        14.5058708,
+        -4.0
+      ],
+      "target": [
+        -43.0,
+        8.90587,
+        -4.0
+      ],
+      "fov": 55.0
+    },
+    {
+      "name": "04_Comparison_CrookedMortar_20m",
+      "position": [
+        1.0,
+        14.82465,
+        25.0
+      ],
+      "target": [
+        -19.0,
+        9.22465,
+        25.0
+      ],
+      "fov": 55.0
+    }
+  ]
+}

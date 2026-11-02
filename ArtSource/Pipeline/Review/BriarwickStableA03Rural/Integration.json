@@ -1,0 +1,78 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA03Rural/Prefabs/BW_StableA03_Rural.prefab",
+  "priorVersionRetainedInactive": "Stable A - open-front review02",
+  "models": [
+    {
+      "group": "Shell",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Shell.fbx",
+      "triangles": 5544
+    },
+    {
+      "group": "Structure",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Structure.fbx",
+      "triangles": 2400
+    },
+    {
+      "group": "LoftHatch",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_LoftHatch.fbx",
+      "triangles": 220
+    },
+    {
+      "group": "Floor",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Floor.fbx",
+      "triangles": 24
+    },
+    {
+      "group": "Foundation",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Foundation.fbx",
+      "triangles": 156
+    },
+    {
+      "group": "Partitions",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Partitions.fbx",
+      "triangles": 1760
+    },
+    {
+      "group": "HumanDoor",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HumanDoor.fbx",
+      "triangles": 4556
+    },
+    {
+      "group": "RoofUnderstructure",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA03Rural/Models/BW_StableA03_RoofUnderstructure.fbx",
+      "triangles": 276
+    },
+    {
+      "group": "Thatch",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA03Rural/Models/BW_StableA03_Thatch.fbx",
+      "triangles": 6204
+    },
+    {
+      "group": "Joinery",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA03Rural/Models/BW_StableA03_Joinery.fbx",
+      "triangles": 948
+    }
+  ],
+  "triangles": 22088,
+  "renderers": 10,
+  "materials": 8,
+  "unchangedBodyLayout": true,
+  "newThatchThicknessMetres": [
+    0.23,
+    0.29
+  ],
+  "frontRoofEdge": 4.04,
+  "frontPostLine": 2.7,
+  "bodyFootprint": [
+    10.7,
+    5.4
+  ],
+  "position": [
+    46.0,
+    5.98,
+    -12.0
+  ],
+  "yaw": 255.0,
+  "lowPitchHistoricalCompromise": true
+}

@@ -1,0 +1,23 @@
+{
+  "modified": [
+    "ArtSource/Blender/Architecture/Briarwick/Bakery02/BW_Bakery02.blend",
+    "ArtSource/Blender/Architecture/Briarwick/Bakery02/ModelCatalog.json",
+    "Assets/BlightBloom/Art/Architecture/Briarwick/Bakery02/Models/BW_Bakery02_Timber.fbx",
+    "ArtSource/Blender/Architecture/Briarwick/Bakery02/README.md",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/README.md"
+  ],
+  "addedSourceUtility": "ArtSource/Blender/Architecture/Briarwick/Bakery02/remove_applied_gable_beams.py",
+  "addedReviewFiles": [
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanup_CaptureConditions.json",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanupBaseline.json",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/CaptureGableCleanup.cs",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanup_Front.png",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanupPreservation.json",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanup_Rear.png",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanupUnity.json",
+    "ArtSource/Pipeline/Review/BriarwickBakery02/GableCleanupGeometry.json"
+  ],
+  "sceneFileChanged": false,
+  "otherBuildingsChanged": false,
+  "committedOrPushed": false
+}

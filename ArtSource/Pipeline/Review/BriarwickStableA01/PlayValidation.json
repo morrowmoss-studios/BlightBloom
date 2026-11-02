@@ -1,0 +1,139 @@
+{
+  "method": "Actual existing CharacterController.Move in Play mode, not keyboard/manual camera test",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "results": [
+    {
+      "name": "Horse entry and central aisle -0.4",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Horse entry and central aisle -0.4",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Horse entry and central aisle 0",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Horse entry and central aisle 0",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Horse entry and central aisle 0.4",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Horse entry and central aisle 0.4",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.0500016436
+    },
+    {
+      "name": "Human entry and tack room",
+      "direction": "forward",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.05000152
+    },
+    {
+      "name": "Human entry and tack room",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 3,
+      "total": 3,
+      "grounded": true,
+      "maxHorizontalError": 0.05186953
+    },
+    {
+      "name": "Tack-to-stable connection",
+      "direction": "forward",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.07252333
+    },
+    {
+      "name": "Tack-to-stable connection",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.0700881258
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "forward",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.0501260981
+    },
+    {
+      "name": "Exterior perimeter",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 5,
+      "total": 5,
+      "grounded": true,
+      "maxHorizontalError": 0.05013152
+    },
+    {
+      "name": "Farm approach spur",
+      "direction": "forward",
+      "pass": true,
+      "reached": 4,
+      "total": 4,
+      "grounded": true,
+      "maxHorizontalError": 0.0537814163
+    },
+    {
+      "name": "Farm approach spur",
+      "direction": "reverse",
+      "pass": true,
+      "reached": 4,
+      "total": 4,
+      "grounded": true,
+      "maxHorizontalError": 0.07171284
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

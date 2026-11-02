@@ -1,0 +1,4704 @@
+[
+  {
+    "path": "01 Valley terrain and creek",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "01 Valley terrain and creek/Briarwick_Valley_320x320m_EDITABLE",
+    "active": true,
+    "position": [
+      -160.0,
+      0.0,
+      -170.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "TerrainCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "01 Valley terrain and creek/Creek_WestToEast_WaterPlaceholder",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Creek_PlanningWater_NoSimulation.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "02 Main road bridge and footpaths",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "02 Main road bridge and footpaths/MainRoad_Entrance_Common_Woodland",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Bridge_ContinuousWalkDeck",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_CrookedMortar",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Inn",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Forge",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Bakery",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Merchant",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Elder",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Farm",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Miller",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Chapel",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_CottageA",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_CottageB",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_Graveyard",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/Path_ApothecaryGarden",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear",
+    "active": true,
+    "position": [
+      6.0,
+      5.65,
+      -66.47764
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/DeckThickness",
+    "active": true,
+    "position": [
+      0.0,
+      -0.16,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      5.25,
+      0.26,
+      18.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/ContinuousGuard",
+    "active": true,
+    "position": [
+      -2.6,
+      0.65,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.16,
+      1.3,
+      18.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      -2.6,
+      0.7,
+      -8.7
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      -2.6,
+      0.7,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      -2.6,
+      0.7,
+      8.7
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/ContinuousGuard",
+    "active": true,
+    "position": [
+      2.6,
+      0.65,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.16,
+      1.3,
+      18.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      2.6,
+      0.7,
+      -8.7
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      2.6,
+      0.7,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/GuardPost",
+    "active": true,
+    "position": [
+      2.6,
+      0.7,
+      8.7
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.23,
+      1.4,
+      0.23
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/BridgeSupport",
+    "active": true,
+    "position": [
+      0.0,
+      -1.25,
+      -6.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      4.7,
+      2.1,
+      0.5
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "02 Main road bridge and footpaths/PedestrianAndHorseBridge_18mSpan_4.8mClear/BridgeSupport",
+    "active": true,
+    "position": [
+      0.0,
+      -1.25,
+      6.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      4.7,
+      2.1,
+      0.5
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB",
+    "active": true,
+    "position": [
+      -19.0,
+      5.82465029,
+      25.0
+    ],
+    "rotation": [
+      0.0,
+      0.9335804,
+      0.0,
+      0.35836798
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01",
+    "active": true,
+    "position": [
+      0.0,
+      0.015,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged",
+    "active": true,
+    "position": [
+      0.0,
+      -0.58,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/House_Standalone01.001",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_OriginalPainted.mat",
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/Standalone01/Materials/CM_Standalone_LocalFoundationReturns.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Fitted_PlasterReturn_AfterFusedBracketRemoval.002",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_OriginalPainted.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_ClosedDropLink.001",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_HangerIron.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_ClosedDropLink.004",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_HangerIron.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_FasciaMounted_Arm.002",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_HangerIron.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_Hanger_Brace.002",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_HangerIron.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_ReplacementInset_Plank00.002",
+    "active": true,
+    "position": [
+      0.840000033,
+      4.07249975,
+      6.69149971
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_SignWalnut.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_ReplacementInset_Plank01.002",
+    "active": true,
+    "position": [
+      0.840000033,
+      4.07249975,
+      6.375
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_SignWalnut.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_Sign_ReplacementInset_Plank02.002",
+    "active": true,
+    "position": [
+      0.840000033,
+      4.07249975,
+      6.0585
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      15.0,
+      15.0,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_SignWalnut.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_Crooked_Back.002",
+    "active": true,
+    "position": [
+      0.9315,
+      4.0875,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      0.49999997,
+      -0.5,
+      0.5
+    ],
+    "scale": [
+      22.1050682,
+      22.1050682,
+      22.1050682
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_Crooked_Front.002",
+    "active": true,
+    "position": [
+      0.7485,
+      4.0875,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      -0.49999997,
+      0.5,
+      0.5
+    ],
+    "scale": [
+      22.1050682,
+      22.1050682,
+      22.1050682
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_Mortar_Back.002",
+    "active": true,
+    "position": [
+      0.9315,
+      3.78,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      0.49999997,
+      -0.5,
+      0.5
+    ],
+    "scale": [
+      23.770216,
+      23.770216,
+      23.770216
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_Mortar_Front.002",
+    "active": true,
+    "position": [
+      0.7485,
+      3.78,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      -0.49999997,
+      0.5,
+      0.5
+    ],
+    "scale": [
+      23.770216,
+      23.770216,
+      23.770216
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_The_Back.002",
+    "active": true,
+    "position": [
+      0.9315,
+      4.395,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      0.49999997,
+      -0.5,
+      0.5
+    ],
+    "scale": [
+      26.7414913,
+      26.7414913,
+      26.7414913
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/SeparatedBuilding_Visuals_SourceUnchanged/Standalone01_SignText_The_Front.002",
+    "active": true,
+    "position": [
+      0.7485,
+      4.395,
+      6.375
+    ],
+    "rotation": [
+      0.5,
+      -0.49999997,
+      0.5,
+      0.5
+    ],
+    "scale": [
+      26.7414913,
+      26.7414913,
+      26.7414913
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Art/Exteriors/CrookedMortar/TripoExteriorRecovery01/Materials/CM_Exterior_AgedIvoryLetters.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL",
+    "active": true,
+    "position": [
+      0.0,
+      -0.58,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/MainBuilding",
+    "active": true,
+    "position": [
+      0.0,
+      3.5,
+      -0.1
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/RearReturn",
+    "active": true,
+    "position": [
+      0.0,
+      1.5,
+      -5.1
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/SideWall",
+    "active": true,
+    "position": [
+      -2.7,
+      1.6,
+      -0.1
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/SideWall",
+    "active": true,
+    "position": [
+      2.7,
+      1.6,
+      -0.1
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/PorchSupport",
+    "active": true,
+    "position": [
+      -1.85,
+      1.95,
+      5.16
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/PorchSupport",
+    "active": true,
+    "position": [
+      1.85,
+      1.95,
+      5.16
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/ClosedExteriorDoor_TransitionNotImplemented",
+    "active": true,
+    "position": [
+      0.0,
+      2.0,
+      4.35
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/BasicExteriorCollision_PROVISIONAL/RetainedStepsAndRearPlatform_SurfaceCollider",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/FrontDoor_TransitionMarker_NO_SCENE_LOADING",
+    "active": true,
+    "position": [
+      0.0,
+      0.287,
+      4.95
+    ],
+    "rotation": [
+      0.0,
+      1.0,
+      0.0,
+      -4.371139E-08
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/FrontDoor_TransitionMarker_NO_SCENE_LOADING/StandingPoint_PlayerFeet",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/CM_CrookedMortar_Standalone01/GroundDatum_SourceZ_0.58m",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/01 The Crooked Mortar ACTUAL PREFAB/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      -2.38418579E-07,
+      0.07992411,
+      5.85
+    ],
+    "rotation": [
+      0.0,
+      -0.9335804,
+      0.0,
+      0.35836798
+    ],
+    "scale": [
+      1.00000012,
+      1.0,
+      1.00000012
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER",
+    "active": true,
+    "position": [
+      18.0,
+      5.941107,
+      16.0
+    ],
+    "rotation": [
+      0.0,
+      0.8746198,
+      0.0,
+      -0.484809577
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.925,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      12.0,
+      5.85,
+      15.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      12.12,
+      0.26,
+      15.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER/RoofMass_2",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      7.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/02 Inn and tavern PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      -4.76837158E-07,
+      -0.016916275,
+      8.700003
+    ],
+    "rotation": [
+      0.0,
+      -0.8746198,
+      0.0,
+      -0.484809577
+    ],
+    "scale": [
+      0.999999762,
+      1.0,
+      0.999999762
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER",
+    "active": true,
+    "position": [
+      -26.0,
+      5.499537,
+      -25.0
+    ],
+    "rotation": [
+      0.0,
+      0.57357645,
+      0.0,
+      0.819152057
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      1.885,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      10.0,
+      3.77,
+      8.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      10.12,
+      0.26,
+      8.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER/RoofMass_3",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      4.035
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/03 Blacksmith and forge PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      1.07288361E-06,
+      0.06312752,
+      5.20000029
+    ],
+    "rotation": [
+      0.0,
+      -0.57357645,
+      0.0,
+      0.819152057
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER",
+    "active": true,
+    "position": [
+      19.0,
+      5.84169626,
+      -10.0
+    ],
+    "rotation": [
+      0.0,
+      0.7071068,
+      0.0,
+      -0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.0475,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.0,
+      4.095,
+      9.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.12,
+      0.26,
+      9.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER/RoofMass_4",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      4.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/04 Bakery PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      4.76837158E-07,
+      0.0290532112,
+      5.70000124
+    ],
+    "rotation": [
+      0.0,
+      -0.7071068,
+      0.0,
+      -0.7071068
+    ],
+    "scale": [
+      0.999999762,
+      1.0,
+      0.999999762
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER",
+    "active": true,
+    "position": [
+      -19.0,
+      5.424128,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.7071068,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.27499986,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      9.0,
+      4.54999971,
+      10.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      9.12,
+      0.26,
+      10.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER/RoofMass_5",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      5.035
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/05 General merchant PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      1.13686838E-13,
+      0.152449131,
+      6.20000172
+    ],
+    "rotation": [
+      0.0,
+      -0.7071068,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      0.999999762,
+      1.0,
+      0.999999762
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER",
+    "active": true,
+    "position": [
+      5.0,
+      5.86877966,
+      42.0
+    ],
+    "rotation": [
+      0.0,
+      0.9961947,
+      0.0,
+      -0.08715577
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.08,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.0,
+      4.16,
+      9.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.12,
+      0.26,
+      9.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER/RoofMass_6",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      4.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/06 Village elders cottage PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      1.78813934E-07,
+      0.0501732826,
+      5.7
+    ],
+    "rotation": [
+      0.0,
+      -0.9961947,
+      0.0,
+      -0.08715577
+    ],
+    "scale": [
+      0.999999762,
+      1.0,
+      0.999999762
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER",
+    "active": true,
+    "position": [
+      47.0,
+      5.669026,
+      -30.0
+    ],
+    "rotation": [
+      0.0,
+      0.7933533,
+      0.0,
+      -0.6087614
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.27499986,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      10.0,
+      4.54999971,
+      12.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      10.12,
+      0.26,
+      12.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/RoofMass_7",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      6.035
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      -3.57627869E-07,
+      0.0309963226,
+      7.2
+    ],
+    "rotation": [
+      0.0,
+      -0.7933533,
+      0.0,
+      -0.6087614
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/Stable_AuxiliaryMass_NoInterior",
+    "active": true,
+    "position": [
+      -10.0,
+      1.7,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.0,
+      3.4,
+      11.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/07 Farmhouse and stable PLACEHOLDER/StableRoofMass",
+    "active": true,
+    "position": [
+      -10.0,
+      3.6,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.6,
+      0.4,
+      11.6
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER",
+    "active": true,
+    "position": [
+      38.0,
+      5.356443,
+      -47.0
+    ],
+    "rotation": [
+      0.0,
+      0.0436193869,
+      0.0,
+      0.999048233
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.145,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.0,
+      4.29,
+      9.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.12,
+      0.26,
+      9.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER/RoofMass_8",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      4.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/08 Millers cottage PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      2.38418579E-07,
+      0.0783205,
+      5.70000029
+    ],
+    "rotation": [
+      0.0,
+      -0.0436193869,
+      0.0,
+      0.999048233
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER",
+    "active": true,
+    "position": [
+      -44.0,
+      5.74665,
+      30.0
+    ],
+    "rotation": [
+      0.0,
+      0.923879564,
+      0.0,
+      0.382683456
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.6975,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.0,
+      5.395,
+      13.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      8.12,
+      0.26,
+      13.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER/RoofMass_9",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      6.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/09 Small chapel PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      4.76837158E-07,
+      0.02815628,
+      7.700001
+    ],
+    "rotation": [
+      0.0,
+      -0.923879564,
+      0.0,
+      0.382683456
+    ],
+    "scale": [
+      0.999999762,
+      1.0,
+      0.999999762
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER",
+    "active": true,
+    "position": [
+      25.0,
+      6.037371,
+      43.0
+    ],
+    "rotation": [
+      0.0,
+      0.9659259,
+      0.0,
+      -0.258819073
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER/SolidFootprint_NoInterior",
+    "active": true,
+    "position": [
+      0.0,
+      2.01499987,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      7.5,
+      4.02999973,
+      9.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WarmLime_BuildingMasses.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER/FoundationMass",
+    "active": true,
+    "position": [
+      0.0,
+      0.13,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      7.62,
+      0.26,
+      9.12
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER/RoofMass_11",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/SlateRoof_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "MeshCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER/DoorLocation_1.8x2.4m_VISUAL_ONLY",
+    "active": true,
+    "position": [
+      0.0,
+      1.2,
+      4.535
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.8,
+      2.4,
+      0.055
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Sage_DoorMarkers.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "03 Eleven primary building locations/11 Family cottage B PLACEHOLDER/Approach_DoorLocation",
+    "active": true,
+    "position": [
+      7.15255737E-07,
+      0.03288412,
+      5.700001
+    ],
+    "rotation": [
+      0.0,
+      -0.9659259,
+      0.0,
+      -0.258819073
+    ],
+    "scale": [
+      0.999999642,
+      1.0,
+      0.999999642
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/Common_26x30m_ActivityReserve",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/PackedEarth_Routes.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/VillageWell_PLACEHOLDER",
+    "active": true,
+    "position": [
+      -4.0,
+      6.1699996,
+      4.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      2.3,
+      0.45,
+      2.3
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": [
+      {
+        "type": "CapsuleCollider",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/Farm_PlotA_9x18m",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/CultivatedSoil_Plots.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/Farm_PlotB_9x18m",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/CultivatedSoil_Plots.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/FarmKitchenGarden_7x10m",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/CultivatedSoil_Plots.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/CrookedMortar_HerbGardenReserve",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/CultivatedSoil_Plots.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/ChapelGraveyard_12x17m",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_0",
+    "active": true,
+    "position": [
+      -65.0,
+      6.250991,
+      31.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_1",
+    "active": true,
+    "position": [
+      -60.0,
+      6.14801073,
+      31.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_2",
+    "active": true,
+    "position": [
+      -65.0,
+      6.28123665,
+      34.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_3",
+    "active": true,
+    "position": [
+      -60.0,
+      6.19404,
+      34.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_4",
+    "active": true,
+    "position": [
+      -65.0,
+      6.322147,
+      37.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_5",
+    "active": true,
+    "position": [
+      -60.0,
+      6.24876928,
+      37.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_6",
+    "active": true,
+    "position": [
+      -65.0,
+      6.3718605,
+      40.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "04 Common gardens farming and graveyard/GraveMarker_LOCATION_ONLY_7",
+    "active": true,
+    "position": [
+      -60.0,
+      6.30923843,
+      40.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      0.5,
+      0.84,
+      0.16
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Stone_FoundationAndWell.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "05 Woodland massing PROXIES only",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "05 Woodland massing PROXIES only/Woodland_CombinedCanopyMasses_PROXY",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/WoodlandCanopy_Massing.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "05 Woodland massing PROXIES only/Woodland_CombinedTrunkMasses_PROXY",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/Timber_BridgeAndFarm.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "06 Existing-controller exterior exploration",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "06 Existing-controller exterior exploration/HorseEnvelope_REFERENCE_1.2x2.8m_NOT_A_CONTROLLER",
+    "active": true,
+    "position": [
+      35.0,
+      7.029954,
+      -24.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.2,
+      2.6,
+      2.8
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/HumanAndHorseScale_Reference.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "06 Existing-controller exterior exploration/Briarwick_Explorer_ExistingController_2m",
+    "active": true,
+    "position": [
+      13.0,
+      5.128565,
+      -112.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": [
+      {
+        "type": "CharacterController",
+        "enabled": true,
+        "isTrigger": false
+      }
+    ]
+  },
+  {
+    "path": "06 Existing-controller exterior exploration/Briarwick_Explorer_ExistingController_2m/TemporaryHumanScale_2m",
+    "active": true,
+    "position": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Materials/HumanAndHorseScale_Reference.mat"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "06 Existing-controller exterior exploration/Briarwick_PlayerCamera_ExistingOrbit",
+    "active": true,
+    "position": [
+      13.0,
+      8.128565,
+      -117.0
+    ],
+    "rotation": [
+      0.145213157,
+      0.0,
+      0.0,
+      0.9894004
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      -19.0,
+      16.4506512,
+      25.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      18.0,
+      15.9411068,
+      16.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      -26.0,
+      12.2995377,
+      -25.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      19.0,
+      13.1416969,
+      -10.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      -19.0,
+      13.4241276,
+      0.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      5.0,
+      13.26878,
+      42.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      47.0,
+      13.6690254,
+      -30.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      38.0,
+      12.9564428,
+      -47.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      -44.0,
+      15.04665,
+      30.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      -43.0,
+      12.5058708,
+      -4.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/PlanningLabel",
+    "active": true,
+    "position": [
+      25.0,
+      13.2373714,
+      43.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/WoodlandRouteLabel",
+    "active": true,
+    "position": [
+      -28.0,
+      8.295154,
+      94.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/CommonLabel",
+    "active": true,
+    "position": [
+      0.0,
+      5.85,
+      -4.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/GraveyardLabel",
+    "active": true,
+    "position": [
+      -62.0,
+      6.080565,
+      45.0
+    ],
+    "rotation": [
+      0.7071068,
+      0.0,
+      0.0,
+      0.7071068
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [
+      {
+        "enabled": true,
+        "materials": [
+          "Library/unity default resources"
+        ]
+      }
+    ],
+    "colliders": []
+  },
+  {
+    "path": "07 Review cameras and planning labels/Briarwick_ReviewCamera",
+    "active": true,
+    "position": [
+      -110.0,
+      155.0,
+      -130.0
+    ],
+    "rotation": [
+      0.3389865,
+      0.337691933,
+      -0.131860226,
+      0.868138969
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  },
+  {
+    "path": "Briarwick_SoftAfternoonSun",
+    "active": true,
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.349538416,
+      -0.279781967,
+      0.11020904,
+      0.887355
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "renderers": [],
+    "colliders": []
+  }
+]

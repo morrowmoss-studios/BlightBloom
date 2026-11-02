@@ -1,0 +1,553 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "dirty": false,
+  "modularPrefabCount": 30,
+  "wallBounds": [
+    -5.127473,
+    0.384076834,
+    -1.424078,
+    1.87254143,
+    3.38407755,
+    4.57593727
+  ],
+  "wallCentre": [
+    -1.62746572,
+    1.88407719,
+    1.57592964
+  ],
+  "cottage": {
+    "position": [
+      -43.0,
+      5.50587034,
+      -4.0
+    ],
+    "yaw": 115.000008,
+    "children": [
+      "SolidFootprint_NoInterior",
+      "FoundationMass",
+      "RoofMass_10",
+      "DoorLocation_1.8x2.4m_VISUAL_ONLY",
+      "Approach_DoorLocation"
+    ]
+  },
+  "materials": [
+    {
+      "path": "Assets/Medieval_house_lite/Materials/concrete.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/concrete/concrete_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/concrete/concrete_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/concrete/concrete_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/concrete/concrete_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/doors.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/doors/doors_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/doors/doors_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/doors/doors_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/doors/doors_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/FireSheet.mat",
+      "shader": "Legacy Shaders/Particles/Additive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/Fire/FireSheet.png",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/firewood.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/firewood/firewood_BaseColor.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/firewood/firewood_Roughness.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/firewood/firewood_Normal.png",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/floor.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/floor/floor_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/floor/floor_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/floor/floor_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/floor/floor_Normal.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/glass.mat",
+      "shader": "Universal Render Pipeline/Lit",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_Height.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_Metallic.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/glass/glass_Normal.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/interior_roof.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Metallic.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/labels.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/labels/labels_BaseColor.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/labels/labels_Roughness.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/labels/labels_Normal.png",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/m_glow.mat",
+      "shader": "Mobile/Particles/Additive",
+      "supported": true,
+      "textures": []
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/metals.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/metals/metals_AO.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/metals/metals_Normal.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/metals/metals_Roughness.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/metals/metals_BaseColor.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/metals/metals_Metallic.png",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/outside_props.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/outside props/outside_props_Normal.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/outside props/outside_props_Metallic.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/outside props/outside_props_Roughness.png",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/outside props/outside_props_BaseColor.png",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/rock2.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/rock2/rock2_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/rock2/rock2_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/rock2/rock2_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/rock2/rock2_Height.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/rock2/rock2_Normal.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/roof.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/roof/roof_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/roof/roof_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/roof/roof_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/Smoke.mat",
+      "shader": "Legacy Shaders/Particles/Additive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/Fire/Smoke.png",
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/wood1.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood1/wood1_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood1/wood1_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood1/wood1_AO.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood1/wood1_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/wood2.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood2/wood2_wood2_Normal.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood2/wood2_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood2/wood2_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    },
+    {
+      "path": "Assets/Medieval_house_lite/Materials/wood3.mat",
+      "shader": "Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive",
+      "supported": true,
+      "textures": [
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood3/wood3_BaseColor.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood3/wood3_Roughness.png",
+          "width": 4096,
+          "height": 4096
+        },
+        {
+          "path": "Assets/Medieval_house_lite/Textures/wood3/wood3_Normal.png",
+          "width": 4096,
+          "height": 4096
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    "Assets/Medieval_house_lite/Textures/concrete/concrete_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+    "Assets/Medieval_house_lite/Textures/firewood/firewood_Roughness.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide2_end.prefab",
+    "Assets/Medieval_house_lite/Textures/glass/glass_BaseColor.png",
+    "Assets/Medieval_house_lite/Textures/wood1/wood1_Roughness.png",
+    "Assets/Medieval_house_lite/Materials/wood1.mat",
+    "Assets/Medieval_house_lite/Prefabs/Fire/Fire_fireplace.prefab",
+    "Assets/Medieval_house_lite/Materials/outside_props.mat",
+    "Assets/Medieval_house_lite/Textures/metals/metals_AO.png",
+    "Assets/Medieval_house_lite/Textures/outside props/outside_props_Normal.png",
+    "Assets/Medieval_house_lite/Textures/doors/doors_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/rock2/rock2_Roughness.png",
+    "Assets/Medieval_house_lite/Scripts/Fire_effect/LightFlickerEffect.cs",
+    "Assets/Medieval_house_lite/Textures/rock2/rock2_AO.png",
+    "Packages/com.unity.render-pipelines.universal/Editor/AssetVersion.cs",
+    "Assets/Medieval_house_lite/Textures/wood3/wood3_Normal.png",
+    "Assets/Medieval_house_lite/Textures/wood1/wood1_Normal.png",
+    "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/wood2/wood2_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+    "Assets/Medieval_house_lite/Textures/metals/metals_BaseColor.png",
+    "Assets/Medieval_house_lite/Meshes/medieval_house_lite_v2.fbx",
+    "Assets/Medieval_house_lite/Textures/floor/floor_AO.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+    "Assets/Medieval_house_lite/Materials/metals.mat",
+    "Assets/Medieval_house_lite/Materials/labels.mat",
+    "Assets/Medieval_house_lite/Textures/wood1/wood1_BaseColor.png",
+    "Assets/Medieval_house_lite/Textures/outside props/outside_props_BaseColor.png",
+    "Assets/Medieval_house_lite/Textures/Fire/FireSheet.png",
+    "Assets/Medieval_house_lite/Materials/interior_roof.mat",
+    "Assets/Medieval_house_lite/Prefabs/Fire/Fire_torch.prefab",
+    "Assets/Medieval_house_lite/Textures/concrete/concrete_Roughness.png",
+    "Assets/Medieval_house_lite/Meshes/medieval_house_lite_v2_colliders.fbx",
+    "Assets/Medieval_house_lite/Materials/firewood.mat",
+    "Assets/Medieval_house_lite/Materials/FireSheet.mat",
+    "Assets/Medieval_house_lite/Textures/roof/roof_Roughness.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/ladder.prefab",
+    "Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractive.shadergraph",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_4.prefab",
+    "Assets/Medieval_house_lite/Textures/rock2/rock2_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide2_3.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_entry_1m_1.prefab",
+    "Assets/Medieval_house_lite/Textures/wood2/wood2_wood2_Normal.png",
+    "Assets/Medieval_house_lite/Textures/firewood/firewood_Normal.png",
+    "Assets/Medieval_house_lite/Textures/labels/labels_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/doors/doors_Normal.png",
+    "Assets/Medieval_house_lite/Textures/outside props/outside_props_Metallic.png",
+    "Assets/Medieval_house_lite/Materials/rock2.mat",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/lamppost.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_1m_2.prefab",
+    "Assets/Medieval_house_lite/Textures/labels/labels_Normal.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+    "Assets/Medieval_house_lite/Textures/doors/doors_BaseColor.png",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+    "Assets/Medieval_house_lite/Textures/rock2/rock2_Normal.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/steps2.prefab",
+    "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+    "Assets/Medieval_house_lite/Materials/Smoke.mat",
+    "Assets/Medieval_house_lite/Textures/wood3/wood3_Roughness.png",
+    "Assets/Medieval_house_lite/Materials/concrete.mat",
+    "Assets/Medieval_house_lite/Materials/floor.mat",
+    "Assets/Medieval_house_lite/Textures/firewood/firewood_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_1.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_door1.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/chimney_outside_size1.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/sign_board2.prefab",
+    "Assets/Medieval_house_lite/Materials/roof.mat",
+    "Assets/Medieval_house_lite/Textures/roof/roof_Normal.png",
+    "Assets/Medieval_house_lite/Textures/Fire/Smoke.png",
+    "Assets/Medieval_house_lite/Textures/labels/labels_BaseColor.png",
+    "Assets/Medieval_house_lite/Textures/glass/glass_Height.png",
+    "Assets/Medieval_house_lite/Textures/wood2/wood2_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/metals/metals_Normal.png",
+    "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+    "Assets/Medieval_house_lite/Textures/glass/glass_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Metallic.png",
+    "Assets/Medieval_house_lite/Textures/floor/floor_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_intersection_wide_1_2.prefab",
+    "Assets/Medieval_house_lite/Textures/wood1/wood1_AO.png",
+    "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+    "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_BaseColor.png",
+    "Assets/Medieval_house_lite/Textures/outside props/outside_props_Roughness.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide1_end.prefab",
+    "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalLightData.cs",
+    "Assets/Medieval_house_lite/Textures/floor/floor_Roughness.png",
+    "Assets/Medieval_house_lite/Materials/wood3.mat",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_4x1m.prefab",
+    "Assets/Medieval_house_lite/Materials/wood2.mat",
+    "Assets/Medieval_house_lite/Textures/wood3/wood3_BaseColor.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_small.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide1_3.prefab",
+    "Assets/Medieval_house_lite/Textures/interior roof/interior_roof_Normal.png",
+    "Assets/Medieval_house_lite/Textures/glass/glass_AO.png",
+    "Assets/Medieval_house_lite/Textures/concrete/concrete_AO.png",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_window.prefab",
+    "Assets/Medieval_house_lite/Prefabs/medieval_house_lite_v2.prefab",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_4x1m.prefab",
+    "Assets/Medieval_house_lite/Textures/concrete/concrete_Normal.png",
+    "Assets/Medieval_house_lite/Textures/metals/metals_Roughness.png",
+    "Assets/Medieval_house_lite/Textures/glass/glass_Metallic.png",
+    "Assets/Medieval_house_lite/Textures/doors/doors_AO.png",
+    "Assets/Medieval_house_lite/Materials/glass.mat",
+    "Assets/Medieval_house_lite/Textures/roof/roof_BaseColor.png",
+    "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+    "Assets/Medieval_house_lite/Textures/floor/floor_Normal.png",
+    "Assets/Medieval_house_lite/Textures/rock2/rock2_Height.png",
+    "Assets/Medieval_house_lite/Textures/metals/metals_Metallic.png",
+    "Assets/Medieval_house_lite/Textures/glass/glass_Normal.png",
+    "Assets/Medieval_house_lite/Materials/doors.mat",
+    "Assets/Medieval_house_lite/Prefabs/modular elements/roof_dolmer_wide2_1.prefab"
+  ]
+}

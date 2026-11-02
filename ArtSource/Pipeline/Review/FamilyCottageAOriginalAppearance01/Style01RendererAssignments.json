@@ -1,0 +1,457 @@
+[
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/chimney_outside_size1.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat",
+      "Assets/Medieval_house_lite/Materials/firewood.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_2x3m.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_2x3m",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_2x3m (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_2x3m (2)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_2x3m (3)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/floor_rock_4x1m",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_dolmer_wide2_1.002",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/Medieval_house_lite/Materials/interior_roof.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_glass.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_intersection_wide_1_2.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/Medieval_house_lite/Materials/interior_roof.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2 (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2 (2)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2 (3)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2 (4)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_structure_wide1_2 (5)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_wide1_3.002",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/Medieval_house_lite/Materials/interior_roof.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_wide1_end.005",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_wide2_3.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/Medieval_house_lite/Materials/interior_roof.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/roof_wide2_end.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/steps2.002",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood1.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_1m_2.014",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_1m_2",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_1m_2 (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_1.009",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_2.004",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_2",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_2 (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_2 (2)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_2 (3)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_4.005",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_4",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_4 (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_window.004",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_glass.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_2m_window",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_glass.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_door1.004",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_doors.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_metals.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wall_wood_entry_1m_1.001",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat",
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_metals.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m.001",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m (1)",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m (2)",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m (3)",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m (4)",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_2x3m (5)",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_4x1m.001",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_floor_4x1m",
+    "materials": [
+      "Assets/Medieval_house_lite/Materials/floor.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1.079",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1 (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1 (2)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1 (3)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_column_size1 (4)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long.100",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (1)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (2)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (3)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (4)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (5)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (6)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (7)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (8)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (9)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (10)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (11)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_long (12)",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/FamilyCottageA_ModularAssembly_Test01/wooden_post_horizontal_small.003",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/CottageA_LocalApproach_OriginalStoneModules/RecessedDoorApproach_Stone",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  },
+  {
+    "path": "03 Eleven primary building locations/10 Family cottage A PLACEHOLDER/CottageA_LocalApproach_OriginalStoneModules/RecessedDoorApproach_Stone",
+    "materials": [
+      "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat"
+    ]
+  }
+]

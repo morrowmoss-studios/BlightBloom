@@ -1,0 +1,16 @@
+{
+  "initialImportWarnings": 44,
+  "initialWarningCause": "New gable bevel n-gons were self-intersecting. Those bevels were removed; original gable topology and UVs retained. Doorway bevels now affect timber only, with explicit triangulation and micro-sliver cleanup.",
+  "finalImportAndPlayWarningsAfterFix": [],
+  "finalGroundTruth": {
+    "sampledUtc": "2026-11-01T20:44:57.034255Z",
+    "ageMs": 47,
+    "compilationFailed": false,
+    "compiling": false,
+    "consoleErrors": 0,
+    "consoleWarnings": 0,
+    "consoleLogs": 0,
+    "seeded": true
+  },
+  "finalCursor": 44
+}

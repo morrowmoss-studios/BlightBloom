@@ -1,0 +1,1316 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "building": "Family Cottage A only",
+  "worldPosition": [
+    -43.0,
+    5.50587034,
+    -4.0
+  ],
+  "yaw": 115.000008,
+  "rootScale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "structuralFootprint": [
+    7.0,
+    6.0
+  ],
+  "moduleInstances": 67,
+  "sourceLayout": "Assets/Medieval_house_lite/Prefabs/medieval_house_lite_v2.prefab",
+  "method": "Individual connected modular prefab instances; original authored junction layout, native building scale, no package modifications",
+  "modules": [
+    {
+      "name": "chimney_outside_size1.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/chimney_outside_size1.prefab",
+      "position": [
+        -4.07,
+        -0.007347584,
+        -1.95
+      ],
+      "rotation": [
+        0.0,
+        -1.36603785E-05,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_2x3m.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+      "position": [
+        0.372641444,
+        0.338964641,
+        -0.424065828
+      ],
+      "rotation": [
+        8.651422E-06,
+        180.0,
+        180.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_2x3m",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        0.0006990284,
+        -0.424079776
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_2x3m (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        0.0006990284,
+        1.57593548
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_2x3m (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+      "position": [
+        0.372641563,
+        0.0006990284,
+        1.57593548
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_2x3m (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_2x3m.prefab",
+      "position": [
+        0.372641563,
+        0.0006990284,
+        3.57593536
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "floor_rock_4x1m",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/floor_rock_4x1m.prefab",
+      "position": [
+        -4.626992,
+        0.0006990284,
+        0.5759202
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_dolmer_wide2_1.002",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_dolmer_wide2_1.prefab",
+      "position": [
+        -2.126504,
+        3.31885481,
+        0.5886003
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_intersection_wide_1_2.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_intersection_wide_1_2.prefab",
+      "position": [
+        0.363211632,
+        3.319491,
+        0.6115037
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        0.3734808,
+        3.3918376,
+        2.61562347
+      ],
+      "rotation": [
+        0.0,
+        270.000031,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        0.3734808,
+        3.3918376,
+        3.53626251
+      ],
+      "rotation": [
+        0.0,
+        270.000031,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2 (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        0.3734808,
+        3.3918376,
+        4.3872757
+      ],
+      "rotation": [
+        0.0,
+        270.000031,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2 (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        -1.17614079,
+        3.39174128,
+        0.600685239
+      ],
+      "rotation": [
+        -7.016714E-15,
+        180.000031,
+        7.01670955E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2 (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        -4.86586857,
+        3.39174128,
+        0.600685239
+      ],
+      "rotation": [
+        -7.016714E-15,
+        180.000031,
+        7.01670955E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2 (4)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        -3.0701685,
+        3.39174128,
+        0.600685239
+      ],
+      "rotation": [
+        -7.016714E-15,
+        180.000031,
+        7.01670955E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_structure_wide1_2 (5)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_structure_wide1_2.prefab",
+      "position": [
+        0.3734808,
+        3.3918376,
+        0.56513226
+      ],
+      "rotation": [
+        0.0,
+        270.000031,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_wide1_3.002",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide1_3.prefab",
+      "position": [
+        0.373679161,
+        3.32227,
+        3.58472443
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_wide1_end.005",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide1_end.prefab",
+      "position": [
+        0.35340023,
+        3.26010227,
+        4.471733
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_wide2_3.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide2_3.prefab",
+      "position": [
+        -4.126504,
+        3.318087,
+        0.5886003
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "roof_wide2_end.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/roof_wide2_end.prefab",
+      "position": [
+        -5.00895,
+        3.25826454,
+        0.5867692
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "steps2.002",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/steps2.prefab",
+      "position": [
+        -2.63274479,
+        -0.02345717,
+        2.55908966
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_1m_2.014",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_1m_2.prefab",
+      "position": [
+        -2.62746525,
+        0.384077072,
+        -1.35750568
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_1m_2",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_1m_2.prefab",
+      "position": [
+        -1.62746525,
+        0.3840773,
+        2.50936127
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_1m_2 (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_1m_2.prefab",
+      "position": [
+        -0.627465248,
+        0.384077072,
+        4.50936127
+      ],
+      "rotation": [
+        -7.01670828E-15,
+        180.0,
+        7.01670955E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_1.009",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_1.prefab",
+      "position": [
+        0.872534752,
+        0.384076834,
+        -1.35750568
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_2.004",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+      "position": [
+        1.80597591,
+        0.384076834,
+        3.57593536
+      ],
+      "rotation": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_2",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+      "position": [
+        1.80597591,
+        0.384076834,
+        -0.424064517
+      ],
+      "rotation": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_2 (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+      "position": [
+        -4.12746525,
+        0.3840773,
+        -1.35750568
+      ],
+      "rotation": [
+        0.0,
+        1.00179122E-05,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_2 (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+      "position": [
+        -5.06090641,
+        0.3840773,
+        1.57592022
+      ],
+      "rotation": [
+        0.0,
+        89.9999847,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_2 (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_2.prefab",
+      "position": [
+        -1.06090641,
+        0.3840773,
+        3.57593536
+      ],
+      "rotation": [
+        0.0,
+        89.9999847,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_4.005",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_4.prefab",
+      "position": [
+        1.80597591,
+        0.3840773,
+        1.57593548
+      ],
+      "rotation": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_4",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_4.prefab",
+      "position": [
+        -1.12746525,
+        0.3840773,
+        -1.35750568
+      ],
+      "rotation": [
+        0.0,
+        -1.36603785E-05,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_4 (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_4.prefab",
+      "position": [
+        -5.06090641,
+        0.3840773,
+        -0.424079776
+      ],
+      "rotation": [
+        0.0,
+        89.99995,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_window.004",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_window.prefab",
+      "position": [
+        -4.12770939,
+        0.384077072,
+        2.50876617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_2m_window",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_2m_window.prefab",
+      "position": [
+        0.8722906,
+        0.384077072,
+        4.508766
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_door1.004",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_door1.prefab",
+      "position": [
+        -3.01125431,
+        0.496757448,
+        2.469841
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wall_wood_entry_1m_1.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wall_wood_entry_1m_1.prefab",
+      "position": [
+        -2.62746525,
+        0.384077072,
+        2.50936127
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        3.40779281,
+        -0.427375674
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        3.40779281,
+        1.57593548
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        0.33896488,
+        -0.424079776
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        -2.6271143,
+        0.33896488,
+        1.57593548
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        0.372641563,
+        0.33896488,
+        1.57593548
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m (4)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        0.372641563,
+        0.33896488,
+        -0.424079776
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_2x3m (5)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_2x3m.prefab",
+      "position": [
+        0.372641563,
+        0.33896488,
+        3.57593536
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_4x1m.001",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_4x1m.prefab",
+      "position": [
+        -4.626992,
+        3.407793,
+        0.5759202
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_floor_4x1m",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_floor_4x1m.prefab",
+      "position": [
+        -4.626992,
+        0.33896488,
+        0.5759202
+      ],
+      "rotation": [
+        -7.016712E-15,
+        180.000015,
+        7.016709E-15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1.079",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        -1.02608585,
+        0.004113555,
+        4.46486664
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        1.76001644,
+        0.004113555,
+        4.46486664
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1 (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        1.76549435,
+        0.004113555,
+        -1.30133808
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1 (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        -5.007394,
+        0.004113555,
+        -1.29589069
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1 (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        -5.014413,
+        0.004113555,
+        2.455391
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_column_size1 (4)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_column_size1.prefab",
+      "position": [
+        -1.04929447,
+        0.004113555,
+        2.49675751
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long.100",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.0451746,
+        0.345579654,
+        1.52907574
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.92883,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -4.12687,
+        0.306415349,
+        0.564430356
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.5990015,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (1)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.60163212,
+        0.351062,
+        2.494728
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0531317,
+        1.0,
+        0.730417132
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (2)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        1.776084,
+        0.344540626,
+        1.52907574
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.89589,
+        1.0,
+        0.8797705
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (3)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.60163212,
+        0.353968382,
+        -1.34203327
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0531317,
+        1.0,
+        0.730417132
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (4)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -5.0267725,
+        0.337,
+        0.564430356
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.5990015,
+        0.6628782,
+        0.8768988
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (5)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        0.387579918,
+        3.384245,
+        2.60829926
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.440350831,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (6)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        0.387579918,
+        3.384245,
+        4.36156464
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.440350831,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (7)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.03449345,
+        3.39476681,
+        1.46373761
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.9089612,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (8)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        1.75131893,
+        3.39476681,
+        1.581688
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.941484034,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (9)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.60988712,
+        3.43373,
+        -1.2367171
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.08537984,
+        1.67847848,
+        0.8505991
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (10)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -4.917367,
+        3.39476681,
+        0.564430356
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.6131563,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (11)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -4.114053,
+        3.39476681,
+        0.564430356
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        0.5990015,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_long (12)",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_long.prefab",
+      "position": [
+        -1.5746851,
+        3.3734374,
+        0.5759355
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.076532,
+        1.0,
+        0.7264298
+      ]
+    },
+    {
+      "name": "wooden_post_horizontal_small.003",
+      "prefab": "Assets/Medieval_house_lite/Prefabs/modular elements/wooden_post_horizontal_small.prefab",
+      "position": [
+        0.368048668,
+        0.3382944,
+        4.485527
+      ],
+      "rotation": [
+        0.0,
+        89.99999,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.2574
+      ]
+    }
+  ],
+  "activeRenderTriangles": 20186,
+  "rendererCount": 67,
+  "materialCount": 12,
+  "worldBounds": [
+    -47.4546738,
+    5.50677,
+    -8.993673,
+    -39.65531,
+    12.0179243,
+    1.25072861
+  ],
+  "nativeDoorMetres": [
+    0.7260513,
+    1.83421123
+  ],
+  "disabledPlaceholderObjects": 4,
+  "approachTileInstances": 2,
+  "fireAndWindEffectsDisabled": true,
+  "propsOmitted": true
+}

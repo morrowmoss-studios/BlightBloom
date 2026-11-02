@@ -1,0 +1,185 @@
+{
+  "mainFootprint": [
+    8.4,
+    5.4
+  ],
+  "totalFootprint": [
+    10.7,
+    5.4
+  ],
+  "ridgeHeight": 4.875,
+  "horseOpening": [
+    2.8,
+    2.9
+  ],
+  "humanOpening": [
+    1.3,
+    2.3
+  ],
+  "horseReferenceEnvelope": [
+    1.2,
+    2.6,
+    2.8
+  ],
+  "models": [
+    {
+      "name": "BW_StableA01_Shell",
+      "group": "Shell",
+      "triangles": 6468,
+      "materialOrder": [
+        "wood3"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_Structure",
+      "group": "Structure",
+      "triangles": 2840,
+      "materialOrder": [
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_Roofs",
+      "group": "Roofs",
+      "triangles": 296,
+      "materialOrder": [
+        "roof",
+        "wood2",
+        "wood3",
+        "interior_roof"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_LoftHatch",
+      "group": "LoftHatch",
+      "triangles": 220,
+      "materialOrder": [
+        "wood3"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_Floor",
+      "group": "Floor",
+      "triangles": 24,
+      "materialOrder": [
+        "PackedEarth_Routes"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_Foundation",
+      "group": "Foundation",
+      "triangles": 144,
+      "materialOrder": [
+        "rock2"
+      ],
+      "placement": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "yaw": 0
+      }
+    },
+    {
+      "name": "BW_StableA01_HorseDoorL",
+      "group": "HorseDoorL",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          -1.4,
+          0.04,
+          2.8
+        ],
+        "yaw": -105,
+        "width": 1.36,
+        "height": 2.82
+      }
+    },
+    {
+      "name": "BW_StableA01_HorseDoorR",
+      "group": "HorseDoorR",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          1.4,
+          0.04,
+          2.8
+        ],
+        "yaw": 105,
+        "width": 1.36,
+        "height": 2.82
+      }
+    },
+    {
+      "name": "BW_StableA01_HumanDoor",
+      "group": "HumanDoor",
+      "triangles": 4556,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ],
+      "placement": {
+        "position": [
+          6.0,
+          0.02,
+          2.2
+        ],
+        "yaw": 105,
+        "width": 1.27,
+        "height": 2.27
+      }
+    }
+  ]
+}

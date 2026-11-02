@@ -1,0 +1,502 @@
+[
+  {
+    "path": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+    "status": "modified"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_concrete.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_doors.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_doors.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_glass.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_glass.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_metals.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_metals.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_rock2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_roof.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood1.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood1.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood2.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials/BW_Cottage01_wood3.mat.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Materials.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_DoorLeaf.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_DoorLeaf.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EaveNarrow.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EaveNarrow.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EaveWide.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EaveWide.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EntranceSteps.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EntranceSteps.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EntryFrame.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_EntryFrame.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_GableEndNarrow.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_GableEndNarrow.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_GableEndWide.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_GableEndWide.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_SoftenedBeam.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_SoftenedBeam.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_SoftenedPost.fbx",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models/BW_Cottage01_SoftenedPost.fbx.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Models.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_MetallicSmoothness.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_MetallicSmoothness.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_Painted.png",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_Painted.png.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01.meta",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA.meta",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/BW_FamilyCottageA_Style01.blend",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/GeometryManifest.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/PaintManifest.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/README.md",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/SourceMaterials.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/SourceMeshReadOnly.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/paint_atlases.py",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/preserve_open_panels.py",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/read_export_layout.py",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Blender/Architecture/Briarwick/FamilyCottageA/Style01/refine_cottage.py",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_BenchmarkCaptureConditions.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_CaptureConditions.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_Cottage20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_CrookedMortar20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_Entrance.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_Front.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_Materials.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/After_ThreeQuarter.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_CaptureConditions.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_Cottage20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_CrookedMortar20m.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_Entrance.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_Front.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_Materials.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Before_ThreeQuarter.png",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/BenchmarkComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Capture.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ConsoleValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/CorrectExportSlots.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/EditValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/EntranceComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/FrontComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/InspectAndCapture.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Integrate.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/Integration.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/MaterialsComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/PlayValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/PreservationValidation.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ProbePlay.cs",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ProtectedBaseline.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/README.md",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ThreeQuarterComparison.jpg",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/UnrelatedAfter.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/UnrelatedBefore.json",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ValidateEdit.cs",
+    "status": "new"
+  },
+  {
+    "path": "Assets/BlightBloom/Art/Architecture/Briarwick.meta",
+    "status": "new"
+  },
+  {
+    "path": "ArtSource/Pipeline/Review/FamilyCottageAStyle01/ChangedFiles.json",
+    "status": "new"
+  }
+]

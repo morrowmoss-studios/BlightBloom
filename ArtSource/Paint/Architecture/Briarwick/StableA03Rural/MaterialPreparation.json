@@ -1,0 +1,15 @@
+{
+  "source": "Thatch_PaintedSource01.png",
+  "workingResolution": [
+    2048,
+    2048
+  ],
+  "normalStrengthUnity": 0.3,
+  "metallic": 0,
+  "smoothnessRange": [
+    0.054901960784313725,
+    0.10196078431372549
+  ],
+  "uvPolicy": "Continuous non-tiled slope UVs; different source regions for front, back and lean-to",
+  "editablePainting": "Thatch_Painting01.ora"
+}

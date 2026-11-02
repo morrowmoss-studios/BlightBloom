@@ -1,0 +1,76 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Prefabs/BW_StableA02_OpenFront.prefab",
+  "previousReviewRetainedInactive": "Stable A - farmstead review01",
+  "frontDoors": 0,
+  "frontWall": false,
+  "bays": 3,
+  "frontPostCentres": [
+    -4.2,
+    -1.4,
+    1.4,
+    4.2
+  ],
+  "frontPostLine": 2.7,
+  "frontRoofEdge": 3.96,
+  "overhangMetres": 1.26,
+  "previousOverhangMetres": 0.27,
+  "partitionHeight": 1.4,
+  "partitionFront": 1.2,
+  "tackDoor": "Outer side wall, fixed open prototype",
+  "position": [
+    46.0,
+    5.98,
+    -12.0
+  ],
+  "yaw": 255.0,
+  "models": [
+    {
+      "group": "Shell",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Shell.fbx",
+      "triangles": 5544
+    },
+    {
+      "group": "Structure",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Structure.fbx",
+      "triangles": 2400
+    },
+    {
+      "group": "Roofs",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Roofs.fbx",
+      "triangles": 296
+    },
+    {
+      "group": "LoftHatch",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_LoftHatch.fbx",
+      "triangles": 220
+    },
+    {
+      "group": "Floor",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_Floor.fbx",
+      "triangles": 24
+    },
+    {
+      "group": "Foundation",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Foundation.fbx",
+      "triangles": 156
+    },
+    {
+      "group": "Partitions",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA02OpenFront/Models/BW_StableA02_Partitions.fbx",
+      "triangles": 1760
+    },
+    {
+      "group": "HumanDoor",
+      "path": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Models/BW_StableA01_HumanDoor.fbx",
+      "triangles": 4556
+    }
+  ],
+  "triangles": 14956,
+  "materialsUnmodified": true,
+  "reusedUnchangedModels": [
+    "Floor",
+    "LoftHatch",
+    "HumanDoor"
+  ]
+}

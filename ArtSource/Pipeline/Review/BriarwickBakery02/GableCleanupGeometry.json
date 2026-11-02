@@ -1,0 +1,45 @@
+{
+  "removedPieces": [
+    {
+      "type": "central applied vertical",
+      "centreUnityLocal": [
+        -0.3499999940395355,
+        4.2699995040893555,
+        4.619999408721924
+      ],
+      "vertices": 24
+    },
+    {
+      "type": "central applied vertical",
+      "centreUnityLocal": [
+        -0.3499999940395355,
+        4.269999980926514,
+        -3.0200002193450928
+      ],
+      "vertices": 24
+    },
+    {
+      "type": "applied diagonal",
+      "centreUnityLocal": [
+        -1.465000033378601,
+        3.8000006675720215,
+        4.630000591278076
+      ],
+      "vertices": 24
+    },
+    {
+      "type": "applied diagonal",
+      "centreUnityLocal": [
+        1.090000033378601,
+        3.799999713897705,
+        4.630000591278076
+      ],
+      "vertices": 24
+    }
+  ],
+  "timberTrianglesBefore": 1752,
+  "timberTrianglesAfter": 1576,
+  "buildingTriangles": 32046,
+  "otherSourceMeshesUnchanged": true,
+  "previousTimberPreservedInHiddenReference": true
+}

@@ -1,0 +1,25 @@
+{
+  "triangles": 32222,
+  "renderers": 10,
+  "colliders": 9,
+  "materials": 10,
+  "min": [
+    -3.7200017,
+    -0.2800002,
+    -3.27500153
+  ],
+  "max": [
+    3.72000122,
+    6.469402,
+    4.925001
+  ],
+  "size": [
+    7.440003,
+    6.749402,
+    8.200003
+  ],
+  "missingScripts": 0,
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "dirty": false,
+  "play": false
+}

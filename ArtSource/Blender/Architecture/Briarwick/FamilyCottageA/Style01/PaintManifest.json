@@ -1,0 +1,119 @@
+[
+  {
+    "sourceRole": "rock2",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_rock2_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/rock2/rock2_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/rock2/rock2_AO.png",
+    "normalScale": 0.38,
+    "smoothnessRange": [
+      0.10000000149011612,
+      0.1358039230108261
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "wood2",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood2_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/wood2/wood2_wood2_Normal.png",
+    "occlusion": null,
+    "normalScale": 0.42,
+    "smoothnessRange": [
+      0.17192156612873077,
+      0.18572548031806946
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "wood3",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood3_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/wood3/wood3_Normal.png",
+    "occlusion": null,
+    "normalScale": 0.42,
+    "smoothnessRange": [
+      0.1697646975517273,
+      0.2021176517009735
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "roof",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_roof_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/roof/roof_Normal.png",
+    "occlusion": null,
+    "normalScale": 0.12,
+    "smoothnessRange": [
+      0.11999999731779099,
+      0.20454901456832886
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "concrete",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_concrete_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/concrete/concrete_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/concrete/concrete_AO.png",
+    "normalScale": 0.22,
+    "smoothnessRange": [
+      0.10623529553413391,
+      0.1196078360080719
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "glass",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_glass_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/glass/glass_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/glass/glass_AO.png",
+    "normalScale": 0.08,
+    "smoothnessRange": [
+      0.36815688014030457,
+      0.49000000953674316
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "wood1",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_wood1_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/wood1/wood1_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/wood1/wood1_AO.png",
+    "normalScale": 0.42,
+    "smoothnessRange": [
+      0.1693333387374878,
+      0.21894118189811707
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "doors",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_doors_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/doors/doors_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/doors/doors_AO.png",
+    "normalScale": 0.42,
+    "smoothnessRange": [
+      0.14000000059604645,
+      0.21117646992206573
+    ],
+    "normalReadOnlySource": true
+  },
+  {
+    "sourceRole": "metals",
+    "baseMap": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_Painted.png",
+    "metallicSmoothness": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageA/Style01/Textures/BW_Cottage01_metals_MetallicSmoothness.png",
+    "normal": "Assets/Medieval_house_lite/Textures/metals/metals_Normal.png",
+    "occlusion": "Assets/Medieval_house_lite/Textures/metals/metals_AO.png",
+    "normalScale": 0.42,
+    "smoothnessRange": [
+      0.1899999976158142,
+      0.25
+    ],
+    "normalReadOnlySource": true
+  }
+]

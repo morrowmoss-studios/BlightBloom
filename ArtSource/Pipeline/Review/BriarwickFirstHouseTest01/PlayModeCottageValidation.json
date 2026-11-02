@@ -1,0 +1,103 @@
+{
+  "method": "Real scene CharacterController.Move, separate route cases with reset only between cases; not keyboard/manual playtest",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "slopeLimit": 45.0
+  },
+  "results": [
+    {
+      "name": "Path_CottageA",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 53,
+      "total": 53,
+      "steps": 504,
+      "grounded": true,
+      "maxHorizontalError": 0.09784811,
+      "finalPosition": [
+        -37.9322853,
+        5.61194134,
+        -6.325413
+      ]
+    },
+    {
+      "name": "Path_CottageA",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 53,
+      "total": 53,
+      "steps": 504,
+      "grounded": true,
+      "maxHorizontalError": 0.0975023955,
+      "finalPosition": [
+        -1.07204533,
+        5.83480453,
+        -7.00628567
+      ]
+    },
+    {
+      "name": "NativeCottage_StoneApproach_ExteriorOnly",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 5,
+      "total": 5,
+      "steps": 53,
+      "grounded": true,
+      "maxHorizontalError": 0.08994915,
+      "finalPosition": [
+        -40.9218445,
+        5.687855,
+        -3.8657372
+      ]
+    },
+    {
+      "name": "NativeCottage_StoneApproach_ExteriorOnly",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 5,
+      "total": 5,
+      "steps": 52,
+      "grounded": true,
+      "maxHorizontalError": 0.0995570049,
+      "finalPosition": [
+        -38.04498,
+        5.608521,
+        -6.25229359
+      ]
+    },
+    {
+      "name": "Cottage_Perimeter",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 5,
+      "total": 5,
+      "steps": 534,
+      "grounded": true,
+      "maxHorizontalError": 0.0500301458,
+      "finalPosition": [
+        -35.9474945,
+        5.509179,
+        -1.77188265
+      ]
+    },
+    {
+      "name": "Cottage_Perimeter",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 5,
+      "total": 5,
+      "steps": 534,
+      "grounded": true,
+      "maxHorizontalError": 0.04999961,
+      "finalPosition": [
+        -35.9128952,
+        5.50998163,
+        -1.815468
+      ]
+    }
+  ],
+  "normalMotorAndOrbitRestored": true,
+  "allPass": true
+}

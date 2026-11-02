@@ -1,0 +1,433 @@
+{
+  "method": "Real scene CharacterController.Move, separate route cases with reset only between cases; not keyboard/manual playtest",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "slopeLimit": 45.0
+  },
+  "results": [
+    {
+      "name": "MainRoad_Entrance_Common_Woodland",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 334,
+      "total": 334,
+      "steps": 3265,
+      "grounded": true,
+      "maxHorizontalError": 0.09889105,
+      "finalPosition": [
+        -27.9832115,
+        8.431369,
+        94.94776
+      ]
+    },
+    {
+      "name": "MainRoad_Entrance_Common_Woodland",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 334,
+      "total": 334,
+      "steps": 3265,
+      "grounded": true,
+      "maxHorizontalError": 0.09920251,
+      "finalPosition": [
+        19.98571,
+        6.099259,
+        -139.946808
+      ]
+    },
+    {
+      "name": "Path_CrookedMortar",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 23,
+      "total": 23,
+      "steps": 210,
+      "grounded": true,
+      "maxHorizontalError": 0.09278173,
+      "finalPosition": [
+        -13.3581181,
+        5.919165,
+        18.8532276
+      ]
+    },
+    {
+      "name": "Path_CrookedMortar",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 23,
+      "total": 23,
+      "steps": 210,
+      "grounded": true,
+      "maxHorizontalError": 0.096605286,
+      "finalPosition": [
+        -2.04872227,
+        5.835,
+        8.039642
+      ]
+    },
+    {
+      "name": "Path_Inn",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 17,
+      "total": 17,
+      "steps": 156,
+      "grounded": true,
+      "maxHorizontalError": 0.09715501,
+      "finalPosition": [
+        10.7414694,
+        5.995302,
+        11.45655
+      ]
+    },
+    {
+      "name": "Path_Inn",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 17,
+      "total": 17,
+      "steps": 156,
+      "grounded": true,
+      "maxHorizontalError": 0.0956314057,
+      "finalPosition": [
+        1.06283939,
+        5.835,
+        5.03693533
+      ]
+    },
+    {
+      "name": "Path_Forge",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 394,
+      "grounded": true,
+      "maxHorizontalError": 0.09197101,
+      "finalPosition": [
+        -21.5705166,
+        5.61582,
+        -23.3897114
+      ]
+    },
+    {
+      "name": "Path_Forge",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 394,
+      "grounded": true,
+      "maxHorizontalError": 0.09887276,
+      "finalPosition": [
+        5.970065,
+        5.74470949,
+        -13.009017
+      ]
+    },
+    {
+      "name": "Path_Bakery",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 13,
+      "total": 13,
+      "steps": 107,
+      "grounded": true,
+      "maxHorizontalError": 0.08595726,
+      "finalPosition": [
+        13.7488861,
+        5.93970537,
+        -9.983358
+      ]
+    },
+    {
+      "name": "Path_Bakery",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 13,
+      "total": 13,
+      "steps": 107,
+      "grounded": true,
+      "maxHorizontalError": 0.09333875,
+      "finalPosition": [
+        6.05186558,
+        5.808401,
+        -9.984221
+      ]
+    },
+    {
+      "name": "Path_Merchant",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 19,
+      "total": 19,
+      "steps": 160,
+      "grounded": true,
+      "maxHorizontalError": 0.09219647,
+      "finalPosition": [
+        -12.91187,
+        5.56730461,
+        -0.002200277
+      ]
+    },
+    {
+      "name": "Path_Merchant",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 19,
+      "total": 19,
+      "steps": 160,
+      "grounded": true,
+      "maxHorizontalError": 0.09787408,
+      "finalPosition": [
+        -1.08669329,
+        5.835,
+        0.984092355
+      ]
+    },
+    {
+      "name": "Path_Elder",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 24,
+      "total": 24,
+      "steps": 217,
+      "grounded": true,
+      "maxHorizontalError": 0.09971999,
+      "finalPosition": [
+        4.09670544,
+        5.97656059,
+        36.570015
+      ]
+    },
+    {
+      "name": "Path_Elder",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 24,
+      "total": 24,
+      "steps": 217,
+      "grounded": true,
+      "maxHorizontalError": 0.09945428,
+      "finalPosition": [
+        0.0125833526,
+        5.884806,
+        21.0273666
+      ]
+    },
+    {
+      "name": "Path_Farm",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 44,
+      "total": 44,
+      "steps": 413,
+      "grounded": true,
+      "maxHorizontalError": 0.0979023054,
+      "finalPosition": [
+        40.64919,
+        5.76744652,
+        -31.6954479
+      ]
+    },
+    {
+      "name": "Path_Farm",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 44,
+      "total": 44,
+      "steps": 413,
+      "grounded": true,
+      "maxHorizontalError": 0.0999533,
+      "finalPosition": [
+        10.0506248,
+        5.63894939,
+        -29.996233
+      ]
+    },
+    {
+      "name": "Path_Miller",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 43,
+      "total": 43,
+      "steps": 408,
+      "grounded": true,
+      "maxHorizontalError": 0.09960695,
+      "finalPosition": [
+        38.4685,
+        5.495265,
+        -41.67508
+      ]
+    },
+    {
+      "name": "Path_Miller",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 43,
+      "total": 43,
+      "steps": 408,
+      "grounded": true,
+      "maxHorizontalError": 0.0996367037,
+      "finalPosition": [
+        10.0393248,
+        5.640577,
+        -32.00993
+      ]
+    },
+    {
+      "name": "Path_Chapel",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 56,
+      "total": 56,
+      "steps": 543,
+      "grounded": true,
+      "maxHorizontalError": 0.09858177,
+      "finalPosition": [
+        -38.4484634,
+        5.82357025,
+        24.4159622
+      ]
+    },
+    {
+      "name": "Path_Chapel",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 56,
+      "total": 56,
+      "steps": 543,
+      "grounded": true,
+      "maxHorizontalError": 0.09925035,
+      "finalPosition": [
+        -3.09415317,
+        5.835,
+        8.029062
+      ]
+    },
+    {
+      "name": "Path_CottageA",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 53,
+      "total": 53,
+      "steps": 504,
+      "grounded": true,
+      "maxHorizontalError": 0.09784811,
+      "finalPosition": [
+        -37.9322853,
+        5.61194134,
+        -6.325413
+      ]
+    },
+    {
+      "name": "Path_CottageA",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 53,
+      "total": 53,
+      "steps": 504,
+      "grounded": true,
+      "maxHorizontalError": 0.0975023955,
+      "finalPosition": [
+        -1.07204533,
+        5.83480453,
+        -7.00628567
+      ]
+    },
+    {
+      "name": "Path_CottageB",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 392,
+      "grounded": true,
+      "maxHorizontalError": 0.09895466,
+      "finalPosition": [
+        22.1164856,
+        6.122096,
+        38.04692
+      ]
+    },
+    {
+      "name": "Path_CottageB",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 392,
+      "grounded": true,
+      "maxHorizontalError": 0.09964387,
+      "finalPosition": [
+        1.03611493,
+        5.866704,
+        20.0922966
+      ]
+    },
+    {
+      "name": "Path_Graveyard",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 389,
+      "grounded": true,
+      "maxHorizontalError": 0.09792379,
+      "finalPosition": [
+        -58.95539,
+        5.79311037,
+        26.9287
+      ]
+    },
+    {
+      "name": "Path_Graveyard",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 42,
+      "total": 42,
+      "steps": 389,
+      "grounded": true,
+      "maxHorizontalError": 0.0995629057,
+      "finalPosition": [
+        -34.083683,
+        5.66567373,
+        17.9878235
+      ]
+    },
+    {
+      "name": "Path_ApothecaryGarden",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 31,
+      "total": 31,
+      "steps": 294,
+      "grounded": true,
+      "maxHorizontalError": 0.0999265,
+      "finalPosition": [
+        -32.0141449,
+        6.048907,
+        36.9402351
+      ]
+    },
+    {
+      "name": "Path_ApothecaryGarden",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 31,
+      "total": 31,
+      "steps": 294,
+      "grounded": true,
+      "maxHorizontalError": 0.09933739,
+      "finalPosition": [
+        -29.0289211,
+        5.66989326,
+        16.0537338
+      ]
+    }
+  ],
+  "normalMotorAndOrbitRestored": true,
+  "allPass": true
+}

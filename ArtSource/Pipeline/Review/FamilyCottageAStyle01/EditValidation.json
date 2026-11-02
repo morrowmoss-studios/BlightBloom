@@ -1,0 +1,460 @@
+{
+  "unrelatedObjectsUnchanged": true,
+  "unrelatedObjectCount": 160,
+  "meshProblems": [],
+  "meshes": [
+    {
+      "name": "chimney_outside_size1.001",
+      "vertices": 682,
+      "triangles": 804,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "floor_rock_2x3m.001",
+      "vertices": 24,
+      "triangles": 12,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "floor_rock_4x1m",
+      "vertices": 24,
+      "triangles": 12,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "roof_dolmer_wide2_1.002",
+      "vertices": 1932,
+      "triangles": 1802,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "roof_intersection_wide_1_2.001",
+      "vertices": 396,
+      "triangles": 288,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "roof_structure_wide1_2.001",
+      "vertices": 62,
+      "triangles": 44,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_EaveNarrow",
+      "vertices": 190,
+      "triangles": 160,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_GableEndNarrow",
+      "vertices": 1357,
+      "triangles": 600,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_EaveWide",
+      "vertices": 164,
+      "triangles": 138,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_GableEndWide",
+      "vertices": 1357,
+      "triangles": 596,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_EntranceSteps",
+      "vertices": 1202,
+      "triangles": 1328,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wall_wood_1m_2.014",
+      "vertices": 244,
+      "triangles": 168,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wall_wood_2m_1.009",
+      "vertices": 176,
+      "triangles": 116,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wall_wood_2m_2.004",
+      "vertices": 248,
+      "triangles": 172,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wall_wood_2m_4.005",
+      "vertices": 312,
+      "triangles": 220,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wall_wood_2m_window.004",
+      "vertices": 856,
+      "triangles": 652,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_DoorLeaf",
+      "vertices": 5378,
+      "triangles": 6798,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_EntryFrame",
+      "vertices": 1692,
+      "triangles": 1790,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wooden_floor_2x3m.001",
+      "vertices": 528,
+      "triangles": 348,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wooden_floor_4x1m.001",
+      "vertices": 924,
+      "triangles": 612,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_SoftenedPost",
+      "vertices": 216,
+      "triangles": 300,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_Cottage01_SoftenedBeam",
+      "vertices": 216,
+      "triangles": 300,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "wooden_post_horizontal_small.003",
+      "vertices": 96,
+      "triangles": 108,
+      "arrays": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    }
+  ],
+  "missingMaterials": 0,
+  "unsupportedShaders": 0,
+  "materials": 12,
+  "triangles": 27920,
+  "rootPosition": [
+    -43.0,
+    5.50587034,
+    -4.0
+  ],
+  "yaw": 115.000008,
+  "minimumMeasuredFrameWidth": 1.29621243,
+  "measuredOpeningHeight": 2.30013847,
+  "widthSamples": [
+    {
+      "depth": -0.04,
+      "height": 0.25,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 0.37,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 0.49,
+      "width": 1.29621243
+    },
+    {
+      "depth": -0.04,
+      "height": 0.61,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 0.73,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 0.85,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 0.97,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.09,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.21,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.33,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.45,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.57,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.69,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.81000006,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 1.93000007,
+      "width": 1.31062615
+    },
+    {
+      "depth": -0.04,
+      "height": 2.05,
+      "width": 1.29621243
+    },
+    {
+      "depth": -0.04,
+      "height": 2.16999984,
+      "width": 1.31062615
+    },
+    {
+      "depth": 0.0,
+      "height": 0.25,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 0.37,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 0.49,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 0.61,
+      "width": 1.422382
+    },
+    {
+      "depth": 0.0,
+      "height": 0.73,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 0.85,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 0.97,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.09,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.21,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.33,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.45,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.57,
+      "width": 1.422382
+    },
+    {
+      "depth": 0.0,
+      "height": 1.69,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.81000006,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 1.93000007,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 2.05,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.0,
+      "height": 2.16999984,
+      "width": 1.42238176
+    },
+    {
+      "depth": 0.04,
+      "height": 0.25,
+      "width": 1.42238033
+    },
+    {
+      "depth": 0.04,
+      "height": 0.37,
+      "width": 1.42238033
+    },
+    {
+      "depth": 0.04,
+      "height": 0.49,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 0.61,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 0.73,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 0.85,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 0.97,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.09,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.21,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.33,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.45,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.57,
+      "width": 1.42238033
+    },
+    {
+      "depth": 0.04,
+      "height": 1.69,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 1.81000006,
+      "width": 1.42238033
+    },
+    {
+      "depth": 0.04,
+      "height": 1.93000007,
+      "width": 1.42238033
+    },
+    {
+      "depth": 0.04,
+      "height": 2.05,
+      "width": 1.42238021
+    },
+    {
+      "depth": 0.04,
+      "height": 2.16999984,
+      "width": 1.42238021
+    }
+  ]
+}

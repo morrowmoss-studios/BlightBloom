@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048">
+<g transform="translate(0,0)"><rect width="1024" height="1024" fill="#b7b5a7"/><ellipse cx="300" cy="950" rx="500" ry="350" fill="#82765d" opacity=".13"/><ellipse cx="680" cy="110" rx="490" ry="270" fill="#d0c3a6" opacity=".1"/></g>
+<g transform="translate(1024,0)"><rect width="1024" height="1024" fill="#b7b5a7"/><ellipse cx="365" cy="950" rx="500" ry="350" fill="#82765d" opacity=".13"/><ellipse cx="680" cy="110" rx="490" ry="270" fill="#d0c3a6" opacity=".1"/></g>
+<g transform="translate(0,1024)"><rect width="1024" height="1024" fill="#b7b5a7"/><ellipse cx="430" cy="950" rx="500" ry="350" fill="#82765d" opacity=".13"/><ellipse cx="680" cy="110" rx="490" ry="270" fill="#d0c3a6" opacity=".1"/></g>
+<g transform="translate(1024,1024)"><rect width="1024" height="1024" fill="#b7b5a7"/><ellipse cx="495" cy="950" rx="500" ry="350" fill="#82765d" opacity=".13"/><ellipse cx="680" cy="110" rx="490" ry="270" fill="#d0c3a6" opacity=".1"/></g>
+</svg>

@@ -1,0 +1,89 @@
+{
+  "geometryCollidersAndTransformsUnchanged": true,
+  "materialComparisons": [
+    {
+      "role": "rock2",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "firewood",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "wood2",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "wood3",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "interior_roof",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "roof",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "concrete",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "glass",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "wood1",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "doors",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "metals",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    },
+    {
+      "role": "floor",
+      "propertiesMatchSource": true,
+      "differences": [],
+      "missingTextures": []
+    }
+  ],
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "skinWidth": 0.04
+  },
+  "openingWidth": 1.29621243,
+  "openingHeight": 2.30013847,
+  "lateralClearanceEachSide": 0.248106211,
+  "headroom": 0.300138474,
+  "existingCapsuleFitsOpening": true,
+  "renderTriangles": 27920
+}

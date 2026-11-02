@@ -1,0 +1,11 @@
+{
+  "source": "Assets/Medieval_house_lite/Textures/concrete",
+  "cropImageCoordinates": [
+    0.86,
+    0.22,
+    0.875,
+    0.285
+  ],
+  "sourceAO": "not reused: original atlas contains black timber silhouettes unrelated to new geometry",
+  "UV": "normalized previous bakery plaster region"
+}

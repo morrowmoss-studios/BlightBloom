@@ -1,0 +1,196 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 306,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 968,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1488,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 1408,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "CustomerDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Oven",
+      "triangles": 804,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 96,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Thresholds",
+      "triangles": 24,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofDeck",
+      "triangles": 32,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ClayRoof",
+      "triangles": 77069,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Bakery01_concrete",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_firewood",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_floor",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_interior_roof",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Bakery01_Clay",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Customer",
+      "width": 1.4,
+      "height": 2.40000153
+    },
+    {
+      "role": "Service",
+      "width": 1.30000007,
+      "height": 2.30000162
+    }
+  ],
+  "triangleCount": 91001,
+  "worldBoundsSize": [
+    9.264179,
+    6.749401,
+    7.62703371
+  ],
+  "groundContacts": [
+    {
+      "x": -3.3,
+      "z": -2.9,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": -3.3,
+      "z": 0.8,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": -3.3,
+      "z": 4.5,
+      "terrainRelativeToFloor": -0.0007147789
+    },
+    {
+      "x": 0.0,
+      "z": -2.9,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": 0.0,
+      "z": 0.8,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": 0.0,
+      "z": 4.5,
+      "terrainRelativeToFloor": -0.0007147789
+    },
+    {
+      "x": 3.3,
+      "z": -2.9,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": 3.3,
+      "z": 0.8,
+      "terrainRelativeToFloor": 0.000457286835
+    },
+    {
+      "x": 3.3,
+      "z": 4.5,
+      "terrainRelativeToFloor": 0.000457286835
+    }
+  ],
+  "staticDoors": true,
+  "completeInterior": false
+}

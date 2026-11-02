@@ -1,0 +1,156 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "modifiedMeshInstances": 27,
+  "meshReplacements": [
+    {
+      "objectName": "roof_wide1_3.002",
+      "oldMesh": "roof_wide1_3.002",
+      "newMesh": "BW_Cottage01_EaveNarrow"
+    },
+    {
+      "objectName": "roof_wide1_end.005",
+      "oldMesh": "roof_wide1_end.005",
+      "newMesh": "BW_Cottage01_GableEndNarrow"
+    },
+    {
+      "objectName": "roof_wide2_3.001",
+      "oldMesh": "roof_wide2_3.001",
+      "newMesh": "BW_Cottage01_EaveWide"
+    },
+    {
+      "objectName": "roof_wide2_end.001",
+      "oldMesh": "roof_wide2_end.001",
+      "newMesh": "BW_Cottage01_GableEndWide"
+    },
+    {
+      "objectName": "steps2.002",
+      "oldMesh": "steps2.002",
+      "newMesh": "BW_Cottage01_EntranceSteps"
+    },
+    {
+      "objectName": "wall_wood_door1.004",
+      "oldMesh": "wall_wood_door1.004",
+      "newMesh": "BW_Cottage01_DoorLeaf"
+    },
+    {
+      "objectName": "wall_wood_entry_1m_1.001",
+      "oldMesh": "wall_wood_entry_1m_1.001",
+      "newMesh": "BW_Cottage01_EntryFrame"
+    },
+    {
+      "objectName": "wooden_post_column_size1.079",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_column_size1",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_column_size1 (1)",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_column_size1 (2)",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_column_size1 (3)",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_column_size1 (4)",
+      "oldMesh": "wooden_post_column_size1.079",
+      "newMesh": "BW_Cottage01_SoftenedPost"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long.100",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (1)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (2)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (3)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (4)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (5)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (6)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (7)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (8)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (9)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (10)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (11)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    },
+    {
+      "objectName": "wooden_post_horizontal_long (12)",
+      "oldMesh": "wooden_post_horizontal_long.100",
+      "newMesh": "BW_Cottage01_SoftenedBeam"
+    }
+  ],
+  "derivativeMaterials": 9,
+  "trianglesBefore": 20210,
+  "trianglesAfter": 27920,
+  "doorwayDesignClearMetres": [
+    1.3,
+    2.3
+  ],
+  "entranceCentrePreserved": true,
+  "adjacentWindowWidthScale": 0.84,
+  "adjacentInfillWidthScale": 0.68,
+  "doorClosedNoninteractive": true,
+  "originalPackageUntouched": true,
+  "doorwayMeasuredMinimumWidthMetres": 1.29621243,
+  "doorwayMeasuredMinimumHeightMetres": 2.30013847,
+  "finalMaterialSlotsValidated": true
+}

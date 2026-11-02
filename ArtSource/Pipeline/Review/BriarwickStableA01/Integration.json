@@ -1,0 +1,116 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/StableA01/Prefabs/BW_StableA01.prefab",
+  "position": [
+    46.0,
+    5.98,
+    -12.0
+  ],
+  "yaw": 255,
+  "mainFootprintMetres": [
+    8.4,
+    5.4
+  ],
+  "totalFootprintMetres": [
+    10.7,
+    5.4
+  ],
+  "highestRoofMetres": 4.875,
+  "horseOpeningMetres": [
+    2.8,
+    2.9
+  ],
+  "humanOpeningMetres": [
+    1.3,
+    2.3
+  ],
+  "triangles": 23660,
+  "approachTriangles": 52,
+  "renderers": 9,
+  "sharedMaterials": 8,
+  "models": [
+    {
+      "name": "BW_StableA01_Shell",
+      "triangles": 6468,
+      "materials": [
+        "wood3"
+      ]
+    },
+    {
+      "name": "BW_StableA01_Structure",
+      "triangles": 2444,
+      "materials": [
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_StableA01_Roofs",
+      "triangles": 296,
+      "materials": [
+        "roof",
+        "wood2",
+        "wood3",
+        "interior_roof"
+      ]
+    },
+    {
+      "name": "BW_StableA01_LoftHatch",
+      "triangles": 220,
+      "materials": [
+        "wood3"
+      ]
+    },
+    {
+      "name": "BW_StableA01_Floor",
+      "triangles": 24,
+      "materials": [
+        "PackedEarth_Routes"
+      ]
+    },
+    {
+      "name": "BW_StableA01_Foundation",
+      "triangles": 144,
+      "materials": [
+        "rock2"
+      ]
+    },
+    {
+      "name": "BW_StableA01_HorseDoorL",
+      "triangles": 4556,
+      "materials": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_StableA01_HorseDoorR",
+      "triangles": 4556,
+      "materials": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "name": "BW_StableA01_HumanDoor",
+      "triangles": 4556,
+      "materials": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    }
+  ],
+  "doors": "Fixed open review poses, no interaction scripts",
+  "existingFarmhousePlaceholderPreserved": true,
+  "terrainEdited": false,
+  "horseOpeningMeasuredMetres": [
+    2.79058075,
+    2.89999986
+  ],
+  "humanOpeningMeasuredMetres": [
+    1.30000019,
+    2.3
+  ]
+}

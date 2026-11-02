@@ -1,0 +1,73 @@
+{
+  "method": "Real scene CharacterController.Move, separate route cases with reset only between cases; not keyboard/manual playtest",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "slopeLimit": 45.0
+  },
+  "results": [
+    {
+      "name": "Path_CrookedMortar",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 27,
+      "total": 27,
+      "steps": 242,
+      "grounded": true,
+      "maxHorizontalError": 0.09437496,
+      "finalPosition": [
+        -15.0201664,
+        5.93957424,
+        20.5845814
+      ]
+    },
+    {
+      "name": "Path_CrookedMortar",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 27,
+      "total": 27,
+      "steps": 242,
+      "grounded": true,
+      "maxHorizontalError": 0.09872194,
+      "finalPosition": [
+        -2.073186,
+        5.835,
+        8.05964851
+      ]
+    },
+    {
+      "name": "CrookedMortar_StepsToDoorMarker",
+      "direction": "forward",
+      "allPointsReached": true,
+      "reached": 14,
+      "total": 14,
+      "steps": 16,
+      "grounded": true,
+      "maxHorizontalError": 0.09999946,
+      "finalPosition": [
+        -15.6208906,
+        6.325635,
+        21.24712
+      ]
+    },
+    {
+      "name": "CrookedMortar_StepsToDoorMarker",
+      "direction": "reverse",
+      "allPointsReached": true,
+      "reached": 14,
+      "total": 14,
+      "steps": 17,
+      "grounded": true,
+      "maxHorizontalError": 0.08069126,
+      "finalPosition": [
+        -14.8383408,
+        5.93957424,
+        20.37801
+      ]
+    }
+  ],
+  "normalMotorAndOrbitRestored": true,
+  "allPass": true
+}

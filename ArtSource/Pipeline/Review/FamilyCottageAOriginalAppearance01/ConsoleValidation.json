@@ -1,0 +1,16 @@
+{
+  "baselineCursor": 44,
+  "session": "7fc5cdd126d64a50a1cd40900208953c",
+  "newEntries": [],
+  "finalGroundTruth": {
+    "sampledUtc": "2026-11-01T20:59:56.862794Z",
+    "ageMs": 112,
+    "compilationFailed": false,
+    "compiling": false,
+    "consoleErrors": 0,
+    "consoleWarnings": 0,
+    "consoleLogs": 0,
+    "seeded": true
+  },
+  "historicalWarnings": "44 prior Style01 import warnings retained in Pipeline buffer; not new restoration warnings."
+}

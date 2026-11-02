@@ -1,0 +1,163 @@
+{
+  "existingSceneObjectsUnchanged": true,
+  "existingObjectsCompared": 262,
+  "meshes": [
+    {
+      "name": "BW_StableA02_Shell",
+      "triangles": 5544,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA02_Structure",
+      "triangles": 2400,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA02_Roofs",
+      "triangles": 296,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_LoftHatch",
+      "triangles": 220,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_Floor",
+      "triangles": 24,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA02_Foundation",
+      "triangles": 156,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA02_Partitions",
+      "triangles": 1760,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_HumanDoor",
+      "triangles": 4556,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    }
+  ],
+  "materialCopies": [
+    {
+      "role": "wood3",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "wood2",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "roof",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "interior_roof",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "PackedEarth_Routes",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "rock2",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "doors",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "metals",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "portals": [
+    {
+      "name": "Open bay",
+      "centreX": -2.8,
+      "width": 2.49058056,
+      "height": 3.22999954
+    },
+    {
+      "name": "Open bay",
+      "centreX": 0.0,
+      "width": 2.49058032,
+      "height": 3.22999954
+    },
+    {
+      "name": "Open bay",
+      "centreX": 2.8,
+      "width": 2.49058056,
+      "height": 3.22999954
+    },
+    {
+      "name": "Side human entry",
+      "centreX": 6.5,
+      "width": 1.3,
+      "height": 2.3
+    }
+  ],
+  "horseEnvelope": [
+    1.2,
+    2.6,
+    2.8
+  ],
+  "horseEnvelopeSamples": 369,
+  "blockedHorseSamples": [],
+  "horseClearancePass": true,
+  "roofSurfaceFacesUp": true,
+  "buildingTriangles": 14956,
+  "doors": "Main frontage has no doors; side service leaf is fixed open",
+  "floorSamples": 377,
+  "floorMisses": 0,
+  "frontProbes": 27,
+  "frontBlocks": 0,
+  "previousReviewInactive": true,
+  "terrainModified": false
+}

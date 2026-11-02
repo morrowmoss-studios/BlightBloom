@@ -1,0 +1,164 @@
+{
+  "housePosition": [
+    -19.0,
+    5.83965,
+    25.0
+  ],
+  "unitScale": [
+    0.9999999,
+    1.0,
+    0.9999999
+  ],
+  "profile": [
+    {
+      "localZ": 8.5,
+      "terrain": 5.800146,
+      "walkY": 5.87302,
+      "collider": "Path_CrookedMortar"
+    },
+    {
+      "localZ": 8.35,
+      "terrain": 5.80398655,
+      "walkY": 5.878173,
+      "collider": "Path_CrookedMortar"
+    },
+    {
+      "localZ": 8.2,
+      "terrain": 5.807514,
+      "walkY": 5.80751467,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 8.05,
+      "terrain": 5.81073427,
+      "walkY": 5.81073475,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.9,
+      "terrain": 5.813766,
+      "walkY": 5.813766,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.75,
+      "terrain": 5.81709862,
+      "walkY": 5.817098,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.6,
+      "terrain": 5.81960344,
+      "walkY": 5.81960344,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.45,
+      "terrain": 5.82120037,
+      "walkY": 5.82120037,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.3,
+      "terrain": 5.82269,
+      "walkY": 5.82269,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.15,
+      "terrain": 5.8234663,
+      "walkY": 5.8234663,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 7.0,
+      "terrain": 5.82396269,
+      "walkY": 5.82396269,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.85,
+      "terrain": 5.82445955,
+      "walkY": 5.824459,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.7,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.54999971,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.4,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.25,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 6.1,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 5.95,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 5.79999971,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 5.65,
+      "terrain": 5.82457447,
+      "walkY": 5.82457447,
+      "collider": "Briarwick_Valley_320x320m_EDITABLE"
+    },
+    {
+      "localZ": 5.5,
+      "terrain": 5.82457447,
+      "walkY": 5.894828,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    },
+    {
+      "localZ": 5.35,
+      "terrain": 5.82457447,
+      "walkY": 5.912956,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    },
+    {
+      "localZ": 5.2,
+      "terrain": 5.82457447,
+      "walkY": 6.123035,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    },
+    {
+      "localZ": 5.04999971,
+      "terrain": 5.82457447,
+      "walkY": 6.125078,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    },
+    {
+      "localZ": 4.89999962,
+      "terrain": 5.82457447,
+      "walkY": 6.128439,
+      "collider": "RetainedStepsAndRearPlatform_SurfaceCollider"
+    }
+  ]
+}

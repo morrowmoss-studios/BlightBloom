@@ -1,0 +1,152 @@
+{
+  "existingSceneObjectsUnchanged": true,
+  "existingObjectsCompared": 244,
+  "meshes": [
+    {
+      "name": "BW_StableA01_Shell",
+      "triangles": 6468,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_Structure",
+      "triangles": 2840,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_Roofs",
+      "triangles": 296,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_LoftHatch",
+      "triangles": 220,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_Floor",
+      "triangles": 24,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_Foundation",
+      "triangles": 144,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_HorseDoorL",
+      "triangles": 4556,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_HorseDoorR",
+      "triangles": 4556,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    },
+    {
+      "name": "BW_StableA01_HumanDoor",
+      "triangles": 4556,
+      "hasUV": true,
+      "validNormals": true,
+      "finite": true,
+      "degenerateTriangles": 0
+    }
+  ],
+  "materialCopies": [
+    {
+      "role": "wood3",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "wood2",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "roof",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "interior_roof",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "PackedEarth_Routes",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "rock2",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "doors",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "role": "metals",
+      "matchesSource": true,
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "portals": [
+    {
+      "name": "Horse",
+      "width": 2.79058075,
+      "height": 2.89999986
+    },
+    {
+      "name": "Human",
+      "width": 1.30000019,
+      "height": 2.3
+    }
+  ],
+  "horseEnvelope": [
+    1.2,
+    2.6,
+    2.8
+  ],
+  "horseEnvelopeSamples": 123,
+  "blockedHorseSamples": [],
+  "horseClearancePass": true,
+  "roofSurfaceFacesUp": true,
+  "buildingTriangles": 23660,
+  "doors": "Fixed open review poses; no interaction",
+  "terrainModified": false
+}
