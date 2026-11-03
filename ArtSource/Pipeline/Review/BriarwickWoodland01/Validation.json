@@ -1,0 +1,32 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "sceneSaved": true,
+  "preexistingObjectsChecked": 476,
+  "preexistingComponentDifferences": [],
+  "proxyChecks": [
+    {
+      "suffix": "Canopy",
+      "originalDisabled": true,
+      "verticesPreserved": true,
+      "triangleIndicesPreserved": true,
+      "remainderTriangles": 549,
+      "selectedTriangles": 63
+    },
+    {
+      "suffix": "Trunks",
+      "originalDisabled": true,
+      "verticesPreserved": true,
+      "triangleIndicesPreserved": true,
+      "remainderTriangles": 549,
+      "selectedTriangles": 63
+    }
+  ],
+  "vegetationInstances": 15,
+  "triangles": 11600,
+  "renderers": 15,
+  "baseSubmeshSubmissions": 24,
+  "sharedMaterials": 12,
+  "trunkColliders": 7,
+  "defects": [],
+  "buildingBoundsIntersections": []
+}

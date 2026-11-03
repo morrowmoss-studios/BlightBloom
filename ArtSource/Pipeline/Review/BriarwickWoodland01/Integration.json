@@ -1,0 +1,155 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "replacedProxyIndices": [
+    27,
+    31,
+    46,
+    59,
+    52,
+    17,
+    44
+  ],
+  "totalOriginalTrees": 68,
+  "remainingProxyTrees": 61,
+  "instances": [
+    {
+      "source": "Tree 1",
+      "x": -40.4724579,
+      "z": 94.82186,
+      "scale": 0.87,
+      "yaw": 31.0,
+      "height": 12.8893032,
+      "triangles": 1392
+    },
+    {
+      "source": "Tree 4",
+      "x": -16.1961136,
+      "z": 99.35586,
+      "scale": 0.83,
+      "yaw": 110.0,
+      "height": 13.272481,
+      "triangles": 2020
+    },
+    {
+      "source": "Tree 6",
+      "x": -29.1269722,
+      "z": 104.532715,
+      "scale": 1.02,
+      "yaw": 189.0,
+      "height": 10.2131157,
+      "triangles": 1152
+    },
+    {
+      "source": "Tree 8",
+      "x": -29.03263,
+      "z": 109.242943,
+      "scale": 0.87,
+      "yaw": 268.0,
+      "height": 11.0820284,
+      "triangles": 688
+    },
+    {
+      "source": "Tree 1",
+      "x": -30.3275547,
+      "z": 114.454865,
+      "scale": 0.91,
+      "yaw": 347.0,
+      "height": 13.4819155,
+      "triangles": 1392
+    },
+    {
+      "source": "Tree 4",
+      "x": -43.6043777,
+      "z": 111.056015,
+      "scale": 0.82,
+      "yaw": 426.0,
+      "height": 13.1125717,
+      "triangles": 2020
+    },
+    {
+      "source": "Tree 6",
+      "x": -5.67942762,
+      "z": 98.6249542,
+      "scale": 1.08,
+      "yaw": 505.0,
+      "height": 10.8138876,
+      "triangles": 1152
+    },
+    {
+      "source": "Bush1",
+      "x": -36.0,
+      "z": 90.0,
+      "scale": 0.42,
+      "yaw": 75.0,
+      "height": 1.69511569,
+      "triangles": 296
+    },
+    {
+      "source": "Bush3",
+      "x": -39.0,
+      "z": 97.0,
+      "scale": 0.56,
+      "yaw": 155.0,
+      "height": 1.58008182,
+      "triangles": 168
+    },
+    {
+      "source": "Bush4",
+      "x": -33.0,
+      "z": 103.0,
+      "scale": 0.43,
+      "yaw": 20.0,
+      "height": 1.55832517,
+      "triangles": 212
+    },
+    {
+      "source": "Bush1",
+      "x": -20.0,
+      "z": 102.0,
+      "scale": 0.36,
+      "yaw": 245.0,
+      "height": 1.45295632,
+      "triangles": 296
+    },
+    {
+      "source": "Bush3",
+      "x": -17.0,
+      "z": 95.0,
+      "scale": 0.5,
+      "yaw": 95.0,
+      "height": 1.41078734,
+      "triangles": 168
+    },
+    {
+      "source": "Bush4",
+      "x": -27.0,
+      "z": 108.0,
+      "scale": 0.4,
+      "yaw": 190.0,
+      "height": 1.44960487,
+      "triangles": 212
+    },
+    {
+      "source": "Bush1",
+      "x": -38.0,
+      "z": 108.0,
+      "scale": 0.38,
+      "yaw": 290.0,
+      "height": 1.53367615,
+      "triangles": 296
+    },
+    {
+      "source": "Bush3",
+      "x": -10.0,
+      "z": 102.0,
+      "scale": 0.6,
+      "yaw": 15.0,
+      "height": 1.69294488,
+      "triangles": 168
+    }
+  ],
+  "note": "Legacy Tree components/billboards/wind omitted from static URP wrapper prefabs; originals untouched. Full original combined proxies disabled; exact remainder and selected reference meshes retained.",
+  "initialTrianglesBeforeTree6Repair": 11632,
+  "finalTriangles": 11600,
+  "tree6Repair": "Tree6Repair.json"
+}

@@ -1,0 +1,494 @@
+[
+  {
+    "path": "Assets/Mini Nature Pack/Models/Bush1.prefab",
+    "name": "Bush1",
+    "meshes": [
+      {
+        "name": "Bush1",
+        "path": "Assets/Mini Nature Pack/Models/Bush1.prefab",
+        "triangles": 296,
+        "bounds": "Center: (-0.19, 1.54, 0.01), Extents: (2.05, 2.02, 2.26)",
+        "materials": [
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush1_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Bush2.prefab",
+    "name": "Bush2",
+    "meshes": [
+      {
+        "name": "Bush2",
+        "path": "Assets/Mini Nature Pack/Models/Bush2.prefab",
+        "triangles": 200,
+        "bounds": "Center: (0.14, 1.71, 0.43), Extents: (2.11, 2.29, 2.00)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush2_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush2_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Bush3.prefab",
+    "name": "Bush3",
+    "meshes": [
+      {
+        "name": "Bush3",
+        "path": "Assets/Mini Nature Pack/Models/Bush3.prefab",
+        "triangles": 168,
+        "bounds": "Center: (0.49, 0.60, 0.50), Extents: (1.51, 1.41, 1.76)",
+        "materials": [
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush3_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Bush4.prefab",
+    "name": "Bush4",
+    "meshes": [
+      {
+        "name": "Bush4",
+        "path": "Assets/Mini Nature Pack/Models/Bush4.prefab",
+        "triangles": 212,
+        "bounds": "Center: (0.09, 1.64, 0.03), Extents: (1.02, 1.81, 1.06)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush4_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush4_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Bush5.prefab",
+    "name": "Bush5",
+    "meshes": [
+      {
+        "name": "Bush5",
+        "path": "Assets/Mini Nature Pack/Models/Bush5.prefab",
+        "triangles": 280,
+        "bounds": "Center: (-0.54, 1.06, 0.38), Extents: (2.62, 1.27, 2.29)",
+        "materials": [
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Bush5_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 1.prefab",
+    "name": "Tree 1",
+    "meshes": [
+      {
+        "name": "Tree 1",
+        "path": "Assets/Mini Nature Pack/Models/Tree 1.prefab",
+        "triangles": 1392,
+        "bounds": "Center: (0.11, 7.41, 0.65), Extents: (6.64, 7.41, 6.17)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 1_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 1_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 2.prefab",
+    "name": "Tree 2",
+    "meshes": [
+      {
+        "name": "Tree 2",
+        "path": "Assets/Mini Nature Pack/Models/Tree 2.prefab",
+        "triangles": 2320,
+        "bounds": "Center: (-0.05, 6.40, 0.19), Extents: (4.97, 6.40, 5.18)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 2_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 2_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 3.prefab",
+    "name": "Tree 3",
+    "meshes": [
+      {
+        "name": "Tree 3",
+        "path": "Assets/Mini Nature Pack/Models/Tree 3.prefab",
+        "triangles": 3576,
+        "bounds": "Center: (0.04, 8.89, 1.34), Extents: (7.81, 8.89, 6.68)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 3_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 3_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 4.prefab",
+    "name": "Tree 4",
+    "meshes": [
+      {
+        "name": "Tree 4",
+        "path": "Assets/Mini Nature Pack/Models/Tree 4.prefab",
+        "triangles": 2020,
+        "bounds": "Center: (0.06, 7.99, -0.41), Extents: (6.43, 8.00, 7.41)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 4_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 4_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 5.prefab",
+    "name": "Tree 5",
+    "meshes": [
+      {
+        "name": "Tree 5",
+        "path": "Assets/Mini Nature Pack/Models/Tree 5.prefab",
+        "triangles": 1380,
+        "bounds": "Center: (0.30, 4.35, 0.55), Extents: (2.53, 5.35, 2.15)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 5_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 5_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 6.prefab",
+    "name": "Tree 6",
+    "meshes": [
+      {
+        "name": "Tree 6",
+        "path": "Assets/Mini Nature Pack/Models/Tree 6.prefab",
+        "triangles": 1152,
+        "bounds": "Center: (-0.59, 5.00, 0.02), Extents: (3.85, 5.01, 3.94)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 6_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 6_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 7.prefab",
+    "name": "Tree 7",
+    "meshes": [
+      {
+        "name": "Tree 7",
+        "path": "Assets/Mini Nature Pack/Models/Tree 7.prefab",
+        "triangles": 3160,
+        "bounds": "Center: (-0.96, 9.93, -0.14), Extents: (5.12, 9.93, 5.26)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 7_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 7_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 8.prefab",
+    "name": "Tree 8",
+    "meshes": [
+      {
+        "name": "Tree 8",
+        "path": "Assets/Mini Nature Pack/Models/Tree 8.prefab",
+        "triangles": 688,
+        "bounds": "Center: (-1.58, 6.36, -0.17), Extents: (3.83, 6.37, 3.67)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 8_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 8_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 9.prefab",
+    "name": "Tree 9",
+    "meshes": [
+      {
+        "name": "Tree 9",
+        "path": "Assets/Mini Nature Pack/Models/Tree 9.prefab",
+        "triangles": 2344,
+        "bounds": "Center: (-0.05, 6.54, -0.22), Extents: (3.28, 6.54, 3.12)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 9_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 9_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  },
+  {
+    "path": "Assets/Mini Nature Pack/Models/Tree 10.prefab",
+    "name": "Tree 10",
+    "meshes": [
+      {
+        "name": "Tree 10",
+        "path": "Assets/Mini Nature Pack/Models/Tree 10.prefab",
+        "triangles": 988,
+        "bounds": "Center: (0.25, 4.67, 0.09), Extents: (3.34, 4.67, 2.65)",
+        "materials": [
+          {
+            "name": "Optimized Bark Material",
+            "shader": "Hidden/Nature/Tree Creator Bark Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 10_Textures/diffuse.png"
+          },
+          {
+            "name": "Optimized Leaf Material",
+            "shader": "Hidden/Nature/Tree Creator Leaves Optimized",
+            "isSupported": true,
+            "texture": "Assets/Mini Nature Pack/Models/Tree 10_Textures/diffuse.png"
+          }
+        ]
+      }
+    ],
+    "lod": 0,
+    "colliders": 0,
+    "components": [
+      "UnityEngine.Transform",
+      "UnityEngine.Tree",
+      "UnityEngine.MeshFilter",
+      "UnityEngine.MeshRenderer"
+    ]
+  }
+]
