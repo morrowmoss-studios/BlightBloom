@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/MillerCottage01/Prefabs/BW_MillerCottage01.prefab",
+  "placeholderRetainedInactive": "08 Millers cottage PLACEHOLDER",
+  "position": [
+    38.0,
+    5.356443,
+    -47.0
+  ],
+  "yaw": 5.0,
+  "triangles": 19052,
+  "renderers": 10,
+  "materials": 9
+}

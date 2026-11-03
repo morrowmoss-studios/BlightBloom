@@ -1,0 +1,213 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 431,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Masonry",
+      "triangles": 256,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "StoneTrim",
+      "triangles": 1612,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "MainDoor",
+      "triangles": 9112,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 60,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Steps",
+      "triangles": 24,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "SideWindows",
+      "triangles": 224,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "StainedGlass",
+      "triangles": 136,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Lead",
+      "triangles": 70,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Gables",
+      "triangles": 436,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 88,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Roof",
+      "triangles": 360,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_Chapel01_Masonry",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_DressStone",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_Lead",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_StainedGlass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_roof",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_Chapel01_interior_roof",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Main doorway",
+      "width": 1.59999979,
+      "height": 2.50000072
+    }
+  ],
+  "triangleCount": 12378,
+  "worldBoundsSize": [
+    14.0714264,
+    7.500001,
+    14.07143
+  ],
+  "groundContacts": [
+    {
+      "x": -3.8,
+      "z": -4.3,
+      "terrainRelativeToFloor": 0.0009756088
+    },
+    {
+      "x": -3.8,
+      "z": 1.1,
+      "terrainRelativeToFloor": 0.0007634163
+    },
+    {
+      "x": -3.8,
+      "z": 6.5,
+      "terrainRelativeToFloor": 0.000282764435
+    },
+    {
+      "x": 0.0,
+      "z": -4.3,
+      "terrainRelativeToFloor": 0.000282764435
+    },
+    {
+      "x": 0.0,
+      "z": 1.1,
+      "terrainRelativeToFloor": 0.000282764435
+    },
+    {
+      "x": 0.0,
+      "z": 6.5,
+      "terrainRelativeToFloor": -0.000619411469
+    },
+    {
+      "x": 3.8,
+      "z": -4.3,
+      "terrainRelativeToFloor": -0.000353813171
+    },
+    {
+      "x": 3.8,
+      "z": 1.1,
+      "terrainRelativeToFloor": -0.000383377075
+    },
+    {
+      "x": 3.8,
+      "z": 6.5,
+      "terrainRelativeToFloor": -0.002081871
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}

@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Prefabs/BW_Chapel01.prefab",
+  "placeholderRetainedInactive": "09 Small chapel PLACEHOLDER",
+  "position": [
+    -44.0,
+    5.74665,
+    30.0
+  ],
+  "yaw": 135.0,
+  "triangles": 12186,
+  "renderers": 11,
+  "materials": 12
+}

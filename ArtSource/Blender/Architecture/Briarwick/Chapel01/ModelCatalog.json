@@ -1,0 +1,120 @@
+{
+  "bodyFootprint": [
+    7.6,
+    10.8
+  ],
+  "floorDatum": 0.12,
+  "mainDoor": [
+    1.6,
+    2.5
+  ],
+  "glassWidth": 4.7,
+  "glassHeight": 3.1,
+  "models": [
+    {
+      "group": "Masonry",
+      "name": "BW_Chapel01_Masonry",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Masonry.fbx",
+      "triangles": 256,
+      "materialOrder": [
+        "Masonry"
+      ]
+    },
+    {
+      "group": "StoneTrim",
+      "name": "BW_Chapel01_StoneTrim",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_StoneTrim.fbx",
+      "triangles": 1612,
+      "materialOrder": [
+        "DressStone"
+      ]
+    },
+    {
+      "group": "MainDoor",
+      "name": "BW_Chapel01_MainDoor",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_MainDoor.fbx",
+      "triangles": 9112,
+      "materialOrder": [
+        "doors",
+        "metals",
+        "wood2"
+      ]
+    },
+    {
+      "group": "Foundation",
+      "name": "BW_Chapel01_Foundation",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Foundation.fbx",
+      "triangles": 60,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "Steps",
+      "name": "BW_Chapel01_Steps",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Steps.fbx",
+      "triangles": 24,
+      "materialOrder": [
+        "rock2"
+      ]
+    },
+    {
+      "group": "SideWindows",
+      "name": "BW_Chapel01_SideWindows",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_SideWindows.fbx",
+      "triangles": 224,
+      "materialOrder": [
+        "glass",
+        "Lead"
+      ]
+    },
+    {
+      "group": "StainedGlass",
+      "name": "BW_Chapel01_StainedGlass",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_StainedGlass.fbx",
+      "triangles": 136,
+      "materialOrder": [
+        "StainedGlass"
+      ]
+    },
+    {
+      "group": "Lead",
+      "name": "BW_Chapel01_Lead",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Lead.fbx",
+      "triangles": 70,
+      "materialOrder": [
+        "Lead"
+      ]
+    },
+    {
+      "group": "Gables",
+      "name": "BW_Chapel01_Gables",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Gables.fbx",
+      "triangles": 436,
+      "materialOrder": [
+        "Plaster"
+      ]
+    },
+    {
+      "group": "Timber",
+      "name": "BW_Chapel01_Timber",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Timber.fbx",
+      "triangles": 88,
+      "materialOrder": [
+        "wood2"
+      ]
+    },
+    {
+      "group": "Roof",
+      "name": "BW_Chapel01_Roof",
+      "assetPath": "Assets/BlightBloom/Art/Architecture/Briarwick/Chapel01/Models/BW_Chapel01_Roof.fbx",
+      "triangles": 360,
+      "materialOrder": [
+        "roof",
+        "wood2",
+        "wood3",
+        "interior_roof"
+      ]
+    }
+  ]
+}

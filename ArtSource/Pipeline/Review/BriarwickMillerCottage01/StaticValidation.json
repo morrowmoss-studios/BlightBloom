@@ -1,0 +1,191 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 416,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 408,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1568,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "MainDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 1104,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 108,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Steps",
+      "triangles": 24,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Store",
+      "triangles": 1364,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Chimney",
+      "triangles": 804,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Thatch",
+      "triangles": 4560,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_MillerCottage01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_firewood",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_MillerCottage01_Thatch",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Main doorway",
+      "width": 1.4,
+      "height": 2.39999986
+    },
+    {
+      "role": "Rear service doorway",
+      "width": 1.3,
+      "height": 2.29999971
+    }
+  ],
+  "triangleCount": 19052,
+  "worldBoundsSize": [
+    9.407715,
+    6.1049614,
+    9.225906
+  ],
+  "groundContacts": [
+    {
+      "x": -3.3,
+      "z": -3.9,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": -3.3,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": -3.3,
+      "z": 3.9,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": 0.0,
+      "z": -3.9,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": 0.0,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": 0.0,
+      "z": 3.9,
+      "terrainRelativeToFloor": -0.000647068
+    },
+    {
+      "x": 4.7,
+      "z": -3.9,
+      "terrainRelativeToFloor": -0.0127983093
+    },
+    {
+      "x": 4.7,
+      "z": 0.0,
+      "terrainRelativeToFloor": -0.00360822678
+    },
+    {
+      "x": 4.7,
+      "z": 3.9,
+      "terrainRelativeToFloor": 0.003264904
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}
