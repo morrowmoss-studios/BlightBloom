@@ -1,0 +1,81 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Woodland road lane -1.5",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0594056658
+    },
+    {
+      "name": "Woodland road lane -1.5",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0688607246
+    },
+    {
+      "name": "Woodland road lane 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0594056658
+    },
+    {
+      "name": "Woodland road lane 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0688607246
+    },
+    {
+      "name": "Woodland road lane 1.5",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0594052561
+    },
+    {
+      "name": "Woodland road lane 1.5",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.068860434
+    },
+    {
+      "name": "Western transition gap",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06594352
+    },
+    {
+      "name": "Western transition gap",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0377750471
+    },
+    {
+      "name": "Eastern transition gap",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06552404
+    },
+    {
+      "name": "Eastern transition gap",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0494932123
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

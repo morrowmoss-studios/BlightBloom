@@ -1,0 +1,23 @@
+{
+  "preexistingObjects": 552,
+  "allowedSceneLeafMaterialOverrides": 7,
+  "unexpectedChanges": [],
+  "proxyChecks": [
+    {
+      "suffix": "Canopy",
+      "verticesPreserved": true,
+      "triangleIndicesPreserved": true,
+      "remainingProxyTrees": 58,
+      "selectedProxyTrees": 3,
+      "selectedInactive": true
+    },
+    {
+      "suffix": "Trunks",
+      "verticesPreserved": true,
+      "triangleIndicesPreserved": true,
+      "remainingProxyTrees": 58,
+      "selectedProxyTrees": 3,
+      "selectedInactive": true
+    }
+  ]
+}

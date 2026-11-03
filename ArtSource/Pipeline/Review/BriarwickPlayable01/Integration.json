@@ -1,0 +1,33 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Prefabs/BB_PlayerExploration_Locomotion03.prefab",
+  "reusedVisual": "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Prefabs/BB_PlagueDoctor_Locomotion03.prefab",
+  "spawn": "(-25.0000, 7.1319, 85.0000)",
+  "player": "BB_Explorer_Locomotion03",
+  "camera": "BB_ExplorationCamera",
+  "disabledOriginals": [
+    "Briarwick_Explorer_ExistingController_2m",
+    "Briarwick_PlayerCamera_ExistingOrbit"
+  ],
+  "dependencies": [
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Materials/BB_Doctor_Painted.mat",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Prefabs/BB_PlayerExploration_Locomotion03.prefab",
+    "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+    "Assets/BlightBloom/Traversal/ThirdPersonMotor.cs",
+    "Assets/InputSystem_Actions.inputactions",
+    "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalCameraData.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Textures/BB_Doctor_PaintedAtlas.png",
+    "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Models/BB_PlagueDoctor_Locomotion03.fbx",
+    "Packages/com.unity.render-pipelines.universal/Editor/AssetVersion.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Scripts/PlagueDoctorLocomotion03.cs",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Animations/BB_DoctorLocomotion03.controller",
+    "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+    "Assets/BlightBloom/Traversal/TraversalInput.cs",
+    "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+    "Assets/BlightBloom/Traversal/ThirdPersonOrbitCamera.cs",
+    "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+    "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Prefabs/BB_PlagueDoctor_Locomotion03.prefab"
+  ],
+  "note": "Existing Briarwick motor/input/controller configuration matches Production02. Visual uses the same Locomotion03 prefab and -0.04m offset. Existing general orbit retains production exterior sensitivities/follow, 4m boom/65deg FOV; house-specific stair zones are not transplanted. Outdoor far plane remains 600m."
+}

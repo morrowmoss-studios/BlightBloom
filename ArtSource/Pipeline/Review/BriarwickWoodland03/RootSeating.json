@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BW_Woodland01_Tree1",
+    "x": -11.01068,
+    "z": 125.284,
+    "lowered": 0.0587278754
+  },
+  {
+    "name": "BW_Woodland01_Tree1",
+    "x": -50.0,
+    "z": 111.0,
+    "lowered": 0.05731167
+  },
+  {
+    "name": "BW_Woodland01_Tree4",
+    "x": -39.0,
+    "z": 122.0,
+    "lowered": 0.0722013861
+  },
+  {
+    "name": "BW_Woodland01_Tree8",
+    "x": -38.0,
+    "z": 104.0,
+    "lowered": 0.138258591
+  },
+  {
+    "name": "BW_Woodland01_Tree1",
+    "x": -23.0,
+    "z": 117.0,
+    "lowered": 0.05668129
+  },
+  {
+    "name": "BW_Woodland01_Tree4",
+    "x": -21.0,
+    "z": 127.0,
+    "lowered": 0.070526734
+  },
+  {
+    "name": "BW_Woodland01_Tree8",
+    "x": -43.0,
+    "z": 87.0,
+    "lowered": 0.1018206
+  },
+  {
+    "name": "BW_Woodland01_Tree8",
+    "x": -7.0,
+    "z": 112.0,
+    "lowered": 0.332365632
+  }
+]

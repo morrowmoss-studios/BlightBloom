@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "error": null,
+  "sampleCount": 213,
+  "cameraDistanceRange": [
+    2.94935822,
+    4.39047146
+  ],
+  "groundedSamples": 213,
+  "totalSamples": 213,
+  "gaits": {
+    "Idle": {
+      "count": 18,
+      "maxSpeed": 0.07629829
+    },
+    "Walk": {
+      "count": 60,
+      "maxSpeed": 3.480373
+    },
+    "Sprint": {
+      "count": 135,
+      "maxSpeed": 6.00006
+    }
+  },
+  "results": [
+    {
+      "stage": 0,
+      "grounded": true,
+      "position": "(-29.281, 9.804, 103.821)",
+      "gait": "Walk"
+    },
+    {
+      "stage": 1,
+      "grounded": true,
+      "position": "(-28.019, 8.430, 95.415)",
+      "gait": "Walk"
+    },
+    {
+      "stage": 2,
+      "grounded": true,
+      "position": "(-25.133, 9.556, 102.657)",
+      "gait": "Sprint"
+    },
+    {
+      "stage": 3,
+      "grounded": true,
+      "position": "(-24.047, 11.197, 111.604)",
+      "gait": "Walk"
+    },
+    {
+      "stage": 4,
+      "grounded": true,
+      "position": "(-25.921, 12.933, 119.664)",
+      "gait": "Sprint"
+    },
+    {
+      "stage": 5,
+      "grounded": true,
+      "position": "(-25.039, 15.100, 128.615)",
+      "gait": "Walk"
+    },
+    {
+      "stage": 6,
+      "grounded": true,
+      "position": "(-25.038, 15.103, 128.628)",
+      "gait": "Idle"
+    },
+    {
+      "orbitDegrees": 92.141
+    },
+    {
+      "stage": 7,
+      "grounded": true,
+      "position": "(-25.038, 15.103, 128.628)",
+      "gait": "Idle"
+    },
+    {
+      "stage": 8,
+      "grounded": true,
+      "position": "(-25.038, 15.103, 128.628)",
+      "gait": "Idle"
+    },
+    {
+      "stage": 9,
+      "grounded": true,
+      "position": "(-7.004, 5.823, 20.428)",
+      "gait": "Sprint"
+    },
+    {
+      "walk": true,
+      "sprint": true,
+      "idle": true,
+      "waypointsReached": [
+        "Forward waypoint 1",
+        "Forward waypoint 2",
+        "Forward waypoint 3",
+        "Forward waypoint 4",
+        "Forward waypoint 5",
+        "Return waypoint 0",
+        "Return waypoint 1",
+        "Return waypoint 2",
+        "Return waypoint 3",
+        "Return waypoint 4",
+        "Return waypoint 5",
+        "Return waypoint 6"
+      ]
+    }
+  ],
+  "gaitMedianSpeeds": {
+    "Idle": 1.9670081995000002e-05,
+    "Walk": 3.00000167,
+    "Sprint": 5.999999
+  },
+  "distinctElbowRotations": 199,
+  "distinctKneeRotations": 201
+}

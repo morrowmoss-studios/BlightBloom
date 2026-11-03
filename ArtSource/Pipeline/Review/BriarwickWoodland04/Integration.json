@@ -1,0 +1,498 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "trees": 10,
+  "undergrowth": 58,
+  "triangles": 22749,
+  "renderers": 68,
+  "materials": 10,
+  "paintedTexels": 682,
+  "placements": [
+    {
+      "source": "BW_Woodland01_Tree8",
+      "x": -28.0,
+      "z": 52.0,
+      "scale": 0.62,
+      "yaw": 75.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 57.0,
+      "scale": 0.63,
+      "yaw": 247.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree1",
+      "x": -33.0,
+      "z": 63.0,
+      "scale": 0.8,
+      "yaw": 153.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree6",
+      "x": -27.0,
+      "z": 70.0,
+      "scale": 0.86,
+      "yaw": 326.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree6",
+      "x": -40.0,
+      "z": 78.0,
+      "scale": 0.9,
+      "yaw": 101.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree8",
+      "x": -9.0,
+      "z": 70.0,
+      "scale": 0.74,
+      "yaw": 192.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree1",
+      "x": -14.0,
+      "z": 80.0,
+      "scale": 0.84,
+      "yaw": 294.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree6",
+      "x": -34.0,
+      "z": 85.0,
+      "scale": 0.82,
+      "yaw": 38.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 86.0,
+      "scale": 0.72,
+      "yaw": 129.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Woodland01_Tree1",
+      "x": -45.0,
+      "z": 68.0,
+      "scale": 0.78,
+      "yaw": 221.0,
+      "seatedLower": 0.0
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -30.9837532,
+      "z": 52.991272,
+      "scale": 1.16787267,
+      "yaw": 153.833374
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -26.0206718,
+      "z": 54.42357,
+      "scale": 0.8685387,
+      "yaw": 5.02157974
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -28.16586,
+      "z": 50.2058945,
+      "scale": 1.0930928,
+      "yaw": 172.867584
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -30.2577477,
+      "z": 51.5209846,
+      "scale": 1.15806425,
+      "yaw": 285.605621
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -32.3060036,
+      "z": 61.8003769,
+      "scale": 1.0490818,
+      "yaw": 153.181564
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -35.8290825,
+      "z": 62.7510529,
+      "scale": 1.1765542,
+      "yaw": 53.15271
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -35.1453247,
+      "z": 64.4611053,
+      "scale": 1.0262,
+      "yaw": 325.4744
+    },
+    {
+      "source": "BW_Environment02_Bush_B",
+      "x": -31.9734783,
+      "z": 64.28333,
+      "scale": 0.6687834,
+      "yaw": 184.762558
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -33.96764,
+      "z": 64.68346,
+      "scale": 1.17936468,
+      "yaw": 65.60263
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -30.662693,
+      "z": 64.95607,
+      "scale": 0.838615358,
+      "yaw": 209.977356
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -27.5716381,
+      "z": 72.67642,
+      "scale": 0.8178642,
+      "yaw": 34.74339
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -27.8105278,
+      "z": 67.3975,
+      "scale": 0.877078533,
+      "yaw": 209.558762
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -29.8791027,
+      "z": 68.71487,
+      "scale": 0.8087334,
+      "yaw": 253.318756
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -24.219614,
+      "z": 71.44508,
+      "scale": 1.081013,
+      "yaw": 295.93277
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -24.2199268,
+      "z": 70.3952,
+      "scale": 1.09017837,
+      "yaw": 114.210434
+    },
+    {
+      "source": "BW_Environment02_Fern_A",
+      "x": -25.0167427,
+      "z": 67.923,
+      "scale": 1.11784649,
+      "yaw": 97.02096
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -25.4954071,
+      "z": 71.99504,
+      "scale": 0.998918653,
+      "yaw": 274.6552
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -27.603014,
+      "z": 68.66571,
+      "scale": 1.13264513,
+      "yaw": 32.19631
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -38.2809029,
+      "z": 78.26261,
+      "scale": 0.9226081,
+      "yaw": 151.622147
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -37.8478966,
+      "z": 78.74418,
+      "scale": 1.09173524,
+      "yaw": 18.8938828
+    },
+    {
+      "source": "BW_Environment02_Fern_A",
+      "x": -41.4382362,
+      "z": 75.68905,
+      "scale": 0.9845726,
+      "yaw": 320.766
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -42.6353073,
+      "z": 79.01675,
+      "scale": 0.81654644,
+      "yaw": 49.6642151
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -42.02153,
+      "z": 78.95596,
+      "scale": 1.088104,
+      "yaw": 190.29248
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -39.4075432,
+      "z": 76.44172,
+      "scale": 0.9957582,
+      "yaw": 223.623077
+    },
+    {
+      "source": "BW_Environment02_Bush_B",
+      "x": -40.47182,
+      "z": 74.94696,
+      "scale": 0.7088569,
+      "yaw": 99.82756
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -37.4195442,
+      "z": 78.25572,
+      "scale": 1.13986528,
+      "yaw": 189.388885
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -36.72224,
+      "z": 77.8880844,
+      "scale": 1.05181468,
+      "yaw": 350.293671
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -42.3232574,
+      "z": 77.94254,
+      "scale": 1.08761978,
+      "yaw": 257.0915
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -7.43815136,
+      "z": 67.4907455,
+      "scale": 1.04234076,
+      "yaw": 111.891922
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -7.106642,
+      "z": 72.63662,
+      "scale": 1.11124277,
+      "yaw": 186.406418
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -10.2350883,
+      "z": 72.1408,
+      "scale": 0.91329354,
+      "yaw": 141.687149
+    },
+    {
+      "source": "BW_Environment02_Fern_A",
+      "x": -9.30365,
+      "z": 72.347,
+      "scale": 0.892643869,
+      "yaw": 338.3999
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -11.7362881,
+      "z": 68.8392639,
+      "scale": 1.05823028,
+      "yaw": 82.01804
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -7.07236576,
+      "z": 70.45335,
+      "scale": 1.04434073,
+      "yaw": 354.72644
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -11.9644108,
+      "z": 78.45051,
+      "scale": 1.15993106,
+      "yaw": 42.5981369
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -15.1462069,
+      "z": 78.7159,
+      "scale": 0.987927735,
+      "yaw": 20.2021236
+    },
+    {
+      "source": "BW_Environment02_Bush_B",
+      "x": -14.6149654,
+      "z": 78.4473343,
+      "scale": 0.5942204,
+      "yaw": 82.29048
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -16.9683857,
+      "z": 80.5606,
+      "scale": 1.17882037,
+      "yaw": 155.359344
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -11.379879,
+      "z": 79.03836,
+      "scale": 0.8386125,
+      "yaw": 182.19162
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -14.1000357,
+      "z": 82.84046,
+      "scale": 1.06031585,
+      "yaw": 266.2333
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -16.5385246,
+      "z": 81.62927,
+      "scale": 1.03431356,
+      "yaw": 194.839828
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -15.4325991,
+      "z": 81.84304,
+      "scale": 1.0544802,
+      "yaw": 170.718567
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -11.7555571,
+      "z": 80.84248,
+      "scale": 1.00718713,
+      "yaw": 77.3837
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -33.66499,
+      "z": 82.91199,
+      "scale": 1.12950242,
+      "yaw": 77.16974
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -35.04967,
+      "z": 83.27391,
+      "scale": 0.98469,
+      "yaw": 120.69622
+    },
+    {
+      "source": "BW_Environment02_Bush_B",
+      "x": -34.30318,
+      "z": 88.19602,
+      "scale": 0.550770938,
+      "yaw": 333.874146
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -36.3439865,
+      "z": 84.10545,
+      "scale": 0.794041038,
+      "yaw": 55.7150764
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -34.27426,
+      "z": 82.85625,
+      "scale": 1.08328271,
+      "yaw": 75.70465
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -34.79718,
+      "z": 81.9632339,
+      "scale": 0.9650214,
+      "yaw": 352.295166
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -34.7180023,
+      "z": 82.7442,
+      "scale": 0.939464331,
+      "yaw": 343.4603
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -2.059798,
+      "z": 83.75945,
+      "scale": 1.11242414,
+      "yaw": 328.1885
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -4.988516,
+      "z": 84.91594,
+      "scale": 1.17140114,
+      "yaw": 181.45488
+    },
+    {
+      "source": "BW_Environment02_Bush_B",
+      "x": -3.7741437,
+      "z": 87.60956,
+      "scale": 0.6107783,
+      "yaw": 256.393982
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -4.928373,
+      "z": 88.32579,
+      "scale": 1.09141874,
+      "yaw": 92.09462
+    },
+    {
+      "source": "BW_Environment02_Fern_C",
+      "x": -6.429237,
+      "z": 86.9774551,
+      "scale": 0.9543132,
+      "yaw": 288.809052
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -5.82175732,
+      "z": 84.4754,
+      "scale": 0.982324958,
+      "yaw": 327.5601
+    },
+    {
+      "source": "BW_Environment02_Grass_A",
+      "x": -3.55558658,
+      "z": 82.85515,
+      "scale": 0.9853618,
+      "yaw": 111.467743
+    },
+    {
+      "source": "BW_Environment02_GrassDry_B",
+      "x": -3.19134045,
+      "z": 83.4055252,
+      "scale": 1.08265662,
+      "yaw": 345.705048
+    }
+  ],
+  "note": "Scene-local instances only, all meshes/materials/textures reused. Existing groups, proxy states and painted texels preserved."
+}

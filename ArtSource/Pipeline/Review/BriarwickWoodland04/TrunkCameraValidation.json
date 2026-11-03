@@ -1,0 +1,430 @@
+{
+  "method": "Automated existing CharacterController.Move trunk blocking and camera-equivalent sphere casts, not manual camera comfort",
+  "trunks": [
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -28.0,
+      "z": 52.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.576400757,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -28.0,
+      "z": 52.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.576400757,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 57.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.57859993,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 57.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.57859993,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -33.0,
+      "z": 63.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.695999146,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -33.0,
+      "z": 63.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.695999146,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -27.0,
+      "z": 70.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7152004,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -27.0,
+      "z": 70.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7152004,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -40.0,
+      "z": 78.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.728000641,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -40.0,
+      "z": 78.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.728000641,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -9.0,
+      "z": 70.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.602800369,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -9.0,
+      "z": 70.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.602800369,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -14.0,
+      "z": 80.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7088003,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -14.0,
+      "z": 80.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7088003,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -34.0,
+      "z": 85.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7024002,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -34.0,
+      "z": 85.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7024002,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 86.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.5984001,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -4.0,
+      "z": 86.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.5984001,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -45.0,
+      "z": 68.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6895981,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -45.0,
+      "z": 68.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6895981,
+      "grounded": true
+    }
+  ],
+  "allTrunksBlock": true,
+  "cameraSamples": [
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    }
+  ],
+  "minimumCameraDistance": 4.0,
+  "normalStateRestored": true
+}

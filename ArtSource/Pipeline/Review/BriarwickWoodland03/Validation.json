@@ -1,0 +1,181 @@
+{
+  "activeDifferences": [
+    "Woodland01 - Mini Nature limited review/Woodland01_Remainder_Canopy",
+    "Woodland01 - Mini Nature limited review/Woodland01_Remainder_Trunks"
+  ],
+  "heightsIdentical": true,
+  "paintedTexels": 1514,
+  "paintOutsideTestBounds": 0,
+  "alphamapMaxSumError": 0.007843137,
+  "minimumWeight": 0.0,
+  "selectedTextures": [
+    {
+      "path": "Assets/Mini Nature Pack/Models/Tree 8_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Tree 6_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Tree 1_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Tree 4_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Bush1_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Bush3_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/Mini Nature Pack/Models/Bush4_Textures/diffuse.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    }
+  ],
+  "selectedRuntimeBytes": 92296224,
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "sceneSaved": true,
+  "preexistingObjectsChecked": 552,
+  "preexistingComponentDifferences": [
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree1 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree4 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree6 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree8 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree1 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree4 UnityEngine.MeshRenderer",
+    "Woodland01 - Mini Nature limited review/BW_Woodland01_Tree6 UnityEngine.MeshRenderer"
+  ],
+  "vegetationInstances": 205,
+  "triangles": 72143,
+  "renderers": 205,
+  "baseSubmeshSubmissions": 232,
+  "sharedMaterials": 16,
+  "trunkColliders": 25,
+  "defects": [],
+  "buildingBoundsIntersections": []
+}
