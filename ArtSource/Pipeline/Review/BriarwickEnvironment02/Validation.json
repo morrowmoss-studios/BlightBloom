@@ -1,0 +1,120 @@
+{
+  "heightsIdentical": true,
+  "paintedTexels": 699,
+  "paintOutsideTestBounds": 0,
+  "alphamapMaxSumError": 0.003921747,
+  "minimumWeight": 0.0,
+  "selectedTextures": [
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "runtimeBytes": 11185840
+    }
+  ],
+  "selectedRuntimeBytes": 72715600,
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "sceneSaved": true,
+  "preexistingObjectsChecked": 497,
+  "preexistingComponentDifferences": [],
+  "vegetationInstances": 54,
+  "triangles": 12534,
+  "renderers": 54,
+  "baseSubmeshSubmissions": 54,
+  "sharedMaterials": 4,
+  "trunkColliders": 0,
+  "defects": [],
+  "buildingBoundsIntersections": []
+}

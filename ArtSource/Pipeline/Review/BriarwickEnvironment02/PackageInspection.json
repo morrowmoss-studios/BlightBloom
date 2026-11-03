@@ -1,0 +1,1678 @@
+{
+  "prefabs": [
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Bush_A.prefab",
+      "triangles": 362,
+      "bounds": "Center: (0.00, 0.44, 0.00), Extents: (0.30, 0.44, 0.35)",
+      "materials": [
+        {
+          "name": "Bush",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Bush_A.prefab",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Materials/Bush.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/Models/Bush_A.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Bush_B.prefab",
+      "triangles": 273,
+      "bounds": "Center: (0.00, 0.39, 0.00), Extents: (0.41, 0.41, 0.37)",
+      "materials": [
+        {
+          "name": "Bush",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Prefabs/Bush_B.prefab",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Models/Bush_B.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Materials/Bush.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/BushDry_A.prefab",
+      "triangles": 640,
+      "bounds": "Center: (0.00, 0.50, 0.00), Extents: (0.46, 0.51, 0.37)",
+      "materials": [
+        {
+          "name": "BushDry",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_MaskMap.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/BushDry.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Prefabs/BushDry_A.prefab",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Models/BushDry_A.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/BushDry_B.prefab",
+      "triangles": 792,
+      "bounds": "Center: (0.00, 0.54, 0.00), Extents: (0.60, 0.55, 0.54)",
+      "materials": [
+        {
+          "name": "BushDry",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/BushDry_B.prefab",
+        "Assets/TerrainSampleAssets/Models/BushDry_B.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_MaskMap.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/BushDry.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/BushDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Fern_A.prefab",
+      "triangles": 360,
+      "bounds": "Center: (0.00, 0.14, 0.00), Extents: (0.47, 0.17, 0.46)",
+      "materials": [
+        {
+          "name": "Fern",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Prefabs/Fern_A.prefab",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_MaskMap.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Models/Fern_A.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/Fern.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Thickness.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Fern_B.prefab",
+      "triangles": 464,
+      "bounds": "Center: (0.00, 0.11, 0.00), Extents: (0.46, 0.13, 0.44)",
+      "materials": [
+        {
+          "name": "Fern",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Fern_B.prefab",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_MaskMap.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/Fern.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Models/Fern_B.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Thickness.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Fern_C.prefab",
+      "triangles": 384,
+      "bounds": "Center: (0.00, 0.18, 0.00), Extents: (0.50, 0.20, 0.50)",
+      "materials": [
+        {
+          "name": "Fern",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Prefabs/Fern_C.prefab",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Models/Fern_C.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_MaskMap.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/Fern.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Fern_Thickness.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Grass_A.prefab",
+      "triangles": 128,
+      "bounds": "Center: (0.00, 0.11, 0.00), Extents: (0.15, 0.15, 0.16)",
+      "materials": [
+        {
+          "name": "Grass",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Thickness.tif",
+        "Assets/TerrainSampleAssets/Materials/Grass.asset",
+        "Assets/TerrainSampleAssets/Prefabs/Grass_A.prefab",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Models/Grass_A.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Grass_B.prefab",
+      "triangles": 1136,
+      "bounds": "Center: (0.00, 0.15, 0.00), Extents: (0.48, 0.20, 0.52)",
+      "materials": [
+        {
+          "name": "Grass",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Models/Grass_B.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Thickness.tif",
+        "Assets/TerrainSampleAssets/Materials/Grass.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_A_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Grass_B.prefab"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Grass_C.prefab",
+      "triangles": 1002,
+      "bounds": "Center: (0.00, 0.30, 0.00), Extents: (0.48, 0.30, 0.44)",
+      "materials": [
+        {
+          "name": "Grass_C",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Models/Grass_C.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/Grass_C.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_MaskMap.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Thickness.tif",
+        "Assets/TerrainSampleAssets/Prefabs/Grass_C.prefab",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_BaseColor.tif"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Grass_D.prefab",
+      "triangles": 1268,
+      "bounds": "Center: (0.00, 0.36, 0.00), Extents: (0.47, 0.38, 0.45)",
+      "materials": [
+        {
+          "name": "Grass_C",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/Grass_C.asset",
+        "Assets/TerrainSampleAssets/Models/Grass_D.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_MaskMap.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Normal.tif",
+        "Assets/TerrainSampleAssets/Prefabs/Grass_D.prefab",
+        "Assets/TerrainSampleAssets/Textures/Details/Grass_C_BaseColor.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/GrassDry_A.prefab",
+      "triangles": 173,
+      "bounds": "Center: (0.00, 0.25, 0.00), Extents: (0.21, 0.28, 0.17)",
+      "materials": [
+        {
+          "name": "GrassDry",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Models/GrassDry_A.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/GrassDry.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/GrassDry_A.prefab"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/GrassDry_B.prefab",
+      "triangles": 168,
+      "bounds": "Center: (0.00, 0.18, 0.00), Extents: (0.19, 0.19, 0.18)",
+      "materials": [
+        {
+          "name": "GrassDry",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Models/GrassDry_B.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Prefabs/GrassDry_B.prefab",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/GrassDry.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/GrassDry_C.prefab",
+      "triangles": 122,
+      "bounds": "Center: (0.00, 0.33, 0.00), Extents: (0.29, 0.35, 0.28)",
+      "materials": [
+        {
+          "name": "GrassDry",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+        "Assets/TerrainSampleAssets/Models/GrassDry_C.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/Materials/GrassDry.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/GrassDry_C.prefab",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Heather_A.prefab",
+      "triangles": 268,
+      "bounds": "Center: (0.00, 0.43, 0.00), Extents: (0.55, 0.50, 0.51)",
+      "materials": [
+        {
+          "name": "Heather",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_MaskMap.tif",
+        "Assets/TerrainSampleAssets/Prefabs/Heather_A.prefab",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Models/Heather_A.asset",
+        "Assets/TerrainSampleAssets/Materials/Heather.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Heather_B.prefab",
+      "triangles": 396,
+      "bounds": "Center: (0.00, 0.34, 0.00), Extents: (0.61, 0.50, 0.66)",
+      "materials": [
+        {
+          "name": "Heather",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_MaskMap.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Normal.tif",
+        "Assets/TerrainSampleAssets/Materials/Heather.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Thickness.tif",
+        "Assets/TerrainSampleAssets/Models/Heather_B.asset",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Heather_A_BaseColor.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Heather_B.prefab"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Plant_A.prefab",
+      "triangles": 260,
+      "bounds": "Center: (0.00, 0.41, 0.00), Extents: (0.20, 0.47, 0.24)",
+      "materials": [
+        {
+          "name": "Plant",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Models/Plant_A.asset",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/Plant.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Plant_A.prefab"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Plant_B.prefab",
+      "triangles": 145,
+      "bounds": "Center: (0.00, 0.42, 0.00), Extents: (0.12, 0.48, 0.10)",
+      "materials": [
+        {
+          "name": "Plant",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Models/Plant_B.asset",
+        "Assets/TerrainSampleAssets/Materials/Plant.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Prefabs/Plant_B.prefab",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Plant_C.prefab",
+      "triangles": 128,
+      "bounds": "Center: (0.00, 0.37, 0.00), Extents: (0.16, 0.42, 0.05)",
+      "materials": [
+        {
+          "name": "Plant",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/Plant.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif",
+        "Assets/TerrainSampleAssets/Models/Plant_C.asset",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/Prefabs/Plant_C.prefab",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Prefabs/Plant_D.prefab",
+      "triangles": 61,
+      "bounds": "Center: (0.00, 0.20, 0.00), Extents: (0.11, 0.22, 0.03)",
+      "materials": [
+        {
+          "name": "Plant",
+          "shader": "Shader Graphs/TerrainGrass",
+          "supported": true
+        }
+      ],
+      "dependencies": [
+        "Assets/TerrainSampleAssets/Prefabs/Plant_D.prefab",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Normal.tif",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/PipelineSwitch.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/MainLight.shadersubgraph",
+        "Assets/TerrainSampleAssets/Materials/Plant.asset",
+        "Packages/com.unity.shadergraph/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/BuiltInMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/CustomFunctions/CustomLighting.hlsl",
+        "Assets/TerrainSampleAssets/Models/Plant_D.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/Wind.shadersubgraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphMetadata.cs",
+        "Packages/com.unity.shadergraph/Editor/Data/SubGraph/SubGraphAsset.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/URPSSS.shadersubgraph",
+        "Assets/TerrainSampleAssets/ShaderGraphs/TerrainGrass.shadergraph",
+        "Assets/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderGraphImporter.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/RandomFromPosition.shadersubgraph",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphImporter.cs",
+        "Packages/com.unity.shadergraph/Editor/Importers/ShaderSubGraphMetadata.cs",
+        "Packages/com.unity.render-pipelines.universal/Editor/ShaderGraph/UniversalMetadata.cs",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/DistanceCutoff.shadersubgraph",
+        "Assets/TerrainSampleAssets/Settings/FoliageDiffusionProfile.asset",
+        "Assets/TerrainSampleAssets/ShaderGraphs/Subgraphs/AnimatedGrassPhase.shadersubgraph"
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Black_Sand_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Grass_A_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Grass_B_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Grass_Dry_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Grass_Moss_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_MaskMap.tif",
+      "tile": "(2.00, 2.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Grass_Soil_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_MaskMap.tif",
+      "tile": "(4.00, 4.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Heather_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Muddy_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Pebbles_A_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Pebbles_B_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_MaskMap.tif",
+      "tile": "(10.00, 10.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Pebbles_C_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Rock_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_MaskMap.tif",
+      "tile": "(4.00, 4.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Sand_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Snow_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Soil_Rocks_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/TerrainLayers/Tidal_Pools_TerrainLayer.terrainlayer",
+      "diffuse": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_BaseColor.tif",
+      "normal": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_Normal.tif",
+      "mask": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_MaskMap.tif",
+      "tile": "(1.00, 1.00)"
+    }
+  ],
+  "textures": [
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Bush_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/BushDry_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/BushDry_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/BushDry_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/BushDry_Thickness.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC4",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 700040
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 4096,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Fern_Thickness.tif",
+      "width": 512,
+      "height": 512,
+      "format": "BC4",
+      "maxTextureSize": 512,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 350528
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_A_Thickness.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC4",
+      "maxTextureSize": 512,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 700040
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_C_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_C_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Grass_C_Thickness.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC4",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 700040
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_MaskMap.tif",
+      "width": 512,
+      "height": 512,
+      "format": "BC7",
+      "maxTextureSize": 512,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 350528
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/GrassDry_Thickness.tif",
+      "width": 512,
+      "height": 512,
+      "format": "BC4",
+      "maxTextureSize": 512,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 175752
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_MaskMap.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Thickness.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC4",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 700040
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Plant_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Plant_MaskMap.tif",
+      "width": 512,
+      "height": 512,
+      "format": "BC7",
+      "maxTextureSize": 512,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 350528
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Plant_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 1399104
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Plant_Thickness.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC4",
+      "maxTextureSize": 1024,
+      "sRGBTexture": false,
+      "type": "SingleChannel",
+      "runtimeBytes": 700040
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Black_Sand_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_B_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Moss_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Soil_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Heather_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_A_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_B_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Pebbles_C_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Sand_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Snow_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Soil_Rocks_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_BaseColor.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "maxTextureSize": 2048,
+      "sRGBTexture": true,
+      "type": "Default",
+      "runtimeBytes": 5593408
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_MaskMap.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT5",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "Default",
+      "runtimeBytes": 11185840
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Terrain/Tidal_Pools_Normal.tif",
+      "width": 2048,
+      "height": 2048,
+      "format": "BC7",
+      "maxTextureSize": 2048,
+      "sRGBTexture": false,
+      "type": "NormalMap",
+      "runtimeBytes": 11185840
+    }
+  ],
+  "terrain": {
+    "path": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Terrain/Briarwick_Valley.asset",
+    "size": "(320.00, 48.00, 320.00)",
+    "alphamapResolution": 256,
+    "shader": "Universal Render Pipeline/Terrain/Lit"
+  }
+}

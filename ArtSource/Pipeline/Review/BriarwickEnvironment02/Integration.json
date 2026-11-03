@@ -1,0 +1,340 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "paintedTexels": 699,
+  "terrainSize": "(320.00, 48.00, 320.00)",
+  "terrainLayers": [
+    "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Terrain/ValleyGrass.terrainlayer",
+    "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Grass_Moss.terrainlayer",
+    "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Grass_Soil.terrainlayer",
+    "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Pebbles_A.terrainlayer"
+  ],
+  "placements": [
+    {
+      "type": "Grass_A",
+      "x": -38.2120132,
+      "z": 96.68386,
+      "scale": 1.13511527
+    },
+    {
+      "type": "Fern_A",
+      "x": -38.9339752,
+      "z": 94.66111,
+      "scale": 1.22433615
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.1554642,
+      "z": 98.3859253,
+      "scale": 1.201004
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -38.3371277,
+      "z": 94.03241,
+      "scale": 0.9839933
+    },
+    {
+      "type": "Fern_C",
+      "x": -36.68912,
+      "z": 94.9371262,
+      "scale": 0.940169334
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.0386963,
+      "z": 92.28181,
+      "scale": 1.30732989
+    },
+    {
+      "type": "Bush_B",
+      "x": -40.6460342,
+      "z": 96.38951,
+      "scale": 0.833512664
+    },
+    {
+      "type": "Fern_A",
+      "x": -38.65256,
+      "z": 91.58172,
+      "scale": 1.27632964
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.0334167,
+      "z": 94.77808,
+      "scale": 1.30060756
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -35.04834,
+      "z": 98.0981,
+      "scale": 1.02124679
+    },
+    {
+      "type": "Fern_C",
+      "x": -36.85552,
+      "z": 91.78345,
+      "scale": 1.19525421
+    },
+    {
+      "type": "Grass_A",
+      "x": -39.0694656,
+      "z": 97.92793,
+      "scale": 1.21771216
+    },
+    {
+      "type": "Fern_A",
+      "x": -38.1520348,
+      "z": 98.88156,
+      "scale": 1.193265
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.3504448,
+      "z": 98.1275558,
+      "scale": 1.23789144
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -38.613472,
+      "z": 98.53574,
+      "scale": 0.9547462
+    },
+    {
+      "type": "Fern_C",
+      "x": -38.77141,
+      "z": 91.5531,
+      "scale": 0.8799711
+    },
+    {
+      "type": "Bush_B",
+      "x": -35.8182831,
+      "z": 91.77836,
+      "scale": 0.8001451
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.92389,
+      "z": 98.11792,
+      "scale": 1.07097554
+    },
+    {
+      "type": "Grass_A",
+      "x": -21.72331,
+      "z": 100.17,
+      "scale": 1.15026081
+    },
+    {
+      "type": "Fern_A",
+      "x": -19.78738,
+      "z": 99.27235,
+      "scale": 1.05269527
+    },
+    {
+      "type": "Grass_A",
+      "x": -17.5198936,
+      "z": 104.529625,
+      "scale": 1.17023814
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -17.8119469,
+      "z": 104.449417,
+      "scale": 1.27387333
+    },
+    {
+      "type": "Fern_C",
+      "x": -20.02852,
+      "z": 103.163971,
+      "scale": 1.0618856
+    },
+    {
+      "type": "Grass_A",
+      "x": -23.4188251,
+      "z": 102.663574,
+      "scale": 1.30606437
+    },
+    {
+      "type": "Bush_B",
+      "x": -22.1885719,
+      "z": 102.989769,
+      "scale": 0.7886881
+    },
+    {
+      "type": "Fern_A",
+      "x": -20.5179,
+      "z": 104.795807,
+      "scale": 1.26436567
+    },
+    {
+      "type": "Grass_A",
+      "x": -22.69201,
+      "z": 103.975395,
+      "scale": 1.25858271
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -17.0081978,
+      "z": 102.055229,
+      "scale": 0.920324445
+    },
+    {
+      "type": "Fern_C",
+      "x": -22.4845467,
+      "z": 104.543541,
+      "scale": 1.158135
+    },
+    {
+      "type": "Grass_A",
+      "x": -18.9492645,
+      "z": 104.963593,
+      "scale": 1.01916838
+    },
+    {
+      "type": "Fern_A",
+      "x": -18.960165,
+      "z": 98.85354,
+      "scale": 0.984547257
+    },
+    {
+      "type": "Grass_A",
+      "x": -18.92072,
+      "z": 103.808327,
+      "scale": 1.21376348
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -21.4500523,
+      "z": 99.8344955,
+      "scale": 1.22133577
+    },
+    {
+      "type": "Fern_C",
+      "x": -22.8881035,
+      "z": 105.120567,
+      "scale": 1.076048
+    },
+    {
+      "type": "Bush_B",
+      "x": -22.7378731,
+      "z": 100.067062,
+      "scale": 0.786757
+    },
+    {
+      "type": "Grass_A",
+      "x": -21.9135914,
+      "z": 102.305878,
+      "scale": 1.080462
+    },
+    {
+      "type": "Grass_A",
+      "x": -33.4424248,
+      "z": 104.941795,
+      "scale": 1.31604481
+    },
+    {
+      "type": "Fern_A",
+      "x": -32.444603,
+      "z": 108.494537,
+      "scale": 1.23653293
+    },
+    {
+      "type": "Grass_A",
+      "x": -32.37415,
+      "z": 106.027969,
+      "scale": 1.310983
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -33.1218643,
+      "z": 106.41362,
+      "scale": 1.1837647
+    },
+    {
+      "type": "Fern_C",
+      "x": -36.8147278,
+      "z": 104.259781,
+      "scale": 1.32100534
+    },
+    {
+      "type": "Grass_A",
+      "x": -35.150444,
+      "z": 104.664787,
+      "scale": 0.9324906
+    },
+    {
+      "type": "Bush_B",
+      "x": -32.36644,
+      "z": 108.242668,
+      "scale": 0.8461925
+    },
+    {
+      "type": "Fern_A",
+      "x": -32.8601265,
+      "z": 106.304817,
+      "scale": 1.28901291
+    },
+    {
+      "type": "Grass_A",
+      "x": -39.06677,
+      "z": 107.466461,
+      "scale": 1.04188418
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -34.22602,
+      "z": 111.053986,
+      "scale": 0.851342
+    },
+    {
+      "type": "Fern_C",
+      "x": -33.7272034,
+      "z": 105.934235,
+      "scale": 1.13964593
+    },
+    {
+      "type": "Grass_A",
+      "x": -35.770195,
+      "z": 106.374557,
+      "scale": 1.33960569
+    },
+    {
+      "type": "Fern_A",
+      "x": -35.9672241,
+      "z": 108.108009,
+      "scale": 1.31692934
+    },
+    {
+      "type": "Grass_A",
+      "x": -36.35008,
+      "z": 109.712631,
+      "scale": 1.32767284
+    },
+    {
+      "type": "GrassDry_B",
+      "x": -36.6798172,
+      "z": 106.126221,
+      "scale": 0.871144235
+    },
+    {
+      "type": "Fern_C",
+      "x": -33.74922,
+      "z": 109.912979,
+      "scale": 1.00564706
+    },
+    {
+      "type": "Bush_B",
+      "x": -33.5254936,
+      "z": 108.690674,
+      "scale": 0.894733548
+    },
+    {
+      "type": "Grass_A",
+      "x": -35.1397247,
+      "z": 110.667328,
+      "scale": 0.940046132
+    }
+  ],
+  "triangles": 12534,
+  "renderers": 54,
+  "paintedTexelsBeforeStorageQuantization": 714
+}
