@@ -1,0 +1,203 @@
+{
+  "existingSceneComponentsUnchanged": true,
+  "comparedObjects": 446,
+  "placeholderRetainedInactive": true,
+  "meshes": [
+    {
+      "name": "Plaster",
+      "triangles": 552,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Timber",
+      "triangles": 1548,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "MainDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "ServiceDoor",
+      "triangles": 4556,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Windows",
+      "triangles": 1380,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Foundation",
+      "triangles": 132,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Steps",
+      "triangles": 36,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "PorchTimber",
+      "triangles": 304,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Chimney",
+      "triangles": 804,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "RoofDeck",
+      "triangles": 86,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    },
+    {
+      "name": "Shingles",
+      "triangles": 2758,
+      "validUV": true,
+      "validNormals": true,
+      "degenerate": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "BW_ElderCottage01_Plaster",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_wood2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_doors",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_metals",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_glass",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_wood3",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_rock2",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_firewood",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_interior_roof",
+      "supported": true,
+      "missingTextures": 0
+    },
+    {
+      "name": "BW_ElderCottage01_Shingle",
+      "supported": true,
+      "missingTextures": 0
+    }
+  ],
+  "entries": [
+    {
+      "role": "Main doorway",
+      "width": 1.40000033,
+      "height": 2.40000081
+    },
+    {
+      "role": "Rear service doorway",
+      "width": 1.30000019,
+      "height": 2.300001
+    }
+  ],
+  "triangleCount": 16712,
+  "worldBoundsSize": [
+    9.714044,
+    6.494625,
+    10.9875641
+  ],
+  "groundContacts": [
+    {
+      "x": -4.0,
+      "z": -3.5,
+      "terrainRelativeToFloor": 0.000548839569
+    },
+    {
+      "x": -4.0,
+      "z": 0.5,
+      "terrainRelativeToFloor": -1.76429749E-05
+    },
+    {
+      "x": -4.0,
+      "z": 4.5,
+      "terrainRelativeToFloor": -0.000337123871
+    },
+    {
+      "x": 0.0,
+      "z": -3.5,
+      "terrainRelativeToFloor": -0.000257492065
+    },
+    {
+      "x": 0.0,
+      "z": 0.5,
+      "terrainRelativeToFloor": -0.000257492065
+    },
+    {
+      "x": 0.0,
+      "z": 4.5,
+      "terrainRelativeToFloor": -0.000257492065
+    },
+    {
+      "x": 3.4,
+      "z": -3.5,
+      "terrainRelativeToFloor": -0.000257492065
+    },
+    {
+      "x": 3.4,
+      "z": 0.5,
+      "terrainRelativeToFloor": -0.000257492065
+    },
+    {
+      "x": 3.4,
+      "z": 4.5,
+      "terrainRelativeToFloor": -0.000257492065
+    }
+  ],
+  "staticClosedDoorLeaves": true,
+  "completeInterior": false
+}

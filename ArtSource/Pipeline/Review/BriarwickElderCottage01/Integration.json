@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/ElderCottage01/Prefabs/BW_ElderCottage01.prefab",
+  "placeholderRetainedInactive": "06 Village elders cottage PLACEHOLDER",
+  "position": [
+    5.0,
+    5.86877966,
+    42.0
+  ],
+  "yaw": 190.0,
+  "triangles": 16702,
+  "renderers": 11,
+  "materials": 10
+}
