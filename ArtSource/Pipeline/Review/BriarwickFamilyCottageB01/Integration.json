@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "prefab": "Assets/BlightBloom/Art/Architecture/Briarwick/FamilyCottageB01/Prefabs/BW_FamilyCottageB01.prefab",
+  "placeholderRetainedInactive": "11 Family cottage B PLACEHOLDER",
+  "position": [
+    25.0,
+    6.037371,
+    43.0
+  ],
+  "yaw": 210.0,
+  "triangles": 15900,
+  "renderers": 11,
+  "materials": 10
+}
