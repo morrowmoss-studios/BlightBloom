@@ -1,0 +1,38 @@
+{
+  "requested": [
+    30428,
+    41246,
+    5663,
+    1695
+  ],
+  "actual": [
+    30428,
+    41246,
+    5663,
+    1695
+  ],
+  "types": [
+    "Grass_A",
+    "GrassDry_B",
+    "Fern_A",
+    "Heather_A"
+  ],
+  "regionsCount": {
+    "ForestEdges": 23252,
+    "Hillsides": 32676,
+    "Meadowland": 14546,
+    "CreekCorridor": 5610,
+    "VillageCore": 2948
+  },
+  "resolution": 512,
+  "patch": 16,
+  "distance": 95,
+  "instanced": true,
+  "prototypeTriangles": [
+    128,
+    168,
+    360,
+    268
+  ],
+  "potentialTriangles": 13317052
+}

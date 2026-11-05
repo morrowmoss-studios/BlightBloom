@@ -1,0 +1,155 @@
+{
+  "Woodland entrance": {
+    "samples": 120,
+    "mainThreadNs": {
+      "min": 6032250,
+      "median": 47439041.5,
+      "p95": 106771541,
+      "max": 138742208
+    },
+    "triangles": {
+      "min": 4556380,
+      "median": 4556380.0,
+      "p95": 4556380,
+      "max": 4556380
+    },
+    "vertices": {
+      "min": 4799838,
+      "median": 4799838.0,
+      "p95": 4799838,
+      "max": 4799838
+    },
+    "setPassCalls": {
+      "min": 70,
+      "median": 70.0,
+      "p95": 70,
+      "max": 70
+    },
+    "editorDrawCalls": {
+      "min": 1955,
+      "median": 1955.0,
+      "p95": 1955,
+      "max": 1955
+    },
+    "allocatedBytes": {
+      "min": 4881042637,
+      "median": 4889391328.0,
+      "p95": 4889515284,
+      "max": 4889589860
+    },
+    "reservedBytes": {
+      "min": 5807490221,
+      "median": 5815960749.0,
+      "p95": 5815960749,
+      "max": 5815960749
+    },
+    "managedBytes": {
+      "min": 935899136,
+      "median": 935956480.0,
+      "p95": 936013824,
+      "max": 936022016
+    }
+  },
+  "Open meadow": {
+    "samples": 120,
+    "mainThreadNs": {
+      "min": 7443000,
+      "median": 48290146.0,
+      "p95": 162779084,
+      "max": 257564750
+    },
+    "triangles": {
+      "min": 8383103,
+      "median": 8383103.0,
+      "p95": 8383103,
+      "max": 8383103
+    },
+    "vertices": {
+      "min": 9382633,
+      "median": 9382633.0,
+      "p95": 9382633,
+      "max": 9382633
+    },
+    "setPassCalls": {
+      "min": 85,
+      "median": 85.0,
+      "p95": 85,
+      "max": 85
+    },
+    "editorDrawCalls": {
+      "min": 2852,
+      "median": 2852.0,
+      "p95": 2852,
+      "max": 2852
+    },
+    "allocatedBytes": {
+      "min": 4898813241,
+      "median": 4907084585.0,
+      "p95": 4907291177,
+      "max": 4907404157
+    },
+    "reservedBytes": {
+      "min": 5825850269,
+      "median": 5834320797.0,
+      "p95": 5834320797,
+      "max": 5834320797
+    },
+    "managedBytes": {
+      "min": 936103936,
+      "median": 936261632.0,
+      "p95": 936407040,
+      "max": 936423424
+    }
+  },
+  "Village approach": {
+    "samples": 120,
+    "mainThreadNs": {
+      "min": 6358417,
+      "median": 53215062.5,
+      "p95": 112449708,
+      "max": 145760625
+    },
+    "triangles": {
+      "min": 7034706,
+      "median": 7034706.0,
+      "p95": 7034706,
+      "max": 7034706
+    },
+    "vertices": {
+      "min": 6450496,
+      "median": 6450496.0,
+      "p95": 6450496,
+      "max": 6450496
+    },
+    "setPassCalls": {
+      "min": 78,
+      "median": 78.0,
+      "p95": 78,
+      "max": 78
+    },
+    "editorDrawCalls": {
+      "min": 2138,
+      "median": 2138.0,
+      "p95": 2138,
+      "max": 2138
+    },
+    "allocatedBytes": {
+      "min": 4897497683,
+      "median": 4901461435.0,
+      "p95": 4909766987,
+      "max": 4909792627
+    },
+    "reservedBytes": {
+      "min": 5822194205,
+      "median": 5826552349.0,
+      "p95": 5834940957,
+      "max": 5834940957
+    },
+    "managedBytes": {
+      "min": 936505344,
+      "median": 936718336.0,
+      "p95": 937074688,
+      "max": 937115648
+    }
+  }
+}

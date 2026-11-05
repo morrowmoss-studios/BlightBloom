@@ -1,0 +1,174 @@
+{
+  "duration": 24.996057499956805,
+  "samples": 720,
+  "views": {
+    "Before Woodland": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 28861833.5,
+        "p95": 47189167
+      },
+      "triangles": {
+        "median": 5663162.0,
+        "p95": 5663162
+      },
+      "setPassCalls": {
+        "median": 80.0,
+        "p95": 80
+      },
+      "editorDrawCalls": {
+        "median": 1817.0,
+        "p95": 1817
+      },
+      "allocatedBytes": {
+        "median": 5141218599.0,
+        "p95": 5147663199
+      },
+      "reservedBytes": {
+        "median": 5922497083.0,
+        "p95": 5922497083
+      }
+    },
+    "Before Meadow": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 29693625.0,
+        "p95": 49659042
+      },
+      "triangles": {
+        "median": 5368783.0,
+        "p95": 5368783
+      },
+      "setPassCalls": {
+        "median": 64.0,
+        "p95": 64
+      },
+      "editorDrawCalls": {
+        "median": 1248.0,
+        "p95": 1248
+      },
+      "allocatedBytes": {
+        "median": 5021763409.0,
+        "p95": 5023680841
+      },
+      "reservedBytes": {
+        "median": 5919237563.0,
+        "p95": 5923431867
+      }
+    },
+    "Before Village": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 22936542.0,
+        "p95": 36299416
+      },
+      "triangles": {
+        "median": 5192564.0,
+        "p95": 5192564
+      },
+      "setPassCalls": {
+        "median": 78.0,
+        "p95": 78
+      },
+      "editorDrawCalls": {
+        "median": 1584.0,
+        "p95": 1584
+      },
+      "allocatedBytes": {
+        "median": 5023195299.5,
+        "p95": 5025652776
+      },
+      "reservedBytes": {
+        "median": 5919066475.0,
+        "p95": 5919066475
+      }
+    },
+    "After Woodland": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 28159250.0,
+        "p95": 44814500
+      },
+      "triangles": {
+        "median": 5686490.0,
+        "p95": 5686490
+      },
+      "setPassCalls": {
+        "median": 82.0,
+        "p95": 82
+      },
+      "editorDrawCalls": {
+        "median": 1998.0,
+        "p95": 1998
+      },
+      "allocatedBytes": {
+        "median": 5024712843.0,
+        "p95": 5028835327
+      },
+      "reservedBytes": {
+        "median": 5918698731.0,
+        "p95": 5922893035
+      }
+    },
+    "After Meadow": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 29404583.5,
+        "p95": 45898000
+      },
+      "triangles": {
+        "median": 5385775.0,
+        "p95": 5385775
+      },
+      "setPassCalls": {
+        "median": 66.0,
+        "p95": 66
+      },
+      "editorDrawCalls": {
+        "median": 1402.0,
+        "p95": 1402
+      },
+      "allocatedBytes": {
+        "median": 5028396939.0,
+        "p95": 5028493517
+      },
+      "reservedBytes": {
+        "median": 5919447003.0,
+        "p95": 5919447003
+      }
+    },
+    "After Village": {
+      "samples": 120,
+      "focusedSamples": 120,
+      "mainThreadNs": {
+        "median": 23175104.0,
+        "p95": 38538125
+      },
+      "triangles": {
+        "median": 5235140.0,
+        "p95": 5235140
+      },
+      "setPassCalls": {
+        "median": 82.0,
+        "p95": 82
+      },
+      "editorDrawCalls": {
+        "median": 1773.0,
+        "p95": 1773
+      },
+      "allocatedBytes": {
+        "median": 5033263428.0,
+        "p95": 5033444048
+      },
+      "reservedBytes": {
+        "median": 5919321067.0,
+        "p95": 5919321067
+      }
+    }
+  }
+}

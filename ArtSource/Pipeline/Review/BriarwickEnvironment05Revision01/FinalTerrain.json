@@ -1,0 +1,54 @@
+{
+  "paintedTexels": 61112,
+  "totalTexels": 65536,
+  "layerMeanWeights": [
+    0.035570932008305078,
+    0.062902356349106014,
+    0.10113525912089472,
+    0.038574281008038724,
+    0.37945474972904947,
+    0.26413671463043187,
+    0.077427168914219635,
+    0.041940668988033281
+  ],
+  "currentLayers": [
+    "BW_Environment02_BaseGrass",
+    "BW_Environment02_Grass_Moss",
+    "BW_Environment02_Grass_Soil",
+    "BW_Environment02_Pebbles_A",
+    "BW_Revision01_Grass_A",
+    "BW_Revision01_Grass_Dry",
+    "BW_Revision01_Rock",
+    "BW_Revision01_Muddy"
+  ],
+  "prototypes": [
+    {
+      "name": "BW_Environment02_Grass_A",
+      "minWidth": 1.8,
+      "maxWidth": 2.8,
+      "minHeight": 1.5,
+      "maxHeight": 2.4
+    },
+    {
+      "name": "BW_Environment02_GrassDry_B",
+      "minWidth": 1.8,
+      "maxWidth": 2.8,
+      "minHeight": 1.5,
+      "maxHeight": 2.4
+    },
+    {
+      "name": "BW_Environment02_Fern_A",
+      "minWidth": 0.65,
+      "maxWidth": 0.95,
+      "minHeight": 0.65,
+      "maxHeight": 1.05
+    },
+    {
+      "name": "BW_Revision01_Heather",
+      "minWidth": 0.65,
+      "maxWidth": 0.95,
+      "minHeight": 0.65,
+      "maxHeight": 1.05
+    }
+  ]
+}

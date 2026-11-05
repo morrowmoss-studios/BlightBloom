@@ -1,0 +1,125 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "saved": true,
+  "isUpdating": false,
+  "isCompiling": false,
+  "dependencyCount": 912,
+  "missingDeps": [],
+  "missingPrefabs": [],
+  "failedRevisionImports": [],
+  "badShaders": [],
+  "badAlpha": 0,
+  "paintedTexels": 61112,
+  "paintingMatchesRecordedFinal": true,
+  "regions": {
+    "ForestEdges": 23252,
+    "Hillsides": 32676,
+    "Meadowland": 14546,
+    "CreekCorridor": 5610,
+    "VillageCore": 2948
+  },
+  "regionsMatch": true,
+  "newTrees": 51,
+  "coveredByExistingTrees": 7,
+  "treeIssues": [],
+  "proxyActiveStates": [
+    {
+      "name": "Woodland03_Remainder_Canopy",
+      "activeSelf": false
+    },
+    {
+      "name": "Woodland03_Remainder_Trunks",
+      "activeSelf": false
+    }
+  ],
+  "roadEarthOverrides": 15,
+  "imports": [
+    {
+      "name": "BW_Revision01_Grass_A",
+      "format": "DXT1",
+      "alphaSource": "None",
+      "compression": "Compressed",
+      "defaultFormat": "AutomaticCompressed",
+      "smoothness": 0.0,
+      "metallic": 0.0
+    },
+    {
+      "name": "BW_Revision01_Grass_Dry",
+      "format": "DXT1",
+      "alphaSource": "None",
+      "compression": "Compressed",
+      "defaultFormat": "AutomaticCompressed",
+      "smoothness": 0.0,
+      "metallic": 0.0
+    },
+    {
+      "name": "BW_Revision01_Rock",
+      "format": "DXT1",
+      "alphaSource": "None",
+      "compression": "Compressed",
+      "defaultFormat": "AutomaticCompressed",
+      "smoothness": 0.0,
+      "metallic": 0.0
+    },
+    {
+      "name": "BW_Revision01_Muddy",
+      "format": "DXT1",
+      "alphaSource": "None",
+      "compression": "Compressed",
+      "defaultFormat": "AutomaticCompressed",
+      "smoothness": 0.0,
+      "metallic": 0.0
+    }
+  ],
+  "instancing": [
+    {
+      "name": "BW_Environment02_Grass_A",
+      "useInstancing": true,
+      "usePrototypeMesh": true,
+      "useDensityScaling": true,
+      "valid": true,
+      "materialInstancing": true,
+      "shaders": [
+        "Universal Render Pipeline/Lit"
+      ]
+    },
+    {
+      "name": "BW_Environment02_GrassDry_B",
+      "useInstancing": true,
+      "usePrototypeMesh": true,
+      "useDensityScaling": true,
+      "valid": true,
+      "materialInstancing": true,
+      "shaders": [
+        "Universal Render Pipeline/Lit"
+      ]
+    },
+    {
+      "name": "BW_Environment02_Fern_A",
+      "useInstancing": true,
+      "usePrototypeMesh": true,
+      "useDensityScaling": true,
+      "valid": true,
+      "materialInstancing": true,
+      "shaders": [
+        "Universal Render Pipeline/Lit"
+      ]
+    },
+    {
+      "name": "BW_Revision01_Heather",
+      "useInstancing": true,
+      "usePrototypeMesh": true,
+      "useDensityScaling": true,
+      "valid": true,
+      "materialInstancing": true,
+      "shaders": [
+        "Universal Render Pipeline/Lit"
+      ]
+    }
+  ],
+  "detailResolution": 512,
+  "detailResolutionPerPatch": 16,
+  "scatter": "InstanceCountMode",
+  "detailObjectDistance": 95.0,
+  "detailObjectDensity": 1.0
+}

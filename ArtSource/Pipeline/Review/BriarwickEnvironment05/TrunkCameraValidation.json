@@ -1,0 +1,574 @@
+{
+  "method": "Automated existing CharacterController.Move trunk blocking and camera-equivalent sphere casts, not manual camera comfort",
+  "trunks": [
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 70.0,
+      "z": -120.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.61681366,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 70.0,
+      "z": -120.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.61681366,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -65.0,
+      "z": -125.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.740226746,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -65.0,
+      "z": -125.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.740226746,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -125.0,
+      "z": -105.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.594619751,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -125.0,
+      "z": -105.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.594619751,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -105.0,
+      "z": -95.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7204666,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -105.0,
+      "z": -95.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7204666,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -115.0,
+      "z": -20.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6781311,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -115.0,
+      "z": -20.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6781311,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -108.0,
+      "z": 75.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6759491,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": -108.0,
+      "z": 75.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6759491,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -85.0,
+      "z": 110.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6718674,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": -85.0,
+      "z": 110.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6718674,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 68.0,
+      "z": 112.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6456528,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 68.0,
+      "z": 112.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6456528,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 115.0,
+      "z": 110.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.672668457,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 115.0,
+      "z": 110.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.672668457,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 124.0,
+      "z": 58.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.733657837,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 124.0,
+      "z": 58.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.733657837,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 102.0,
+      "z": 30.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.598381042,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": 102.0,
+      "z": 30.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.598381042,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 118.0,
+      "z": -18.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.66185,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 118.0,
+      "z": -18.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.66185,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 106.0,
+      "z": -102.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7187805,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 106.0,
+      "z": -102.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7187805,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -85.0,
+      "z": -35.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.642501831,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -85.0,
+      "z": -35.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.642501831,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 82.0,
+      "z": 72.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7347336,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree6",
+      "x": 82.0,
+      "z": 72.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7347336,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -132.0,
+      "z": 30.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.5951233,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -132.0,
+      "z": 30.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.5951233,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -120.0,
+      "z": -140.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.61341095,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree8",
+      "x": -120.0,
+      "z": -140.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.61341095,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 135.0,
+      "z": -135.0,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.685699463,
+      "grounded": true
+    },
+    {
+      "name": "BW_Woodland01_Tree1",
+      "x": 135.0,
+      "z": -135.0,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.685699463,
+      "grounded": true
+    }
+  ],
+  "allTrunksBlock": true,
+  "cameraSamples": [
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    }
+  ],
+  "minimumCameraDistance": 4.0,
+  "normalStateRestored": true
+}

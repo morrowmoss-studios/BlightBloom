@@ -1,0 +1,29 @@
+{
+  "sourceTiles": [
+    "grassFlower01",
+    "grassFlower06",
+    "grassFlower10",
+    "grassFlower02"
+  ],
+  "atlas": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06/Textures/BW_Environment06_FlowersAtlas.png",
+  "resolution": 1024,
+  "sourceAssetsUnchanged": true,
+  "material": "BW_Environment06_Flowers_Matte",
+  "alphaClip": 0.45,
+  "instancing": true,
+  "geometry": "Three offset bowed, alpha-fitted four-section ribbons, not intersecting full rectangular cards",
+  "reports": [
+    {
+      "name": "BW_Environment06_LowFlowers",
+      "triangles": 24,
+      "vertices": 30,
+      "bounds": "Center: (0.00, 0.17, -0.03), Extents: (0.19, 0.16, 0.16)"
+    },
+    {
+      "name": "BW_Environment06_MeadowFlowers",
+      "triangles": 24,
+      "vertices": 30,
+      "bounds": "Center: (0.05, 0.29, 0.01), Extents: (0.22, 0.28, 0.21)"
+    }
+  ]
+}

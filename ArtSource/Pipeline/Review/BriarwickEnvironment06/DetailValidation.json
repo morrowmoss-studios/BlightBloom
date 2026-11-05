@@ -1,0 +1,68 @@
+{
+  "counts": [
+    30428,
+    41246,
+    5663,
+    1695,
+    971,
+    4201
+  ],
+  "total": 84204,
+  "unchangedOriginalMaps": true,
+  "changedPriorMaps": [],
+  "newAssets": 6,
+  "failedImports": [],
+  "missingReferences": [],
+  "meshDefects": [],
+  "prototypes": [
+    {
+      "name": "BW_Environment02_Grass_A",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 128
+    },
+    {
+      "name": "BW_Environment02_GrassDry_B",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 168
+    },
+    {
+      "name": "BW_Environment02_Fern_A",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 360
+    },
+    {
+      "name": "BW_Revision01_Heather",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 268
+    },
+    {
+      "name": "BW_Environment06_LowFlowers",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 24
+    },
+    {
+      "name": "BW_Environment06_MeadowFlowers",
+      "useInstancing": true,
+      "valid": true,
+      "triangles": 24
+    }
+  ],
+  "shader": "Universal Render Pipeline/Lit",
+  "isSupported": true,
+  "enableInstancing": true,
+  "alphaClip": 1.0,
+  "cutoff": 0.45,
+  "cull": 0.0,
+  "smoothness": 0.0,
+  "mipmapEnabled": true,
+  "alphaIsTransparency": true,
+  "mipMapsPreserveCoverage": true,
+  "distance": 95.0,
+  "density": 1.0,
+  "collidersUnderNewRoot": 0
+}

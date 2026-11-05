@@ -1,0 +1,8 @@
+{
+  "checkedPlants": 5172,
+  "violations": [],
+  "minRoadCentreCellDistanceFromRoadEdge": 1.40507436,
+  "minWaterCentreCellDistanceFromCreekAxis": 4.218338,
+  "method": "Conservative source-cell masks, jitter+flower-radius allowance; not exhaustive triangle intersection testing",
+  "allBuildingsAddressed": true
+}

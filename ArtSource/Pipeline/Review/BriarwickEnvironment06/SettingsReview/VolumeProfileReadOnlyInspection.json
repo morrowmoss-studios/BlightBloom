@@ -1,0 +1,31 @@
+{
+  "componentReferences": 19,
+  "missingReferencedSubassetIDs": [],
+  "testSubassets": [
+    {
+      "id": "-8104416584915340131",
+      "name": "CopyPasteTestComponent2",
+      "referencedByProfile": false
+    },
+    {
+      "id": "-5360449096862653589",
+      "name": "VolumeComponentSupportedEverywhere",
+      "referencedByProfile": false
+    },
+    {
+      "id": "-581120513425526550",
+      "name": "CopyPasteTestComponent3",
+      "referencedByProfile": false
+    },
+    {
+      "id": "6940869943325143175",
+      "name": "VolumeComponentSupportedOnAnySRP",
+      "referencedByProfile": false
+    },
+    {
+      "id": "9122958982931076880",
+      "name": "CopyPasteTestComponent1",
+      "referencedByProfile": false
+    }
+  ]
+}

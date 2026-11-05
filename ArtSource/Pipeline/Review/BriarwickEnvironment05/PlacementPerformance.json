@@ -1,0 +1,25 @@
+{
+  "placementCount": 2372,
+  "exclusionDefects": [],
+  "minimumPlantBoundsToWaterEdge": 1.53683472,
+  "minimumPlantBoundsToRoadEdge": 1.21836352,
+  "newTextures": [
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_BaseColor.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    },
+    {
+      "path": "Assets/TerrainSampleAssets/Textures/Details/Heather_A_Normal.tif",
+      "width": 1024,
+      "height": 1024,
+      "format": "BC7",
+      "runtimeBytes": 2797232
+    }
+  ],
+  "newTextureRuntimeBytes": 5594464,
+  "meshAssetRuntimeBytes": 80407240,
+  "newMaterialCount": 1
+}

@@ -1,0 +1,44 @@
+{
+  "manifestFiles": 84,
+  "missing": [],
+  "empty": [],
+  "textureImages": [
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Grass_A_Soft.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "chunkCRCAndZlibVerified": true,
+      "decodedBytes": 3146752
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Grass_Dry_Soft.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "chunkCRCAndZlibVerified": true,
+      "decodedBytes": 3146752
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Muddy_Soft.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "chunkCRCAndZlibVerified": true,
+      "decodedBytes": 3146752
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Rock_Soft.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "chunkCRCAndZlibVerified": true,
+      "decodedBytes": 3146752
+    }
+  ],
+  "diskFreeBytes": 11857879040
+}

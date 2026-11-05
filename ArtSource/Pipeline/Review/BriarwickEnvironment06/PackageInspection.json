@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grass01.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.139831543,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 1,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grass02.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.149429321,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 2,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower01.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.2073822,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 3,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower02.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.09312439,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 4,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower03.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.124404907,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 5,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower04.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.112609863,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 6,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower05.tga",
+    "width": 1024,
+    "height": 512,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.317764282,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 7,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower06.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.154098511,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 8,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower07.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.118530273,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 9,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower08.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.103775024,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 10,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower09.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.103713989,
+    "mipmapEnabled": true
+  },
+  {
+    "index": 11,
+    "path": "Assets/ALP_Assets/GrassFlowersFREE/Textures/GrassFlowers/grassFlower10.tga",
+    "width": 1024,
+    "height": 1024,
+    "format": "DXT5",
+    "sourceAlpha": true,
+    "opaqueFraction": 0.08760071,
+    "mipmapEnabled": true
+  }
+]

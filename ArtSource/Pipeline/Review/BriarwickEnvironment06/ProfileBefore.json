@@ -1,0 +1,11 @@
+{
+  "method": "Unity ProfilerRecorder over focused Editor Play frames at three representative viewpoints. Includes Editor/runtime, vSync and open-view overhead; not standalone build timings. No GPU measurement.",
+  "duration": 90.107687750016339,
+  "valid": {
+    "mainThread": true,
+    "memory": true,
+    "triangles": true,
+    "setPasses": true
+  },
+  "samples": []
+}

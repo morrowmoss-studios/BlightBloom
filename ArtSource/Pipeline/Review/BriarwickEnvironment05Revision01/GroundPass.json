@@ -1,0 +1,40 @@
+{
+  "maps": [
+    {
+      "source": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_A_BaseColor.tif",
+      "derivative": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Grass_A_Soft.png"
+    },
+    {
+      "source": "Assets/TerrainSampleAssets/Textures/Terrain/Grass_Dry_BaseColor.tif",
+      "derivative": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Grass_Dry_Soft.png"
+    },
+    {
+      "source": "Assets/TerrainSampleAssets/Textures/Terrain/Rock_BaseColor.tif",
+      "derivative": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Rock_Soft.png"
+    },
+    {
+      "source": "Assets/TerrainSampleAssets/Textures/Terrain/Muddy_BaseColor.tif",
+      "derivative": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Textures/BW_Muddy_Soft.png"
+    }
+  ],
+  "terrainLayers": 8,
+  "paintedTexels": 61112,
+  "roadMaterialOverrides": [
+    "MainRoad_Entrance_Common_Woodland",
+    "Path_CrookedMortar",
+    "Path_Inn",
+    "Path_Forge",
+    "Path_Bakery",
+    "Path_Merchant",
+    "Path_Elder",
+    "Path_Farm",
+    "Path_Miller",
+    "Path_Chapel",
+    "Path_CottageA",
+    "Path_CottageB",
+    "Path_Graveyard",
+    "Path_ApothecaryGarden",
+    "Common_26x30m_ActivityReserve"
+  ],
+  "method": "Softened/downsampled source albedo derivatives, broad geographic masks; no height or source asset changes"
+}

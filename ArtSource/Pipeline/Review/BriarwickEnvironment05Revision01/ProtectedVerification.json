@@ -1,0 +1,13 @@
+{
+  "checked": 4365,
+  "differences": [
+    {
+      "path": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Terrain/Briarwick_Valley.asset",
+      "status": "changed"
+    },
+    {
+      "path": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+      "status": "changed"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "completed",
+  "result": "Succeeded",
+  "platform": "StandaloneOSX",
+  "outputPath": "/private/tmp/BlightBloomEnvironment06Baseline/BriarwickBaseline.app",
+  "totalSizeBytes": 1211758377,
+  "buildTimeMs": 1995060,
+  "totalWarnings": 3,
+  "totalErrors": 0,
+  "warnings": [
+    {
+      "message": "Pipeline: No RuntimePipelineConfig asset found (Project Settings > Pipeline > Runtime). Pipeline will be disabled in Player builds."
+    },
+    {
+      "message": "warning CS0109: The member 'LightFlickerEffect.light' does not hide an accessible member. The new keyword is not required.",
+      "file": "Assets/Medieval_house_lite/Scripts/Fire_effect/LightFlickerEffect.cs"
+    },
+    {
+      "message": "Exception occurred attempting to connect to Unity services. Native symbols will not be uploaded for this build. Exception details:\nSystem.Net.WebException: The remote server returned an error: (403) Forbidden.\n  at System.Net.HttpWebRequest.GetResponseFromData (System.Net.WebResponseStream stream, System.Threading.CancellationToken cancellationToken) [0x00146] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at UnityEditor.CrashReporting.CrashReporting.GetUsymUploadAuthToken () [0x000ba] in /Users/bokken/build/output/unity/unity/Modules/CloudServicesSettingsEditor/CrashReporting/Managed/CrashReporting.cs:88 \n  at System.Net.HttpWebRequest.GetResponseFromData (System.Net.WebResponseStream stream, System.Threading.CancellationToken cancellationToken) [0x00146] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <b411b1f7ce994f9aad8ac6bbafbc7a08>:0 \n  at UnityEditor.CrashReporting.CrashReporting.GetUsymUploadAuthToken () [0x000ba] in /Users/bokken/build/output/unity/unity/Modules/CloudServicesSettingsEditor/CrashReporting/Managed/CrashReporting.cs:88 "
+    }
+  ],
+  "errors": []
+}

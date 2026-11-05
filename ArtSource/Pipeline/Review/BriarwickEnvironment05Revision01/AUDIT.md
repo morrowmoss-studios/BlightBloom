@@ -1,0 +1,9 @@
+# Environment05 revision — whole-landscape assessment and plan
+
+2026-11-04. Survey: current seven matched overhead/ground cameras, terrain API, hierarchy, prior source/validation reports. Terrain has zero detail prototypes and zero detail resolution. Previous 2,372 low plants over 102,400 m² were too sparse; splat coverage percentages did not establish visual coverage. The four terrain colors were too similar at distance. Two active combined remainder meshes still draw 58 triangular tree pairs.
+
+Regions assessed before new planting: maintained village core/common and building approaches; southern and eastern open meadows; northwestern approved grove and its perimeter; the sinuous creek and bridge corridor; east/west/north hills and terrain boundaries. Existing roads, land-use plots, architecture and woodland supply exclusion masks. No landscape shape changes.
+
+Revision priorities, in order: (1) prove instanced terrain-detail compatibility using the existing grass prefab; (2) establish stronger regional meadow/dry/rock ground palettes using softened project-owned derivatives and broad masks; (3) populate density maps on the existing Terrain, with mown routes and ecological gaps; (4) replace every visible cone while keeping approximate distribution and retaining disabled references; (5) validate all routes/exclusions/preservation, render matching views and assess actual visual improvement. Existing useful Environment05 shrubs/fern chunks remain.
+
+No suitable loose rocks/logs/branches/roots were found previously; architectural floor pieces are not acceptable substitutes. This gap remains explicit. Existing heather and ferns provide flowers/low bank plants; no asset will be mislabeled as a new reed species. No lighting/fog/skybox change or new gameplay system. No Git operations.

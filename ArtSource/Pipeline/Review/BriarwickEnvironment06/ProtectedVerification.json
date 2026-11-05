@@ -1,0 +1,14 @@
+{
+  "checked": 4430,
+  "differences": [
+    "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Terrain/Briarwick_Valley.asset",
+    "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+    "Assets/Settings/DefaultVolumeProfile.asset",
+    "Assets/Settings/PC_RPAsset.asset",
+    "Assets/Settings/UniversalRenderPipelineGlobalSettings.asset",
+    "ProjectSettings/ProjectSettings.asset",
+    "ProjectSettings/UnityConnectSettings.asset"
+  ],
+  "outsideOriginalGroveFlowerClumps": 4983,
+  "diskFreeBytes": 11700219904
+}

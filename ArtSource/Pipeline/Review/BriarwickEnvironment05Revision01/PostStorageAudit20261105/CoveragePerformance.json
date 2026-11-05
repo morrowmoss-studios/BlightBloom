@@ -1,0 +1,81 @@
+{
+  "detailInstances": [
+    30428,
+    41246,
+    5663,
+    1695
+  ],
+  "totalDetails": 79032,
+  "mapCounts": [
+    {
+      "layer": 0,
+      "occupied": 30428,
+      "activePatches": 999,
+      "unsafeCount": 0
+    },
+    {
+      "layer": 1,
+      "occupied": 41246,
+      "activePatches": 996,
+      "unsafeCount": 0
+    },
+    {
+      "layer": 2,
+      "occupied": 5663,
+      "activePatches": 440,
+      "unsafeCount": 0
+    },
+    {
+      "layer": 3,
+      "occupied": 1695,
+      "activePatches": 685,
+      "unsafeCount": 0
+    }
+  ],
+  "violations": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "missingSerializedReferences": [],
+  "badMaterials": [],
+  "terrainLayers": 8,
+  "approxTerrainPasses": 2,
+  "detailResolution": 512,
+  "patchSizeMetres": 10,
+  "detailDistance": 95.0,
+  "detailMeshLODs": false,
+  "addedTreeRenderers": 51,
+  "addedTreeTriangles": 70044,
+  "formats": [
+    {
+      "name": "BW_Revision01_Grass_A",
+      "format": "DXT1",
+      "width": 1024,
+      "bytes": 1399104
+    },
+    {
+      "name": "BW_Revision01_Grass_Dry",
+      "format": "DXT1",
+      "width": 1024,
+      "bytes": 1399104
+    },
+    {
+      "name": "BW_Revision01_Rock",
+      "format": "DXT1",
+      "width": 1024,
+      "bytes": 1399104
+    },
+    {
+      "name": "BW_Revision01_Muddy",
+      "format": "DXT1",
+      "width": 1024,
+      "bytes": 1399104
+    }
+  ],
+  "terrainLayerTextureResidentBytes": 100678608,
+  "terrainDataResidentBytes": 1420870,
+  "suitableRocksLogsBranchesAvailable": false,
+  "visibleProxyRenderers": []
+}

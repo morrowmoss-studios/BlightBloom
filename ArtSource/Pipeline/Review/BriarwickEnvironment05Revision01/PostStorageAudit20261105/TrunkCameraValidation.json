@@ -1,0 +1,1168 @@
+{
+  "method": "Automated existing CharacterController.Move trunk blocking and camera-equivalent sphere casts, not manual camera comfort",
+  "trunks": [
+    {
+      "name": "Revision01_Tree_Proxy0_Type1",
+      "x": 123.320541,
+      "z": -4.478573,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7015381,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy0_Type1",
+      "x": 123.320541,
+      "z": -4.478573,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7015381,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy1_Type4",
+      "x": -118.514519,
+      "z": 22.7445889,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7524948,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy1_Type4",
+      "x": -118.514519,
+      "z": 22.7445889,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7524948,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy2_Type6",
+      "x": 53.7999077,
+      "z": 126.440422,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7707634,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy2_Type6",
+      "x": 53.7999077,
+      "z": 126.440422,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.770755768,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy3_Type8",
+      "x": 105.79184,
+      "z": 58.4831276,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.668640137,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy3_Type8",
+      "x": 105.79184,
+      "z": 58.4831276,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.668640137,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy4_Type1",
+      "x": -21.6839638,
+      "z": 140.345551,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.725818634,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy4_Type1",
+      "x": -21.6839638,
+      "z": 140.345551,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.725818634,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy5_Type4",
+      "x": -110.5603,
+      "z": -30.10107,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.773407,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy5_Type4",
+      "x": -110.5603,
+      "z": -30.10107,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.773407,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy6_Type6",
+      "x": 64.93971,
+      "z": 87.98736,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7678833,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy6_Type6",
+      "x": 64.93971,
+      "z": 87.98736,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7678833,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy8_Type1",
+      "x": -90.4143143,
+      "z": 40.7025833,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7867737,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy8_Type1",
+      "x": -90.4143143,
+      "z": 40.7025833,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7867737,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy9_Type4",
+      "x": 49.98595,
+      "z": -84.79146,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7709236,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy9_Type4",
+      "x": 49.98595,
+      "z": -84.79146,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.770916,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy10_Type6",
+      "x": 43.7358437,
+      "z": -73.43187,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.760952,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy10_Type6",
+      "x": 43.7358437,
+      "z": -73.43187,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.760952,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy11_Type8",
+      "x": 80.3819351,
+      "z": -48.40265,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6473541,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy11_Type8",
+      "x": 80.3819351,
+      "z": -48.40265,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6473541,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy12_Type1",
+      "x": 87.94841,
+      "z": 53.4804535,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7351837,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy12_Type1",
+      "x": 87.94841,
+      "z": 53.4804535,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7351837,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy13_Type4",
+      "x": 96.22064,
+      "z": -12.5261087,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7210388,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy13_Type4",
+      "x": 96.22064,
+      "z": -12.5261087,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7210388,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy14_Type6",
+      "x": -93.8492661,
+      "z": -10.1897764,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.697876,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy14_Type6",
+      "x": -93.8492661,
+      "z": -10.1897764,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.697876,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy16_Type1",
+      "x": 69.3606644,
+      "z": 74.935585,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.72946167,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy16_Type1",
+      "x": 69.3606644,
+      "z": 74.935585,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.72946167,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy18_Type6",
+      "x": 107.962212,
+      "z": 70.84145,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.77558136,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy18_Type6",
+      "x": 107.962212,
+      "z": 70.84145,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.77558136,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy19_Type8",
+      "x": 26.4685364,
+      "z": -76.98152,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.632457733,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy19_Type8",
+      "x": 26.4685364,
+      "z": -76.98152,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.632457733,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy21_Type4",
+      "x": -7.14580059,
+      "z": 139.501755,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.740815163,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy21_Type4",
+      "x": -7.14580059,
+      "z": 139.501755,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.740813255,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy23_Type8",
+      "x": -51.97711,
+      "z": -93.0527954,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.667972565,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy23_Type8",
+      "x": -51.97711,
+      "z": -93.0527954,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.667972565,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy24_Type1",
+      "x": 51.60004,
+      "z": 107.750351,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.716007233,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy24_Type1",
+      "x": 51.60004,
+      "z": 107.750351,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.716007233,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy25_Type4",
+      "x": 90.0417557,
+      "z": 102.461845,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7379303,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy25_Type4",
+      "x": 90.0417557,
+      "z": 102.461845,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7379303,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy26_Type6",
+      "x": 85.74503,
+      "z": -28.4608212,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.732208252,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy26_Type6",
+      "x": 85.74503,
+      "z": -28.4608212,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.732208252,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy28_Type1",
+      "x": -27.5964127,
+      "z": -56.0302849,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.726696,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy28_Type1",
+      "x": -27.5964127,
+      "z": -56.0302849,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.726696,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy29_Type4",
+      "x": 36.5318642,
+      "z": 110.1073,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.780979156,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy29_Type4",
+      "x": 36.5318642,
+      "z": 110.1073,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.780979156,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy32_Type1",
+      "x": 66.93418,
+      "z": -48.9949379,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7776413,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy32_Type1",
+      "x": 66.93418,
+      "z": -48.9949379,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7776413,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy33_Type4",
+      "x": -94.44932,
+      "z": 18.1738052,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.773506165,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy33_Type4",
+      "x": -94.44932,
+      "z": 18.1738052,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.773506165,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy34_Type6",
+      "x": 76.24881,
+      "z": 118.442436,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.700027466,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy34_Type6",
+      "x": 76.24881,
+      "z": 118.442436,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.700027466,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy35_Type8",
+      "x": 7.4702,
+      "z": 142.9908,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6323266,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy35_Type8",
+      "x": 7.4702,
+      "z": 142.9908,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.632327557,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy36_Type1",
+      "x": 70.14566,
+      "z": -84.61187,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7616272,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy36_Type1",
+      "x": 70.14566,
+      "z": -84.61187,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7616272,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy37_Type4",
+      "x": 86.27167,
+      "z": -52.69113,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.736801147,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy37_Type4",
+      "x": 86.27167,
+      "z": -52.69113,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.736801147,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy38_Type6",
+      "x": -81.54135,
+      "z": 8.459909,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7490082,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy38_Type6",
+      "x": -81.54135,
+      "z": 8.459909,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7490082,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy39_Type8",
+      "x": -81.11815,
+      "z": 33.67125,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.67212677,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy39_Type8",
+      "x": -81.11815,
+      "z": 33.67125,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.67212677,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy40_Type1",
+      "x": 97.5107,
+      "z": 64.99907,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.725692749,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy40_Type1",
+      "x": 97.5107,
+      "z": 64.99907,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.725692749,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy41_Type4",
+      "x": 66.90325,
+      "z": 57.59208,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.723014832,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy41_Type4",
+      "x": 66.90325,
+      "z": 57.59208,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.723014832,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy42_Type6",
+      "x": -98.5455,
+      "z": 31.2369442,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.772880554,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy42_Type6",
+      "x": -98.5455,
+      "z": 31.2369442,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.772880554,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy43_Type8",
+      "x": 44.3805161,
+      "z": 84.25075,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.651947,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy43_Type8",
+      "x": 44.3805161,
+      "z": 84.25075,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.651947,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy45_Type4",
+      "x": -58.2471924,
+      "z": 80.82476,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7657013,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy45_Type4",
+      "x": -58.2471924,
+      "z": 80.82476,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7657013,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy51_Type8",
+      "x": -109.7698,
+      "z": 30.2284336,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6702957,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy51_Type8",
+      "x": -109.7698,
+      "z": 30.2284336,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6702957,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy53_Type4",
+      "x": 41.1277122,
+      "z": 132.755829,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.727901459,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy53_Type4",
+      "x": 41.1277122,
+      "z": 132.755829,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7278938,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy54_Type6",
+      "x": 30.24481,
+      "z": 98.71168,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6945324,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy54_Type6",
+      "x": 30.24481,
+      "z": 98.71168,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6945286,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy56_Type1",
+      "x": 24.2624054,
+      "z": -105.626068,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.757473,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy56_Type1",
+      "x": 24.2624054,
+      "z": -105.626068,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.757473,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy57_Type4",
+      "x": -64.15554,
+      "z": 92.39149,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7814026,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy57_Type4",
+      "x": -64.15554,
+      "z": 92.39149,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7814064,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy58_Type6",
+      "x": 36.90679,
+      "z": -89.40635,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.780738831,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy58_Type6",
+      "x": 36.90679,
+      "z": -89.40635,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.780738831,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy60_Type1",
+      "x": -73.4551,
+      "z": -51.4150162,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7737503,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy60_Type1",
+      "x": -73.4551,
+      "z": -51.4150162,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7737503,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy61_Type4",
+      "x": 53.5172577,
+      "z": 84.18742,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7758026,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy61_Type4",
+      "x": 53.5172577,
+      "z": 84.18742,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7758026,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy62_Type6",
+      "x": -73.40076,
+      "z": -42.67748,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7699661,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy62_Type6",
+      "x": -73.40076,
+      "z": -42.67748,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7699661,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy63_Type8",
+      "x": -72.05131,
+      "z": 109.5465,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6702347,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy63_Type8",
+      "x": -72.05131,
+      "z": 109.5465,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6702347,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy64_Type1",
+      "x": 61.33715,
+      "z": 102.584061,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7307358,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy64_Type1",
+      "x": 61.33715,
+      "z": 102.584061,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7307358,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy65_Type4",
+      "x": -86.2278748,
+      "z": 16.1432362,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.7672348,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy65_Type4",
+      "x": -86.2278748,
+      "z": 16.1432362,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.7672348,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy66_Type6",
+      "x": 71.42916,
+      "z": 82.24656,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.76348114,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy66_Type6",
+      "x": 71.42916,
+      "z": 82.24656,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.76348114,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy67_Type8",
+      "x": 102.261269,
+      "z": -14.2648935,
+      "direction": -1,
+      "blocked": true,
+      "distanceFromAxis": 0.6135788,
+      "grounded": true
+    },
+    {
+      "name": "Revision01_Tree_Proxy67_Type8",
+      "x": 102.261269,
+      "z": -14.2648935,
+      "direction": 1,
+      "blocked": true,
+      "distanceFromAxis": 0.6135788,
+      "grounded": true
+    }
+  ],
+  "allTrunksBlock": true,
+  "cameraSamples": [
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -10.0,
+      "z": 49.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -17.0,
+      "z": 61.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -21.0,
+      "z": 74.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -25.0,
+      "z": 85.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 0,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 45,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 90,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 135,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 180,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 225,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 270,
+      "safeDistance": 4.0
+    },
+    {
+      "x": -28.0,
+      "z": 95.0,
+      "yaw": 315,
+      "safeDistance": 4.0
+    }
+  ],
+  "minimumCameraDistance": 4.0,
+  "normalStateRestored": true
+}

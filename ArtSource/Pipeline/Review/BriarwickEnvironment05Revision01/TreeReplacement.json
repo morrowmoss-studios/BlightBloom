@@ -1,0 +1,509 @@
+{
+  "proxyPairs": 58,
+  "newTrees": 51,
+  "coveredByExistingTree": 7,
+  "addedTriangles": 70044,
+  "records": [
+    {
+      "id": 0,
+      "type": 1,
+      "x": 123.320541,
+      "z": -4.478573,
+      "shift": 0.0,
+      "scale": 0.8173115,
+      "status": "New real tree"
+    },
+    {
+      "id": 1,
+      "type": 4,
+      "x": -118.514519,
+      "z": 22.7445889,
+      "shift": 0.0,
+      "scale": 0.976554751,
+      "status": "New real tree"
+    },
+    {
+      "id": 2,
+      "type": 6,
+      "x": 53.7999077,
+      "z": 126.440422,
+      "shift": 0.0,
+      "scale": 1.03362823,
+      "status": "New real tree"
+    },
+    {
+      "id": 3,
+      "type": 8,
+      "x": 105.79184,
+      "z": 58.4831276,
+      "shift": 0.0,
+      "scale": 1.03930092,
+      "status": "New real tree"
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "x": -21.6839638,
+      "z": 140.345551,
+      "shift": 0.0,
+      "scale": 0.893184662,
+      "status": "New real tree"
+    },
+    {
+      "id": 5,
+      "type": 4,
+      "x": -110.5603,
+      "z": -30.10107,
+      "shift": 0.0,
+      "scale": 1.04190743,
+      "status": "New real tree"
+    },
+    {
+      "id": 6,
+      "type": 6,
+      "x": 64.93971,
+      "z": 87.98736,
+      "shift": 0.0,
+      "scale": 1.02463973,
+      "status": "New real tree"
+    },
+    {
+      "id": 7,
+      "x": -115.440865,
+      "z": -30.1016331,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "x": -90.4143143,
+      "z": 40.7025833,
+      "shift": 0.0,
+      "scale": 1.08365917,
+      "status": "New real tree"
+    },
+    {
+      "id": 9,
+      "type": 4,
+      "x": 49.98595,
+      "z": -84.79146,
+      "shift": 0.0,
+      "scale": 1.03411877,
+      "status": "New real tree"
+    },
+    {
+      "id": 10,
+      "type": 6,
+      "x": 43.7358437,
+      "z": -73.43187,
+      "shift": 0.0,
+      "scale": 1.00297678,
+      "status": "New real tree"
+    },
+    {
+      "id": 11,
+      "type": 8,
+      "x": 80.3819351,
+      "z": -48.40265,
+      "shift": 0.0,
+      "scale": 0.9425171,
+      "status": "New real tree"
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "x": 87.94841,
+      "z": 53.4804535,
+      "shift": 0.0,
+      "scale": 0.9224447,
+      "status": "New real tree"
+    },
+    {
+      "id": 13,
+      "type": 4,
+      "x": 96.22064,
+      "z": -12.5261087,
+      "shift": 0.0,
+      "scale": 0.8782393,
+      "status": "New real tree"
+    },
+    {
+      "id": 14,
+      "type": 6,
+      "x": -93.8492661,
+      "z": -10.1897764,
+      "shift": 0.0,
+      "scale": 0.805857241,
+      "status": "New real tree"
+    },
+    {
+      "id": 15,
+      "x": -115.190163,
+      "z": -27.684021,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "x": 69.3606644,
+      "z": 74.935585,
+      "shift": 0.0,
+      "scale": 0.9045624,
+      "status": "New real tree"
+    },
+    {
+      "id": 18,
+      "type": 6,
+      "x": 107.962212,
+      "z": 70.84145,
+      "shift": 0.0,
+      "scale": 1.04868448,
+      "status": "New real tree"
+    },
+    {
+      "id": 19,
+      "type": 8,
+      "x": 26.4685364,
+      "z": -76.98152,
+      "shift": 0.0,
+      "scale": 0.874806464,
+      "status": "New real tree"
+    },
+    {
+      "id": 21,
+      "type": 4,
+      "x": -7.14580059,
+      "z": 139.501755,
+      "shift": 0.0,
+      "scale": 0.9400446,
+      "status": "New real tree"
+    },
+    {
+      "id": 23,
+      "type": 8,
+      "x": -51.97711,
+      "z": -93.0527954,
+      "shift": 0.0,
+      "scale": 1.03623974,
+      "status": "New real tree"
+    },
+    {
+      "id": 24,
+      "type": 1,
+      "x": 51.60004,
+      "z": 107.750351,
+      "shift": 0.0,
+      "scale": 0.8625241,
+      "status": "New real tree"
+    },
+    {
+      "id": 25,
+      "type": 4,
+      "x": 90.0417557,
+      "z": 102.461845,
+      "shift": 0.0,
+      "scale": 0.9310364,
+      "status": "New real tree"
+    },
+    {
+      "id": 26,
+      "type": 6,
+      "x": 85.74503,
+      "z": -28.4608212,
+      "shift": 0.0,
+      "scale": 0.9131454,
+      "status": "New real tree"
+    },
+    {
+      "id": 28,
+      "type": 1,
+      "x": -27.5964127,
+      "z": -56.0302849,
+      "shift": 0.0,
+      "scale": 0.895925939,
+      "status": "New real tree"
+    },
+    {
+      "id": 29,
+      "type": 4,
+      "x": 36.5318642,
+      "z": 110.1073,
+      "shift": 0.0,
+      "scale": 1.06556082,
+      "status": "New real tree"
+    },
+    {
+      "id": 32,
+      "type": 1,
+      "x": 66.93418,
+      "z": -48.9949379,
+      "shift": 0.0,
+      "scale": 1.05512345,
+      "status": "New real tree"
+    },
+    {
+      "id": 33,
+      "type": 4,
+      "x": -94.44932,
+      "z": 18.1738052,
+      "shift": 0.0,
+      "scale": 1.04219806,
+      "status": "New real tree"
+    },
+    {
+      "id": 34,
+      "type": 6,
+      "x": 76.24881,
+      "z": 118.442436,
+      "shift": 0.0,
+      "scale": 0.8125927,
+      "status": "New real tree"
+    },
+    {
+      "id": 35,
+      "type": 8,
+      "x": 7.4702,
+      "z": 142.9908,
+      "shift": 0.0,
+      "scale": 0.874210358,
+      "status": "New real tree"
+    },
+    {
+      "id": 36,
+      "type": 1,
+      "x": 70.14566,
+      "z": -84.61187,
+      "shift": 0.0,
+      "scale": 1.00508893,
+      "status": "New real tree"
+    },
+    {
+      "id": 37,
+      "type": 4,
+      "x": 86.27167,
+      "z": -52.69113,
+      "shift": 0.0,
+      "scale": 0.9274986,
+      "status": "New real tree"
+    },
+    {
+      "id": 38,
+      "type": 6,
+      "x": -81.54135,
+      "z": 8.459909,
+      "shift": 0.0,
+      "scale": 0.9656476,
+      "status": "New real tree"
+    },
+    {
+      "id": 39,
+      "type": 8,
+      "x": -81.11815,
+      "z": 33.67125,
+      "shift": 0.0,
+      "scale": 1.05512583,
+      "status": "New real tree"
+    },
+    {
+      "id": 40,
+      "type": 1,
+      "x": 97.5107,
+      "z": 64.99907,
+      "shift": 0.0,
+      "scale": 0.8927941,
+      "status": "New real tree"
+    },
+    {
+      "id": 41,
+      "type": 4,
+      "x": 66.90325,
+      "z": 57.59208,
+      "shift": 0.0,
+      "scale": 0.8844194,
+      "status": "New real tree"
+    },
+    {
+      "id": 42,
+      "type": 6,
+      "x": -98.5455,
+      "z": 31.2369442,
+      "shift": 0.0,
+      "scale": 1.04025567,
+      "status": "New real tree"
+    },
+    {
+      "id": 43,
+      "type": 8,
+      "x": 44.3805161,
+      "z": 84.25075,
+      "shift": 0.0,
+      "scale": 0.9633974,
+      "status": "New real tree"
+    },
+    {
+      "id": 45,
+      "type": 4,
+      "x": -58.2471924,
+      "z": 80.82476,
+      "shift": 0.0,
+      "scale": 1.0178169,
+      "status": "New real tree"
+    },
+    {
+      "id": 47,
+      "x": 70.6440659,
+      "z": 119.56929,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 48,
+      "x": -86.6527252,
+      "z": -37.215744,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 49,
+      "x": -104.852158,
+      "z": 70.76563,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 50,
+      "x": -85.81845,
+      "z": 108.870987,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 51,
+      "type": 8,
+      "x": -109.7698,
+      "z": 30.2284336,
+      "shift": 0.0,
+      "scale": 1.04679108,
+      "status": "New real tree"
+    },
+    {
+      "id": 53,
+      "type": 4,
+      "x": 41.1277122,
+      "z": 132.755829,
+      "shift": 0.0,
+      "scale": 0.899686038,
+      "status": "New real tree"
+    },
+    {
+      "id": 54,
+      "type": 6,
+      "x": 30.24481,
+      "z": 98.71168,
+      "shift": 0.0,
+      "scale": 0.795405149,
+      "status": "New real tree"
+    },
+    {
+      "id": 55,
+      "x": -120.040436,
+      "z": -22.328083,
+      "status": "Existing approved real tree within 6m"
+    },
+    {
+      "id": 56,
+      "type": 1,
+      "x": 24.2624054,
+      "z": -105.626068,
+      "shift": 0.0,
+      "scale": 0.9921041,
+      "status": "New real tree"
+    },
+    {
+      "id": 57,
+      "type": 4,
+      "x": -64.15554,
+      "z": 92.39149,
+      "shift": 0.0,
+      "scale": 1.06689346,
+      "status": "New real tree"
+    },
+    {
+      "id": 58,
+      "type": 6,
+      "x": 36.90679,
+      "z": -89.40635,
+      "shift": 0.0,
+      "scale": 1.06480336,
+      "status": "New real tree"
+    },
+    {
+      "id": 60,
+      "type": 1,
+      "x": -73.4551,
+      "z": -51.4150162,
+      "shift": 0.0,
+      "scale": 1.04297829,
+      "status": "New real tree"
+    },
+    {
+      "id": 61,
+      "type": 4,
+      "x": 53.5172577,
+      "z": 84.18742,
+      "shift": 0.0,
+      "scale": 1.04938841,
+      "status": "New real tree"
+    },
+    {
+      "id": 62,
+      "type": 6,
+      "x": -73.40076,
+      "z": -42.67748,
+      "shift": 0.0,
+      "scale": 1.03113711,
+      "status": "New real tree"
+    },
+    {
+      "id": 63,
+      "type": 8,
+      "x": -72.05131,
+      "z": 109.5465,
+      "shift": 0.0,
+      "scale": 1.04651368,
+      "status": "New real tree"
+    },
+    {
+      "id": 64,
+      "type": 1,
+      "x": 61.33715,
+      "z": 102.584061,
+      "shift": 0.0,
+      "scale": 0.9085555,
+      "status": "New real tree"
+    },
+    {
+      "id": 65,
+      "type": 4,
+      "x": -86.2278748,
+      "z": 16.1432362,
+      "shift": 0.0,
+      "scale": 1.02260458,
+      "status": "New real tree"
+    },
+    {
+      "id": 66,
+      "type": 6,
+      "x": 71.42916,
+      "z": 82.24656,
+      "shift": 0.0,
+      "scale": 1.01087844,
+      "status": "New real tree"
+    },
+    {
+      "id": 67,
+      "type": 8,
+      "x": 102.261269,
+      "z": -14.2648935,
+      "shift": 0.0,
+      "scale": 0.788988,
+      "status": "New real tree"
+    }
+  ]
+}

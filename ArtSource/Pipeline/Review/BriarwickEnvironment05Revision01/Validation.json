@@ -1,0 +1,44 @@
+{
+  "addedTriangles": 551988,
+  "addedRenderers": 379,
+  "addedSubmeshSubmissions": 448,
+  "reusedMaterials": 13,
+  "trunkColliders": 69,
+  "meshDefects": [],
+  "buildingBoundsIntersections": [],
+  "sceneMissingScriptCount": 0,
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "saved": true,
+  "preexistingObjects": 1141,
+  "unexpectedChanges": [],
+  "terrainHeightsIdentical": true,
+  "approvedGrovePaintMismatches": 0,
+  "activePlayers": 1,
+  "activeInputs": 1,
+  "activeCameras": [
+    "BB_ExplorationCamera"
+  ],
+  "activeListeners": 1,
+  "eventSystems": 0,
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "slopeLimit": 45.0,
+    "skinWidth": 0.04
+  },
+  "walkSpeed": 3.0,
+  "sprintSpeed": 6.0,
+  "cameraTargetCorrect": true,
+  "cameraInputCorrect": true,
+  "motorCameraCorrect": true,
+  "cameraDistance": 4.0,
+  "fieldOfView": 65.0,
+  "animationController": "Assets/BlightBloom/Characters/PlagueDoctor01/Locomotion03/Animations/BB_DoctorLocomotion03.controller",
+  "applyRootMotion": false,
+  "rigReferencesResolved": true,
+  "visibleRenderers": [
+    "DoctorSkin"
+  ],
+  "missingScripts": 0
+}
