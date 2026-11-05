@@ -1,0 +1,9 @@
+ArtSource/Pipeline/Review/BriarwickEnvironment06/README.md
+ArtSource/Pipeline/Review/BriarwickEnvironment06/ISSUES.md
+ArtSource/Pipeline/Review/BriarwickEnvironment06/STATUS.md
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/TechnicalReview.md
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/ReviewStartHashes.json
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/ReviewVerification.json
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/VolumeProfileReadOnlyInspection.json
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/GlobalSettingsReadOnlyInspection.json
+ArtSource/Pipeline/Review/BriarwickEnvironment06/SettingsReview/ReviewChangedFiles.txt

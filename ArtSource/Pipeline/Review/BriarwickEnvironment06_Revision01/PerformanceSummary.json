@@ -1,0 +1,216 @@
+{
+  "method": "Matched runtime-only TerrainData clone with before/after detail maps, layer references, paint,95/80m distance and199 filler chunk active states. Six positions each. Same camera and Editor settings;50 samples after20 warmup frames. No asset writes; original runtime state restored. Editor-inclusive counters, not standalone benchmark.",
+  "error": null,
+  "views": [
+    {
+      "view": "Village common",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2249.0,
+        "countersMedian": {
+          "Main Thread": 99949187.5,
+          "PlayerLoop": 13887312.0,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 16497332.5,
+          "GPU Frame Time": 25882082.5,
+          "Triangles Count": 7749596.0,
+          "SetPass Calls Count": 86.0,
+          "Total Used Memory": 5024512765.0,
+          "Total Reserved Memory": 5884646379.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1453.0,
+        "countersMedian": {
+          "Main Thread": 99961292.0,
+          "PlayerLoop": 10693187.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 12751042.5,
+          "GPU Frame Time": 20701395.5,
+          "Triangles Count": 4165645.0,
+          "SetPass Calls Count": 70.0,
+          "Total Used Memory": 5066800742.0,
+          "Total Reserved Memory": 5882915371.0
+        }
+      }
+    },
+    {
+      "view": "Woodland interior",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2056.0,
+        "countersMedian": {
+          "Main Thread": 99981521.5,
+          "PlayerLoop": 13201875.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 17018500.5,
+          "GPU Frame Time": 24577145.0,
+          "Triangles Count": 4625187.0,
+          "SetPass Calls Count": 74.0,
+          "Total Used Memory": 5021994849.0,
+          "Total Reserved Memory": 5877314491.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1415.0,
+        "countersMedian": {
+          "Main Thread": 99975500.0,
+          "PlayerLoop": 10507937.0,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 12744083.5,
+          "GPU Frame Time": 20391478.5,
+          "Triangles Count": 1146175.0,
+          "SetPass Calls Count": 61.0,
+          "Total Used Memory": 5071646789.0,
+          "Total Reserved Memory": 5879108691.0
+        }
+      }
+    },
+    {
+      "view": "Meadow",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2968.0,
+        "countersMedian": {
+          "Main Thread": 99970062.5,
+          "PlayerLoop": 13513687.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 14538250.5,
+          "GPU Frame Time": 31182062.0,
+          "Triangles Count": 8280677.0,
+          "SetPass Calls Count": 89.0,
+          "Total Used Memory": 5048506661.0,
+          "Total Reserved Memory": 5893502555.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1981.0,
+        "countersMedian": {
+          "Main Thread": 99958187.5,
+          "PlayerLoop": 7824353.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 11354812.0,
+          "GPU Frame Time": 21587000.0,
+          "Triangles Count": 2620813.0,
+          "SetPass Calls Count": 79.0,
+          "Total Used Memory": 5085855221.0,
+          "Total Reserved Memory": 5882984483.0
+        }
+      }
+    },
+    {
+      "view": "Creek bridge",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2840.0,
+        "countersMedian": {
+          "Main Thread": 99961437.5,
+          "PlayerLoop": 13108854.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 13926728.5,
+          "GPU Frame Time": 26070187.0,
+          "Triangles Count": 6059218.0,
+          "SetPass Calls Count": 88.0,
+          "Total Used Memory": 5053369032.0,
+          "Total Reserved Memory": 5890151203.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1934.0,
+        "countersMedian": {
+          "Main Thread": 99993333.0,
+          "PlayerLoop": 10062500.0,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 13075250.0,
+          "GPU Frame Time": 19402812.0,
+          "Triangles Count": 2681832.0,
+          "SetPass Calls Count": 77.0,
+          "Total Used Memory": 5093067033.0,
+          "Total Reserved Memory": 5883095187.0
+        }
+      }
+    },
+    {
+      "view": "Open hillside",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2751.0,
+        "countersMedian": {
+          "Main Thread": 99954500.0,
+          "PlayerLoop": 12860916.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 14738457.5,
+          "GPU Frame Time": 28500666.0,
+          "Triangles Count": 7297088.0,
+          "SetPass Calls Count": 90.0,
+          "Total Used Memory": 5057932508.0,
+          "Total Reserved Memory": 5889843027.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1809.0,
+        "countersMedian": {
+          "Main Thread": 99961374.5,
+          "PlayerLoop": 10635229.5,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 12914479.0,
+          "GPU Frame Time": 19536749.5,
+          "Triangles Count": 2536016.0,
+          "SetPass Calls Count": 77.0,
+          "Total Used Memory": 4974244197.0,
+          "Total Reserved Memory": 5882930627.0
+        }
+      }
+    },
+    {
+      "view": "Building approach",
+      "Before": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 2253.0,
+        "countersMedian": {
+          "Main Thread": 99966833.5,
+          "PlayerLoop": 12716562.0,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 15934416.5,
+          "GPU Frame Time": 23230645.5,
+          "Triangles Count": 5073110.0,
+          "SetPass Calls Count": 81.0,
+          "Total Used Memory": 5072152864.0,
+          "Total Reserved Memory": 5889866963.0
+        }
+      },
+      "After": {
+        "samples": 50,
+        "focusedSamples": 0,
+        "drawCallsMedian": 1469.0,
+        "countersMedian": {
+          "Main Thread": 99999395.5,
+          "PlayerLoop": 7801979.0,
+          "WaitForTargetFPS": 0.0,
+          "CPU Render Thread Frame Time": 9335125.0,
+          "GPU Frame Time": 20276687.5,
+          "Triangles Count": 2774281.0,
+          "SetPass Calls Count": 68.0,
+          "Total Used Memory": 4976675177.0,
+          "Total Reserved Memory": 5882678755.0
+        }
+      }
+    }
+  ]
+}

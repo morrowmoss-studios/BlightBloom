@@ -1,0 +1,9 @@
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEditor.WindowLayout.FindRootSplitView (UnityEditor.EditorWindow win) [0x00000] in /Users/bokken/build/output/unity/unity/Editor/Mono/GUI/WindowLayout.cs:1049 
+  at UnityEditor.WindowLayout.MaximizePrepare (UnityEditor.EditorWindow win) [0x00000] in /Users/bokken/build/output/unity/unity/Editor/Mono/GUI/WindowLayout.cs:1108 
+  at UnityEditor.WindowLayout.Maximize (UnityEditor.EditorWindow win) [0x00000] in /Users/bokken/build/output/unity/unity/Editor/Mono/GUI/WindowLayout.cs:1101 
+  at UnityEditor.WindowLayout.MaximizeKeyHandler (UnityEditor.ShortcutManagement.ShortcutArguments args) [0x0002c] in /Users/bokken/build/output/unity/unity/Editor/Mono/GUI/WindowLayout.cs:1043 
+  at UnityEditor.WindowLayout.MaximizeGestureHandler () [0x0008f] in /Users/bokken/build/output/unity/unity/Editor/Mono/GUI/WindowLayout.cs:1026 
+  at UnityEditor.EditorApplication.Internal_CallGlobalEventHandler () [0x00020] in /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:552 
+
+Source: existing Unity Editor.log. This is a historical trace, not a newly reproduced gameplay error.

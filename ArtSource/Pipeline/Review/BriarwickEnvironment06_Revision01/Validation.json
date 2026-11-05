@@ -1,0 +1,104 @@
+{
+  "scene": "Assets/Scenes/Briarwick_Hamlet_Dev01.unity",
+  "saved": true,
+  "unexpectedChanges": [],
+  "acceptedSceneChanges": 200,
+  "missingScripts": 0,
+  "materialDefects": [],
+  "meshDefects": [],
+  "terrainHeightsIdentical": true,
+  "invalidTerrainWeights": 0,
+  "terrainWeightTolerance": "8-channel UNorm8 quantization ±8/(2*255)",
+  "detailCounts": [
+    9627,
+    11858,
+    750,
+    184,
+    92,
+    403
+  ],
+  "detailsAddedToOriginalCells": 0,
+  "detailPrototypes": [
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06_Revision01/Prefabs/BW_Revision06_ShortGrass0.prefab",
+      "valid": true,
+      "useInstancing": true
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06_Revision01/Prefabs/BW_Revision06_ShortGrass1.prefab",
+      "valid": true,
+      "useInstancing": true
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/Prefabs/BW_Environment02_Fern_A.prefab",
+      "valid": true,
+      "useInstancing": true
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Prefabs/BW_Revision01_Heather.prefab",
+      "valid": true,
+      "useInstancing": true
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06/Prefabs/BW_Environment06_LowFlowers.prefab",
+      "valid": true,
+      "useInstancing": true
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06/Prefabs/BW_Environment06_MeadowFlowers.prefab",
+      "valid": true,
+      "useInstancing": true
+    }
+  ],
+  "layers": [
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_BaseGrass.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Grass_Moss.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Grass_Soil.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment02/TerrainLayers/BW_Environment02_Pebbles_A.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06_Revision01/TerrainLayers/BW_Revision06_ShortTurf.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment06_Revision01/TerrainLayers/BW_Revision06_DryTurf.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/TerrainLayers/BW_Revision01_Rock.terrainlayer",
+      "textureMissing": false
+    },
+    {
+      "path": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/TerrainLayers/BW_Revision01_Muddy.terrainlayer",
+      "textureMissing": false
+    }
+  ],
+  "activePlayers": 1,
+  "activeCameras": [
+    "BB_ExplorationCamera"
+  ],
+  "activeListeners": 1,
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4,
+    "stepOffset": 0.3,
+    "slopeLimit": 45.0,
+    "skinWidth": 0.04
+  },
+  "walkSpeed": 3.0,
+  "sprintSpeed": 6.0,
+  "cameraTargetCorrect": true,
+  "cameraInputCorrect": true,
+  "motorCameraCorrect": true
+}

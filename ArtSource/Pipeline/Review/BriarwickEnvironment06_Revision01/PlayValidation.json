@@ -1,0 +1,151 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Main road including bridge and village -1",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07046618
+    },
+    {
+      "name": "Main road including bridge and village -1",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06469128
+    },
+    {
+      "name": "Main road including bridge and village 0",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07046618
+    },
+    {
+      "name": "Main road including bridge and village 0",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06469128
+    },
+    {
+      "name": "Main road including bridge and village 1",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07046618
+    },
+    {
+      "name": "Main road including bridge and village 1",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06469128
+    },
+    {
+      "name": "Southern meadow",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0737454444
+    },
+    {
+      "name": "Southern meadow",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05690386
+    },
+    {
+      "name": "Western hillside",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0416710153
+    },
+    {
+      "name": "Western hillside",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0655263662
+    },
+    {
+      "name": "Eastern hillside",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06138566
+    },
+    {
+      "name": "Eastern hillside",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0333063267
+    },
+    {
+      "name": "West creek bank",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06802108
+    },
+    {
+      "name": "West creek bank",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0737492144
+    },
+    {
+      "name": "East creek bank",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06076632
+    },
+    {
+      "name": "East creek bank",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0367185362
+    },
+    {
+      "name": "Farm access",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.05150098
+    },
+    {
+      "name": "Farm access",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06836098
+    },
+    {
+      "name": "Woodland connection",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07479114
+    },
+    {
+      "name": "Woodland connection",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0688607246
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

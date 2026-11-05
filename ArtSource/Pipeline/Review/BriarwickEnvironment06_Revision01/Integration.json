@@ -1,0 +1,1349 @@
+{
+  "before": 84204,
+  "after": 22914,
+  "beforeByType": [
+    30428,
+    41246,
+    5663,
+    1695,
+    971,
+    4201
+  ],
+  "afterByType": [
+    9627,
+    11858,
+    750,
+    184,
+    92,
+    403
+  ],
+  "regions": [
+    {
+      "name": "DistantCountryside",
+      "before": [
+        5134,
+        11114,
+        2596,
+        367,
+        7,
+        1566
+      ],
+      "after": [
+        992,
+        2253,
+        0,
+        45,
+        0,
+        170
+      ]
+    },
+    {
+      "name": "Hillsides",
+      "before": [
+        10284,
+        16450,
+        1110,
+        680,
+        0,
+        852
+      ],
+      "after": [
+        2796,
+        4557,
+        0,
+        82,
+        0,
+        59
+      ]
+    },
+    {
+      "name": "Meadows",
+      "before": [
+        6294,
+        6696,
+        43,
+        324,
+        43,
+        624
+      ],
+      "after": [
+        2307,
+        2401,
+        0,
+        51,
+        3,
+        101
+      ]
+    },
+    {
+      "name": "CreekBanks",
+      "before": [
+        3678,
+        1078,
+        74,
+        114,
+        25,
+        176
+      ],
+      "after": [
+        1774,
+        552,
+        18,
+        3,
+        1,
+        12
+      ]
+    },
+    {
+      "name": "VillageMargins",
+      "before": [
+        2177,
+        2271,
+        17,
+        33,
+        713,
+        907
+      ],
+      "after": [
+        360,
+        315,
+        9,
+        0,
+        72,
+        60
+      ]
+    },
+    {
+      "name": "WoodlandSkirts",
+      "before": [
+        2861,
+        3637,
+        1823,
+        177,
+        183,
+        76
+      ],
+      "after": [
+        1398,
+        1780,
+        723,
+        3,
+        16,
+        1
+      ]
+    }
+  ],
+  "paintedTexels": 62377,
+  "detailDistanceBefore": 95,
+  "detailDistanceAfter": 80.0,
+  "oldChunks": 310,
+  "oldChunkTriangles": 463352,
+  "disabledChunks": 199,
+  "disabled": [
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_5_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2432
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_5_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_5_BW_Environment02_Bush",
+      "region": "Meadows",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_1_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 3968
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_1_BW_Environment02_Bush",
+      "region": "Meadows",
+      "material": "BW_Environment02_Bush",
+      "triangles": 2457
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_1_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2856
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_1_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1072
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_1_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1340
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_1_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 5040
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_1_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2816
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_1_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2016
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_1_BW_Environment02_Bush",
+      "region": "Meadows",
+      "material": "BW_Environment02_Bush",
+      "triangles": 2457
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_1_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 2680
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_0_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1008
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_0_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 640
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_3_2_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 268
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_6_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_6_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2304
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_2_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 504
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_2_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_2_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 896
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_5_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 536
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_1_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 3072
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_1_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2184
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_1_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1876
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_5_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_5_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 536
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_4_5_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_0_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_0_BW_Environment02_Bush",
+      "region": "Meadows",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_0_BW_Environment02_Bush",
+      "region": "Meadows",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_0_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_5_2_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_2_BW_Environment02_GrassDry",
+      "region": "Meadows",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 504
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_2_BW_Environment02_Grass",
+      "region": "Meadows",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1408
+    },
+    {
+      "path": "Environment05 - countryside coverage/Meadows/BW_Environment05_Meadows_2_2_BW_Environment05_Heather",
+      "region": "Meadows",
+      "material": "BW_Environment05_Heather",
+      "triangles": 268
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_5_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1911
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_5_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2176
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_0_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_0_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_0_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 504
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_0_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_1_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2352
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_0_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 640
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_1_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1680
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_1_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1536
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_1_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_5_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2016
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_6_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2520
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_6_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_1_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1792
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_2_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1176
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_2_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 640
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_2_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_2_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_1_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1152
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_4_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2352
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_4_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_6_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1536
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_5_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 168
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_6_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 840
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_3_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2520
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_1_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 2730
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_7_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 512
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_7_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2016
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_7_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_4_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_4_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_0_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_4_6_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1176
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_4_6_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_4_6_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_7_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 896
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_7_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 168
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_7_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_6_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1638
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_4_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 168
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_4_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 128
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_3_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 504
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_3_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_4_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_3_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_6_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_6_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_3_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1911
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_1_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_3_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_7_3_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 512
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_7_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_6_7_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1152
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_2_BW_Environment02_Bush",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_5_2_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 128
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_6_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 128
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_6_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 504
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_1_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_0_1_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_0_BW_Environment02_GrassDry",
+      "region": "Hillsides",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1008
+    },
+    {
+      "path": "Environment05 - countryside coverage/Hillsides/BW_Environment05_Hillsides_1_0_BW_Environment02_Grass",
+      "region": "Hillsides",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_3_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2856
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_3_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 3072
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_4_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 3456
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_4_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2856
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_4_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_4_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2176
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_4_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1876
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_4_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 3216
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_3_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 3528
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_1_3_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_3_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 6144
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_1_3_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 672
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_3_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1340
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_5_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_5_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2176
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_5_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1072
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_5_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1911
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_2_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 672
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_2_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1408
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_2_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1340
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_3_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1680
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_3_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1365
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_3_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 804
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_3_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1792
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_3_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1911
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_3_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_3_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 536
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_4_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1008
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_4_4_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_5_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1408
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_5_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 546
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_5_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 1608
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_5_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1848
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_3_4_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_4_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1176
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_4_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_5_4_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1638
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_5_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2560
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_5_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 672
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_5_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1365
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_5_BW_Environment05_Heather",
+      "region": "VillageMargins",
+      "material": "BW_Environment05_Heather",
+      "triangles": 536
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_2_BW_Environment02_Grass",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Grass",
+      "triangles": 512
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_2_BW_Environment02_Bush",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/VillageMargins/BW_Environment05_VillageMargins_2_2_BW_Environment02_GrassDry",
+      "region": "VillageMargins",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_7_2_BW_Environment02_Grass",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1408
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_5_2_BW_Environment02_Fern",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Fern",
+      "triangles": 14928
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_3_2_BW_Environment02_Bush",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Bush",
+      "triangles": 3822
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_4_2_BW_Environment02_Grass",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Grass",
+      "triangles": 2944
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_1_2_BW_Environment02_Fern",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Fern",
+      "triangles": 6000
+    },
+    {
+      "path": "Environment05 - countryside coverage/CreekBanks/BW_Environment05_CreekBanks_0_2_BW_Environment02_Bush",
+      "region": "CreekBanks",
+      "material": "BW_Environment02_Bush",
+      "triangles": 546
+    },
+    {
+      "path": "Environment05 - countryside coverage/WoodlandSkirts/BW_Environment05_WoodlandSkirts_2_5_BW_Environment02_Bush",
+      "region": "WoodlandSkirts",
+      "material": "BW_Environment02_Bush",
+      "triangles": 546
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_6_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1680
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_6_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_4_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 640
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_3_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_4_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_3_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_7_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_7_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_5_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_5_0_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_5_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_5_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2352
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_1_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_5_7_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_5_7_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1365
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_7_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_7_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_4_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 896
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_1_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1512
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_1_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_3_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 2688
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_3_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 768
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_5_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_3_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_3_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 1024
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_4_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_6_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 640
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_6_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1008
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_6_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1092
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_3_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1638
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_2_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1680
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_2_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 896
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_5_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_5_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_4_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 273
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_1_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 768
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_1_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 1365
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_1_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1176
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_6_7_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_2_0_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_4_7_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 384
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_4_7_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 840
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 128
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_0_2_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 128
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_7_2_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 336
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_6_0_BW_Environment02_Grass",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Grass",
+      "triangles": 256
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_6_0_BW_Environment02_Bush",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_Bush",
+      "triangles": 819
+    },
+    {
+      "path": "Environment05 - countryside coverage/DistantCountryside/BW_Environment05_DistantCountryside_6_0_BW_Environment02_GrassDry",
+      "region": "DistantCountryside",
+      "material": "BW_Environment02_GrassDry",
+      "triangles": 1344
+    }
+  ],
+  "grassTrianglesBefore": [
+    128,
+    168
+  ],
+  "grassTrianglesAfter": [
+    18,
+    18
+  ],
+  "heightsChanged": false,
+  "treesChanged": false,
+  "collidersChanged": false
+}

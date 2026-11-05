@@ -1,0 +1,165 @@
+{
+  "method": "Existing CharacterController.Move, automated Play-mode collision test; not keyboard/manual camera validation",
+  "controller": {
+    "height": 2.0,
+    "radius": 0.4
+  },
+  "results": [
+    {
+      "name": "Path_CrookedMortar approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07069144
+    },
+    {
+      "name": "Path_CrookedMortar approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06806486
+    },
+    {
+      "name": "Path_Inn approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07431197
+    },
+    {
+      "name": "Path_Inn approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07151244
+    },
+    {
+      "name": "Path_Forge approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07447363
+    },
+    {
+      "name": "Path_Forge approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0749407
+    },
+    {
+      "name": "Path_Bakery approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0569637157
+    },
+    {
+      "name": "Path_Bakery approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.06945839
+    },
+    {
+      "name": "Path_Merchant approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07384581
+    },
+    {
+      "name": "Path_Merchant approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07321025
+    },
+    {
+      "name": "Path_Elder approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07385264
+    },
+    {
+      "name": "Path_Elder approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0722911954
+    },
+    {
+      "name": "Path_Farm approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0749884248
+    },
+    {
+      "name": "Path_Farm approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07369628
+    },
+    {
+      "name": "Path_Miller approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07142403
+    },
+    {
+      "name": "Path_Miller approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07449038
+    },
+    {
+      "name": "Path_Chapel approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07330237
+    },
+    {
+      "name": "Path_Chapel approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07443538
+    },
+    {
+      "name": "Path_CottageA approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07130595
+    },
+    {
+      "name": "Path_CottageA approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.0744560361
+    },
+    {
+      "name": "Path_CottageB approach (stops before static door)",
+      "direction": "forward",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07177606
+    },
+    {
+      "name": "Path_CottageB approach (stops before static door)",
+      "direction": "reverse",
+      "pass": true,
+      "grounded": true,
+      "maxHorizontalError": 0.07173178
+    }
+  ],
+  "normalStateRestored": true,
+  "allPass": true
+}

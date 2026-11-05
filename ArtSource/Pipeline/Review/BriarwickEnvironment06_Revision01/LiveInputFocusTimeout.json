@@ -1,0 +1,8 @@
+{
+  "passed": false,
+  "error": "Unity focus timeout",
+  "method": "Automated virtual gamepad/mouse state events through unchanged TraversalInput, ThirdPersonMotor, orbit camera and Locomotion03 in focused Play mode; no direct pose/clip/motor invocation during route, not manual playtesting",
+  "results": [],
+  "images": [],
+  "samples": []
+}
