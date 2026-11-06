@@ -1,0 +1,62 @@
+{
+  "method": "Existing CharacterController.Move across both new road shoulders at four approach sections, both directions. Not manual input/camera comfort.",
+  "results": [
+    {
+      "z": -79.5,
+      "reverse": false,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -79.5,
+      "reverse": true,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -77.5,
+      "reverse": false,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -77.5,
+      "reverse": true,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -55.5,
+      "reverse": false,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -55.5,
+      "reverse": true,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -53.5,
+      "reverse": false,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    },
+    {
+      "z": -53.5,
+      "reverse": true,
+      "pass": true,
+      "grounded": true,
+      "ungroundedSteps": 0
+    }
+  ],
+  "allPass": true
+}

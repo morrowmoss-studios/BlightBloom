@@ -1,0 +1,99 @@
+{
+  "controlTextures": [
+    {
+      "width": 1024,
+      "height": 1024,
+      "format": "RGBA32",
+      "bytes": 11185784
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "format": "RGBA32",
+      "bytes": 11185784
+    }
+  ],
+  "newMeshes": [
+    {
+      "name": "BW_Environment07_BridgeApproachEarth",
+      "triangles": 136,
+      "bytes": 26032
+    },
+    {
+      "name": "BW_Environment07_Common",
+      "triangles": 128,
+      "bytes": 11104
+    },
+    {
+      "name": "BW_Environment07_MainRoad_Entrance_Common_Woodland",
+      "triangles": 620,
+      "bytes": 69872
+    },
+    {
+      "name": "BW_Environment07_Path_ApothecaryGarden",
+      "triangles": 60,
+      "bytes": 7952
+    },
+    {
+      "name": "BW_Environment07_Path_Bakery",
+      "triangles": 24,
+      "bytes": 4208
+    },
+    {
+      "name": "BW_Environment07_Path_Chapel",
+      "triangles": 110,
+      "bytes": 13152
+    },
+    {
+      "name": "BW_Environment07_Path_CottageA",
+      "triangles": 104,
+      "bytes": 12528
+    },
+    {
+      "name": "BW_Environment07_Path_CottageB",
+      "triangles": 82,
+      "bytes": 10240
+    },
+    {
+      "name": "BW_Environment07_Path_CrookedMortar",
+      "triangles": 52,
+      "bytes": 7120
+    },
+    {
+      "name": "BW_Environment07_Path_Elder",
+      "triangles": 46,
+      "bytes": 6496
+    },
+    {
+      "name": "BW_Environment07_Path_Farm",
+      "triangles": 86,
+      "bytes": 10656
+    },
+    {
+      "name": "BW_Environment07_Path_Forge",
+      "triangles": 82,
+      "bytes": 10240
+    },
+    {
+      "name": "BW_Environment07_Path_Graveyard",
+      "triangles": 82,
+      "bytes": 10240
+    },
+    {
+      "name": "BW_Environment07_Path_Inn",
+      "triangles": 32,
+      "bytes": 5040
+    },
+    {
+      "name": "BW_Environment07_Path_Merchant",
+      "triangles": 36,
+      "bytes": 5456
+    },
+    {
+      "name": "BW_Environment07_Path_Miller",
+      "triangles": 84,
+      "bytes": 10448
+    }
+  ],
+  "shaderErrors": []
+}

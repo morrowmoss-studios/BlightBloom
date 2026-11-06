@@ -1,0 +1,119 @@
+{
+  "method": "Vertical support sampled at every original cross-section on five lanes. Existing road/deck/terrain plus only the fitted approach shoulder collider. Height change includes ordinary continuous hills, not an inferred discrete step.",
+  "routes": [
+    {
+      "name": "MainRoad_Entrance_Common_Woodland",
+      "samples": 1670,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0937686,
+      "minimumUpNormal": 0.982731044,
+      "maxAboveTerrain": 2.7542305
+    },
+    {
+      "name": "Path_CrookedMortar",
+      "samples": 135,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0175070763,
+      "minimumUpNormal": 0.999389946,
+      "maxAboveTerrain": 0.075363636
+    },
+    {
+      "name": "Path_Inn",
+      "samples": 85,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.06623554,
+      "minimumUpNormal": 0.993971765,
+      "maxAboveTerrain": 0.07952452
+    },
+    {
+      "name": "Path_Forge",
+      "samples": 210,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.01591444,
+      "minimumUpNormal": 0.999484956,
+      "maxAboveTerrain": 0.08265591
+    },
+    {
+      "name": "Path_Bakery",
+      "samples": 65,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.03180027,
+      "minimumUpNormal": 0.9980961,
+      "maxAboveTerrain": 0.07466698
+    },
+    {
+      "name": "Path_Merchant",
+      "samples": 95,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.100837708,
+      "minimumUpNormal": 0.9796235,
+      "maxAboveTerrain": 0.0780715942
+    },
+    {
+      "name": "Path_Elder",
+      "samples": 120,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0176372528,
+      "minimumUpNormal": 0.999636769,
+      "maxAboveTerrain": 0.07642412
+    },
+    {
+      "name": "Path_Farm",
+      "samples": 220,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0262908936,
+      "minimumUpNormal": 0.998266637,
+      "maxAboveTerrain": 0.0770869255
+    },
+    {
+      "name": "Path_Miller",
+      "samples": 215,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0160665512,
+      "minimumUpNormal": 0.9995916,
+      "maxAboveTerrain": 0.08810043
+    },
+    {
+      "name": "Path_Chapel",
+      "samples": 280,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0344724655,
+      "minimumUpNormal": 0.997807145,
+      "maxAboveTerrain": 0.07951641
+    },
+    {
+      "name": "Path_CottageA",
+      "samples": 265,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0507802963,
+      "minimumUpNormal": 0.998663,
+      "maxAboveTerrain": 0.0764446259
+    },
+    {
+      "name": "Path_CottageB",
+      "samples": 210,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0263600349,
+      "minimumUpNormal": 0.9987426,
+      "maxAboveTerrain": 0.0799965858
+    },
+    {
+      "name": "Path_Graveyard",
+      "samples": 210,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.008899689,
+      "minimumUpNormal": 0.9997857,
+      "maxAboveTerrain": 0.07649565
+    },
+    {
+      "name": "Path_ApothecaryGarden",
+      "samples": 155,
+      "unsupported": 0,
+      "maxHeightChangeBetweenRows": 0.0215597153,
+      "minimumUpNormal": 0.9995364,
+      "maxAboveTerrain": 0.07599735
+    }
+  ],
+  "totalSamples": 3935,
+  "unsupported": 0
+}

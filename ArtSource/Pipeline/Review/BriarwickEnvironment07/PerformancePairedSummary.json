@@ -1,0 +1,71 @@
+[
+  {
+    "view": "Common intersection",
+    "Before": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1436.0,
+      "Triangles Count": 4121168.0,
+      "SetPass Calls Count": 67.0,
+      "CPU Render Thread Frame Time": 10190186.0,
+      "GPU Frame Time": 23596562.0,
+      "PlayerLoop": 6908000.0
+    },
+    "After": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1399.0,
+      "Triangles Count": 4115460.0,
+      "SetPass Calls Count": 65.0,
+      "CPU Render Thread Frame Time": 10151457.0,
+      "GPU Frame Time": 25565603.5,
+      "PlayerLoop": 7091749.5
+    }
+  },
+  {
+    "view": "Main road",
+    "Before": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1671.0,
+      "Triangles Count": 2394413.0,
+      "SetPass Calls Count": 69.0,
+      "CPU Render Thread Frame Time": 11316270.5,
+      "GPU Frame Time": 22620604.0,
+      "PlayerLoop": 6754000.0
+    },
+    "After": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1622.0,
+      "Triangles Count": 2388125.0,
+      "SetPass Calls Count": 68.0,
+      "CPU Render Thread Frame Time": 10825209.0,
+      "GPU Frame Time": 22187562.5,
+      "PlayerLoop": 7033813.0
+    }
+  },
+  {
+    "view": "Bridge approach",
+    "Before": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1902.0,
+      "Triangles Count": 2601981.0,
+      "SetPass Calls Count": 70.0,
+      "CPU Render Thread Frame Time": 12222520.0,
+      "GPU Frame Time": 22046104.0,
+      "PlayerLoop": 7096688.0
+    },
+    "After": {
+      "samples": 40,
+      "focusedSamples": 40,
+      "drawCalls": 1884.0,
+      "Triangles Count": 2597773.0,
+      "SetPass Calls Count": 69.0,
+      "CPU Render Thread Frame Time": 12320000.0,
+      "GPU Frame Time": 22681687.0,
+      "PlayerLoop": 7484187.5
+    }
+  }
+]

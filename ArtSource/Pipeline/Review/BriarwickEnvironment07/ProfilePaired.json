@@ -1,0 +1,3133 @@
+{
+  "method": "Paired before/after runtime-only TerrainData clone, road visual refs/materials and earth-shoulder state; original collision assets untouched. Three matched Game-view positions,40samples following20warmup frames. Game view explicitly repainted. Editor-inclusive counters, not standalone FPS.",
+  "error": null,
+  "valid": {
+    "Triangles Count": true,
+    "SetPass Calls Count": true,
+    "CPU Render Thread Frame Time": true,
+    "GPU Frame Time": true,
+    "PlayerLoop": true
+  },
+  "samples": [
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 11351459,
+        "GPU Frame Time": 25262624,
+        "PlayerLoop": 6708124
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10766251,
+        "GPU Frame Time": 26020291,
+        "PlayerLoop": 7951916
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 4001875,
+        "GPU Frame Time": 24853833,
+        "PlayerLoop": 6761250
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10343000,
+        "GPU Frame Time": 27454208,
+        "PlayerLoop": 7814208
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9405959,
+        "GPU Frame Time": 20081166,
+        "PlayerLoop": 7068250
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10285794,
+        "GPU Frame Time": 24231625,
+        "PlayerLoop": 6669291
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 6740168,
+        "GPU Frame Time": 18518125,
+        "PlayerLoop": 7142625
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 11870168,
+        "GPU Frame Time": 21597374,
+        "PlayerLoop": 7035624
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10198374,
+        "GPU Frame Time": 22277125,
+        "PlayerLoop": 6868457
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10269916,
+        "GPU Frame Time": 26209124,
+        "PlayerLoop": 7520167
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10314334,
+        "GPU Frame Time": 23263374,
+        "PlayerLoop": 6763875
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10008541,
+        "GPU Frame Time": 24564333,
+        "PlayerLoop": 4266874
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10702125,
+        "GPU Frame Time": 21931124,
+        "PlayerLoop": 7284750
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10513873,
+        "GPU Frame Time": 25597750,
+        "PlayerLoop": 7061999
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 14104415,
+        "GPU Frame Time": 23653499,
+        "PlayerLoop": 7443457
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10809332,
+        "GPU Frame Time": 23170875,
+        "PlayerLoop": 6922584
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10472832,
+        "GPU Frame Time": 23362750,
+        "PlayerLoop": 6872125
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10744582,
+        "GPU Frame Time": 24669958,
+        "PlayerLoop": 6853250
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10553500,
+        "GPU Frame Time": 25489250,
+        "PlayerLoop": 6617667
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9121876,
+        "GPU Frame Time": 22578124,
+        "PlayerLoop": 7447500
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9799417,
+        "GPU Frame Time": 26439208,
+        "PlayerLoop": 7318667
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10107667,
+        "GPU Frame Time": 23133041,
+        "PlayerLoop": 6893168
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10141917,
+        "GPU Frame Time": 22892916,
+        "PlayerLoop": 7456043
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10442962,
+        "GPU Frame Time": 24009291,
+        "PlayerLoop": 6501583
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 11493916,
+        "GPU Frame Time": 25917833,
+        "PlayerLoop": 7155042
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10607540,
+        "GPU Frame Time": 22906916,
+        "PlayerLoop": 6838541
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9352126,
+        "GPU Frame Time": 24410958,
+        "PlayerLoop": 6893416
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10181998,
+        "GPU Frame Time": 25476291,
+        "PlayerLoop": 7901916
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10168127,
+        "GPU Frame Time": 25763083,
+        "PlayerLoop": 7584209
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9854291,
+        "GPU Frame Time": 23308250,
+        "PlayerLoop": 6597083
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9402667,
+        "GPU Frame Time": 26315125,
+        "PlayerLoop": 6427792
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 11277915,
+        "GPU Frame Time": 23539625,
+        "PlayerLoop": 6366875
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10141126,
+        "GPU Frame Time": 22872624,
+        "PlayerLoop": 6344915
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9334584,
+        "GPU Frame Time": 19132708,
+        "PlayerLoop": 6032958
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9297583,
+        "GPU Frame Time": 24395250,
+        "PlayerLoop": 5995999
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9281960,
+        "GPU Frame Time": 18890958,
+        "PlayerLoop": 4105626
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9658415,
+        "GPU Frame Time": 24580624,
+        "PlayerLoop": 7273374
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 9186833,
+        "GPU Frame Time": 18859999,
+        "PlayerLoop": 7473999
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 5044709,
+        "GPU Frame Time": 19203375,
+        "PlayerLoop": 7699042
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4121168,
+        "SetPass Calls Count": 67,
+        "CPU Render Thread Frame Time": 10723374,
+        "GPU Frame Time": 21721916,
+        "PlayerLoop": 7131791
+      },
+      "drawCalls": 1436
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12529542,
+        "GPU Frame Time": 19297583,
+        "PlayerLoop": 8816625
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12469457,
+        "GPU Frame Time": 23221374,
+        "PlayerLoop": 8393833
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12358126,
+        "GPU Frame Time": 22616916,
+        "PlayerLoop": 7989792
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12828335,
+        "GPU Frame Time": 22705249,
+        "PlayerLoop": 6759250
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11371290,
+        "GPU Frame Time": 20746999,
+        "PlayerLoop": 6495709
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12840127,
+        "GPU Frame Time": 20166249,
+        "PlayerLoop": 6328417
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11849790,
+        "GPU Frame Time": 23481249,
+        "PlayerLoop": 6595083
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10929124,
+        "GPU Frame Time": 22617750,
+        "PlayerLoop": 6632416
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11181209,
+        "GPU Frame Time": 23589541,
+        "PlayerLoop": 6446125
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11386582,
+        "GPU Frame Time": 22370750,
+        "PlayerLoop": 6401374
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11334917,
+        "GPU Frame Time": 23193500,
+        "PlayerLoop": 7969749
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11134791,
+        "GPU Frame Time": 22623458,
+        "PlayerLoop": 6252334
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11711250,
+        "GPU Frame Time": 23516499,
+        "PlayerLoop": 6741417
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12522958,
+        "GPU Frame Time": 23892791,
+        "PlayerLoop": 6726916
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10830250,
+        "GPU Frame Time": 21632874,
+        "PlayerLoop": 6621332
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11743832,
+        "GPU Frame Time": 20120749,
+        "PlayerLoop": 6874707
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11395209,
+        "GPU Frame Time": 24089208,
+        "PlayerLoop": 6540917
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11005291,
+        "GPU Frame Time": 22575666,
+        "PlayerLoop": 10628708
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10685376,
+        "GPU Frame Time": 23656500,
+        "PlayerLoop": 4519208
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10112250,
+        "GPU Frame Time": 22992250,
+        "PlayerLoop": 6347625
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 8493041,
+        "GPU Frame Time": 22588124,
+        "PlayerLoop": 7783833
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 4552542,
+        "GPU Frame Time": 17639375,
+        "PlayerLoop": 6777792
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 7360333,
+        "GPU Frame Time": 19833208,
+        "PlayerLoop": 6566458
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12983293,
+        "GPU Frame Time": 22832916,
+        "PlayerLoop": 7305500
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10192041,
+        "GPU Frame Time": 22079666,
+        "PlayerLoop": 6781417
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10350959,
+        "GPU Frame Time": 16612958,
+        "PlayerLoop": 7292082
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11821417,
+        "GPU Frame Time": 22872166,
+        "PlayerLoop": 6814666
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11441749,
+        "GPU Frame Time": 23308041,
+        "PlayerLoop": 6929250
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10674959,
+        "GPU Frame Time": 24602042,
+        "PlayerLoop": 6457791
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10704417,
+        "GPU Frame Time": 20320124,
+        "PlayerLoop": 6748750
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11638460,
+        "GPU Frame Time": 22629375,
+        "PlayerLoop": 6731666
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10918081,
+        "GPU Frame Time": 21385666,
+        "PlayerLoop": 7226667
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11161709,
+        "GPU Frame Time": 25151625,
+        "PlayerLoop": 7294625
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11070956,
+        "GPU Frame Time": 20954875,
+        "PlayerLoop": 6652209
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12396042,
+        "GPU Frame Time": 22529958,
+        "PlayerLoop": 7029708
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 10786002,
+        "GPU Frame Time": 23444333,
+        "PlayerLoop": 7053125
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 9831416,
+        "GPU Frame Time": 20280750,
+        "PlayerLoop": 6764251
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11576333,
+        "GPU Frame Time": 20625458,
+        "PlayerLoop": 6694792
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11485750,
+        "GPU Frame Time": 22851208,
+        "PlayerLoop": 6404042
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2394413,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11297624,
+        "GPU Frame Time": 23875250,
+        "PlayerLoop": 6868668
+      },
+      "drawCalls": 1671
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12691417,
+        "GPU Frame Time": 21052666,
+        "PlayerLoop": 7794709
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12058375,
+        "GPU Frame Time": 23916583,
+        "PlayerLoop": 6939792
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12084792,
+        "GPU Frame Time": 21277749,
+        "PlayerLoop": 3224084
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13256833,
+        "GPU Frame Time": 21507500,
+        "PlayerLoop": 8725001
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11549836,
+        "GPU Frame Time": 19540457,
+        "PlayerLoop": 7829124
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 4407875,
+        "GPU Frame Time": 20321249,
+        "PlayerLoop": 7245208
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 14249541,
+        "GPU Frame Time": 21873833,
+        "PlayerLoop": 7271416
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11686917,
+        "GPU Frame Time": 21983875,
+        "PlayerLoop": 6566373
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12730750,
+        "GPU Frame Time": 20326291,
+        "PlayerLoop": 6171834
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12541790,
+        "GPU Frame Time": 24378375,
+        "PlayerLoop": 6995833
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 10145873,
+        "GPU Frame Time": 22128708,
+        "PlayerLoop": 9677959
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11248626,
+        "GPU Frame Time": 23575166,
+        "PlayerLoop": 6528917
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 10820791,
+        "GPU Frame Time": 21433958,
+        "PlayerLoop": 7040167
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13647708,
+        "GPU Frame Time": 21365750,
+        "PlayerLoop": 7312791
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11979208,
+        "GPU Frame Time": 23730499,
+        "PlayerLoop": 6447917
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12117916,
+        "GPU Frame Time": 22162666,
+        "PlayerLoop": 7399582
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11985295,
+        "GPU Frame Time": 21305708,
+        "PlayerLoop": 7321751
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11786708,
+        "GPU Frame Time": 25028666,
+        "PlayerLoop": 7105876
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12102167,
+        "GPU Frame Time": 20757500,
+        "PlayerLoop": 7087500
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12200666,
+        "GPU Frame Time": 21202750,
+        "PlayerLoop": 7743500
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13522957,
+        "GPU Frame Time": 23206000,
+        "PlayerLoop": 6741501
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12082044,
+        "GPU Frame Time": 22665999,
+        "PlayerLoop": 8052459
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12474043,
+        "GPU Frame Time": 20783000,
+        "PlayerLoop": 6730875
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12160749,
+        "GPU Frame Time": 21286041,
+        "PlayerLoop": 7114209
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 14538832,
+        "GPU Frame Time": 22108333,
+        "PlayerLoop": 6411082
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12244374,
+        "GPU Frame Time": 22849000,
+        "PlayerLoop": 7384167
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12933832,
+        "GPU Frame Time": 23367749,
+        "PlayerLoop": 6871375
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11473794,
+        "GPU Frame Time": 21018999,
+        "PlayerLoop": 8400792
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13195041,
+        "GPU Frame Time": 23590083,
+        "PlayerLoop": 6748083
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12478085,
+        "GPU Frame Time": 22708458,
+        "PlayerLoop": 7043208
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 14183168,
+        "GPU Frame Time": 21812833,
+        "PlayerLoop": 6725416
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12078460,
+        "GPU Frame Time": 23135750,
+        "PlayerLoop": 7460333
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12322373,
+        "GPU Frame Time": 23832125,
+        "PlayerLoop": 6947584
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12084001,
+        "GPU Frame Time": 22982500,
+        "PlayerLoop": 7175251
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13268416,
+        "GPU Frame Time": 23765166,
+        "PlayerLoop": 6606791
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12351916,
+        "GPU Frame Time": 23078208,
+        "PlayerLoop": 7440583
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 13456459,
+        "GPU Frame Time": 23421208,
+        "PlayerLoop": 6999708
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 11850625,
+        "GPU Frame Time": 21431875,
+        "PlayerLoop": 6619833
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12502458,
+        "GPU Frame Time": 21666958,
+        "PlayerLoop": 7122500
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "Before",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2601981,
+        "SetPass Calls Count": 70,
+        "CPU Render Thread Frame Time": 12651249,
+        "GPU Frame Time": 19112375,
+        "PlayerLoop": 7259457
+      },
+      "drawCalls": 1902
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 8728041,
+        "GPU Frame Time": 23833541,
+        "PlayerLoop": 7519957
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 8607249,
+        "GPU Frame Time": 25565083,
+        "PlayerLoop": 7222918
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 5255582,
+        "GPU Frame Time": 22022125,
+        "PlayerLoop": 6993582
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10812169,
+        "GPU Frame Time": 26544708,
+        "PlayerLoop": 6878167
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10374792,
+        "GPU Frame Time": 23142041,
+        "PlayerLoop": 7652083
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10804167,
+        "GPU Frame Time": 26816541,
+        "PlayerLoop": 7712833
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9714791,
+        "GPU Frame Time": 26578333,
+        "PlayerLoop": 6765208
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 11044919,
+        "GPU Frame Time": 26498500,
+        "PlayerLoop": 6610917
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10551833,
+        "GPU Frame Time": 25534041,
+        "PlayerLoop": 7066624
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9531165,
+        "GPU Frame Time": 26856666,
+        "PlayerLoop": 6542457
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9606168,
+        "GPU Frame Time": 24823250,
+        "PlayerLoop": 6992541
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10443043,
+        "GPU Frame Time": 26153791,
+        "PlayerLoop": 7005083
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9501915,
+        "GPU Frame Time": 23213541,
+        "PlayerLoop": 6511333
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10092416,
+        "GPU Frame Time": 24072166,
+        "PlayerLoop": 6863874
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9997126,
+        "GPU Frame Time": 23312333,
+        "PlayerLoop": 7423417
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9330832,
+        "GPU Frame Time": 25566124,
+        "PlayerLoop": 7095708
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9554039,
+        "GPU Frame Time": 22568332,
+        "PlayerLoop": 6709667
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10493374,
+        "GPU Frame Time": 25637291,
+        "PlayerLoop": 7076834
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9952707,
+        "GPU Frame Time": 26859250,
+        "PlayerLoop": 7362166
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10279125,
+        "GPU Frame Time": 25303000,
+        "PlayerLoop": 6484959
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10038959,
+        "GPU Frame Time": 23542999,
+        "PlayerLoop": 7266541
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10754375,
+        "GPU Frame Time": 27442499,
+        "PlayerLoop": 7110043
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9661876,
+        "GPU Frame Time": 24594166,
+        "PlayerLoop": 7369292
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10168624,
+        "GPU Frame Time": 24561333,
+        "PlayerLoop": 8225793
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10779541,
+        "GPU Frame Time": 25640000,
+        "PlayerLoop": 7264584
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10212793,
+        "GPU Frame Time": 25218250,
+        "PlayerLoop": 7203667
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10134290,
+        "GPU Frame Time": 25816000,
+        "PlayerLoop": 7514042
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 11115666,
+        "GPU Frame Time": 24695000,
+        "PlayerLoop": 7143417
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10181750,
+        "GPU Frame Time": 26109916,
+        "PlayerLoop": 7028042
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 11474332,
+        "GPU Frame Time": 24675083,
+        "PlayerLoop": 6489251
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10754918,
+        "GPU Frame Time": 25407250,
+        "PlayerLoop": 7148166
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9719417,
+        "GPU Frame Time": 25692750,
+        "PlayerLoop": 7087791
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9898583,
+        "GPU Frame Time": 26139374,
+        "PlayerLoop": 7116624
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9824082,
+        "GPU Frame Time": 23956291,
+        "PlayerLoop": 6907375
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10118416,
+        "GPU Frame Time": 26189249,
+        "PlayerLoop": 6902001
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10803751,
+        "GPU Frame Time": 23422500,
+        "PlayerLoop": 6885584
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10279624,
+        "GPU Frame Time": 26351083,
+        "PlayerLoop": 7284125
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 9940917,
+        "GPU Frame Time": 26447874,
+        "PlayerLoop": 7297543
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10391542,
+        "GPU Frame Time": 26596333,
+        "PlayerLoop": 6929958
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Common intersection",
+      "focused": true,
+      "values": {
+        "Triangles Count": 4115460,
+        "SetPass Calls Count": 65,
+        "CPU Render Thread Frame Time": 10396457,
+        "GPU Frame Time": 26064583,
+        "PlayerLoop": 7807418
+      },
+      "drawCalls": 1399
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10520708,
+        "GPU Frame Time": 18158874,
+        "PlayerLoop": 6683750
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11359792,
+        "GPU Frame Time": 24111000,
+        "PlayerLoop": 6961249
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10800000,
+        "GPU Frame Time": 21568875,
+        "PlayerLoop": 6333542
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10569333,
+        "GPU Frame Time": 22056291,
+        "PlayerLoop": 6624293
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10819708,
+        "GPU Frame Time": 16478749,
+        "PlayerLoop": 8065916
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10146876,
+        "GPU Frame Time": 23829250,
+        "PlayerLoop": 6536166
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11441127,
+        "GPU Frame Time": 22327833,
+        "PlayerLoop": 7176291
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 12229541,
+        "GPU Frame Time": 20322708,
+        "PlayerLoop": 6979709
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10139874,
+        "GPU Frame Time": 16387083,
+        "PlayerLoop": 7094084
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10884709,
+        "GPU Frame Time": 22747583,
+        "PlayerLoop": 7418000
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11077917,
+        "GPU Frame Time": 22870125,
+        "PlayerLoop": 7207793
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11413667,
+        "GPU Frame Time": 21632291,
+        "PlayerLoop": 6411083
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11480668,
+        "GPU Frame Time": 17357999,
+        "PlayerLoop": 7264667
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11196790,
+        "GPU Frame Time": 23187666,
+        "PlayerLoop": 7158584
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10476585,
+        "GPU Frame Time": 23634833,
+        "PlayerLoop": 7118001
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11415625,
+        "GPU Frame Time": 21363500,
+        "PlayerLoop": 7345707
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11390999,
+        "GPU Frame Time": 17136499,
+        "PlayerLoop": 6406833
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11435002,
+        "GPU Frame Time": 22144875,
+        "PlayerLoop": 11435710
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 12193456,
+        "GPU Frame Time": 22360458,
+        "PlayerLoop": 5957999
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10396916,
+        "GPU Frame Time": 24588208,
+        "PlayerLoop": 6362374
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 8271336,
+        "GPU Frame Time": 21930375,
+        "PlayerLoop": 6903999
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10214291,
+        "GPU Frame Time": 23051750,
+        "PlayerLoop": 6661709
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 9924916,
+        "GPU Frame Time": 24447958,
+        "PlayerLoop": 7087041
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10979583,
+        "GPU Frame Time": 22230250,
+        "PlayerLoop": 5844041
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10506128,
+        "GPU Frame Time": 23493417,
+        "PlayerLoop": 7268250
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10015790,
+        "GPU Frame Time": 22290708,
+        "PlayerLoop": 7212959
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 5047374,
+        "GPU Frame Time": 20864958,
+        "PlayerLoop": 7861583
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11413542,
+        "GPU Frame Time": 22612166,
+        "PlayerLoop": 6484249
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11267417,
+        "GPU Frame Time": 23260583,
+        "PlayerLoop": 6451791
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10924209,
+        "GPU Frame Time": 22481041,
+        "PlayerLoop": 9111916
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10149333,
+        "GPU Frame Time": 19290249,
+        "PlayerLoop": 7083667
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10639500,
+        "GPU Frame Time": 22570999,
+        "PlayerLoop": 7030710
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 14005747,
+        "GPU Frame Time": 16850791,
+        "PlayerLoop": 6794418
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11382000,
+        "GPU Frame Time": 25206666,
+        "PlayerLoop": 7152916
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 11012084,
+        "GPU Frame Time": 21308791,
+        "PlayerLoop": 7203499
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 9828667,
+        "GPU Frame Time": 16675374,
+        "PlayerLoop": 7036916
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10830710,
+        "GPU Frame Time": 23540874,
+        "PlayerLoop": 6411125
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10724417,
+        "GPU Frame Time": 21221749,
+        "PlayerLoop": 6480583
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 10311375,
+        "GPU Frame Time": 20851791,
+        "PlayerLoop": 7157374
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Main road",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2388125,
+        "SetPass Calls Count": 68,
+        "CPU Render Thread Frame Time": 9665083,
+        "GPU Frame Time": 16671416,
+        "PlayerLoop": 6723208
+      },
+      "drawCalls": 1622
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12122456,
+        "GPU Frame Time": 24098583,
+        "PlayerLoop": 7979750
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11918876,
+        "GPU Frame Time": 21194749,
+        "PlayerLoop": 7539543
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12557873,
+        "GPU Frame Time": 22832875,
+        "PlayerLoop": 7584792
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12161665,
+        "GPU Frame Time": 20673083,
+        "PlayerLoop": 8260125
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12689708,
+        "GPU Frame Time": 22309041,
+        "PlayerLoop": 7457376
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12979169,
+        "GPU Frame Time": 23046999,
+        "PlayerLoop": 8028666
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12662832,
+        "GPU Frame Time": 24874083,
+        "PlayerLoop": 7701833
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 13432584,
+        "GPU Frame Time": 20164750,
+        "PlayerLoop": 7273624
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12700126,
+        "GPU Frame Time": 21222958,
+        "PlayerLoop": 6767167
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12953916,
+        "GPU Frame Time": 20172874,
+        "PlayerLoop": 7607042
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12276208,
+        "GPU Frame Time": 21216333,
+        "PlayerLoop": 7469209
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12038709,
+        "GPU Frame Time": 25482958,
+        "PlayerLoop": 6921166
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12316333,
+        "GPU Frame Time": 22332708,
+        "PlayerLoop": 8267959
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12258375,
+        "GPU Frame Time": 21514208,
+        "PlayerLoop": 7552499
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11453833,
+        "GPU Frame Time": 17832458,
+        "PlayerLoop": 7369292
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 13252333,
+        "GPU Frame Time": 23393750,
+        "PlayerLoop": 7757042
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12584461,
+        "GPU Frame Time": 20435625,
+        "PlayerLoop": 7349374
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12727542,
+        "GPU Frame Time": 24245833,
+        "PlayerLoop": 7507666
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11296999,
+        "GPU Frame Time": 22384583,
+        "PlayerLoop": 7806499
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12132919,
+        "GPU Frame Time": 24505041,
+        "PlayerLoop": 6906500
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12561665,
+        "GPU Frame Time": 22772999,
+        "PlayerLoop": 7008667
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12364749,
+        "GPU Frame Time": 23980000,
+        "PlayerLoop": 7386793
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12082210,
+        "GPU Frame Time": 22986750,
+        "PlayerLoop": 7589500
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12174917,
+        "GPU Frame Time": 24146500,
+        "PlayerLoop": 6994291
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 13473043,
+        "GPU Frame Time": 24345249,
+        "PlayerLoop": 7348749
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12732294,
+        "GPU Frame Time": 21375000,
+        "PlayerLoop": 7594333
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12243999,
+        "GPU Frame Time": 16955000,
+        "PlayerLoop": 6490584
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12323667,
+        "GPU Frame Time": 22158708,
+        "PlayerLoop": 6758707
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12294460,
+        "GPU Frame Time": 22974541,
+        "PlayerLoop": 7414375
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12023334,
+        "GPU Frame Time": 24292083,
+        "PlayerLoop": 7065876
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11666792,
+        "GPU Frame Time": 20687041,
+        "PlayerLoop": 7422208
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12518416,
+        "GPU Frame Time": 22955083,
+        "PlayerLoop": 4342750
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11495917,
+        "GPU Frame Time": 23755124,
+        "PlayerLoop": 7626292
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12993084,
+        "GPU Frame Time": 21755708,
+        "PlayerLoop": 6991707
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 6033291,
+        "GPU Frame Time": 19704083,
+        "PlayerLoop": 8003625
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12423916,
+        "GPU Frame Time": 23333000,
+        "PlayerLoop": 7611958
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 11272500,
+        "GPU Frame Time": 22132583,
+        "PlayerLoop": 7499166
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12767499,
+        "GPU Frame Time": 22590375,
+        "PlayerLoop": 6784833
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 13009333,
+        "GPU Frame Time": 22940083,
+        "PlayerLoop": 7763208
+      },
+      "drawCalls": 1884
+    },
+    {
+      "phase": "After",
+      "view": "Bridge approach",
+      "focused": true,
+      "values": {
+        "Triangles Count": 2597773,
+        "SetPass Calls Count": 69,
+        "CPU Render Thread Frame Time": 12187335,
+        "GPU Frame Time": 23761499,
+        "PlayerLoop": 7613000
+      },
+      "drawCalls": 1884
+    }
+  ]
+}

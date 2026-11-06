@@ -1,0 +1,140 @@
+{
+  "roadRibbonCount": 14,
+  "commonCount": 1,
+  "assignments": [
+    {
+      "name": "MainRoad_Entrance_Common_Woodland",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/MainRoad_Entrance_Common_Woodland.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_MainRoad_Entrance_Common_Woodland.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_CartRoad.mat",
+      "triangles": 620
+    },
+    {
+      "name": "Path_CrookedMortar",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_CrookedMortar.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_CrookedMortar.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 52
+    },
+    {
+      "name": "Path_Inn",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Inn.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Inn.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 32
+    },
+    {
+      "name": "Path_Forge",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Forge.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Forge.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 82
+    },
+    {
+      "name": "Path_Bakery",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Bakery.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Bakery.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 24
+    },
+    {
+      "name": "Path_Merchant",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Merchant.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Merchant.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 36
+    },
+    {
+      "name": "Path_Elder",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Elder.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Elder.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 46
+    },
+    {
+      "name": "Path_Farm",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Farm.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Farm.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_CartRoad.mat",
+      "triangles": 86
+    },
+    {
+      "name": "Path_Miller",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Miller.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Miller.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 84
+    },
+    {
+      "name": "Path_Chapel",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Chapel.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Chapel.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 110
+    },
+    {
+      "name": "Path_CottageA",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_CottageA.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_CottageA.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 104
+    },
+    {
+      "name": "Path_CottageB",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_CottageB.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_CottageB.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 82
+    },
+    {
+      "name": "Path_Graveyard",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_Graveyard.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_Graveyard.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 82
+    },
+    {
+      "name": "Path_ApothecaryGarden",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Path_ApothecaryGarden.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Path_ApothecaryGarden.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Footpath.mat",
+      "triangles": 60
+    },
+    {
+      "name": "Common_26x30m_ActivityReserve",
+      "oldMesh": "Assets/BlightBloom/Environments/Briarwick/HamletDev01/Meshes/Common_26x30m_ActivityReserve.asset",
+      "newMesh": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Meshes/BW_Environment07_Common.asset",
+      "oldMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment05/Revision01/Materials/BW_Revision01_WornEarth.mat",
+      "newMaterial": "Assets/BlightBloom/Art/Environment/Briarwick/Environment07/Materials/BW_Environment07_Common.mat",
+      "triangles": 128
+    }
+  ],
+  "terrainAlphaBefore": 256,
+  "terrainAlphaAfter": 1024,
+  "paintedTexels": 30518,
+  "terrainLayersUnchanged": true,
+  "vegetationChanged": false,
+  "roadVerticesAndTrianglesUnchanged": true,
+  "originalRoadCollidersUnchanged": true,
+  "bridgeUnchanged": true,
+  "newEarthShoulderTriangles": 136,
+  "newRenderers": 1,
+  "newColliders": 1,
+  "newMaterials": 4,
+  "newShaders": 1,
+  "finalShoulderFit": "Three continuous bands: inner join, original edge minus4mm, gentler Terrain-contact slope. Existing road collider untouched."
+}

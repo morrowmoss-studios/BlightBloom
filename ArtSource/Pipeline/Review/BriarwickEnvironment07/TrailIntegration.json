@@ -1,0 +1,30 @@
+{
+  "source": "Existing Woodland03 recorded route; not a new alignment",
+  "points": [
+    [
+      -28.0,
+      95.0
+    ],
+    [
+      -25.0,
+      103.0
+    ],
+    [
+      -24.0,
+      112.0
+    ],
+    [
+      -26.0,
+      120.0
+    ],
+    [
+      -25.0,
+      129.0
+    ]
+  ],
+  "length": 34.9009857,
+  "changedTexels": 1184,
+  "additionalGeometry": 0,
+  "additionalColliders": 0,
+  "vegetationChanges": 0
+}

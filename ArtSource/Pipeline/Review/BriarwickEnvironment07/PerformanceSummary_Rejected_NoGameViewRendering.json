@@ -1,0 +1,164 @@
+[
+  {
+    "view": "Common intersection",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 10024708.0,
+      "renderThreadNs": 12598938.5,
+      "gpuNs": 21498562.0,
+      "triangles": 4121168.0,
+      "editorDrawCalls": 1447.0,
+      "setPassCalls": 67.0,
+      "allocatedBytes": 4989178979.0,
+      "reservedBytes": 5985489257.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 2158771.0,
+      "renderThreadNs": 12596646.5,
+      "gpuNs": 18011957.5,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5141138460.0,
+      "reservedBytes": 6002858825.0
+    }
+  },
+  {
+    "view": "Main road",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 9488896.0,
+      "renderThreadNs": 12808499.0,
+      "gpuNs": 18734478.5,
+      "triangles": 2394413.0,
+      "editorDrawCalls": 1673.0,
+      "setPassCalls": 69.0,
+      "allocatedBytes": 4980147519.0,
+      "reservedBytes": 5971102441.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 1771354.5,
+      "renderThreadNs": 12056750.0,
+      "gpuNs": 18271124.5,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5151241292.0,
+      "reservedBytes": 6000592825.0
+    }
+  },
+  {
+    "view": "Cottage footpath",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 9507750.0,
+      "renderThreadNs": 13571938.0,
+      "gpuNs": 19517812.0,
+      "triangles": 3724809.0,
+      "editorDrawCalls": 1810.0,
+      "setPassCalls": 66.0,
+      "allocatedBytes": 4977931007.0,
+      "reservedBytes": 5957117097.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 2280958.5,
+      "renderThreadNs": 12756958.0,
+      "gpuNs": 18563728.5,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5051503640.0,
+      "reservedBytes": 5998327489.0
+    }
+  },
+  {
+    "view": "Woodland path",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 10293584.0,
+      "renderThreadNs": 13134126.0,
+      "gpuNs": 20469291.0,
+      "triangles": 1275776.0,
+      "editorDrawCalls": 1524.0,
+      "setPassCalls": 64.0,
+      "allocatedBytes": 4983073202.0,
+      "reservedBytes": 5952039705.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 2030333.5,
+      "renderThreadNs": 12725875.5,
+      "gpuNs": 18627707.5,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5058356128.0,
+      "reservedBytes": 5999479113.0
+    }
+  },
+  {
+    "view": "Country road",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 10757229.0,
+      "renderThreadNs": 14801229.5,
+      "gpuNs": 20518958.0,
+      "triangles": 2699478.0,
+      "editorDrawCalls": 2033.0,
+      "setPassCalls": 76.0,
+      "allocatedBytes": 4999387182.0,
+      "reservedBytes": 5953937705.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 2275645.0,
+      "renderThreadNs": 13051416.0,
+      "gpuNs": 18417395.0,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5056496432.0,
+      "reservedBytes": 5993547249.0
+    }
+  },
+  {
+    "view": "Bridge approach",
+    "Before": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 9613917.0,
+      "renderThreadNs": 14226563.5,
+      "gpuNs": 19814541.0,
+      "triangles": 2601981.0,
+      "editorDrawCalls": 1902.0,
+      "setPassCalls": 70.0,
+      "allocatedBytes": 5005242366.0,
+      "reservedBytes": 5952603481.0
+    },
+    "After": {
+      "samples": 60,
+      "focusedSamples": 0,
+      "playerLoopNs": 1837520.0,
+      "renderThreadNs": 11436084.0,
+      "gpuNs": 18147708.0,
+      "triangles": 0.0,
+      "editorDrawCalls": 1636.0,
+      "setPassCalls": 0.0,
+      "allocatedBytes": 5062427288.0,
+      "reservedBytes": 5991281249.0
+    }
+  }
+]
